@@ -1,9 +1,9 @@
 :page/lang :en
 :article/title "Chinese Incense Forms — Sticks, Coils, Seals, and Raw Material"
-:article/tags ["incense" "forms" "sticks" "coils" "seal-incense" "powder" "zhuanxiang"]
+:article/tags ["incense" "forms" "sticks" "coils" "seal-incense" "powder" "zhuanxiang" "electric-heater"]
 :article/category :incense
 :article/type :forms
-:article/description "Chinese incense forms: stick (线香), coil (盘香), cone (塔香), seal incense (篆香), indirect heat burning with mica and charcoal, honey pellets. Form determines burn time, fragrance character, and ritual context."
+:article/description "Chinese incense forms: stick (线香), coil (盘香), cone (塔香), seal incense (篆香), indirect heat burning with mica and charcoal, electric heaters, honey pellets. Form determines burn time, fragrance character, and ritual context."
 :page/body
 
 # Chinese Incense Forms — Sticks, Coils, Seals, and Raw Material
@@ -76,6 +76,29 @@ This is the preferred method among serious practitioners for agarwood and sandal
 
 **Electric equivalents:** Modern ceramic electric heaters with thermostatic control replicate the mica-over-charcoal setup without charcoal management. Useful for indoor use; the aromatic result is comparable to charcoal method for most materials.
 
+## Electric incense heaters (电香炉 diàn xiānglú)
+
+Electric heaters have become the standard tool in contemporary incense practice — practical where open charcoal is impractical (apartments, offices, dry climates) and precise enough to satisfy serious practitioners.
+
+**How they work:** A ceramic or metal heating plate is warmed to a set temperature by a resistive element. A mica plate, metal disc, or purpose-made ceramic insert sits on the heating surface. Aromatic material is placed on top. No flame, no ash management, no relighting.
+
+**Temperature zones and materials:**
+- **Low (60–80°C):** Loose powder and finely ground blends; seal-incense powder spread directly on the plate. Also used for gentle warming of honey pellets.
+- **Medium (80–120°C):** Wood chips and shavings — agarwood (chénxiāng), sandalwood (tánxiāng), oud. This range replicates classical indirect-heat burning: full fragrance arc without combustion.
+- **High (120–180°C):** Resins and frankincense-type materials (乳香 rǔxiāng, 安息香 ānxīxiāng, benzoin, copal). Resins require higher temperature to release their aromatic compounds cleanly; on lower settings they partially melt rather than vaporise.
+
+**Product categories:**
+
+*Flat-plate heaters* — A single heated disc, often with mica insert supplied. Most common and affordable. Suitable for chips, powder, and resin pieces. Temperature adjusted by dial or digital control.
+
+*Cup / bowl heaters* — A small ceramic cup or bowl sits over the element. Aromatic material placed inside. Good for loose powder and crushed resin; the bowl concentrates and directs vapour upward.
+
+*Coil heaters with mica ring* — Mimics the traditional burner form: a decorative censer body with an electric element in the base and a central mica platform. Used in ceremony-adjacent settings.
+
+**For seal incense (篆香) on electric:** Some practitioners use a flat electric heater with a mica plate instead of charcoal-in-ash — the powder trail is laid on mica directly. This works but burns less evenly than the ash-bed method because the ash insulates and distributes heat; on bare mica the trail edge chars more quickly. Lower heat settings help.
+
+**Choosing temperature:** Always start low and increase gradually. Most agarwood chips reveal their best character at 90–110°C; pushing higher produces harsher, smokier notes as resin begins to combust. Resins are more forgiving — 130–150°C is typical for frankincense and benzoin.
+
 ## Honey pellets (蜜炼香丸 mìliàn xiāngyuán)
 
 An ancient form: aromatic powders kneaded with honey (or other natural binders — plum flesh, musk, ambergris in classical formulas) into small pellets and aged. When burned on a mica plate over charcoal, they release a complex, evolving fragrance different from single-material burning. Classical formulas include dozens of ingredients; the aging process (months to years) allows the materials to integrate.
@@ -108,6 +131,9 @@ Seal incense (篆香 zhuànxiāng) is aromatic powder pressed into a trail patte
 
 **What is indirect heat burning (隔火熏香)?**
 Burying charcoal under incense ash, placing a mica plate over it, then setting aromatic material on the mica. Temperature (~80–120°C) heats the wood without burning it — releasing fragrance without combustion or smoke. Preferred for high-grade chénxiāng and tánxiāng chips; electric heaters replicate this for indoor use.
+
+**Can I use an electric heater for all incense forms?**
+Wood chips, loose powder, resins, and honey pellets all work on electric heaters — each at a different temperature range (60–80°C for powder, 80–120°C for wood chips, 120–180°C for resins). Stick and coil incense require direct flame and cannot be used on a heater. Seal incense trails can be laid on a mica plate over a heater but burn less evenly than on a traditional ash bed.
 
 **Which form is best for agarwood?**
 Indirect heat (隔火熏香) on mica over charcoal. Direct burning destroys the subtler volatile compounds through combustion. Indirect heat at controlled low temperature reveals the full fragrance arc — opening notes, middle development, and dry-down — that direct burning collapses into a single smoky impression.
