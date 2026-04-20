@@ -132,17 +132,17 @@ If-then selection:
 
 ## FAQ
 
-**Can you really drink directly from a gàiwǎn?**
-Yes — this is the original use of the vessel, documented since at least the 7th century CE. The lid tilts to create a narrow gap; the drinker sips through it while the lid holds loose leaves inside. No separate cup or pitcher is needed. The technique is still standard in Sìchuān teahouses.
+**What should I look for when buying a gàiwǎn for solo use?**
+Three things: rim width, wall thickness, and lid fit. A wider rim (relative to bowl diameter) gives more surface contact for the thumb-and-middle-finger grip without touching the hot bowl. Thin walls (薄胎 bótāi) cool faster — important for solo sipping where there is no pour-off lag. The lid should sit snugly but tip easily with one-finger pressure. Avoid lids with deep rims that trap leaf; a shallower lid seat creates a cleaner gap for sipping. For solo use, 100–120 ml white porcelain is the practical benchmark.
 
-**What size gàiwǎn works best for solo drinking?**
-100–120 ml. Small enough to manage fill level and sip without spilling; large enough for 5–6 g of oolong leaf. Gàiwǎn of 150–200 ml are awkward to tilt and sip from — the bowl becomes too heavy and the gap angle is difficult to control.
+**How do I stop burning my fingers when holding a gàiwǎn?**
+The grip error is almost always the same: fingers touching the bowl body instead of the saucer rim. Correct grip: the saucer sits between the base of the thumb and middle finger; the index finger presses only the lid knob from above. The bowl itself is never gripped. If the bowl feels hot, your grip has drifted — reposition to the saucer edge. Thin-walled gàiwǎn cool significantly faster than thick ones and are far more forgiving for beginners.
 
-**How is solo gàiwǎn different from gōngfū chá?**
-Gōngfū chá brews in a gàiwǎn or teapot, then pours into a fairness pitcher before distributing to tasting cups. Solo gàiwǎn skips the pitcher and cups entirely — brew and drink in the same vessel. It requires slightly lower leaf ratios and yields a more immediate, unmediated experience of each steep.
+**Can I use one gàiwǎn for different teas, or does it absorb flavours?**
+Porcelain and glass gàiwǎn are non-porous — they absorb nothing and can be used for any tea without flavour carryover. Rinse thoroughly with hot water between sessions. Unglazed clay (Yíxīng or similar) is porous and seasons with use; a clay gàiwǎn will absorb character from each tea and should be dedicated to one type. For solo use and maximum versatility, white porcelain is the correct choice.
 
-**What teas work best for solo gàiwǎn brewing?**
-Rolled and strip-leaf oolongs (tiě guānyīn, yánchá, dāncōng) and white teas are the best fit — their leaves settle quickly, leaving a clear surface. Ripe pǔ'ěr works after the initial rinse opens the leaf. Green tea works but requires a narrow lid gap and fast sipping before it cools.
+**Can I cold brew in a gàiwǎn?**
+Yes for lighter teas — white tea (Silver Needle, Bái Mǔdān), light oolongs, and green tea all cold brew well in a gàiwǎn. Fill with cold filtered water at 4–5 g per 150 ml, place the lid on top, and refrigerate for 6–8 hours. Sip directly or pour off through the lid gap. Heavy-roast oolongs and pǔ'ěr are less suited — their roasted and fermented compounds need high temperature to extract fully.
 
-**What does leaving the lid half-open mean in a Chinese teahouse?**
-In Sìchuān teahouse tradition, a lid resting half-open across the bowl rim signals the server that the gàiwǎn needs a hot water refill. A fully closed lid means the session continues without interruption. A fully removed lid signals the session has ended.
+**Is a gàiwǎn better than a teapot for everyday use?**
+For versatility: yes. A single white porcelain gàiwǎn handles green, white, oolong, red, and pǔ'ěr without flavour transfer between sessions. A dedicated Yíxīng teapot will eventually brew better for its assigned tea type — but only after months of seasoning. The gàiwǎn also shows the leaf clearly, cools faster than clay, and requires less maintenance. For a tea practitioner who brews multiple types across the week, the gàiwǎn is the more practical tool.
