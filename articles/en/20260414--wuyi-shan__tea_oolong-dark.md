@@ -63,17 +63,17 @@ Wǔyí Shān is accessible by high-speed rail: Fúzhōu (90 min), Xiàmén (2.5 
 
 ## FAQ
 
-**What is Wǔyí Shān?**
-Wǔyí Shān (武夷山) is a UNESCO World Heritage mountain range in northwestern Fújiàn, China — the origin of rock oolong (yánchá). Its volcanic Danxia geology, acidic soils (pH 4.5–5.5), and sheltered gorge microclimates produce the mineral yán yùn character that defines Wǔyí teas. The protected area covers 999.75 km².
+**What are "niú ròu" and "mǎ ròu" in yánchá?**
+"牛肉" (niú ròu, "beef") = Niúlán Kēng ròuguì (牛栏坑肉桂) — from 牛栏 meaning "cattle pen." "马肉" (mǎ ròu) = Mǎtóu Yán ròuguì (马头岩). The pattern — animal + "meat" — is used across famous yánchá single-gorge origins as informal shorthand. "Beef" is the most famous and most counterfeited.
 
-**What is the difference between zhèng yán and bàn yán?**
-Zhèng yán chá (正岩茶, "true rock tea") comes from the five named gorges and streams of the Sānkēng Liǎngjiàn core zone — approximately 70 km². Bàn yán chá (半岩茶) comes from the broader scenic area with some but not all optimal conditions. Zhōu chá comes from surrounding valley plains.
+**How scarce is genuine Niúlán Kēng ròuguì?**
+The entire Niúlán Kēng produces ~1,500 jin/year from ~50 mǔ and a dozen households. Specialists estimate 80%+ of "niú ròu" on the market is mislabelled — same cultivar from cheaper origins. Authentic material: ¥10,000–100,000+/jin. Direct purchase from named producing households or established Wǔyí producers is the only reliable path.
 
-**What is Sānkēng Liǎngjiàn?**
-Sānkēng Liǎngjiàn (三坑两涧, "three pits and two streams") is the five-site core zone of Wǔyí tea production: Huìyuán Kēng, Niúlán Kēng, Dǎolíng Kēng, Liúxiāng Jiàn, and Wùyú Jiàn. Tea from these sites commands the highest prices; Niúlán Kēng ròuguì is among the most expensive commercially available Chinese teas per gram.
+**What is 外山茶 (wài shān chá) — the fourth tier?**
+Four tiers: 正岩 (core five gorges) → 半岩 (outer scenic area) → 洲茶 (riverside alluvial valley) → 外山 wài shān (outside Wǔyí Shān entirely). 外山 uses the same cultivars grown outside the mountain — no volcanic geology, no yán yùn. Prices for the same cultivar vary 10–100× across these four tiers.
 
-**Why does Wǔyí Shān produce such distinctive tea?**
-The combination of Danxia volcanic geology (mineral-rich rock fissures), gorge microclimate (fog, high humidity, diffused light), and mountain spring water is unique to this area. All three factors together produce yán yùn — a mineral persistence in the finish. The same cultivars grown elsewhere do not produce the same character.
+**Why do the soil types in each zone matter for yán yùn?**
+The zones have different soils: 正岩 = 紫色砂砾岩 (purple volcanic sandstone, high potassium and manganese); 半岩 = red siliceous clay; 洲茶 = alluvial sandy soil. Only the volcanic stone gives roots access to the deep minerals that produce yán yùn (岩韵, "rock rhyme"). The same cultivar in alluvial soil produces a clean but mineral-free cup.
 
-**When was Wǔyí Shān designated UNESCO World Heritage?**
-1999, as a "cultural landscape" recognising both the Danxia geological formations and the long history of human land use including tea cultivation. The designation covers 999.75 km² and restricts large-scale development in the core zone.
+**Does yánchá improve with aging?**
+Well-made yánchá benefits from rest after roasting. After charcoal-roasting, tea typically needs 1–3 months for the "fire" to settle before drinking. High-grade zhèng yán ròuguì and shuǐxiān continue to develop complexity for 3–5 years in dry cool storage. They do not transform like pǔ'ěr, but roasted astringency mellows significantly with time.
