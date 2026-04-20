@@ -110,17 +110,17 @@ The success of Jīn Jùn Méi launched a family of Wǔyí bud-grade red teas nam
 
 ## FAQ
 
-**What is Zhèngshān Xiǎozhǒng (Lapsang Souchong)?**
-Zhèngshān Xiǎozhǒng (正山小种) is a red tea from Tōngmù village in the Wǔyí mountains, Fújiàn — the original birthplace of red tea. "Zhèng shān" means authentic mountain; "xiǎozhǒng" refers to the small-leaf cultivar. Western markets know it as Lapsang Souchong, historically associated with pine-smoke drying.
+**Are "Lapsang Souchong," "Zhèngshān Xiǎozhǒng," and "Jīn Jùn Méi" the same tea?**
+All three originate from Tōngmù, Wǔyí, but they are different products. Zhèngshān Xiǎozhǒng = the original small-leaf red tea; "Lapsang Souchong" = the old Western name for its pine-smoked export version. Jīn Jùn Méi = a modern (2005) all-bud premium from the same cultivar — same origin zone, very different processing and price tier.
 
-**What is the difference between smoked and unsmoked Lapsang Souchong?**
-Smoked Zhèngshān Xiǎozhǒng is dried over pine fires — intense resinous smoke, dried longan, campfire notes. Unsmoked (无烟 wú yān) shows the tea's actual terroir: honey, dried longan, mountain-forest character without smoke. Chinese specialists and most connoisseurs prefer the unsmoked version; the smoked version created the European tradition.
+**Why does commercial "Lapsang Souchong" taste so different from what specialists describe?**
+Most commercial "Lapsang Souchong" uses material from outside the Tōngmù protected zone with artificial smoke flavouring added after processing. The result: flat campfire profile with little of the dried longan and honey character of genuine Tōngmù leaf. Real unsmoked Zhèngshān Xiǎozhǒng doesn't taste like commercial "Lapsang Souchong" at all.
 
-**What is Jīn Jùn Méi?**
-Jīn Jùn Méi (金骏眉, golden beautiful eyebrow) is an all-bud red tea created in 2005 in Tōngmù by Jiāng Yuánxūn. Made exclusively from tender spring buds of the small-leaf Tōngmù cultivar — thousands of buds per kilogram. Profile: honey, wildflower, dried fruit, exceptional sweetness, light body. It sparked China's domestic premium red tea market.
+**How do I spot fake Jīn Jùn Méi?**
+Uniform all-gold appearance = fake. Genuine Jīn Jùn Méi buds are predominantly dark brown/black with gold tips — not fully golden. Counterfeits (often made from Fúyún No.6, a Yúnnán-Fúdǐng hybrid) look uniformly golden. Second test: authentic Tōngmù material sustains 12+ stable infusions; fakes fade in flavour and colour after 2–3.
 
-**How do you authenticate Zhèngshān Xiǎozhǒng?**
-Authentic Zhèngshān Xiǎozhǒng carries a Geographical Indication and must originate from within the Wǔyí Nature Reserve (Tōngmù / Xīngcūn area). Most commercial "Lapsang Souchong" uses inferior material from outside this zone with artificial smoke flavouring — it bears no relationship to the genuine article.
+**Who makes the original Jīn Jùn Méi and what should it cost?**
+The original was created by Jiāng Yuánxūn at 正山堂 Zhèngshān táng (Lapsang) in 2005 — the founding brand remains the authenticity benchmark. Retail prices at authorised channels: ¥2,000–5,000+/500g for spring Tōngmù material. Jīn Jùn Méi sold for ¥200–400/500g is almost certainly not authentic all-bud Tōngmù material.
 
-**How do you brew Jīn Jùn Méi vs Zhèngshān Xiǎozhǒng?**
-Jīn Jùn Méi: 85–90°C, 4–5 g per 100 ml, 10–20s steeps, no rinse. Unsmoked Zhèngshān Xiǎozhǒng: 90–95°C, 5 g per 100 ml gōngfū, 15–25s steeps. Smoked version: 90–95°C, 3–4 g per 200 ml Western, 2–3 minutes. Lower temperatures for bud-only grades to preserve aromatics.
+**What is the difference between Jīn Jùn Méi, Yín Jùn Méi, and Tóng Jùn Méi?**
+Three grades differ in what is picked: Jīn (gold) = single buds, sweetest, lightest body, most expensive. Yín (silver) = bud plus one leaf, more body. Tóng (copper) = bud plus two leaves, most robust — closest in character to standard Zhèngshān Xiǎozhǒng. All three use the same Tōngmù cultivar and origin zone.
