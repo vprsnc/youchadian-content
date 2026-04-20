@@ -62,11 +62,17 @@ Sìchuān's role in tea history extends beyond Měngdǐng. The province was on t
 
 ## FAQ
 
-**What is Gān Lù (甘露)?**
-甘 (gān) = sweet; 露 (lù) = dew. "Sweet Dew" — a classical Chinese literary term for pristine early-morning dew, used metaphorically to describe the purity and sweetness of the tea. The phrase appears in multiple classical texts about Měngdǐng teas.
+**How does Gān Lù differ from Bì Luó Chūn? Both are tightly rolled spring greens.**
+Both are tightly rolled spring greens but from different regions. Bì Luó Chūn: from Dōngtíng Lake, Jiāngsū, grown among fruit trees → distinct floral-fruity character, more white down, slightly more astringent. Gān Lù: from Měngdǐng Mountain, Sìchuān → sweeter, milder, lower bitterness. Bì Luó Chūn is more delicate; Gān Lù is more mellow and forgiving of temperature.
 
-**How old is Měngdǐng tea cultivation?**
-Documented tea cultivation on Měngdǐng Mountain is associated with Wú Lǐzhēn (吴理真) of the Western Hàn dynasty (206 BCE–9 CE), making this one of the oldest continuously documented tea origins in China — possibly over 2,000 years. The Imperial Tea Garden (皇茶园) on the mountain marks this historical site.
+**What is Měngdǐng Huáng Yá and how does it differ from Gān Lù?**
+Both from Měngdǐng Mountain but different tea types. Gān Lù is green tea (绿叶绿汤, green leaf/liquor) — tightly rolled, fresh, clean sweetness. Měngdǐng Huáng Yá (蒙顶黄芽) is yellow tea (黄叶黄汤) — flat-pressed, undergoes 闷黄 (mèn huáng, smothering) that mellows the raw green. Huáng Yá is gentler on the stomach; Gān Lù is fresher and more aromatic.
 
-**Is Měngdǐng Gān Lù related to other Sìchuān teas?**
-The mountain also produces Měngdǐng Huáng Yá (蒙顶黄芽) — a yellow tea from the same mountain, using a slightly different process (mild post-fixation yellowing). The broader Yǎ'ān area produces Zàng Chá (Tibetan border tea) — a dark compressed tea historically traded to Tibet. These are entirely different products from the same region.
+**Why don't Sìchuān people drink their own famous tea?**
+A known paradox: locals tend to prefer 竹叶青 (Zhú Yè Qīng, Émèi Mountain green) or Yǎ'ān Zàng Chá (dark border tea) rather than Gān Lù, which is primarily a prestige export tea. Gān Lù's reputation was built through tribute-tea status and national competitions — its main consumers are outside Sìchuān.
+
+**What should Gān Lù cost and which brands are recommended?**
+Everyday quality: ¥200–400/jin. Míng qián high-grade: ¥400–800/jin. Competition-grade: ¥1,000+/jin. Reputable brands: 味独珍 Wèi Dú Zhēn (multiple gold awards), 皇茗园 Huáng Míng Yuán, 跃华 Yuè Huá. Gān Lù is less widely distributed than Lóng Jǐng or Bì Luó Chūn — official branded Taobao flagships recommended.
+
+**What is the triple-fire triple-roll (三炒三揉) process?**
+Gān Lù undergoes three alternating pan-fire and rolling cycles (三炒三揉 sān chǎo sān róu), bringing cellular rupture to approximately 65%. This releases more polyphenols and aromatic compounds than a standard single-fire green and contributes to Gān Lù's unusually full flavour for such a visually delicate-looking tea.
