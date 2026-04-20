@@ -87,17 +87,17 @@ Avoid *cha tou* described as very fresh or newly separated. The pile smell in yo
 
 ## FAQ
 
-**What are lǎo chá tóu?**
-Lǎo chá tóu (老茶头, "old tea heads") are naturally-formed ripe puerh nuggets from Yunnan. They arise spontaneously during wòduī (渥堆) pile fermentation when pectin released from ruptured leaf cells binds compressed leaves into tight clumps. These clumps are separated after fermentation, aged 3+ years, and sold. They represent 0.8–1.5% of each pile by weight.
+**Can lǎo chá tóu be boiled instead of steeped?**
+Yes — boiling works well. Place 5–8 nuggets in a glass or clay pot, add water, bring to boil, then simmer 2–3 minutes. The thick, date-sweet liquor develops quickly; the pectin viscosity is especially pronounced when boiled. A practical method for cold-weather sessions or when you want a single rich pot rather than multiple steeps.
 
-**Why does lǎo chá tóu brew such a thick liquor?**
-The pectin that binds the nugget together leaches into the brew, producing a thick, viscous, almost syrupy texture compared to ordinary shú pǔ'ěr. This is the single most reliable quality indicator: a watery brew means low-grade or surface-pile material. Core-pile nuggets, under maximum fermentation pressure, produce the thickest liquor.
+**What should lǎo chá tóu cost and which brand is the reference?**
+Entry-level fresh (2–4 year) cha tou: ¥100–300/jin. Quality 5–10 year aged: ¥400–1,000/jin. 10+ year: ¥1,500+/jin. 大益 Dà Yì (Menghai Tea Factory) — their 老茶头901 (2009 batch) is the most widely reviewed benchmark. 大益 cha tou is actively traded on secondary market platforms.
 
-**How many steeps does lǎo chá tóu give?**
-Quality lǎo chá tóu routinely sustain 20–30+ infusions in gongfu style. The dense, pectin-sealed structure slows extraction far more than loose-leaf shú. Brew at 6–8 g per 100 ml, 100°C, 20–30 s for early steeps, adding 10–15 s each round.
+**Is lǎo chá tóu particularly gentle on the stomach?**
+It is among the most stomach-friendly teas. The high pectin content is thought to coat and protect the stomach lining; full ripe puerh fermentation removes harsh polyphenols. No astringency at any steep. Chinese sources frequently recommend it for people with sensitive digestion or as an after-meal digestive.
 
-**Is lǎo chá tóu good for grandpa-style brewing?**
-Yes — it is better suited to grandpa style than almost any other puerh. The slow-release structure means nuggets will not over-brew or turn bitter on extended contact. Drop 4–6 nuggets into a 400 ml thermos, add boiling water, and top up throughout the day.
+**What is "purple lǎo chá tóu"?**
+Purple cha tou comes from the Jǐnggǔ (景谷) purple-leaf Yúnnán cultivar — a genetic variant with elevated anthocyanin content, giving the dry leaf a dark purple tinge. The brew tends slightly fruitier and lighter in body than standard cha tou. The production process is identical; only the raw leaf material differs.
 
-**Why is it called "lǎo" (old)?**
-Freshly separated *cha tou* carry intense wòduī wèi (渥堆味, pile fermentation smell) and are unpleasant to drink. They require at least 2–3 years of dry storage for this smell to clear and for chénxiāng (陳香, aged aroma) to develop. By the time they reach consumers, they have already been aged — hence "old tea heads."
+**Does lǎo chá tóu improve in home storage?**
+Yes — nuggets continue to develop in dry storage (20–25°C, 60–70% humidity, sealed container, no strong odours). Material already aged 3+ years develops deeper chénxiāng character over the following years. Unlike raw puerh, they do not require traditional wet storage; dry home conditions work well.
