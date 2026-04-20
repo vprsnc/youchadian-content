@@ -62,14 +62,17 @@ A small Yixing teapot or large gaiwan both work. The tea benefits from warming t
 
 ## FAQ
 
-**What makes Liù Bǎo different from puerh?**
-Both are post-fermented dark teas, but the fermentation and aging conditions differ. Liù Bǎo is traditionally pile-fermented more slowly and aged loose in bamboo baskets in ambient conditions, producing a woody, camphor-forward character. Shú puerh is pile-fermented rapidly (45–60 days) under controlled conditions, producing an earthier, heavier profile. Aged Liù Bǎo is generally smoother and more refined than shú puerh of comparable age.
+**What is 老茶婆 (Lǎo Chá Pó)?**
+Lǎo Chá Pó ("old tea matron") is a traditional Liù Bǎo sub-type made from large mature leaves harvested at Frost's Descent (霜降, late October). The coarser material receives minimal processing — kill-green, brief fermentation, drying — with no rolling. The result is lighter than standard Liù Bǎo, traditionally described as "rock-sugar sweet" (冰糖甜), clear and mellow.
 
-**Why is old Malaysian Liù Bǎo so valued?**
-Malaysian storage conditions — high humidity, warm stable temperatures — created ideal slow-aging conditions over decades. Liù Bǎo stored in Malaysian Chinese homes and tea houses from the 1950s–1980s aged in a way that cannot be replicated — the specific microbial environment, the bamboo basket containment, and the length of time produced a character considered irreproducible. These teas command significant prices among collectors.
+**Do higher grades mean better Liù Bǎo?**
+Not necessarily. Grades (special → grade 6) indicate leaf tenderness: special and grade 1 contain no stems; lower grades have more. But stems contribute structural compounds that transform during aging — grade 2–3 material with stems often develops better sweetness and complexity over time. Many experienced drinkers prefer lower grades specifically for long-term aging.
 
-**What is the camphor note in aged Liù Bǎo?**
-A specific aroma compound (thought to be related to the tea's storage in bamboo and the microbial activity of long aging) that produces a cool, slightly medicinal camphor character — pleasant and prized, quite different from the earthier tones of young or factory Liù Bǎo. It is considered a mark of genuine long aging and is one of the key sensory markers collectors use.
+**What should Liù Bǎo cost?**
+Entry everyday (口粮) material, within 5 years: ¥200–400/jin. Quality 5–15 year: ¥300–800/jin. 15+ year aged: ¥1,000+/jin. Old Malaysian-stored material from verified sources: ¥5,000–50,000+/jin. Common fraud: falsified age claims, particularly "30-year" material that lacks batch documentation.
 
-**Is Liù Bǎo difficult to find?**
-Outside China and Southeast Asia, yes. Within the Chinese specialty tea market it is well-known; internationally it remains less visible than puerh. Aged material (10+ years) from reputable producers is the most sought-after.
+**What is the difference between loose Liù Bǎo and basket-stored?**
+Loose (散茶): easier to brew, ages faster, more contact with air. Basket-stored (篓装): compressed into bamboo baskets, ages more slowly with better preservation for long-term development. Traditional Liù Bǎo was basket-stored — this format carries the classic aged character. Pressed cakes also exist but are less traditional for this style.
+
+**Which Liù Bǎo brands are most reputable?**
+三鹤 Sānhè (Three Cranes) — flagship brand of Wúzhōu Tea Factory, the oldest state-run producer — is the primary benchmark; batch numbers allow some traceability for aged material. For vintage material, Malaysian re-export stocks from Kuala Lumpur and Penang tea houses are considered the most prized category.
