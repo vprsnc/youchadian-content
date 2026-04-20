@@ -106,17 +106,17 @@ White tea's health value derives from a complex polyphenol matrix including EPSF
 
 ## FAQ
 
-**What is white tea?**
-White tea (白茶 báichá) is one of China's six tea categories, defined by minimal processing: fresh leaf is spread on bamboo trays and allowed to wither naturally for 36–72 hours, then dried at low heat. There is no kill-green (杀青) to halt enzymatic activity and no rolling (揉捻) to break cell structure. The resulting tea is characterised by delicate hay, melon, and floral notes with exceptional natural sweetness.
+**Why is white tea more expensive than other Chinese teas?**
+Silver Needle is single-bud only, harvested in the first 7–10 days of spring — one picker yields roughly 300 g of finished tea per day. No kill-green step means there is no margin for error: the entire flavour rests on the 36–72 hour wither, which requires careful climate management. Authentic white tea is legally produced only in Fujian province. Narrow harvest window, geographic restriction, and extreme labour intensity combine to set the price floor.
 
-**What is the difference between Fuding and Zhenghe white tea?**
-Fuding (northern Fujian) uses sun-withering (日光萎凋) — 10–16 hours of direct sunlight, faster process, lower oxidation. Character: lighter, brighter, more floral, hawthorn notes. Zhenghe (higher altitude) uses indoor withering (室内萎凋) for 48+ hours, producing higher natural oxidation. Character: fuller body, darker honey, dried date, camphor, more herbaceous. Neither is superior — they express different terroir.
+**Does white tea have less caffeine than green tea?**
+Contrary to popular belief, bud-heavy grades like Silver Needle can contain more caffeine than many green teas. Caffeine concentrates in young buds as a natural insect repellent, so single-bud teas are inherently caffeine-dense. White tea's lower brewing temperature (85–90°C) extracts less caffeine per steep, which explains the gentler perceived effect — but steep longer or hotter and the caffeine content is fully present.
 
-**What are the grades of white tea?**
-Four grades exist: Báiháo Yínzhēn (白毫银针, Silver Needle) — single buds only, most expensive, most delicate; Bái Mǔdān (白牡丹, White Peony) — bud + 1–2 leaves, everyday premium; Gòngméi (贡眉, Tribute Eyebrow) — from the landrace qúntǐ zhǒng cultivar (not the grafted commercial cultivars), nectar-cinnamon character; Shòuméi (寿眉, Longevity Eyebrow) — leaf-dominant, affordable, popular for aging.
+**How do you tell if aged white tea is genuine?**
+The key test: authentic aged white tea infuses light-to-dark across steeps — early steeps pale, deepening gradually. Fake "aged" tea (forced heating or humidification) infuses dark immediately then lightens — the reverse progression. Dry leaf: real aging shows natural colour gradation from pale to amber; fakes have uniform dark, lifeless appearance. Aroma: authentic = medicinal, dried fruit, clean; fake = smoky or caramel from artificial heat treatment.
 
-**Can white tea be aged?**
-Yes. Fujian has a documented tradition of aging white tea in paper-wrapped bricks and pressed cakes. The common saying: 一年茶，三年药，七年宝 — "one year tea, three year medicine, seven year treasure." Transformation is purely aerobic oxidation over time. At 3+ years: polyphenols soften, dried fruit and honey emerge, EPSFs accumulate. At 7+ years: deep dates, woody-herbal, theabrownins at significant concentration.
+**Should I start with Silver Needle or Bái Mǔdān?**
+Bái Mǔdān is better value and more complex for daily drinking. Silver Needle's single-bud construction is maximally aromatic but narrow in range — more delicate, less body. Bái Mǔdān's bud-plus-leaf structure adds polyphenols, more body, and a wider brewing range. Start with a Fuding Bái Mǔdān spring harvest — the most forgiving and representative of what white tea can offer.
 
-**How do you brew white tea?**
-Fresh white tea (Silver Needle, White Peony): 85–90°C water, 3–4 g per 250 ml western-style (2–3 min), or 5–7 g per 100 ml gōngfū-style (30–60 sec steeps, 5–8 infusions). Cold brew: 5–8 g per 500 ml cold water, 6–8 hours refrigerated — silky texture, zero bitterness. Aged white tea (3+ years): 95–100°C, traditional boiling method (煮茶 zhǔ chá) in a clay pot produces rich medicinal-sweet liquor.
+**Is the "white tea" in European supermarkets the same as Chinese báichá?**
+Usually not. Supermarket "white tea" is typically a marketing label for light-coloured blends with no Fujian connection — often flavoured and multi-origin. Authentic Chinese báichá is produced only in Fujian province (primarily Fuding and Zhenghe), from specific cultivars, using the long-wither-only process. Look for the origin (福建 Fújiàn) and grade (银针, 牡丹, 贡眉, or 寿眉) on the packaging.
