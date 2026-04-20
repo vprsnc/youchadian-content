@@ -64,7 +64,15 @@ This Táiwān-refined version spread back to mainland China from the 1980s onwar
 
 ## Other Regional Expressions
 
-**Sìchuān performance style**: In Sìchuān teahouses, gōngfū chá became performance art. Practitioners use copper pots with spouts up to a metre long, incorporating acrobatic flourishes and martial arts movements in the act of serving. The tea is secondary to the spectacle. This style is unrelated to the formal brewing traditions above.
+### Sìchuān: teahouse service and long-spout kettle art
+
+Sìchuān developed a distinct gàiwǎn tradition entirely separate from the Cháozhōu and Mǐnnán lineages. Rather than a formal ceremony with small vessels and multiple infusions, Sìchuān's model is the public teahouse (茶馆 cháguǎn): a social space where patrons spend hours over a single gàiwǎn of tea, refilled repeatedly by roaming servers. This tradition is unbroken from the Qīng dynasty to the present day, most visibly at the **Hèmíng Cháshè (鹤鸣茶社)** in Chéngdū's People's Park — the city's oldest continuously operating teahouse, founded in 1923.
+
+The defining tool of this service is the **长嘴壶 (cháng zuǐ hú)**, a copper kettle with a spout 60–100 cm long. The long spout solved a practical problem: in narrow, densely packed teahouses, servers could not reach across seated guests with a normal pot. Pouring from the aisle via a long arc solved the access problem; as an incidental benefit, the water cools slightly in transit and arrives at approximately 80°C — the right temperature for Chéngdū's dominant tea, jasmine green (茉莉花茶 mòlì huā chá).
+
+The service tradition gave rise to a distinct theatrical art form: **长嘴壶茶艺 (cháng zuǐ hú chá yì)**. The theatrical version was largely formalised by Zēng Xiǎolóng (曾小龙) in 1999, incorporating tàijí-influenced movements, acrobatics, and named pouring techniques — including 雪花盖顶 (Xuěhuā gài dǐng, "Snowflakes on the Top," pouring in an arc over the guest's head) and 仙人过河 (Xiānrén guò hé, "Immortal Crossing the River," accurate pour from one metre). The art is recognised as intangible cultural heritage (非物质文化遗产). The distinction between functional teahouse service and theatrical performance is culturally important: Zēng Xiǎolóng himself has called for the art to "return to its essence" as tea service rather than acrobatic spectacle.
+
+For more on the Sìchuān gàiwǎn drinking tradition, see [Solo Gàiwǎn — The Sìchuān Gàiwǎn Tradition](/wiki/solo-gaiwan).
 
 **Hong Kong and Overseas Cháozhōu communities**: Cháozhōu diaspora communities in Southeast Asia (Malaya, Thailand, Vietnam) and Hong Kong maintained the original tradition through the 20th century, often with greater fidelity than the mainland during periods of disruption.
 
@@ -87,6 +95,7 @@ Despite regional differences, a core sequence is shared:
 
 - [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide) — step-by-step technique
 - [Cháozhōu Gōngfū Chá](/wiki/chaozhou-gongfu-cha) — Cháozhōu style in depth
+- [Solo Gàiwǎn — The Sìchuān Tradition](/wiki/solo-gaiwan) — Sìchuān teahouse gàiwǎn drinking and long-spout kettle
 - [Tea Pair Cups — Wénxiāng and Pǐnmíng](/wiki/tea-pair-cups) — the aroma and tasting cup pair
 - [Gàiwǎn](/wiki/gaiwan) — the Mǐnnán/Táiwān vessel of choice
 - [Fènghuáng Dāncōng](/wiki/dancong) — Cháozhōu's preferred tea

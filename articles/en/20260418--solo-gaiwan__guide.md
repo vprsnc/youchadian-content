@@ -1,11 +1,11 @@
 :page/lang :en
-:article/title "Solo Gàiwǎn — Brewing and Drinking from One Vessel"
-:article/tags ["gaiwan" "gongfu" "brewing" "teaware" "technique" "solo" "sichuan" "qing-dynasty" "lidded-bowl" "drinking-technique"]
-:article/description "Brew and drink from a single gàiwǎn without a fairness pitcher — the original Qīng dynasty method, holding technique, and leaf ratios for solo sessions."
+:article/title "Solo Gàiwǎn — The Sìchuān Gàiwǎn Tradition"
+:article/tags ["gaiwan" "gongfu" "brewing" "teaware" "technique" "solo" "sichuan" "qing-dynasty" "lidded-bowl" "drinking-technique" "chang-zui-hu" "long-spout-kettle" "chengdu"]
+:article/description "Brew and drink from a single gàiwǎn in the Sìchuān style — the original Qīng dynasty method, holding technique, long-spouted kettle service, and leaf ratios for solo sessions."
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chinese_gaiwan.jpg/1280px-Chinese_gaiwan.jpg"
 :page/body
 
-# Solo Gàiwǎn — Brewing and Drinking from One Vessel
+# Solo Gàiwǎn — The Sìchuān Gàiwǎn Tradition
 
 Solo gàiwǎn (盖碗) is the practice of brewing and drinking Chinese tea from a single lidded bowl, without a fairness pitcher (公道杯 gōngdào bēi) or separate cups — the original function of the vessel, documented in Chinese court culture since at least the 7th century and unbroken in Sìchuān teahouses to the present day. The lid acts as a leaf filter; the saucer insulates against heat; the drinker sips directly from the bowl edge through the gap created by the tilted lid.
 
@@ -20,6 +20,32 @@ By the Qīng dynasty (1644–1911), Manchurian court culture had made the tall g
 In Sìchuān (四川) teahouses this tradition remained unbroken. Servers pour boiling water from long-spouted kettles directly into gaiwans at the table; drinkers sip through the gap created by the tilted lid throughout a long, unhurried session. The gōngdào bēi never appears. Roaming vendors weave between tables selling sunflower seeds (瓜子 guāzi) and peanuts (花生 huāshēng) — slow cracking of seeds and slow sipping of tea share the same unhurried rhythm, and both are considered part of the teahouse experience.
 
 **TL;DR:** The gàiwǎn was designed as a drinking vessel first. Its bowl-and-saucer form dates to 7th–9th century China; the Qīng court made it standard for loose-leaf tea. Sìchuān teahouses retain the original solo-drinking tradition today.
+
+## The long-spouted copper kettle (长嘴壶 cháng zuǐ hú)
+
+The defining image of the Sìchuān teahouse is not the gàiwǎn itself but the vessel used to fill it: a copper kettle with a spout 60–100 cm long, sometimes longer. These kettles — 长嘴壶 (cháng zuǐ hú, "long-mouth pot"), sometimes called 龙嘴大铜壶 (lóng zuǐ dà tóng hú, "dragon-mouth large copper pot") for their dragon-head spout tips — are the standard service tool in Chéngdū teahouses and have been since at least the Qīng dynasty.
+
+**Why so long?** The functional origin is practical: Sìchuān's traditional teahouses were narrow, densely packed spaces. A server with a normal-spouted pot could not reach over seated guests to refill their gàiwǎn without disturbing them. A 70 cm spout solved this — the server pours from the aisle, the stream arcs across the table, and the gàiwǎn is filled without contact. As an added benefit, the water cools slightly in transit down the long copper spout, arriving at approximately 80°C — exactly the right temperature for Chéngdū's typical tea, jasmine green (茉莉花茶 mòlì huā chá).
+
+The most important historical teahouse in this tradition is the **Hèmíng Cháshè (鹤鸣茶社, Heming Teahouse)**, located in Chéngdū's People's Park (人民公园). Founded in 1923, it is Chéngdū's oldest continuously operating teahouse and the place most associated with this service style.
+
+### 长嘴壶茶艺 — the performance art
+
+The functional service tradition gave rise to a distinct theatrical form: 长嘴壶茶艺 (cháng zuǐ hú chá yì, "long-spout kettle tea art"). While teahouse servers simply pour accurately from distance, the performance version adds acrobatics, martial-arts-influenced movements, and choreographed routines.
+
+The theatrical form was largely invented by **Zēng Xiǎolóng (曾小龙)**, born 1977 in Dázhōu, Sìchuān, who arrived in Chéngdū in the 1990s and began developing choreographed pouring routines drawing on tàijí quán (太极拳) and folk performance traditions. His 1999 competition debut established the form; a nationally televised performance at China's 2013 New Year Gala brought it to mass awareness. The art is now recognised as part of China's intangible cultural heritage (非物质文化遗产).
+
+Named techniques documented in the repertoire:
+
+| Move | Chinese | Description |
+|---|---|---|
+| 仙人过河 Xiānrén guò hé | Immortal Crossing the River | Accurate pour from ~1 metre, without approaching the table |
+| 雪花盖顶 Xuěhuā gài dǐng | Snowflakes on the Top | Arc poured over the guest's head into the gàiwǎn |
+| 双龙戏珠 Shuānglóng xì zhū | Double Dragons Playing with Pearls | Two-handed grip producing two streams meeting at the cup |
+
+Regional styles vary: Éméi school (峨眉派), Dragon 18 Style from Méngdǐng, and a Táijí-influenced Hángzhōu school all trace back to the Sìchuān copper kettle. Zēng Xiǎolóng himself has publicly stated he wants the art to "return to its essence" as tea service — the acrobatic spectacle having in some venues overtaken the tea entirely.
+
+**TL;DR:** The long-spout copper kettle (长嘴壶) originated in Qīng-dynasty Sìchuān teahouses as a practical solution for pouring over seated guests in narrow rooms. The theatrical performance art (长嘴壶茶艺) was formalised by Zēng Xiǎolóng in 1999 and is now a recognised form of intangible cultural heritage. The two are related but distinct: one is teahouse service, the other is performance.
 
 ## Why drink from a gàiwǎn without a pitcher?
 
@@ -102,6 +128,7 @@ If-then selection:
 - [Gàiwǎn](/wiki/gaiwan) — vessel construction, materials, and sizes
 - [Gōngfū Chá Brewing Guide](/wiki/gongfu-brewing-guide) — full multi-cup setup
 - [Cháozhōu Gōngfū Chá](/wiki/chaozhou-gongfu-cha) — the Cháozhōu solo tradition
+- [Gōngfū Chá — Regional Traditions](/wiki/gongfu-cha-traditions) — Sìchuān, Cháozhōu, Mǐnnán, Táiwān compared
 
 ## FAQ
 
