@@ -86,17 +86,17 @@ For indirect heat burning, a **bronze vessel** with substantial wall thickness i
 
 ## FAQ
 
-**What is a xiānglú?**
-Xiānglú (香炉) is a Chinese incense burner — a vessel specifically designed for burning aromatic materials. The category spans millennia, from Hàn dynasty bronze mountain censers (博山炉) to Sòng celadon bowls to Míng Xuāndé bronzes. Form, material, and depth of ash bed are chosen to match the incense form being burned.
+**How do I develop patina on a Xuāndé-style bronze censer through use?**
+Regular burning is the primary method — heat from buried charcoal gradually accelerates copper oxidation and deepens the characteristic warm reddish colour (棠梨色 táng lí sè). Handle with clean dry cotton gloves; skin oil can cause uneven marking early in development. Keep away from moisture and chemical cleaners — these strip the forming surface. Do not rush: genuine bāojiāng on bronze requires years of consistent use. The surface should be wiped with a dry cloth only after each session.
 
-**What is a Bóshān lú?**
-Bóshān lú (博山炉) is a Hàn dynasty (206 BCE–220 CE) bronze censer shaped as a mythical mountain (Bó Mountain, an island of immortality). The pierced mountain-peak lid releases smoke as clouds around an immortal peak. One of the earliest distinctively Chinese incense vessel forms; authentic examples are museum pieces.
+**What is the purpose of burning incense in Chinese Buddhist temples?**
+Three distinct functions: offering to the Buddha and Bodhisattvas (incense is one of the five standard altar offerings); purification of sacred space (smoke is understood to carry prayers and cleanse the environment for practice); and ritual marking (incense burning signals the opening of a ceremony or period of devotion). The use of sandalwood in temples reflects its non-intrusive character — it creates ambient sacred atmosphere without overwhelming individual practitioners.
 
-**What is a Xuāndé lú?**
-Xuāndé lú (宣德炉) is a style of bronze incense burner commissioned by the Xuānzōng emperor (Xuāndé period, 1426–1435 CE), made from a refined copper alloy with gold and silver additions. Defined by weight, smooth surface, and warm reddish patina. Genuine Xuāndé reign-mark pieces are essentially all in museum collections; quality Míng-Qīng period imitations are legitimate collectables.
+**Can I use a plain ceramic bowl as an incense burner?**
+Yes. Any heat-resistant ceramic bowl can serve as a basic incense vessel — fill with mineral ash to create a bed for stick or seal incense, or use as a flat platform for coil incense. Practical limits: thin-walled porcelain may crack under thermal shock from a long-burning coil; smooth glazed interiors are harder to fill with ash that stays level. A thick-walled bowl without glaze on the interior works best. For indirect heat burning (charcoal buried in ash), choose a bowl with at least 3–4 cm of wall height to contain adequate ash depth.
 
-**What kind of ash should I use in an incense burner?**
-Fine, clean white incense ash (香灰 xiāng huī) — commercially available from incense suppliers. Pure wood ash from hardwood is also traditional. Avoid: cooking ash, coal ash, or any ash with organic residue or chemical contamination, which will interfere with the incense fragrance.
+**Why do some xiānglú have pierced or lidded tops, and others are open?**
+Lids and perforated covers have two functions: slowing fragrance release — a semi-enclosed vessel allows vapour to concentrate inside and emerge gradually; and protecting the burning material from air currents. Open vessels release fragrance immediately and directly — preferred for pǐn xiāng appreciation where you want unmediated access to the scent arc. The Bóshān lú's pierced mountain lid was ceremonial in intent; for practical daily incense use, open vessels are standard.
 
-**Do I need a different burner for different incense forms?**
-Yes, ideally. Stick incense needs an upright holder or tall vessel with an ash bed. Coil incense needs a wide flat bowl. Seal incense requires a wide vessel with a perfectly level, fine ash surface. Indirect heat burning needs a deep vessel with substantial ash capacity for the buried charcoal. A single deep bowl with loose ash can serve multiple forms with adjustment.
+**How do I know when to refresh or replace the ash in a burner?**
+Visually: when the ash surface can no longer be levelled cleanly (for seal incense), when it becomes dark from accumulated residue, or when it has a non-incense smell. In practice, many experienced practitioners never fully replace the ash — they sift it periodically to remove debris and prefer the trace fragrance that accumulates over sessions. Replace entirely when the ash is heavily soiled or contaminated (chemical smell, dark colouration throughout). For pure new-material testing, start with fresh mineral ash to avoid interference from aged residue.
