@@ -75,14 +75,17 @@ The large leaf requires a tall vessel — a standard small gaiwan makes it diffi
 
 ## FAQ
 
-**What makes Tài Píng Hóu Kuí so large?**
-The combination of old tea bushes (some over 100 years), high altitude, deep shade, and specific soil conditions in the Hóu Kēng valley produces naturally large leaf. The standard harvest picks only the largest, most well-developed bud-and-two-leaf sets — smaller or damaged material is discarded. The cross-pressed flat form then preserves the full size.
+**Does the cross-hatch grid pattern indicate authentic Hóu Kuí?**
+Paradoxically, no. The grid pattern comes from mesh-screen pressing in factory production — traditional hand-made Hóu Kuí is pressed on flat boards and has no grid. The grid became associated with "authentic" only because factory processing adopted the screen. Premium hand-made Hóu Kēng material can be recognised partly by the absence of the pattern consumers now associate with authenticity.
 
-**Why does Hóu Kuí taste fuller than other green teas?**
-The large, mature leaf has more structural complexity than the tiny buds used in most high-grade greens. Higher catechin levels (still low compared to oolong) give a mild tannin structure, while the high theanine content keeps bitterness in check. The result is a weight and persistence unusual for a green.
+**What is the difference between 猴魁 Hóu Kuí and 魁尖 Kuí Jiān?**
+魁尖 (kuí jiān) is a look-alike from outside the Hóu Kēng origin zone — similar large flat shape, but not from the core cultivar or elevation. It lacks the orchid fragrance and strong huíwèi of genuine Hóu Kuí; the pressed structure is typically less even. Legitimate product at lower price; not a fraud — just a different, inferior tea.
 
-**What is huíwèi (回味)?**
-"Returning taste" — the phenomenon where a pleasant sweetness or fragrance returns to the throat and mouth several minutes after swallowing. Hóu Kuí is one of the Chinese teas most associated with strong huíwèi. It is considered a mark of high-quality, complex tea and is mentioned specifically in classical Chinese tea texts.
+**How do I identify genuine Hóu Kuí when buying?**
+Two markers: always exactly two leaves pressed around one bud — three-leaf sets or bud-only are not Hóu Kuí; colour is 苍绿匀润 (cāng lǜ yún rùn, uniform deep grey-green lustre) — bright emerald or yellowed leaf indicates low-grade or machine-made material. Genuine core-zone (猴坑) material below ¥300/jin is a clear red flag.
 
-**Can Hóu Kuí be brewed in a small gaiwan?**
-Technically yes, but difficult — the 6–8 cm leaves extend beyond a 100 ml gaiwan and are hard to strain. A tall glass or a larger vessel (120–150 ml) is more practical. The long leaf settles to the bottom after the first steep, making subsequent pours easier.
+**What should Hóu Kuí cost and which brands are reputable?**
+Core Hóu Kēng village head-harvest: ¥1,500–3,000+/jin. Quality special-grade: ¥500–1,500/jin. Everyday 1st grade: ¥200–500/jin. Budget "猴魁" below ¥100 is typically machine-made outer-area material. Reputable brands: 猴坑 Hóukēng (the only 中华老字号 in this category), 六百里 Liùbǎilǐ, 谢裕大 Xiè Yùdà.
+
+**How does Hóu Kuí compare to Máofēng and Guā Piàn (the other Ānhuī greens)?**
+The three Ānhuī greens differ sharply. Máofēng: bud-heavy, bright floral, delicate, 2–3 infusions. Guā Piàn: single mature leaf (no bud), roasted-chestnut, full body. Hóu Kuí: largest leaf, most complex — full-bodied, orchid fragrance, 5–6 infusions. Of the three, Hóu Kuí has the most tannin structure and the longest-lingering finish.
