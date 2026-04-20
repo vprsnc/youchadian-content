@@ -62,17 +62,17 @@ Chinese incense formulas are compound — single-material burning (独香 dú xi
 
 ## FAQ
 
-**What does 香 (xiāng) mean?**
-香 xiāng means fragrant, aromatic, or incense — all the same character. It covers the raw materials, the act of burning them, and the concept of pleasant aroma. The character shows grain (禾 hé) over 甘 (gān, sweet/pleasant) in its older form, suggesting the sweetness of ripe grain.
+**How does Chinese incense differ from Japanese and Indian incense?**
+Three distinct traditions. Chinese incense sticks typically use a thin bamboo core with neutral binders (nanmu wood powder, elm bark), prioritise natural aromatic ingredients, and emphasise compound formulas with complex fragrance arcs. Japanese incense (kōdō-derived) uses no bamboo core, sometimes adds honey as binder, and emphasises understated subtlety. Indian agarbatti typically uses charcoal powder + DPG (dipropylene glycol) as carrier — the result burns intensely but the fragrance is largely synthetic. Traditional Chinese incense sits closer to Japanese in philosophy; mass-exported Chinese sticks often resemble the Indian model.
 
-**What are the Four Elegant Pastimes of the Sòng dynasty?**
-四般闲事 (sì bān xián shì): whisked tea (点茶 diǎn chá), burning incense (焚香 fén xiāng), flower arranging (插花 chā huā), and hanging scrolls (挂画 guà huà). These four practices defined refined leisure in Sòng literati culture and remained the standard of cultivated taste through the Míng and Qīng dynasties.
+**How do I identify low-quality or synthetic Chinese incense sticks?**
+Three warning signs: (1) DPG (dipropylene glycol) or "fragrance oil" in the ingredient list — DPG is a petroleum solvent that releases toxic VOCs when burned and was never designed for combustion; (2) a synthetic perfume character — the fragrance is identical from start to finish, like room spray, rather than developing with heat; (3) excessive smoke, eye irritation, or headaches — signs of saltpeter (potassium nitrate) or synthetic additives. Quality natural Chinese incense lists actual plant materials (sandalwood powder, chénxiāng, clove, etc.) and burns quietly.
 
-**What is the difference between pǐn xiāng and xiāng dào?**
-Pǐn xiāng (品香) is the general practice of appreciating incense — attentive burning and evaluation. Xiāng dào (香道) is a formalised ceremonial discipline with defined protocol, vessels, and aesthetic vocabulary, analogous to the tea ceremony. The Japanese kōdō is a direct descendant of Míng-dynasty Chinese xiāng dào.
+**How does a beginner start practicing Chinese incense at home?**
+Chinese practitioners recommend: start with accessible, affordable materials — sandalwood chips or powder, clove (丁香 dīngxiāng), or a simple compound stick from a reputable maker. Acquire a small incense burner and experiment with indirect heat (charcoal + mica plate) before investing in premium chénxiāng. Find a trusted supplier — relationships matter in this market. Read introductory texts before *Xiāng Shèng* — its 28 volumes are a reference, not a starting point. Attending an in-person xiāng dào session is more valuable than reading.
 
-**Which dynasty was the golden age of Chinese incense?**
-The Sòng dynasty (960–1279 CE). Incense appreciation spread beyond the court to the middle class, pǐn xiāng was codified as one of the four elegant pastimes, and the trade and scholarship of aromatics reached an unprecedented level. The Míng dynasty produced the definitive reference text (*Xiāng Shèng*) and matured incense stick production.
+**Why do Chinese incense formulas blend many ingredients rather than burning single materials?**
+Different aromatics have different thermal profiles, character ranges, and traditional therapeutic associations. A compound formula creates a fragrance arc — opening notes appear first as volatiles release at lower temperature, then middle character develops as heavier compounds heat, then base notes linger as the material cools. A single material (独香 dú xiāng) gives one flat register. Classical formulas treat the fragrance evolution the way Chinese music treats structure: beginning, development, and resolution, each contributed by different ingredients.
 
-**Is Chinese incense the same as Japanese kōdō incense?**
-Japanese kōdō (香道) derives from Míng-dynasty Chinese incense ceremony brought to Japan in the 15th–16th centuries. Both focus on agarwood (chénxiāng / jinkō) appreciation. Japanese kōdō formalised the Six Countries Five Tastes (六国五味 rìkkoku gomi) classification of agarwood. Chinese pǐn xiāng predates kōdō by several centuries and is less rigidly codified.
+**Does Chinese incense have a bamboo core, and does it matter for quality?**
+Traditional Chinese household sticks have a thin bamboo core — the core holds shape but does not contribute fragrance. Higher-quality "coreless" sticks (无芯香 wú xīn xiāng), made entirely from aromatic powder and binder, burn with less smoke and no bamboo char note. For appreciation practice (pǐn xiāng), coreless or chip/powder forms are preferred. The bamboo core is a convenience feature for everyday use; serious practitioners use it for temple offerings and daily burning, not evaluation sessions.
