@@ -96,17 +96,17 @@ Rinse (flash steep, discard) recommended for all oolongs, particularly tightly-r
 
 ## FAQ
 
-**What is oolong tea?**
-Oolong (乌龙茶, wūlóng chá) is a partially oxidised Chinese tea, processed through alternating cycles of agitation and rest (做青 zuòqīng) that bruise leaf edges and initiate controlled oxidation. Oxidation ranges from 15% to 85%, producing a wider range of flavours than any other tea category.
+**Which oolong should a beginner start with?**
+Light-oxidation qīngxiāng Tiě Guānyīn or a Dōngdǐng (冻顶) oolong are the most approachable entry points — floral, smooth, and forgiving to brew. Avoid starting with heavy-roast yánchá (Wǔyí rock oolong): the roasted-mineral profile is an acquired taste that requires precise high-temperature brewing. Once comfortable with lighter styles, the step to medium-roast Dāncōng or a zhèng yán yancha is natural.
 
-**What is the difference between oolong and green or black tea?**
-Green tea is unoxidised (0%); black/red tea is fully oxidised (80–100%); oolong is partially oxidised (15–85%) and undergoes a multi-stage process unique to this category. The zuòqīng stage — not present in green or red tea production — defines oolong.
+**How much caffeine does oolong have?**
+Oolong sits between green and black tea: 30–50 mg per cup in the first steep, dropping to 15–25 mg in the second and 5–10 mg in the third. Caffeine releases unevenly across infusions — a key reason gōngfū brewing (multiple short steeps) distributes the caffeine effect more gently than a single long western steep.
 
-**What are the four main oolong regions?**
-Mǐnběi (Wǔyí, Fújiàn) — rock oolongs, heavy roast, mineral. Mǐnnán (Ānxī, Fújiàn) — tiěguānyīn, ball-rolled, floral. Guǎngdōng (Fènghuáng) — dāncōng single-bush oolongs, aromatic. Táiwān — high-mountain gāoshān chá, honeyed and sweet.
+**Does oolong tea help with weight loss?**
+Research is suggestive but not conclusive. A 6-week study found moderate weight reduction with 4 cups per day; separate research shows oolong increases 24-hour energy expenditure by roughly 3–4% and fat oxidation by up to 12% compared to water. The mechanism involves caffeine and polyphenols acting on lipid metabolism. The effect is real but modest — meaningful as a dietary complement, not a standalone intervention.
 
-**How do you brew oolong tea?**
-Use 5–8 g per 100 ml depending on style. Temperature: 90°C for light oolongs, 100°C for yánchá. Flash rinse first, then steep 10–30 seconds, increasing each round. Expect 6–12 infusions. Gōngfū brewing recommended for all oolong styles.
+**Can oolong be cold brewed?**
+Yes, particularly lighter styles — qīngxiāng Tiě Guānyīn, high-mountain Táiwān oolong, and light-roast Dāncōng all work well. Use 5–6 g per 500 ml cold water, steep 6–8 hours refrigerated. Cold brewing amplifies floral and fruity notes while softening bitterness. Heavy-roast yánchá is less suited: roasted compounds need high temperature to extract fully and produce a thin, flat result when cold brewed.
 
-**What does zuòqīng mean?**
-Zuòqīng (做青) is the defining process for oolong: alternating cycles of shaking (yáoqīng 摇青) and rest (liàngqīng 晾青) over 8–12 hours. Each shake bruises the leaf edges, initiating oxidation at the margins. The number and intensity of cycles determines the final oxidation level and aroma profile.
+**Why do oolongs vary so much in price?**
+Three variables drive price: origin specificity (zhèng yán 正岩 — the inner rock zone of Wǔyí — vs. outer zones), harvest grade (single-spring bud material vs. later mixed harvests), and roast skill (a master charcoal roast adds months of labour and transforms the tea). A ¥200 Da Hong Pao and a ¥5,000 one can both be genuine — the gap reflects terroir, harvest season, and the roaster's craft, not fraud.
