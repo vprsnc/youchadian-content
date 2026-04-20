@@ -122,7 +122,7 @@ For a deeper look at what this movement means for Chinese tea culture — and ho
 
 ## Related
 
-- [Tea Blending](/wiki/tea-blending) — cold brew in blending context; pu-erh cold brew technique
+- [Tea Mixology](/wiki/tea-mixology) — cold brew in mixology context; pu-erh cold brew technique
 - [Chénpí — Aged Mandarin Peel](/wiki/chenpi) — from the same Jiāngmén region as Hey Tea's founding
 - [Tiě Guānyīn](/wiki/tie-guan-yin) — the most popular oolong for cold brew and milk tea bases
 - [Pǔ'ěr](/wiki/puerh) — ripe pu-erh cold brew; used as a base in premium new-style teas

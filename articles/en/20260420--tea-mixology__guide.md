@@ -1,15 +1,15 @@
 :page/lang :en
-:article/title "Tea Blending — Flowers, Peel, and Herbs in Chinese Tea Culture"
-:article/tags ["blending" "flower-tea" "chenpi" "jasmine" "osmanthus" "chrysanthemum" "herbal" "liang-cha" "guide" "mixology"]
-:article/description "Chinese tea blending tradition: jasmine scenting, osmanthus pairing, chrysanthemum herbal blends, chénpí combinations, and 凉茶 cooling drinks. How to match bases and botanicals by season and temperament."
+:article/title "Tea Mixology — Flowers, Peel, and Herbs in Chinese Tea"
+:article/tags ["mixology" "blending" "flower-tea" "chenpi" "jasmine" "osmanthus" "chrysanthemum" "herbal" "liang-cha" "guide"]
+:article/description "Chinese tea mixology: how to combine tea bases with flowers, aged peel, and herbs. Jasmine scenting, osmanthus pairing, chénpí blends, 凉茶 cooling drinks, and core rules for building your own combinations."
 :article/hero-image ""
 :page/body
 
-# Tea Blending — Flowers, Peel, and Herbs in Chinese Tea Culture
+# Tea Mixology — Flowers, Peel, and Herbs in Chinese Tea
 
-Chinese tea culture contains two parallel traditions: the gōngfū approach, which treats the single-origin leaf as something to be understood through repeated infusions, and a blending tradition that combines tea with flowers, dried fruit peel, herbs, and botanicals to create specific flavour harmonies and therapeutic effects. Both are ancient. Both are serious. The gōngfū tradition is well-documented in Western tea writing; the blending tradition is often reduced to "jasmine tea" and stopped there — which is like reducing French cooking to salted butter.
+Chinese tea culture contains two parallel traditions: the gōngfū approach, which treats the single-origin leaf as something to be understood through repeated infusions, and a mixology tradition that combines tea with flowers, dried fruit peel, herbs, and botanicals to create specific flavour harmonies and therapeutic effects. Both are ancient. Both are serious. The gōngfū tradition is well-documented in Western tea writing; the mixology tradition is often reduced to "jasmine tea" and stopped there — which is like reducing French cooking to salted butter.
 
-This article is about the blending tradition: where it comes from, how it works, and how to approach it yourself.
+This article covers the ingredients, the combinations, and the rules for building your own blends.
 
 ## Flower Tea — 花茶 Huāchá
 
@@ -129,14 +129,32 @@ For those approaching tea from a cocktail or craft beverage angle, ripe pu-erh f
 
 ---
 
-## TL;DR — Blending Principles
+## Mixology Rules — How to Build a Blend
 
-Chinese tea blending operates on three axes: **flavour** (complementary or contrasting), **thermal quality** (balancing cooling and warming), and **functional intent** (digestive, calming, energising). The simplest entry point is osmanthus with any roasted oolong (add 1–2g of dried flowers, brew hot) — the pairing is forgiving and consistently good. For depth, explore chénpí with ripe pu-erh. For the full tradition, trace liángchá.
+Chinese tea mixology is not arbitrary. Every successful combination obeys at least one of these principles:
+
+**Rule 1 — Match thermal direction.**
+Every ingredient in Chinese medicine has a thermal quality: cold, cool, neutral, warm, or hot. The most durable blends either reinforce a single direction (chénpí + ripe pu-erh: both warm, both digestive) or deliberately balance opposite poles (chrysanthemum + goji: cooling + warming = neutral year-round). Blends that ignore thermal direction can feel wrong for the season or constitution even when the flavour combination is pleasant.
+
+**Rule 2 — Respect the base tea's character.**
+The base tea sets the body and structure; the addition shapes it. Strong aromatics (osmanthus, rose, dried citrus) work with robust bases (roasted oolong, red tea, ripe pu-erh). Delicate bases (fresh green tea, young white tea, light oolong) need equally delicate additions — a single small piece of chénpí, a few osmanthus flowers, nothing more. Over-adding overwhelms the base entirely; what you have is then an herbal infusion, not tea mixology.
+
+**Rule 3 — Complementary or contrasting, not competing.**
+Two aromatics rarely work in the same cup — jasmine + osmanthus fight each other. Pair aroma with texture (floral + earthy) or aroma with structure (fragrant flower + robust tea base). Chrysanthemum's bright bitterness contrasts with pu-erh's deep earthiness: contrast. Osmanthus's caramel-sweet warmth complements a roasted oolong's charcoal: complement. Both work. Competing aromatics don't.
+
+**Rule 4 — Temperature determines extraction, not just warmth.**
+Jasmine's volatile oils demand 85°C maximum; higher temperatures destroy fragrance. Osmanthus and dried citrus peel handle 90–95°C without loss. Cold brew extracts theanine (sweet) faster than caffeine (bitter) — meaning cold-brewed mixology blends taste inherently sweeter than their hot equivalents. Adjust your additions accordingly: what tastes balanced hot may taste flat cold.
+
+**Rule 5 — Start with less.**
+Dried flowers, peel, and herbs are concentrated. A standard starting point: 1–2g additive per 5g tea. Taste before adding more. Most blending errors are over-addition, not under-addition. The additive should support the tea, not replace it.
+
+**TL;DR:** Three axes — flavour (complement or contrast), thermal quality (balance or reinforce), functional intent (digestive, calming, energising). Easiest entry: osmanthus + any roasted oolong, 1–2g flowers, 90–95°C. Deepest tradition: chénpí + ripe pu-erh. Full system: liángchá.
 
 ---
 
 ## Related
 
+- [Modern Tea Styles](/wiki/modern-tea-styles) — cold brew in mixology context; bubble tea and new-wave shops
 - [Chénpí — Aged Mandarin Peel](/wiki/chenpi) — the blending ingredient in depth
 - [Pǔ'ěr](/wiki/puerh) — base for chénpí and chrysanthemum blends
 - [Tiě Guānyīn](/wiki/tie-guan-yin) — natural pairing for osmanthus
