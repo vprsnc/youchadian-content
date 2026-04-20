@@ -94,17 +94,17 @@ Dark tea ages almost indefinitely under correct conditions and is treated as an 
 
 ## FAQ
 
-**What are the six categories of Chinese tea?**
-Green (0% oxidation), white (5–15%), yellow (10–20%), oolong (15–85%), red (80–100%), and dark/fermented (post-fermentation). All come from *Camellia sinensis*; the category is determined by processing method. Codified in Chinese national standard GB/T 30766-2014.
+**Which category should a beginner start with?**
+Green tea or a light oolong are the most accessible entry points. Green tea (Lóngjǐng, Bìluóchūn) shows the most direct leaf-to-cup flavour with no processing complexity to interpret. Light oolong (qīngxiāng tiě guānyīn) bridges green and roasted without demanding specialist knowledge. Red tea (Diān Hóng, Keemun) is the most forgiving to brew and the easiest transition for people familiar with Western black tea. Avoid starting with aged pǔ'ěr or heavily roasted rock oolongs — both reward prior context.
 
-**Are all Chinese teas made from the same plant?**
-Yes — all six categories come from *Camellia sinensis*. Different cultivars, growing regions, harvest seasons, and processing methods produce the enormous diversity. The category tells you how the leaf was processed, not what variety it is.
+**Where do jasmine tea and other scented teas fit in the six categories?**
+Scented teas are not a seventh category — they are a processing technique applied on top of an existing category. Jasmine tea (茉莉花茶 mòlì huāchá) is typically a green tea base that is repeatedly layered with fresh jasmine blossoms, which transfer their fragrance before being sifted out. Osmanthus oolong and rose pǔ'ěr work similarly. The base tea determines the category; the scenting is an additional processing step. Scented teas are very popular in China and historically were the primary form in which tea reached European markets.
 
-**What is the difference between Chinese red tea and Western black tea?**
-They are the same processing category (80–100% oxidation). "Red tea" (红茶 hóngchá) is the Chinese name for the red-amber liquor; "black tea" is the Western name for the dark leaf. Chinese red teas typically show more floral sweetness and less tannin than Assam or Ceylon styles.
+**Is herbal tea (chamomile, peppermint) part of the six Chinese tea categories?**
+No. The six Chinese categories all come from *Camellia sinensis*; herbal teas (tisanes) come from entirely different plants and contain no tea at all. In Chinese, these are called 花草茶 (huācǎo chá, "flower-herb tea") or 草本茶 (cǎoběn chá, "herbal tea") — distinct terms from 茶 (chá), which always refers to *Camellia sinensis* products. Chinese herbal preparations have their own long tradition; they are not classified under the six-category framework.
 
-**Which Chinese tea category ages the best?**
-Pǔ'ěr (dark/fermented) ages almost indefinitely under correct storage — it is treated as an investment commodity. White tea also ages well: fresh character transitions to honey and dried fruit over 3–10+ years. Green tea does not age; it degrades.
+**Does a higher oxidation level mean more caffeine?**
+No — oxidation level and caffeine content are not directly linked. Caffeine content is primarily determined by harvest material (buds have more caffeine than mature leaves), cultivar, and growing conditions. A bud-heavy green tea like Silver Needle can have more caffeine than a mature-leaf oolong. The popular assumption that black/red tea always has more caffeine than green tea is a simplification that does not hold for premium teas.
 
-**What is the rarest category of Chinese tea?**
-Yellow tea (黄茶 huángchá) — production is extremely limited, centred in a few areas of Húnán and Sìchuān. The méndūn yellowing step requires precise timing and skill, and few producers still practise traditional methods.
+**Can the same tea leaves be processed into different categories?**
+Yes — this is precisely the point of the six-category framework. The raw material (fresh *Camellia sinensis* leaf) is identical before processing begins. Picking the same leaf from the same tree and processing it differently produces a green tea, a white tea, or a red tea. This is why the category defines how the leaf was processed, not what it came from. In experimental tea production, producers sometimes process the same batch two ways to compare; the resulting teas can taste entirely different.
