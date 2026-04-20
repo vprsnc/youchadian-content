@@ -66,14 +66,17 @@ Yes. The processing is identical to green tea: kill-green (pan-firing), light ro
 
 ## FAQ
 
-**Why is it called "white tea" if it's a green tea?**
-The "white" (白) refers to the pale colour of the young spring leaves from this albino cultivar — they emerge almost white due to very low chlorophyll production at cool temperatures. The processing is standard green tea (pan-firing). Genuine white tea (Bái Háo Yín Zhēn, Bái Mǔ Dān) is an entirely different product made with different processing. The naming overlap causes persistent confusion.
+**How does Ānjí Bái Chá compare to gyokuro?**
+Both are exceptionally high in theanine (~2% by dry weight), giving them a similarly sweet, umami-forward character. But the mechanism differs: gyokuro achieves this through weeks of shading before harvest, blocking light to force theanine accumulation. Ānjí Bái Chá achieves it through a genetic mutation that limits chlorophyll synthesis in cold temperatures — no shading required. Gyokuro is deeper green and more intensely vegetal; Ānjí Bái Chá is paler, cleaner, and slightly lighter in body.
 
-**What makes Ānjí Bái Chá taste umami?**
-Theanine — an amino acid that contributes sweetness and savoury depth. The albino cultivar's reduced chlorophyll means the plant accumulates theanine rather than converting it to catechins (which would add bitterness). The result is one of the highest theanine concentrations in any Chinese tea — a measurably sweet, almost savoury quality that experienced tasters compare to gyokuro.
+**How do I know if I'm buying genuine Ānjí Bái Chá?**
+Check the leaf: genuine early-spring Ānjí Bái Chá is pale jade to ivory-green — noticeably lighter than any standard green tea. In the cup, the liquor is apricot-yellow to pale apricot-green, clear and bright. Authentic Ānjí origin is protected by geographic indication; reputable producers display the official GI certification on packaging. If labelled míng qián and the leaves are dark green, it is not from the albino cultivar.
 
-**Can Ānjí Bái Chá be found year-round?**
-No. The albino condition lasts only during early spring cold (below ~23°C) — typically a three-to-four week window before Qīngmíng (April 5). After that, the leaves turn standard green. Genuine Ānjí Bái Chá is a míng qián spring-only tea. Any version outside this window is from green-phase leaf and is a different product.
+**How should I store Ānjí Bái Chá?**
+Consume within 2–3 months of opening for peak freshness. Sealed and refrigerated at around 5°C, it can hold for 6–12 months. Keep it airtight, away from light, and away from odours. If refrigerated, allow the sealed package to reach room temperature before opening — this prevents condensation from damaging the delicate leaf.
 
-**How does Ānjí Bái Chá compare to Lóngjǐng?**
-Both are pan-fired Zhèjiāng greens, but very different. Lóngjǐng has a toasted-chestnut, vegetal character with more body and structure. Ānjí Bái Chá is milky, sweet, umami-forward with almost no toasted notes. Lóngjǐng's colour is deeper green; Ānjí Bái Chá is pale jade to ivory.
+**Does Ānjí Bái Chá have less caffeine than other green teas?**
+Not significantly. The albino cultivar's mutation primarily affects chlorophyll and theanine production — caffeine levels remain broadly comparable to other spring green teas. What changes is the theanine-to-caffeine ratio: very high theanine modulates how caffeine is perceived, producing a smoother, more sustained effect rather than a sharp spike. People who find other greens too stimulating may feel this more gently — but it is a perception effect, not a low-caffeine claim.
+
+**Why does quality vary so much between sellers?**
+Three main reasons: (1) harvest timing — genuine albino-leaf Ānjí Bái Chá is only available míng qián; post-Qīngmíng leaf from green-phase plants is a different, inferior product often sold under the same name; (2) the same county produces standard Ānjí green tea from non-albino cultivars, sometimes marketed ambiguously; (3) within genuine Ānjí Bái Chá, single-bud or one-bud-one-leaf grades are significantly more expressive than two-bud-two-leaf harvests.
