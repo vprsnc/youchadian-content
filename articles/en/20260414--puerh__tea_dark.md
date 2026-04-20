@@ -99,14 +99,14 @@ Contributing factors: flood of non-Yunnan leaf fraudulently labelled as pǔ'ěr;
 
 ## FAQ
 
-**What is pǔ'ěr tea?**
-Pǔ'ěr (普洱茶) is a post-fermented tea produced exclusively in Yunnan province, China, from the yunnan large-leaf varietal (*Camellia sinensis* var. *assamica*) processed as sun-dried máochá (晒青毛茶). Under state standard GB/T 22111-2008, authentic pǔ'ěr must originate from 639 designated townships across 11 Yunnan prefectures — one of the few teas with a legally protected geographic indication.
+**Is pǔ'ěr the same as black tea?**
+No — pǔ'ěr is a post-fermented tea, a distinct category from black tea. Black tea is fully oxidised during processing, then sold. Pǔ'ěr is processed as sun-dried máochá, then undergoes microbial fermentation — either natural aging (shēng) over years, or accelerated pile fermentation (shú, wòduī). Origin is also legally protected: only Yunnan large-leaf material from 639 designated townships qualifies.
 
 **What is the difference between shēng and shú pǔ'ěr?**
 Shēng (生茶, raw) is pressed máochá aged naturally — it starts bitter and astringent, transforming slowly over decades into something smooth and complex. Shú (熟茶, ripe) undergoes accelerated wòduī pile fermentation (45–60 days, invented 1973) to approximate that aging in weeks. Shú is earthy and smooth from day one; shēng requires years of patience and rewards collectors.
 
-**Why is pǔ'ěr pressed into 357g cakes?**
-Seven cakes (七子饼茶 qīzǐ bǐngchá) fit exactly into one bamboo tong tube weighing 2.5 kg. Twelve tong make one jiàn transport unit of 84 cakes / 30 kg. The entire traditional packaging and logistics chain is built on this base weight. Compression also creates a semi-anaerobic micro-environment inside the cake that supports controlled microbial aging.
+**How do I brew pǔ'ěr?**
+Use 100°C water. Rinse compressed tea 5–10 seconds and discard — this loosens the leaf and clears any storage dust. First steep 10–15 seconds; add 10–15 seconds each round. Use a gàiwǎn or yíxīng teapot, 7–8 g per 100 ml. Young shēng benefits from slightly cooler water (90–95°C) to tame bitterness; shú and aged shēng take full boiling water.
 
 **How should pǔ'ěr be stored?**
 For dry storage (干仓 gāncāng): below 75% humidity, good ventilation, no strong odours, away from direct sunlight. Kunming is the reference city. Full aged character takes 20–30 years. Wet storage (湿仓 shīcāng) at 75–90%+ humidity accelerates aging but risks mustiness (仓味 cāng wèi) and mould if moisture exceeds ~14%.
