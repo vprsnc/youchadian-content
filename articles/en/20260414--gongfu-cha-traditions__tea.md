@@ -26,7 +26,7 @@ Cháozhōu gōngfū chá is the original and the most formally codified. Its voc
 - **Cháolú (潮炉)**: A small charcoal brazier for heating water. Electric kettles have largely replaced this in modern practice, but the brazier remains symbolic and is used in formal settings.
 - **Cháozhōu chápán (潮州茶盘)**: A wet tray or dry tray setup for managing rinse water.
 
-**The three-cup formation**: Cups are arranged in a 品 (pǐn) triangle — the character means "to taste" and is composed of three 口 (mouth) characters. Three cups suggest the number of guests the ceremony is optimised for.
+**The three-cup formation**: Three cups arranged in a 品 (pǐn) triangle is the classic setup — the character means "to taste" and is composed of three 口 (mouth) characters. Three is traditional, not mandatory.
 
 **Ritual pouring sequences**: Cháozhōu tea service developed named poetic steps for serving:
 - 关公巡城 *Guān Gōng Xún Chéng* (Guān Yǔ Patrols the City): pouring in a single continuous circular motion over all three cups simultaneously, distributing the brew evenly
@@ -42,7 +42,7 @@ The Mǐnnán (闽南) tradition — centred on Quánzhōu (泉州), Zhāngzhōu 
 
 Key differences from Cháozhōu:
 - **Vessel**: White porcelain gàiwǎn (盖碗) preferred over clay teapot. The gàiwǎn is neutral and does not season with use, making it better suited to evaluating different teas.
-- **Cups**: Each guest receives their own cup — a more individually-oriented service than the shared Cháozhōu three-cup rotation.
+
 - **Tea**: Ānxī tiěguānyīn (安溪铁观音) is the traditional choice. Mǐnnán is tiěguānyīn country; the terroir and brewing tradition evolved together.
 - **Atmosphere**: Mǐnnán service is described by practitioners as more casual (随和 suíhé) and hospitable — designed for conversation and warmth rather than formal ritual.
 
