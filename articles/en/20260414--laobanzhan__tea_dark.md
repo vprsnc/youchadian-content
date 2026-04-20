@@ -90,20 +90,20 @@ The flavour comparison: Xīn Bānzhāng is milder — less bitter, thinner body,
 
 ## FAQ
 
-**What is Lǎo Bānzhāng?**
-Lǎo Bānzhāng (老班章) is a natural village on Bùlǎng Shān (Bulang Mountain), Měnghǎi County, Xīshuāngbǎnnà, Yunnan — widely considered the source of the world's most powerful and prized shēng pǔ'ěr. Its ~145 Bùlǎng ethnic households maintain ~300 hectares of semi-wild ancient tea gardens established in 1476. The tea is called the "King" (王 wáng) of pǔ'ěr.
+**How do you brew Lǎo Bānzhāng?**
+95–100°C — full boil, unlike most shēng pǔ'ěr; the intensity of the leaf can handle it. 7–8 g per 100 ml; rinse 20–30 sec to open compressed leaf. Flash-pour first 5 infusions, then extend gradually. Sustains 20+ infusions from fresh spring material; ancient-tree leaf typically peaks around brews 5–8.
 
-**What makes Lǎo Bānzhāng taste different from other pǔ'ěr?**
-Lǎo Bānzhāng is defined by its flavour sequence: immediate powerful bitterness (苦 kǔ) that converts within 10–20 seconds into explosive returning sweetness (回甘 huígān) rising from the throat. The liquor is unusually thick and oily from high pectin content in old trees. Strong 茶气 (chá qì, tea energy) produces physiological warmth across the body. These qualities together are present at intensities rarely found in any other pǔ'ěr.
+**Is Lǎo Bānzhāng better fresh or aged?**
+Three drinking windows: (1) 3–6 months — peak fresh aromatics and chá qì, extreme bitterness; (2) 1–5 years — stabilising, bitterness beginning to soften; (3) 7–20+ years — mellowed, camphor and deep complexity. Most specialists consider 5–10 years the first optimal window. Young LBZ is very challenging; aging dramatically transforms the experience.
 
-**Why is Lǎo Bānzhāng so expensive?**
-Price rose from ¥8/kg in 2000 to ~¥20,000/kg in 2024 — approximately 1,500× in 24 years. The combination of limited authentic supply (~40 metric tonnes officially from ~145 households), extreme quality, and collector demand drives the price. Ancient-tree (gǔshù) spring material is the most prized; plantation-tree material from the same village is significantly cheaper.
+**Is the bitterness approachable for beginners?**
+Not recommended as a first shēng pǔ'ěr. The bitterness is intense — though it converts rapidly to huígān, the entry is confrontational. Beginners find 3–5 year aged LBZ significantly more accessible than fresh. Even experienced drinkers describe it as requiring preparation. The intensity is the point; it is not a daily tea.
 
-**How do you know if Lǎo Bānzhāng is authentic?**
-You largely cannot. An investigation by The Paper (澎湃新闻) found ~50 metric tonnes per year of fraudulent "Lǎo Bānzhāng" in circulation against an official village output of ~40 tonnes total. Certificates, holographic seals, and QR codes are routinely forged. Practically: any "Lǎo Bānzhāng" priced under ¥2,000–3,000 per 100g leaf equivalent is extremely unlikely to be authentic ancient-tree material.
+**Is there a shū (ripe) pǔ'ěr made from Bānzhāng material?**
+Yes — producers including Chén Shēng Hào (陈升号) press shū chá (熟茶) from Bānzhāng-area leaf. Ripe processing eliminates the extreme bitterness while retaining some of the material's power and huígān. An accessible entry to the Bùlǎng mountain profile at far lower cost than authentic ancient-tree shēng.
 
-**What is Xīn Bānzhāng and how does it compare?**
-Xīn Bānzhāng (新班章) is a village ~7 km from Lǎo Bānzhāng, founded ~60–70 years ago by Lǎo Bānzhāng villagers. Same climate and terrain; key difference is tree age (~100 years vs ~300 years). Xīn Bānzhāng is milder — less bitter, thinner body, shallower throat resonance — and typically priced at 20–40% of Lǎo Bānzhāng. It is the closest legitimate approximation and the most common fraudulent substitute.
+**What is the difference between 老班章, 新班章, and 小班章?**
+Three villages on Bùlǎng Shān: 老班章 (Old) — original, ~300-year trees, ¥15,000–20,000+/kg. 新班章 (New) — ~7 km away, split ~60 years ago, ~100-year trees, 20–40% of LBZ price, milder character. 小班章 (Small) — smaller satellite village, younger trees, lowest of the three. All produce genuine Bùlǎng material; only 老班章 has severe fraud exposure.
 
 ## Related
 
