@@ -64,17 +64,17 @@ For professional tea evaluation and tastings, the plain white porcelain gàiwǎn
 
 ## FAQ
 
-**What is a gàiwǎn?**
-A gàiwǎn (盖碗) is a three-piece Chinese tea vessel: bowl, lid, and saucer. Made from non-porous porcelain, it adds no flavour to the brew and suits all tea types — green, white, oolong, red, and pǔ'ěr. It is the standard vessel for professional tea tasting in China.
+**Why do I keep burning my fingers, and how do I stop?**
+Burns happen when the rim is too narrow — fingers touch the hot bowl wall. Choose a gàiwǎn with a wide, outward-flared rim (宽碗沿 kuān wǎn yán) that keeps fingers clear of the bowl. Fill to only 70–80% capacity so the rim stays cool. Grip the flared edge with thumb and middle finger; index finger rests lightly on the lid knob.
 
-**How do I hold and pour a gàiwǎn?**
-Hold the saucer with the base of your thumb and middle finger. Use your index finger to tilt the lid, leaving a narrow gap for the liquid to flow. The angle of the gap controls flow rate and filters loose leaf. Pour completely after each steep to prevent over-extraction.
+**What should I look for when buying my first gàiwǎn?**
+Prioritise a wide, outward-flared rim — the most important burn-prevention feature. Choose 100–120 ml; larger volumes are harder to control for beginners. Check that the lid knob sits high enough to grip without touching the hot lid surface. Plain white porcelain is the most versatile starting point: neutral taste, easy to clean, accurate colour read.
 
-**What size gàiwǎn should I use?**
-100–120 ml for solo gōngfū brewing. 150–200 ml for 2–3 people. Smaller volumes give more control over steep time and concentration.
+**Are glass gàiwǎn worth using?**
+Glass lets you watch leaves unfurl, which is visually appealing. The drawback: glass conducts heat more aggressively than porcelain, making burns more likely and pours harder to control. Most experienced brewers prefer plain white porcelain — better heat management and no impact on flavour. Glass suits display and novelty use more than daily brewing.
 
-**How is a gàiwǎn different from a yíxīng teapot?**
-A gàiwǎn is non-porous porcelain — neutral, no seasoning, suitable for any tea. A yíxīng teapot is porous clay that absorbs tea oils over time, developing flavour enhancement specific to one tea type. Gàiwǎn is better for tasting and variety; yíxīng is better for a single dedicated tea.
+**Can a gàiwǎn be used as a drinking cup, not just for brewing?**
+Yes — the gàiwǎn was originally a personal drinking vessel, not a pouring tool. Hold the saucer in your palm, use the lid to hold back leaves, and sip from the rim. This style is still common in Sìchuān tea houses, where the gàiwǎn arrives filled and is drunk directly rather than decanted into separate cups.
 
-**Which gàiwǎn style is best for tasting?**
-Plain white porcelain (白瓷 báicí) — it adds no visual interference when assessing liquor colour. It is the Chinese industry standard for professional tea evaluation. For daily use, any style works.
+**How many infusions can I get from a gàiwǎn?**
+Depends on the tea. High-quality oolongs and pǔ'ěr typically yield 6–10 infusions; some dāncōng and roasted oolongs go further. Green and white teas usually give 3–5. The key: pour completely after each steep — residual water causes over-extraction and shortens subsequent infusions. Increase steep time by 10–15 seconds with each round.
