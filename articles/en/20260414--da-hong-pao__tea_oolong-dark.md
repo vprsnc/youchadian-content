@@ -106,17 +106,17 @@ The third and fourth infusions typically show the most complexity; early infusio
 
 ## FAQ
 
-**What is dà hóng páo?**
-Dà hóng páo (大红袍, "Big Red Robe") is a charcoal-roasted rock oolong from the Wǔyí Shān nature reserve in Fújiàn, China. It is defined by yán yùn (岩韵) — a mineral finish from volcanic soil and traditional charcoal roasting. Most commercial versions are blends of ròuguì and shuǐxiān cultivars.
+**Is dà hóng páo oolong or black tea?**
+Dà hóng páo is an oolong — specifically a heavily oxidised (40–70%), charcoal-roasted rock oolong (岩茶 yánchá) from the Wǔyí Shān nature reserve. The dark dry leaf and strong roasted flavour cause frequent confusion with black tea, but the processing and cup character are fundamentally different: mineral, layered, and many-steep.
+
+**Why is dà hóng páo so expensive?**
+Three reasons converge: the six original mother trees are state property and no longer harvested; verified clonal (chúnzhǒng) material is produced in tiny quantities on one protected cliff; and the highest-grade blended zhèng yán material comes from a tiny core zone with strictly limited annual yield. Affordable commercial blends exist — price reflects grade and origin, not fraud.
 
 **How is blended dà hóng páo different from chúnzhǒng dà hóng páo?**
 Blended (pīnpèi) dà hóng páo combines multiple Wǔyí cultivars — ròuguì, shuǐxiān — for balance and consistency. Chúnzhǒng dà hóng páo is propagated directly from the six original mother trees and comes in tiny quantities at high prices. Blended is the standard; chúnzhǒng is a collector's item.
 
 **How do I brew dà hóng páo?**
 Use 100°C water, 7–8 g per 100 ml, in a yíxīng teapot or gàiwǎn. Rinse 5 seconds, discard. First steep 15–20 seconds; add 10–15 seconds per round. Quality yánchá yields 7–10 infusions.
-
-**Where does dà hóng páo come from?**
-Wǔyí Shān, Fújiàn province, China. The highest grade (zhèng yán) comes from the core Sānkēng Liǎngjiàn zone. In 2002, Wǔyí yánchá received GB/T 18745 protected-origin status.
 
 **What does dà hóng páo taste like?**
 Roasted grain, dark dried fruit (dates, raisins), caramel, mineral. Medium-roast versions show orchid and spice. The defining characteristic is yán yùn: a mineral persistence that lingers in the throat after swallowing.
