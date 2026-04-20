@@ -117,8 +117,8 @@ Shēng pǔ'ěr rewards careful brewing.
 
 ## FAQ
 
-**What is shēng pǔ'ěr?**
-Shēng pǔ'ěr (生茶, raw puerh) is sun-dried Yunnan large-leaf máochá, pressed into cakes, bricks, or tuo shapes and stored to age naturally over years and decades without artificial fermentation. It is the original form of pǔ'ěr — all pǔ'ěr was shēng before the invention of wòduī pile fermentation in 1973.
+**Why is young shēng pǔ'ěr so bitter, and how do I manage it?**
+Young shēng pǔ'ěr contains high polyphenol concentrations that decrease gradually with age. To manage bitterness: brew at 90–95°C rather than 100°C; shorten first steepings to 5–8 seconds; use more leaf with faster pours rather than hotter water or longer steeps. Some bitterness is normal — the quality signal is how quickly it converts to huígān (sweet aftertaste).
 
 **Why can shēng pǔ'ěr age for decades when green tea cannot?**
 The critical difference is the drying method. Shēng pǔ'ěr uses sun-drying (晒青 shài qīng) at below 60°C, which preserves residual enzymes and beneficial microorganisms. Green tea is oven-dried at high temperatures that kill these enzymes completely. The living biology in shēng drives decades of transformation; oven-dried tea has no such potential.
