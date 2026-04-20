@@ -104,20 +104,17 @@ Over years: exterior develops **rùn (润, "fat glow")** — a warm waxy sheen a
 
 ## FAQ
 
-**What is yíxīng zǐshā?**
-Yíxīng zǐshā (宜兴紫砂) is a family of high-iron stoneware clays from Yíxīng, Jiāngsū, used to make teapots for gōngfū brewing. Its double-porosity microstructure retains heat and develops a flavour-enhancing patina (bāojiāng) over years of use. Three primary types: zǐní (purple, with five named sub-types), zhūní (bright red, extreme 25–30% firing shrinkage), duàní (cream/golden).
+**Does a yíxīng teapot actually make tea taste better, or is that just tradition?**
+Both are true, but on different timescales. A brand-new yíxīng pot brews identically to a gàiwǎn — the double-porosity seasoning effect is real but develops only after hundreds of sessions of dedicated use. Short-term: negligible difference. Long-term: many experienced drinkers report a genuine rounding and deepening of flavour. The benefit is slow and cumulative, not immediate.
 
-**What colours does zǐshā come in?**
-A wide range — zǐní alone fires from deep reddish-purple to liver-brown with blue flash (tiānqīng ní), depending on the specific sub-type and firing temperature. Zhūní fires bright vermilion-orange. Duàní fires cream to golden-yellow. The rarest colour is the deep liver-blue of genuine tiānqīng ní (天青泥), which comes from Huánglóng Shān's most depleted seams and is rarely seen in modern production.
+**How much should I spend on my first yíxīng teapot?**
+Chinese practitioners' consensus (Zhihu, Steepster): genuine zǐshā semi-handmade starts around 300 RMB (≈€40). Below that, clay quality is likely compromised. A 300–800 RMB (≈€40–100) piece is a solid practical starter. Fully handmade (全手工 quán shǒugōng) from a named artisan starts at 1,000 RMB — a category for when you already know what you're looking for.
 
-**Why must a yíxīng teapot be dedicated to one tea type?**
-The micro-pores absorb tea oils and polyphenols with each brew. Over hundreds of sessions this builds a seasoning that subtly enriches the brew. Mixing tea types contaminates this accumulated character — a pot seasoned to pǔ'ěr will carry pǔ'ěr into a delicate green tea.
+**How specific does tea dedication need to be?**
+Broad category is fine — multiple roasted Wǔyí oolongs in one pot causes no problems. What to avoid is crossing fundamental character types: roasted vs. unroasted, aged vs. fresh, hēichá vs. green. In practice, most practitioners dedicate by five categories: light oolong, dark/roasted oolong, shēng pǔ'ěr, shú pǔ'ěr, and hóngchá.
 
-**How do I season a new yíxīng teapot?**
-Simmer in plain water for 30 minutes. Then brew your dedicated tea type exclusively. Rinse with hot water after each session; air-dry with lid off. Avoid soap. The patina develops over months and years of regular use.
+**Can I re-season a yíxīng teapot that was used with many different teas?**
+Yes. Simmer in plain water for 1–2 hours, then brew your chosen tea exclusively for 20–30 sessions. Prior mixed seasoning won't fully disappear — micro-pores retain traces — but the dominant character will shift. A pot dedicated from the start develops cleaner seasoning than one reset mid-use, but the practical difference becomes small within 50 dedicated sessions.
 
-**How do I tell if a yíxīng teapot is handmade?**
-Fully handmade (全手工) pots show slight asymmetry, tool marks inside the spout, and a lid that was paired to the pot — it rotates freely and seals nearly airtight. Authentic handmade work from established artisans typically costs 1,000 RMB or more.
-
-**Which zǐshā clay is best for which tea?**
-Zǐní suits roasted oolongs and aged pǔ'ěr. Zhūní is traditionally paired with tiě guānyīn and light oolongs. Duàní works well with green and white teas. The clay's heat profile and porosity should match the tea's brewing temperature and desired extraction character.
+**Are cheap yíxīng teapots safe to use?**
+Authentic zǐshā is food-safe. The risk is with counterfeits: fake "yíxīng" pots are sometimes made from ordinary clay with chemical dyes to mimic zǐshā colours. These can leach harmful compounds. Price signal: under 150 RMB (≈€20) for a "handmade" zǐshā pot is a red flag. Genuine zǐshā smells earthy and mineral when wetted — a chemical odour is a warning sign.
