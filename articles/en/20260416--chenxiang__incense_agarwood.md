@@ -95,17 +95,17 @@ All *Aquilaria* and *Gyrinops* species have been listed in CITES Appendix II sin
 
 ## FAQ
 
-**What is chénxiāng?**
-Chénxiāng (沉香) is resin-saturated heartwood produced by *Aquilaria* trees in response to wounding or infection. The name means "sinking fragrance" — high-grade pieces are denser than water. It is China's most prized aromatic material, used in incense, wearable beads, and traditional medicine.
+**What does chénxiāng actually smell like?**
+Complex and layered — impossible to reduce to one note. The scent profile depends heavily on origin, grade, and heating method, but the common character across sources is: warm woody base, soft resinous depth, with subtle fruit or floral overtones and a cool, slightly sweet finish. It is a "dark" fragrance — not light or fresh. At low heat (indirect method), the volatile top notes appear first, transitioning to deeper base notes as temperature rises. Vietnamese material tends toward fruity-floral; Hǎinán toward sweet and refined; Cambodian toward rich and deep.
 
-**What is qínán (奇楠) and how does it differ from regular agarwood?**
-Qínán (奇楠, Japanese: kyara) is a distinct category above regular agarwood. Unlike hard, brittle regular chénxiāng, qínán is soft and waxy. Its fragrance is more complex — simultaneously sweet, bitter, spicy, and cool. It forms only in living trees and is extraordinarily rare. Most market "qínán" is misrepresented regular chénxiāng.
+**Is chénxiāng the same as oud?**
+Same source material, different tradition and form. Agarwood (*Aquilaria* resin-wood) is the underlying material. In the Chinese tradition (chénxiāng), the wood itself is heated directly as incense chips or carved into wearables. In the Arab and South Asian tradition, the same wood is steam-distilled to produce oud oil — a concentrated liquid perfume. Oud is thus extracted chénxiāng essence, not identical to the raw material. The two traditions overlap at the source but diverge completely in form and use.
 
-**Why does Hǎinán agarwood command the highest prices?**
-Lǐ Shízhēn's *Běncǎo Gāngmù* (1578) placed Hǎinán origin at the apex of the regional hierarchy. Wild *Aquilaria sinensis* from Hǎinán is now commercially extinct — centuries of harvesting destroyed old-growth trees. Today's Hǎinán-labelled material is plantation-grown; genuine wild Hǎinán pieces are collection-level.
+**How does plantation chénxiāng compare to wild-formed agarwood?**
+Wild formation builds over decades or centuries, accumulating complex resin chemistry. Plantation trees are typically artificially wounded and harvested within 2–10 years — the resin composition is simpler, fragrance less nuanced. Wild material at top grades reaches $100,000+ per kg; commercial plantation material starts below $100/kg. Plantation chénxiāng is a legitimate everyday incense option and the sustainable route as wild trees recover; it is simply not comparable to aged wild formation in fragrance depth.
 
-**What does the sinking test prove?**
-That resin content is high enough to exceed water density (1.0 g/cm³). This confirms significant resin saturation but does not authenticate origin or rule out fraud — adding weight is a known adulterant. Use sinking as a necessary, not sufficient, quality indicator.
+**What is the difference between chénxiāng and tánxiāng (sandalwood)?**
+A fundamental one: chénxiāng is resin (香脂 xiāng zhī), not wood — it forms only after injury in specific *Aquilaria* trees. Tánxiāng is aromatic heartwood — the wood itself is always fragrant in *Santalum* trees, requiring no injury. Chénxiāng has little scent at room temperature but releases complex fragrance under heat; sandalwood is strongly fragrant at room temperature. Chénxiāng is considered more subtle and meditative; sandalwood more immediately accessible and warm.
 
-**Is agarwood legal to buy and sell?**
-Yes, in worked form. All *Aquilaria* spp. are CITES Appendix II since 2004 — international trade in raw unprocessed timber is regulated. Finished products (incense chips, carved beads, powder) can be traded legally; documentation requirements vary by jurisdiction.
+**Why is indirect heat (隔火熏香) preferred over direct burning for chénxiāng?**
+Direct burning reaches 800–1,000°C — combustion destroys the delicate volatile aromatic compounds and adds acrid smoke notes that mask the fragrance. Indirect heat (charcoal buried in ash, mica plate between charcoal and wood) maintains 80–120°C, vaporising the aromatic molecules without burning them. The result is pure, undistorted fragrance with none of the harsh combustion character. High-grade chénxiāng is always heated indirectly; direct burning is reserved for lower-grade incense sticks and blends.
