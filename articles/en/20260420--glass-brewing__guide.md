@@ -155,20 +155,17 @@ The mismatch is physical, not aesthetic.
 
 ## FAQ
 
-**What is bēi pào fǎ (杯泡法)?**
-Bēi pào fǎ (杯泡法) is the Chinese method of brewing tender green, white, or yellow tea directly in a transparent glass — one vessel per person, no pitcher or separate cups. The standard method for fine Chinese green teas. The glass makes the full visual transformation of leaves visible, which is considered an integral part of the experience (观茶 guān chá).
+**What kind of glass should I use?**
+A straight-sided or slightly flared clear glass, 200–250 ml, made from borosilicate glass (耐热玻璃 nàirè bōlí). Borosilicate withstands repeated thermal shock from hot water without cracking; regular soda-lime glass risks fracturing. Avoid very thick walls — they slow visual observation and retain heat too long. Avoid coloured or patterned glass — the visual appeal of 观茶 requires complete transparency. A simple, undecorated straight-walled tumbler is the functional ideal.
 
-**What are the three pouring methods for glass brewing?**
-上投法 (shàng tóu fǎ): water first, then float leaves on top — for downy single-bud teas like Bìluóchūn. 中投法 (zhōng tóu fǎ): partial water, add leaves, then fill — for flat or rolled greens like Lóngjǐng. 下投法 (xià tóu fǎ): leaves first, pour water in rhythmic drops — for larger leaves like Tàipíng Hóukuí.
+**How do I achieve the right temperature without a thermometer?**
+Bring water to a full rolling boil (100°C), then remove from heat and let stand open for 3–5 minutes → approximately 80–85°C. For more tender grades needing 75–80°C: transfer boiling water between two vessels twice before pouring, or wait 6–8 minutes uncovered. Practical test: touch the outside of the kettle — if comfortably warm rather than burning, water is in the right range. A variable-temperature kettle (¥80–150 range in China) eliminates guesswork entirely and is the best investment for regular glass brewing.
 
-**What temperature should I use for green tea brewed in a glass?**
-75–85°C depending on the grade. Pre-Qīngmíng single buds, Bìluóchūn, and fresh Silver Needle: 75–80°C. Standard Lóngjǐng and Huángshān Máofēng: 80–85°C. Yellow teas (Jūnshān Yínzhēn): 85–90°C. Never boiling — temperatures above 90°C rapidly extract catechins and destroy the amino acids responsible for sweetness.
+**My glass-brewed green tea tastes bitter — what went wrong?**
+Almost always one of three causes in order of likelihood: (1) water too hot — even 5°C above the target rapidly increases catechin extraction; (2) leaf in water too long — unlike gōngfū brewing, there is no pour-off step, so all over-steeped time accumulates; (3) wrong pouring method used (e.g., 下投法 poured forcefully over downy leaves). Fix: lower temperature first, then reduce time; finally check pouring sequence for the specific tea.
 
-**Why use glass instead of a gàiwǎn for green tea?**
-Glass enables 观茶 (guān chá): the Lóngjǐng "sword" descent, the Bìluóchūn spiral uncurling, and the Jūnshān Yínzhēn 三起三落 rising-and-falling effect are invisible in opaque vessels. Glass also dissipates heat fast — acting as a passive guard against overbrewing — and imparts nothing to the flavour (no clay absorption, no glaze).
+**Is glass brewing traditional or was it invented recently?**
+Modern in materials, traditional in principle. Glass teaware only became widely available in China with industrialisation in the early-to-mid 20th century. Before that, Sòng-dynasty tea culture used shallow white porcelain bowls precisely to observe the tea's colour and form. The 观茶 value — watching the leaf as part of the experience — is ancient; glass is its contemporary expression. The three pouring methods (三投法) are formalised in China's national tea arts certification curriculum and are considered part of orthodox technique.
 
-**How many steeps can I get from green tea in a glass?**
-Typically 2–3. Drink down to ⅓ remaining liquid before refilling; this maintains consistent concentration. Premium grades (míng qián Lóngjǐng, fine Bìluóchūn) hold up across three steeps. Lower-grade material fades noticeably by the second. Unlike gōngfū chá, leaves remain in continuous water contact — 2–3 steeps is the natural limit.
-
-**Can I brew oolong in a glass?**
-Not effectively. Oolongs require water at or near 100°C and 6–12 rapid 20–45 second infusions in a heat-retaining vessel (gàiwǎn or Yíxīng teapot). An open 200 ml glass cools too fast and cannot support rapid pour-off. The result is over-extracted, bitter liquor. See [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide).
+**Can I add milk, sugar, or lemon to glass-brewed green tea?**
+Technically yes; in Chinese tea culture, generally no. Milk binds polyphenols and suppresses the aromatic compounds that distinguish premium greens. Sugar masks the natural huí gān (回甘, returning sweetness) that develops after swallowing. Lemon juice acidifies the liquor and changes the extraction profile. None of these additions are traditional for fine Chinese greens. If transitioning from sweetened tea, reduce additions gradually — the natural sweetness of míng qián grades becomes more apparent as the palate adjusts.
