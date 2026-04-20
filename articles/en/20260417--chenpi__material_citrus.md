@@ -69,20 +69,17 @@ With tea: add 1–2 pieces directly to a gaiwan or teapot alongside pu-erh, or b
 
 ## FAQ
 
-**What does chénpí mean?**
-陈 (chén) = aged; 皮 (pí) = skin/peel. The name encodes the product — mandarin peel that has been aged.
+**How do I detect artificially aged or mislabelled chénpí?**
+Several signs from Chinese collectors: (1) Excessive oil on the exterior — genuine long-aged peel develops oil gradually; artificially treated peel shows heavy oiliness or even a blue-tinged sheen from high-temperature drying used to accelerate colour darkening. (2) Sour or acidic infusion — premium aged peel above 9 years should have no sourness at all; sourness in a supposedly old piece is a major red flag. (3) Uneven inner pith colour — genuine age produces uniform browning; fake aging shows patchy, inconsistent colour where the peel absorbed heat or treatment unevenly.
 
-**Is chénpí the same as dried orange peel?**
-No. Chénpí specifically means aged mandarin peel (Citrus reticulata), aged three years minimum. Generic dried orange peel is a different product — fresh-dried, not aged, and different variety.
+**How do I store chénpí at home to keep it aging properly?**
+First 1–3 years: store in a breathable bag (not fully sealed) in a cool, dark, dry cupboard; sun-dry or air-dry the peel 2–3 times per year to prevent moisture. After three years: transfer to an airtight container — but open it a few times per year for air exchange to allow continued aging. Keep away from direct light (UV degrades the flavonoids). Store away from strong smells — peel absorbs surrounding aromas. Properly stored, chénpí lasts and improves for decades.
 
-**Why does it need three years minimum?**
-Chinese national standard for Xīnhuì chénpí requires minimum three years of aging before the product may carry that name. Below three years it is dried peel, not chénpí — the flavonoid transformation and aroma development are not yet complete.
+**Who should be cautious about consuming chénpí?**
+In TCM, chénpí is classified as warming and qi-regulating — this creates specific contraindications: (1) Individuals with excess-heat conditions (inflammation, fever, dryness) should limit intake; (2) Pregnant and nursing women should consult a practitioner; (3) Those taking anticoagulant medications — chénpí may interact with blood-thinning drugs; (4) People with citrus allergies should exercise obvious caution. For healthy adults consuming chénpí as an occasional tea ingredient or cooking flavouring, no special concern applies.
 
-**What is gānpǔ chá?**
-柑普茶 — whole small mandarins filled with pu-erh and dried. 柑 (gān) = mandarin, 普 (pǔ) = pu-erh. The peel and tea age together after drying, creating a single unified infusion.
+**What does chénpí actually taste like brewed at different ages?**
+3–8 years: noticeable citrus sharpness, some residual sugar-acid tang, warming but somewhat bright. 9–20 years: the sourness has fully gone — clean, fragrant, warming, smooth. The infusion is amber, mellow, and clearly aromatic without any harsh notes. 20–40+ years: deep, settled complexity — subtle layered warmth, almost incense-like, very gentle citrus presence, exceptional smoothness. The infusion colour stays pale golden even in very old material; depth is in flavour, not colour.
 
-**Does chénpí pair with white tea?**
-Yes — chénpí bái chá (陈皮白茶) is a recognised pairing. Aged white tea (Bái Mǔ Dān or Bái Háo Yín Zhēn stored three or more years) develops a honeyed, mellow character that works with aged mandarin peel: both are slow-aged, and the citrus oils add warmth without overwhelming white tea's delicacy. Brew at 85–90°C with 1–2 small pieces of peel — lower temperature than pu-erh pairings to preserve the tea's character.
-
-**Can I age my own?**
-In principle yes — thoroughly sun-dry fresh Citrus reticulata peel and store in a cool, dry, ventilated place. Results will differ from Xīnhuì professional aging, which depends on specific terroir and centuries of refined technique.
+**What is the difference between chénpí (陈皮) and qīng pí (青皮)?**
+Both come from Citrus reticulata, but at different stages of development. Qīng pí (青皮, "green skin") is the peel of unripe mandarins — it is a separate TCM herb with different properties: stronger, more aggressively dispersing (破气 pò qì), and directed more toward the liver and gallbladder channels. Chénpí is gentler, spleen-directed, and focused on mild qi regulation and digestion. Qīng pí is not aged; it is dried young and used relatively fresh. In TCM formulas they are prescribed for different patterns, though both address digestive stagnation.
