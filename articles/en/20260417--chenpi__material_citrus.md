@@ -81,9 +81,3 @@ Chinese national standard for Xīnhuì chénpí requires minimum three years of 
 
 **Can I age my own?**
 In principle yes — thoroughly sun-dry fresh Citrus reticulata peel and store in a cool, dry, ventilated place. Results will differ from Xīnhuì professional aging, which depends on specific terroir and centuries of refined technique.
-
-Sources:
-- [Chenpi — Wikipedia](https://en.wikipedia.org/wiki/Chenpi)
-- [Aged Xinhui Chenpi — Grass People Tree](https://www.grasspeopletree.com/products/aged-xinhui-chenpi)
-- [新会陈皮制作工艺 — 百度百科](https://baike.baidu.com/item/%E6%96%B0%E4%BC%9A%E9%99%88%E7%9A%AE%E5%88%B6%E4%BD%9C%E6%8A%80%E8%89%BA/835819)
-- [新会陈皮产区 — 知乎](https://zhuanlan.zhihu.com/p/406595536)

@@ -81,9 +81,3 @@
 
 **Можно ли выдерживать кожуру самостоятельно?**
 В принципе да — тщательно высушите свежую кожуру Citrus reticulata на солнце и храните в прохладном, сухом, проветриваемом месте. Результаты будут отличаться от профессиональной выдержки в Синьхуэй, которая зависит от специфического терруара и столетий отточенных техник.
-
-Источники:
-- [Chenpi — Wikipedia](https://en.wikipedia.org/wiki/Chenpi)
-- [Aged Xinhui Chenpi — Grass People Tree](https://www.grasspeopletree.com/products/aged-xinhui-chenpi)
-- [新会陈皮制作工艺 — 百度百科](https://baike.baidu.com/item/%E6%96%B0%E4%BC%9A%E9%99%88%E7%9A%AE%E5%88%B6%E4%BD%9C%E6%8A%80%E8%89%BA/835819)
-- [新会陈皮产区 — 知乎](https://zhuanlan.zhihu.com/p/406595536)
