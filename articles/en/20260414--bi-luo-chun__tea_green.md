@@ -50,7 +50,7 @@ If bitterness is present → cause is either summer-harvest material or brewing 
 | Water temperature | 75–80°C — higher temps destroy aroma compounds |
 | Vessel | Glass tumbler or porcelain gàiwǎn |
 | Leaf ratio | 3–4 g per 150 ml |
-| Pouring method | Water first, then leaf (下投法 xià tóu fǎ) |
+| Pouring method | Water first, then leaf (上投法 shàng tóu fǎ) |
 | Steep time | 2–3 minutes per infusion |
 | Infusion count | 2–3 |
 
@@ -68,17 +68,17 @@ Much of what is sold as "bì luó chūn" comes from Sìchuān or Zhèjiāng leaf
 
 ## FAQ
 
-**What is bì luó chūn?**
-Bì luó chūn (碧螺春, "Jade Snail Spring") is a pre-Qīngmíng green tea from the Dōngtíng mountains, Jiāngsū province, China. It is identified by tightly spiralled white-haired leaves, an intense orchid and stone-fruit aroma, and requires 60,000–70,000 hand-picked buds per kilogram.
+**Why does Bìluóchūn smell of fruit — unlike other green teas?**
+The tea bushes grow interplanted among peach, plum, apricot, and bayberry orchards on the Dōngtíng shore of Lake Tai. Shared root zone and canopy with the fruit trees transfers aromatic compounds directly into the leaf. This terroir is specific to the Dōngtíng GI zone and cannot be replicated by rolling technique alone.
 
-**Why does bì luó chūn smell of fruit?**
-The tea bushes are interplanted directly with peach, plum, apricot, and bayberry orchards on the Dōngtíng mountains. Shared root zone and canopy between tea and fruit trees transfers aromatic compounds to the tea leaf — this terroir cannot be replicated elsewhere.
+**How do I brew Bìluóchūn correctly?**
+Never pour water directly onto the leaves — it strips the delicate white down (茸毛 rónmáo) and damages bud structure. Use 上投法 (shàng tóu fǎ): fill the glass to 70% with 75–80°C water first, then gently float the dry leaves on top. Let them sink slowly; swirl once before drinking.
 
-**How do I brew bì luó chūn?**
-75–80°C water, 3–4 g per 150 ml in a glass tumbler. Add water first, then drop in the leaf. Steep 2–3 minutes. Expect 2–3 infusions. Do not use boiling water — it destroys the delicate aroma.
+**What is the difference between Dōngtíng Bìluóchūn and Zhèjiāng Bìluóchūn?**
+Dōngtíng (洞庭) is the original GI origin — Lake Tai shore, Jiāngsū, interplanted with fruit trees, PGI under GB/T 18957-2008. Zhèjiāng Bìluóchūn is processed in the same spiral style but in a different province without fruit-tree interplanting. Similar appearance; noticeably simpler aroma and lower price.
 
-**What is the difference between authentic and imitation bì luó chūn?**
-Authentic Dōngtíng bì luó chūn (PGI GB/T 18957-2008) comes from Sūzhōu's Wúzhōng district. Imitations from Sìchuān or Zhèjiāng use the same rolling technique but lack lake-terroir character. Signs: less white hair, longer looser spirals, simpler aroma.
+**How is Bìluóchūn different from Lóngjǐng?**
+Both are top-tier pre-Qīngmíng spring greens but very different. Bìluóchūn: spiral-curled, white down, fruity-floral, brewed water-first (上投法), Lake Tai origin. Lóngjǐng: flat-pressed, toasty-vegetal with chestnut notes, brewed sandwich method (中投法), West Lake origin. Neither substitutes for the other.
 
-**When is bì luó chūn harvested?**
-Strictly before Qīngmíng festival (early April). This pre-Qīngmíng (明前) window lasts 2–3 weeks. Later harvests produce a coarser leaf with less concentrated flavour. The earliest buds command the highest prices.
+**How do I know if my Bìluóchūn is authentic Dōngtíng?**
+Look for: dense white down covering the spirals, tightly wound buds of uniform size, complex orchid and stone-fruit aroma. Zhèjiāng imitations have less down, looser spirals, and simpler fragrance. Authentic Sūzhōu Wúzhōng origin carries the PGI mark. If the price is very low, it is not Dōngtíng.
