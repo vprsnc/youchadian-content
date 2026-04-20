@@ -103,17 +103,17 @@ Despite regional differences, a core sequence is shared:
 
 ## FAQ
 
-**What is gōngfū chá?**
-Gōngfū chá (工夫茶) is a Chinese brewing method using a small vessel, high leaf-to-water ratio, and short repeated steeps. The name means "tea made with skill and care." It originated in the Cháoshān region of Guǎngdōng and produces multiple infusions that reveal how the tea changes over time.
+**Is gōngfū chá the same as the Chinese tea ceremony?**
+"Tea ceremony" is a Western label applied loosely to both Chinese and Japanese practices — the two are distinct. Japanese chanoyu (茶の湯) is a formalised ritual with fixed choreography derived from Zen Buddhism, using matcha and specific utensils. Gōngfū chá has ritual elements but prioritises the tea itself — multiple infusions, attention to flavour evolution, skilled brewing. It is less fixed in form, more varied by region, and primarily about drinking well rather than performing a prescribed ritual.
 
-**What is the difference between Cháozhōu and Mǐnnán gōngfū chá?**
-Cháozhōu style uses a small clay teapot (měngchén pot), three shared cups in a triangle, and Fènghuáng dāncōng tea — highly formal with named ritual steps. Mǐnnán style uses a white porcelain gàiwǎn, individual cups per guest, and Tiěguānyīn — more casual and hospitable in atmosphere.
+**Do I need to follow all the ritual steps?**
+No — the formal steps (Guān Gōng patrols, Hán Xìn counts troops, and so on) belong specifically to the Cháozhōu ceremonial tradition and are not expected outside that context. Most everyday gōngfū chá practitioners simply warm the vessel, load leaf, rinse, steep, pour completely, and repeat. The ritual vocabulary is useful cultural knowledge; the core practice requires only attention to temperature, ratio, and timing.
 
-**What does 工夫 mean in gōngfū chá?**
-工夫 (gōngfū) in the Cháozhōu dialect means time, effort, and care. It refers to the sustained attention required to brew tea well — not to martial arts. The alternative 功夫 (same pronunciation) means martial skill and became common as the practice spread globally.
+**What is the wénxiāng bēi (aroma cup) and how is it used?**
+The wénxiāng bēi (闻香杯, "smell-fragrance cup") is a tall, narrow cup used to capture and concentrate residual aroma after pouring tea into the tasting cup. Procedure: pour brewed tea from the pitcher into the wénxiāng bēi, then invert the tasting cup on top, flip both cups together, and lift the wénxiāng bēi upward — tea flows into the tasting cup, leaving aromatic vapour trapped in the tall cup for smelling. A Táiwān innovation from the 1970s; not used in Cháozhōu or Mǐnnán traditions.
 
-**What teas are used in gōngfū chá?**
-Traditionally: Fènghuáng dāncōng (Cháozhōu), Tiěguānyīn (Mǐnnán), Wǔyí yánchá (rock oolong), and aged pǔ'ěr. Any tea that rewards multiple infusions — typically oolongs and pǔ'ěr — suits gōngfū brewing. Delicate green teas are brewed differently.
+**Can gōngfū chá be done alone, or is it for hosting guests?**
+Both — solo gōngfū is arguably its most meditative form. Brewing for oneself removes the social choreography and allows complete focus on how the tea changes across infusions. The Sìchuān teahouse tradition is built around solo or small-group sessions over hours. The Cháozhōu three-cup triangle is a hospitality format; the number of cups simply adjusts to the number of drinkers.
 
-**When did gōngfū chá spread globally?**
-Táiwān practitioners refined and formalised the practice in the 1970s, adding the aroma cup (wénxiāng bēi), fairness pitcher (gōngdào bēi), and meditative framing. This Táiwān version spread back to mainland China in the 1980s and became the dominant global model.
+**Is there a protocol for serving guests — can I make mistakes?**
+Hospitality norms exist but are less rigid than in Japanese chanoyu. In Cháozhōu and Mǐnnán households, pouring tea for a guest is a gesture of respect and warmth — the atmosphere is generally informal. Common courtesy: always warm the cups before serving, pour evenly, offer the first cup with two hands. Declining tea altogether is slightly rude in most Chinese contexts; accepting and sipping is sufficient, regardless of technical knowledge.
