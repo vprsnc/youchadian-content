@@ -73,8 +73,8 @@ Pellets require 2–3 steeps to fully unfurl. Third and fourth steeps typically 
 
 ## FAQ
 
-**What is tiě guānyīn?**
-Tiě guānyīn (铁观音) is a lightly oxidised oolong from Ānxī county, Fújiàn province, China. It comes in two main styles: qīngxiāng (jade-green, floral, unroasted) and nóngxiāng (charcoal-roasted, rich). Both forms are defined by orchid fragrance and a sweet lingering finish (huígān).
+**Is tiě guānyīn black tea?**
+No — tiě guānyīn is an oolong, partially oxidised (15–40% depending on style) and sitting between green and black tea. Green tea is unoxidised; black tea is fully oxidised. The lightly oxidised qīngxiāng style looks almost like green tea in the cup, while roasted nóngxiāng can seem dark — but both are oolong.
 
 **What is the difference between qīngxiāng and nóngxiāng tiě guānyīn?**
 Qīngxiāng is lightly oxidised (15–25%), unroasted, vivid green, and intensely floral — best fresh. Nóngxiāng is more oxidised and charcoal-roasted, darker in colour, richer in flavour, and longer-lasting in storage. The split between styles emerged in the 1990s as the market shifted toward fresh profiles.
@@ -82,8 +82,8 @@ Qīngxiāng is lightly oxidised (15–25%), unroasted, vivid green, and intensel
 **How do I brew tiě guānyīn?**
 Use 90–95°C water for qīngxiāng, 95–100°C for nóngxiāng. 7–8 g per 100 ml in a porcelain gàiwǎn. Rinse 5 seconds, discard. First steep 15–20 seconds; add 10–15 seconds per round. Expect 6–8 infusions.
 
-**Where does tiě guānyīn come from?**
-Ānxī county, Fújiàn province, China, at 300–900 m elevation. The tiě guānyīn cultivar is protected under GB/T 19598-2006 as unique to Ānxī. Top village origins include Xiǎnghuá, Gǎndé, and Xīpíng.
+**What is the difference between tiě guānyīn and green tea?**
+Processing. Green tea is fixed immediately after harvest to stop oxidation. Tiě guānyīn undergoes 15–40% oxidation through repeated rocking cycles (zuòqīng), then ball-rolled and — in nóngxiāng style — charcoal-roasted. The result is more complex, lower in astringency, and sustains many more re-steeps than green tea.
 
 **What does tiě guānyīn taste like?**
 Orchid, gardenia, fresh sweetness, mineral. The defining feature is huígān — a lingering sweetness appearing 15–30 seconds after swallowing. Nóngxiāng versions add caramel, roasted grain, and dried fruit.
