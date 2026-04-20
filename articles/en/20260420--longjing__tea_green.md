@@ -92,17 +92,17 @@ How to check:
 
 ## FAQ
 
-**What is Lóngjǐng?**
-Lóngjǐng (龙井, "Dragon Well") is a flat-pressed, pan-fired green tea from the West Lake (西湖) hills of Hángzhōu, Zhèjiāng province. China's most famous green tea, produced within a small protected GI zone of five historic sub-villages. Defined by a fresh, vegetal, lightly toasted character with a sweet finish.
+**Why does my Lóngjǐng taste bitter?**
+Almost always water temperature. Lóngjǐng brewed above 85°C extracts catechins (bitter) faster than amino acids (sweet). Use 75–80°C for pre-Qīngmíng grades, 80–85°C for standard. Let boiled water cool 3–5 minutes in an open vessel before pouring.
 
-**What makes Shīfēng (Lion Peak) Lóngjǐng special?**
-Shīfēng sits at the highest elevation within the Xīhú zone, in soil with a specific mineral composition that gives the leaf a distinctive yellow-green colour and a honeyed sweetness not found in other sub-village Lóngjǐng. It is the most prized and most expensive single origin within the GI zone.
+**What is the difference between Xīhú Lóngjǐng and Qiántáng Lóngjǐng?**
+Xīhú (West Lake) Lóngjǐng is from a small protected GI zone of five villages in Hángzhōu — the original origin, strictly regulated. Qiántáng Lóngjǐng is from other parts of Zhèjiāng province, made in the same flat-pressed style but different terroir. Qiántáng is usually much cheaper and widely available.
 
-**What is míng qián (明前)?**
-"Before Qīngmíng" — the pre-festival harvest grade, picked before April 5. The first buds of the year have the highest amino acid content (responsible for sweetness and umami) and the lowest catechins (bitterness). The sweetest, most delicate Lóngjǐng of the year. Prices are 5–20× higher than post-Qīngmíng material.
+**What is the difference between Lóngjǐng 43 and Qúntǐ Zhǒng?**
+Lóngjǐng 43 is a cultivar selected in the 1960s for consistent early budding — reliable, uniform, good for míng qián harvests. Qúntǐ Zhǒng is the ancient seed-grown population variety, genetically diverse, less predictable, but typically more complex in flavour. Purists prefer Qúntǐ Zhǒng; it usually costs more.
 
-**What is the difference between Xīhú Lóngjǐng and Zhèjiāng Lóngjǐng?**
-Xīhú Lóngjǐng (西湖龙井) is from the small West Lake GI zone — the original origin, five specific villages. Zhèjiāng Lóngjǐng (浙江龙井) is from other parts of Zhèjiāng province made in the same flat-pressed style — same method, different terroir, generally lower price. Most "Lóngjǐng" on the market is Zhèjiāng Lóngjǐng or not Zhèjiāng at all.
+**How do I know if my Lóngjǐng is authentic Xīhú?**
+Check leaf colour (genuine Shīfēng is yellow-green, not bright green), texture (flat, smooth, uniform — not twisted or broken), and price (authentic míng qián Xīhú cannot be cheap). Ask for GI certification. Most "Lóngjǐng" on the market is Zhèjiāng Lóngjǐng or mislabelled entirely.
 
-**Why must Lóngjǐng be brewed at low temperature?**
-The delicate amino acids and aromatic compounds that give Lóngjǐng its sweetness and fragrance break down rapidly above 85°C. Boiling water would destroy them and extract bitter catechins instead. The correct temperature (75–80°C) extracts sweetness while keeping bitterness minimal.
+**How long does Lóngjǐng keep?**
+Stored sealed in a cool, dark place or refrigerated, fine Lóngjǐng keeps 12–18 months without significant loss. Exposure to air, moisture, or heat degrades it rapidly. Pre-Qīngmíng grades are most delicate — drink within the first season for peak character.
