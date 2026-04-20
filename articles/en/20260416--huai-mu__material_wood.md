@@ -57,14 +57,17 @@ In the wénwán (文玩) tradition, huái mù bracelets and beads are valued mor
 
 ## FAQ
 
-**What is huái mù?**
-Huái mù (槐木) is the wood of the Chinese scholar tree (*Styphnolobium japonicum*), a species cultivated across northern China for over three thousand years. It is a dense, stable hardwood (0.79–0.81 g/cm³) naturally resistant to moisture and insects, with a coarse grain that reveals a warm golden-brown lustre once worked. The tree carries deep cultural significance linked to scholars and government service.
+**Is huái mù the same as black locust wood (robinia)?**
+No, but they are frequently conflated. Huái mù properly refers to *Styphnolobium japonicum* (国槐 guóhuái, "national scholar tree"), native to China. *Robinia pseudoacacia* (刺槐 cìhuái / 黑槐 hēihuái, black locust) is a North American species introduced to China that shares similar density and insect resistance. Both circulate in the Chinese timber trade under the huái name; the traditional cultural significance belongs exclusively to *S. japonicum*.
 
-**Why is the scholar tree considered auspicious?**
-The *Rites of Zhou* records three scholar trees planted in the Zhou royal court to mark seats of the three highest ministers. Through the Tang and Song dynasties, the trees came to symbolise examination success — planted at examination halls, with the character 槐 (huái) seen as visually similar to 魁 (kuí, "first place"). Scholar families planted them to invoke the "three senior ministers" aspiration for their descendants.
+**Why is the character 槐 (huái) written with the ghost radical?**
+The character combines 木 (mù, wood) with 鬼 (guǐ, ghost or spirit). This compound reflects the tree's ancient association with the spirit world — huái trees were planted at grave sites and temple courtyards where they were thought to shelter ancestral spirits. The same character that links the tree to ghosts is the one that links it to scholars: in Chinese literary tradition, the great ancestors of scholar families were believed to watch over their descendants' examinations through the tree.
 
-**How does huái mù compare to huánghuālí?**
-Huánghuālí is oilier, more figured, and dramatically more valuable. Huái mù is harder, denser, and more structurally practical — used throughout northern Chinese furniture construction for its stability and insect resistance. Huánghuālí was reserved for fine decorative pieces; huái mù was used where strength and longevity mattered more than visual spectacle.
+**Is the Chinese scholar tree the same as the Japanese pagoda tree?**
+Same tree, different names. *Styphnolobium japonicum* is native to China and Korea, not Japan — the "Japanese" in its former botanical name (*Sophora japonica*) was a naming error from early Linnean taxonomy. "Pagoda tree" reflects its use in Buddhist temple plantings. "Scholar tree" (学者树 or 槐树) is the culturally accurate name in both Chinese and English usage.
 
-**What does huái mù patina look like?**
-Freshly worked heartwood is pale to golden-yellow. With age it deepens toward warm amber-brown. Bāojiāng (包浆) develops slowly — the surface takes on a mellow honey glow over decades of handling, deepening into rùn (润), a jade-like inner luminosity, without the dramatic darkening seen in oilier species. Antique huái mù furniture shows a deep amber colour that is difficult to artificially replicate.
+**How does huái mù compare to northern elm (yú mù)?**
+Both are the most common northern Chinese furniture hardwoods — elm (榆木 yú mù) covering perhaps 95% of surviving regional furniture production. Huái mù is appreciably denser (0.79–0.81 g/cm³ vs. elm's 0.65–0.75), more insect-resistant, and harder to work. Elm has more visually dramatic wave-like grain; huái mù is finer-textured but gives a superior polished surface. Both age to warm amber; huái mù's patina is typically slower but deeper.
+
+**Is huái mù restricted by CITES or endangered, like huánghuālí?**
+No. Huái mù is not listed under CITES and is not a protected species. It grows extensively across northern China and is commercially available without trade restrictions. This makes it a straightforward ethical choice for woodwork and wénwán beads, unlike huánghuālí (*Dalbergia odorifera*), which is subject to CITES Appendix II controls on raw material trade.
