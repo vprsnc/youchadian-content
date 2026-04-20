@@ -17,7 +17,7 @@ Bowl-and-saucer tea vessels are documented in Chinese records from the 7th–9th
 
 By the Qīng dynasty (1644–1911), Manchurian court culture had made the tall gàiwǎn the standard vessel for loose-leaf tea consumed in the same cup it was brewed in. Taller designs allowed stronger leaf to settle toward the bottom while lighter, aromatic liquor floated at the top — the drinker sipped the surface without disturbing the sediment.
 
-In Sìchuān (四川) teahouses this tradition remained unbroken. Servers pour boiling water from long-spouted kettles directly into gaiwans at the table; drinkers sip through the gap created by the tilted lid throughout a long, unhurried session. The gōngdào bēi never appears.
+In Sìchuān (四川) teahouses this tradition remained unbroken. Servers pour boiling water from long-spouted kettles directly into gaiwans at the table; drinkers sip through the gap created by the tilted lid throughout a long, unhurried session. The gōngdào bēi never appears. Roaming vendors weave between tables selling sunflower seeds (瓜子 guāzi) and peanuts (花生 huāshēng) — slow cracking of seeds and slow sipping of tea share the same unhurried rhythm, and both are considered part of the teahouse experience.
 
 **TL;DR:** The gàiwǎn was designed as a drinking vessel first. Its bowl-and-saucer form dates to 7th–9th century China; the Qīng court made it standard for loose-leaf tea. Sìchuān teahouses retain the original solo-drinking tradition today.
 
