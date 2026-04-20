@@ -47,7 +47,7 @@ Tàiháng yá bǎi beads and bracelets are a major category in the wénwán (文
 | Fragrance | Present and round when bead is warmed in the palm; not sharp or chemical |
 | Weight | Noticeably dense for the size — heavy beads indicate old, compressed growth |
 
-Bāojiāng (包浆) develops readily in cliff cypress: skin oils interact with the wood's natural resin, deepening the colour toward amber-brown and intensifying grain contrast. The fragrance evolves as skin chemistry blends with the wood's oils.
+Bāojiāng (包浆) develops readily in cliff cypress: skin oils interact with the wood's natural resin, deepening the colour toward amber-brown and intensifying grain contrast. With sustained wear, the patina achieves rùn (润) — a warm, jade-like inner luminosity visible in raking light. The fragrance evolves as skin chemistry blends with the wood's oils.
 
 ## Relationship to Incense
 
@@ -71,7 +71,7 @@ Slow growth in dry, nutrient-poor cliff environments forces the tree to produce 
 Six main patterns: sparrow eye (麻雀眼) — small knot cross-sections resembling bird eyes; flame (火焰纹) — radiant bursts at knot centres; water wave (水波纹) — fine undulating lines; tiger stripe (虎皮纹) — dark resin-sealed growth cracks; cloud (云纹) — layered swirls in high-oil material; bodhisattva (菩萨纹) — rare concentric spirals, considered most auspicious.
 
 **How do cliff cypress beads develop patina?**
-Skin oils interact with the wood's natural resins during wear, deepening colour toward amber-brown, increasing grain contrast, and modulating the fragrance as body chemistry blends with wood oils. The process is similar to huánghuālí bāojiāng but typically faster due to the higher resin content.
+Skin oils interact with the wood's natural resins during wear, deepening colour toward amber-brown, increasing grain contrast, and modulating the fragrance as body chemistry blends with wood oils. With sustained wear, bāojiāng achieves rùn (润) — a jade-like inner luminosity. The process is similar to huánghuālí bāojiāng but typically faster due to the higher resin content.
 
 **Is tàiháng yá bǎi legal to buy?**
 Living trees are protected. Legitimately traded material is harvested from ancient deadwood (枯木), root sections (根料), or naturally fallen trees. Buyers should confirm sourcing when purchasing high-grade material.
