@@ -68,17 +68,17 @@ For wearable beads and carved objects, tánxiāng beads develop a mild patina (b
 
 ## FAQ
 
-**What is tánxiāng?**
-Tánxiāng (檀香) is the Chinese name for sandalwood — specifically the heartwood of *Santalum album* and related species. Used in Chinese incense, Buddhist ritual, and traditional medicine for roughly 2,000 years. The fragrance is milky, creamy, and sweet — the reference base note in Chinese incense blending.
+**Is sandalwood incense safe to burn indoors?**
+Genuine sandalwood wood incense is among the safer incense materials — it burns relatively cleanly compared to synthetic or heavily blended sticks. The primary concern is particulate matter from any combustion; adequate ventilation reduces this. Authentic wood chips or powder produce far less smoke than mass-market incense sticks (which contain binders, charcoal, and often synthetic fragrance). For daily indoor use: indirect heat (no combustion) is the cleanest method; if burning directly, ensure air exchange.
 
-**What is Lǎo Shān sandalwood?**
-Lǎo Shān (老山, "old mountain") is the Chinese term for *Santalum album* from the Mysore region of Karnataka, India — the globally recognised gold standard. It is defined by its exceptionally rich, milky-buttery fragrance with no harsh notes. Karnataka Forest Department controls supply; genuine Lǎo Shān is scarce and commands a significant premium.
+**How does Lǎo Shān (Mysore) sandalwood actually differ from Australian?**
+Chinese practitioners put it plainly: Lǎo Shān raw material costs dozens of times more than Australian. Fragrance character: Lǎo Shān is dense, milky, buttery, with subtle rose and animalic warmth — fragrance is consistent from first inhale to long dry-down. Australian is lighter, slightly drier, occasionally has a faint "off" note at lower grades. Critical difference: premium Lǎo Shān must age 20–30 years after cutting for the wood character to fully mellow — newly cut material, even from Mysore trees, does not yet show the full profile.
 
-**How does tánxiāng differ from chénxiāng?**
-Tánxiāng (sandalwood) forms in healthy trees and is present across the heartwood — it's a tree product rather than a wound response. Chénxiāng (agarwood) forms only where a tree was wounded and produces resin. Tánxiāng has a bright, milky, creamy character; chénxiāng is darker, deeper, and more complex. Tánxiāng is often used as a base in compound incense formulas.
+**Does burning sandalwood actually help with meditation or anxiety?**
+Research suggests modest measurable effects: one study found sandalol inhalation reduces cortisol levels by approximately 24% and increases attentiveness. In practice, the fragrance is low-volatility and sustained — it does not spike then disappear, which supports sustained focus rather than a brief aromatic hit. The Buddhist tradition's choice of sandalwood for temple use was empirically grounded: it creates ambient calm without overwhelming the senses. These effects are real but modest — sandalwood is not a pharmacological intervention.
 
-**Is sandalwood endangered?**
-Wild *Santalum album* in India is classified as Vulnerable (IUCN). Karnataka's Mysore sandalwood is government-controlled. Commercial supply now primarily comes from certified Australian and Fijian plantations. Unlike chénxiāng, sandalwood is not currently CITES listed, but wild Indian supply is tightly restricted.
+**Why does sandalwood take so long to grow, and why does age matter?**
+*Santalum album* is hemiparasitic — its roots attach to neighbouring trees and parasitise their root systems for water and nutrients. This dependency slows growth dramatically. Usable heartwood doesn't form until trees are at least 15–20 years old; genuinely high-quality, oil-rich heartwood requires 40–60+ years. After cutting, the wood continues to develop — Chinese sources recommend aging Lǎo Shān a further 20–40 years post-harvest for the fragrance to reach its most refined state. This is why old-growth antique pieces command extraordinary prices.
 
-**What does tánxiāng smell like?**
-Rich, milky, buttery, sweet, with a warm woody base — often described as creamy or dairy-like. High-grade Lǎo Shān specifically lacks any harsh or green notes. The fragrance is persistent and low-volatility, staying close to the skin in wearables and lasting for hours in incense form.
+**What is "red sandalwood" — is it the same as tánxiāng?**
+No — completely different plant, family, and use. Red sandalwood is xiǎo yè zǐtán (小叶紫檀, *Pterocarpus santalinus*), a dense Indian hardwood used for decorative woodwork and wénwán beads. It has no significant fragrance and is botanically unrelated to *Santalum album*. The name "red sandalwood" is a historical misnomer. Tánxiāng (白檀香, white sandalwood) is the aromatic species; zǐtán is the red decorative wood. They share a character in translation but are entirely different materials.
