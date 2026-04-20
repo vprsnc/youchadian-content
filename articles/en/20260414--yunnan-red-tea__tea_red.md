@@ -101,17 +101,17 @@ Diān hóng is one of the Chinese red teas that pairs well with a small amount o
 
 ## FAQ
 
-**What is Diān Hóng?**
-Diān Hóng (滇红) is a group of fully-oxidised red teas from Yúnnán province, China. 滇 (diān) is the classical abbreviation for Yúnnán; 红 (hóng) means red. It is made from the large-leaf Camellia sinensis var. assamica cultivar and is distinguished by prominent golden bud tips, full body, malty sweetness, and minimal astringency.
+**Is Diān Hóng the same as Indian Assam? Both use assamica.**
+Both use C. sinensis var. assamica, but the genetic populations diverged thousands of years ago. Yúnnán assamica: ancient tree populations, high altitude, significant diurnal temperature variation → sweeter, more complex, less astringent. Indian Assam: monoculture plantation cultivars, tropical valley → bolder, more brisk, higher tannin. Related origin, very different teas — Diān Hóng is notably sweeter and less harsh.
 
-**What are the different grades of Diān Hóng?**
-Grades by golden-tip content: Pure Gold / Jīn Yá (100% golden buds — sweetest, most aromatic), Golden Yunnan (high bud content, balanced), Gōngfū grade (twisted strip-form leaf, full-bodied malt), and Broken (for blends). The more golden tips, the more labour-intensive the harvest and the higher the price.
+**Is "Yunnan gold," "Yunnan black," or "Golden Yunnan" the same as Diān Hóng?**
+Yes — these are Western marketing names for the same product. "Yunnan black" typically means standard Gōngfū-grade leaf; "Yunnan gold" or "Golden Yunnan" usually indicates a higher golden-tip (金毫) grade. In Chinese, all of these are 滇红 (diān hóng).
 
-**What is shài hóng (sun-dried Diān Hóng)?**
-Shài hóng (晒红) is Diān Hóng dried in sunlight instead of an oven. The slower drying retains different aromatic compounds, produces a slightly greener, more complex character initially, and — unlike oven-dried red tea — allows aging over years, developing toward aged white tea or raw pǔ'ěr complexity. Sometimes pressed into cakes.
+**What is 经典58 ("Classic 58")?**
+经典58 is the benchmark product of 凤牌 Fèng Pái — the brand of the original Diānhóng Group factory in Fèngqìng. "58" refers to 1958, when the standard formula was refined. Gōngfū-grade twisted-strip leaf, malty and balanced. The most widely referenced entry-level named Diān Hóng — a useful orientation point for the category.
 
-**How does Diān Hóng differ from Ānhuī or Fújiàn red teas?**
-Diān Hóng uses large-leaf assamica (higher polyphenols → full body, prominent malt). Ānhuī Keemun uses small-leaf sinensis (lighter, more aromatic orchid-stone fruit bouquet). Fújiàn Zhèngshān Xiǎozhǒng uses small-leaf cultivar (honey-sweet or smoky depending on processing). Diān Hóng is the boldest of the three.
+**How does ancient tree Diān Hóng (古树滇红) differ from plantation?**
+Ancient tree (古树) Diān Hóng uses material from tea trees hundreds of years old growing in mountain forests — not plantation bushes. Character: more mineral, complex aromatics, hints of raw pǔ'ěr, strong returning sweetness (huígān 回甘). Price: ¥1,000–2,500/500g. Standard plantation Diān Hóng: cleaner malt-honey profile, more consistent, more accessible. Both are genuine — just different raw material.
 
-**How do you brew Diān Hóng?**
-90–95°C; golden-tip grades at 88–92°C to preserve bud aromatics. 5–6 g per 100 ml gōngfū; 3 g per 200 ml Western. 15–25s first steep gōngfū, 4–6 infusions for tip grades. Gōngfū-grade leaf tolerates a small amount of milk. Do not rinse.
+**What should Diān Hóng cost?**
+Entry-level Gōngfū grade: ¥80–200/500g. Good golden-tip grade: ¥200–500/500g. Premium pure-gold all-bud: ¥500–1,000/500g. Ancient tree red: ¥1,000–2,500+/500g. Reputable brands: 凤牌 Fèng Pái (经典58 flagship), 昌宁红 Chāngnínghóng, 蒲门 Pú Mén. More accessible in price than Keemun or Jīn Jùn Méi at equivalent quality tiers.
