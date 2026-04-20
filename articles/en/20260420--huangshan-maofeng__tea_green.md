@@ -83,14 +83,17 @@ Glass or porcelain is preferred — unglazed yixing clay would absorb the delica
 
 ## FAQ
 
-**What does Huángshān Máofēng mean?**
-黄山 (Huángshān) = Yellow Mountain; 毛 (máo) = fine hair/down; 峰 (fēng) = peak. The name describes both the origin (the mountain range) and the appearance — each piece shows a white-tipped bud that resembles a mountain peak covered in down.
+**What are the different grades of Máofēng?**
+The grade system runs from 特级 (tèjí, special grade) down through 一级, 二级, 三级 (first, second, third grade). Special grade itself is subdivided: tèjí yī (one bud, one leaf — the finest), tèjí èr (one bud, two leaves), tèjí sān (one bud, three leaves). More bud relative to leaf = higher grade = lighter, sweeter, more aromatic. Lower grades have more body but less delicacy.
 
-**What is the "golden fish leaf" in Máofēng?**
-A tiny pale golden leaf fragment (黄金片 huángjīn piàn) attached at the base of each tea piece — a small undeveloped leaf that remains when the bud-and-leaf is harvested. Considered a mark of genuine Huángshān material; if this piece is absent across a batch, the tea may be from a different origin.
+**What is the difference between míng qián and gǔ yǔ Máofēng?**
+Míng qián (明前, pre-Qīngmíng, before ~April 5) produces the most delicate, aromatic tea — cold temperatures slow growth, concentrating amino acids. Gǔ yǔ (谷雨, harvested before ~April 20) is warmer-season material: slightly more body and brew strength, less refined fragrance. Míng qián commands a significant price premium; gǔ yǔ offers a more flavourful, forgiving cup. Both are genuine spring Máofēng.
 
-**Is Máofēng a good tea for beginners?**
-Yes — its extreme gentleness and lack of bitterness make it one of the most accessible Chinese greens. At correct temperature (75–80°C) and ratio, it is very difficult to make bitter. A good entry point into Chinese green tea.
+**How do I identify genuine high-quality Máofēng?**
+Look for: leaves with a green-tinged-yellow hue (not bright green), fine white hairs visible on the bud end, and the small golden fish leaf (黄金片 huángjīn piàn) at the base of each piece. In the cup: no bitterness — a persistent bitter taste is the clearest sign of non-origin material or poor handling. Genuine Huángshān Máofēng has held national geographic indication protection since 2008; authentic packaging displays the GI mark.
+
+**How should I store Máofēng?**
+Consume within 2–3 months of opening for peak freshness. Sealed, it keeps for 12–18 months — refrigerated at around 5°C extends this further. Keep it airtight, away from light and strong odours. If stored in the fridge, bring the sealed package to room temperature before opening to avoid condensation damaging the leaf.
 
 **How does Máofēng compare to Lóngjǐng?**
-Both are high-grade Chinese greens, but very different. Lóngjǐng is flat-pressed, pan-fired longer, with toasted-chestnut notes and a firmer structure. Máofēng is delicate, curved, lightly processed, with an orchid fragrance and almost no toasted character. Lóngjǐng has more body; Máofēng more delicacy.
+Both are high-grade Chinese greens, but very different. Lóngjǐng is flat-pressed, pan-fired longer — toasted-chestnut notes, firm structure, deeper body. Máofēng is curved, lightly processed — orchid fragrance, almost no toasted character, extreme delicacy. Lóngjǐng is more structured and forgiving to brew; Máofēng rewards attention to temperature and ratio.
