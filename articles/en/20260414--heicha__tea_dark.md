@@ -72,17 +72,17 @@ Lovastatin — a natural statin — is detected in pǔ'ěr at 61.8 mg/kg (2003 s
 
 ## FAQ
 
-**What is hēichá?**
-Hēichá (黑茶, "dark tea") is one of China's six official tea categories, defined by post-fermentation driven by microorganisms — bacteria and fungi that transform the leaf after kill-green. It includes six distinct regional teas: Yunnan pǔ'ěr, Hunan Fu brick, Guangxi Liu Bao, Anhui Liu'an, Sichuan Tibetan tea, and Hubei Qingzhuan.
+**Is the mould in Fu brick tea safe to drink?**
+Yes — *Eurotium cristatum* (the golden flowers 金花) is a deliberately cultivated beneficial fungus, not contamination. Research confirms it is safe and has antimicrobial properties that prevent harmful mould growth inside the brick. One caveat: wheat or barley flour is sometimes used as a growth substrate during pressing — verify with the manufacturer if you have a gluten sensitivity. Unrelated note: black, green, or foul-smelling mould on tea stored incorrectly is not *Eurotium* and should be discarded.
 
-**How does hēichá differ from western black tea?**
-Despite the colour-based naming overlap, they are unrelated. Western "black tea" (hóngchá 红茶 in Chinese, meaning "red tea") is fully oxidised before firing — a process taking hours. Hēichá undergoes microbial fermentation *after* production — a fundamentally different process taking weeks to decades. Hēichá liquor is typically darker and earthier.
+**Which hēichá should a beginner try first?**
+Hunan Fu brick (茯砖 fú zhuān) is the most recommended entry point — approachable flavour, not aggressively earthy, and the golden flowers make it distinctively interesting without being challenging. Guangxi Liu Bao is the second natural choice: smooth, slightly woody, with a pleasant aged sweetness. Avoid starting with very old compressed pǔ'ěr or Tibetan brick tea — both require more context to appreciate.
 
-**What are the 金花 golden flowers in Fu brick tea?**
-金花 (jīnhuā) are visible colonies of *Eurotium cristatum*, a beneficial mould that grows inside compressed Fu brick during the fāhuā (发花, "flowering") stage. These yellow-orange spore clusters produce enzymes that break down tannins, giving Fu brick its smooth, mellow character. Their presence is a quality marker, not a defect.
+**How do you store hēichá at home for aging?**
+Key conditions: dry (60–70% RH maximum), dark, well-ventilated, away from odours. Hēichá absorbs smells readily — never store near coffee, spices, or strong-smelling foods. Unwrapped bricks can rest in a ceramic container or paper bag; plastic seals fermentation off. Room temperature is correct — no refrigeration. White bloom on the surface of a dry-stored brick is typically harmless surface yeast, not a problem.
 
-**What does hēichá taste like?**
-Hēichá ranges widely by type. Common notes: earthy, forest floor, dried dates, damp wood, dark chocolate. Aged hēichá develops incense, dried longan, and camphor. Fu brick has distinctive mellow-smooth qualities from Eurotium cristatum metabolism. Liu Bao aged in Malaysian warehouses shows betel nut and herbal notes.
+**Why does hēichá smell earthy or musty — is that normal?**
+Yes — the earthy, forest-floor, or aged-wood character is produced by microbial metabolism and is the defining sensory quality of the category. Young shú pǔ'ěr may have a stronger "pile smell" (堆味 duī wèi) from the wòduī fermentation process; this dissipates with 2–5 years of open storage. A clean earthy aroma is correct. A sour, sharp, or chemical smell indicates poor storage or a processing fault.
 
-**How do you brew hēichá?**
-Use 100°C boiling water — hēichá is robust and needs full heat. Ratio: 7–8 g per 100 ml. For pressed forms: one 10-second rinse before the first steep to open leaves and remove dust. For young shú pǔ'ěr: double rinse to reduce wòduī fermentation smell. Quality hēichá sustains 8–12+ steepings.
+**Does fermentation reduce caffeine in hēichá?**
+Partially. Microbial activity during fermentation metabolises a portion of the caffeine — well-aged hēichá typically contains measurably less caffeine than fresh-processed tea from the same leaf. The reduction is real but not dramatic enough to treat hēichá as caffeine-free. Shú pǔ'ěr tends to run lower than shēng; *Eurotium cristatum* enzymes in Fu brick also break down caffeine compounds during the golden-flower stage.
