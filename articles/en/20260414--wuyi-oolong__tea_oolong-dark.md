@@ -137,17 +137,17 @@ The tea changes significantly across steeps: early infusions emphasise roast and
 
 ## FAQ
 
-**What are the main yánchá cultivars?**
-The two dominant cultivars are ròuguì (肉桂, cinnamon rock oolong — assertive, spicy, terroir-sensitive) and shuǐxiān (水仙, narcissus — deeper, woodier, ages well). Dà hóng páo is either a blend of these two or, rarely, tea from propagated cuttings of the original six protected mother trees.
+**Should I start with ròuguì or shuǐxiān?**
+Depends on preference. Ròuguì is bolder and immediately distinctive — cinnamon warmth, stone fruit, high impact. Choose it if you want a memorable first impression. Shuǐxiān is deeper, smoother, and more meditative — better if you prefer subtlety and long-evolving flavour. A good blended dà hóng páo (which combines both cultivars) is also a sensible entry point before committing to single-cultivar teas.
 
-**What is yányùn?**
-Yányùn (岩韵, rock rhyme) is the mineral depth and lingering resonance characteristic of genuine Wǔyí rock tea. It presents as a persistent mineral aftertaste (huí gān, returning sweetness), full mouthfeel, and aromatic depth that evolves through many infusions. It is attributed to the volcanic basalt soils and mineral-rich water of the Wǔyí mountains.
+**Can yánchá be aged, and does it improve?**
+Yes — roasted yánchá has real aging potential, unlike green tea. Light roast: best within 6–12 months. Medium roast: around 1 year. Full/heavy roast: 1–2 years for the fire to settle, then can continue developing for years beyond that. The Chinese industry standard designates 4–20 years as 陈岩茶 (chén yánchá, aged rock tea) and 21+ years as 老岩茶 (lǎo yánchá). A unique property: moisture-damaged yánchá can be restored by re-roasting (复焙 fùbèi) — no other major tea category offers this.
 
-**What is the difference between zhèng yán and bàn yán yánchá?**
-Zhèng yán (正岩, true rock) tea grows within the Sānkēng Liǎngjiàn core zone of the Wǔyí nature reserve — highest mineral concentration, highest price. Bàn yán (半岩, half-rock) grows in surrounding areas with good but not optimal conditions. Zhōu chá (洲茶) grows in the plains outside the mountains — similar processing, minimal terroir character.
+**Why do some yánchá cost so much more than others?**
+The main driver is mountain position. Within the zhèng yán core zone, specific gorges command extreme premiums. Niúlán Kēng (牛栏坑) ròuguì — nicknamed 牛肉 (niúròu, "beef") — grows in a ~30-acre gorge producing roughly 2,000 jin per year; prices have reached ¥100,000/jin. The scarcity makes counterfeiting endemic: Chinese industry insiders describe it as "十牛八假" — of every ten portions sold as Niúlán Kēng, eight are fake. Treat unverified sourcing claims for any premium-priced gorge tea with scepticism.
 
-**How should yánchá be brewed?**
-95–100°C water — never lower. 6–8 g per 100 ml. Flash rinse first. Steep 10–15 seconds first infusion, increasing each round. Use a yixing teapot or gàiwǎn. Expect 8–12 infusions. Heavily roasted teas need 1–3 months of rest (tuì huǒ) after roasting before drinking.
+**How should I store yánchá?**
+Room temperature — not refrigerated. Unlike green tea, yánchá's roasted character requires stable, dry conditions rather than cold storage. Keep sealed in foil-lined pouches or tins, away from light and strong odours. If a tea absorbs moisture and loses its character, it can be re-roasted (复焙 fùbèi) by a skilled roaster to restore it — a practical option not available for green or white teas.
 
-**What is tuì huǒ?**
-Tuì huǒ (退火, withdrawal of fire) is the resting period required after heavy charcoal roasting — typically 1–3 months. During this time, harsh volatile roasting notes dissipate and the tea integrates. A freshly roasted yánchá is informative to taste but not representative of its mature character.
+**What is the difference between blended dà hóng páo and single-cultivar yánchá?**
+Most dà hóng páo on the market is a blend of ròuguì, shuǐxiān, and other cultivars — designed for balance and accessibility, less price-volatile than single-origin teas. Single-cultivar ròuguì or shuǐxiān expresses one variety's character without moderation: ròuguì is bolder and spicier; shuǐxiān deeper and woodier. Blended dà hóng páo is a good starting point; single-cultivar teas reward exploration once you know which direction you prefer.
