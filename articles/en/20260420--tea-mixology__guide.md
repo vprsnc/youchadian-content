@@ -171,20 +171,17 @@ Dried flowers, peel, and herbs are concentrated. A standard starting point: 1–
 
 ## FAQ
 
-**What is the difference between jasmine tea scenting and mixing flowers into tea?**
-Scenting (熏花 xūn huā) uses fresh flowers to perfume dry tea leaves over days — flowers are removed before sale. The fragrance is inside the leaf. Mixing (拼配 pīnpèi) keeps the dried flowers in the blend and brews them together. Scented jasmine green tea carries more integrated fragrance; mixed chrysanthemum or osmanthus blends show both components clearly in the cup.
+**Can I use fresh flowers instead of dried for blending?**
+Depends on the flower. Chrysanthemum: fresh flowers work well brewed directly — wash first, use 3–5 heads per 300 ml, brew at 90°C. Rose petals: fresh petals can be used but produce a lighter, more floral result than dried; they don't keep, so brew immediately. Jasmine: fresh jasmine flowers are not brewed directly — they have little flavour alone. Instead, layer fresh jasmine blossoms with dry tea overnight (the scenting method) to transfer fragrance, then remove the flowers before brewing. Osmanthus: use dried, not fresh — fresh osmanthus is seasonally very limited and loses fragrance within hours.
 
-**What does 凉茶 mean and is it actually tea?**
-Liángchá (凉茶) means "cooling drink" — it is not necessarily made from Camellia sinensis. It is a Cantonese tradition of herbal infusions made from heat-clearing botanicals (chrysanthemum, honeysuckle, loquat leaf) that "cool" the body in the TCM sense. Many liángchá formulas contain no tea leaf at all.
+**Is it safe to drink chrysanthemum tea every day?**
+In TCM, chrysanthemum is classified as "cold" in nature — prolonged or heavy daily use cools the body, which is appropriate during hot weather or heat conditions but problematic for those with a cold constitution (feeling cold, poor circulation, weak digestion). Most TCM practitioners recommend moderation: 1–2 cups per day maximum, not every day for extended periods. If you add goji berry to your chrysanthemum brew, the warming quality of goji partially counterbalances chrysanthemum's cooling effect, making the blend more suitable for regular consumption. Note also that chrysanthemum may interact with statin medications.
 
-**How much chénpí should I add to a tea blend?**
-For ripe pu-erh: 2–4 small pieces (3–5g total) per 5–6g of tea, brewed at 95°C. For aged white tea: 1–2 small pieces alongside 3–4g of leaf, at 85–90°C. For roasted oolong: 1 small piece per 5g leaf, 95°C, quick first steeps. Proportion scales down with younger, more delicate peel — older peel is milder and can be used more generously.
+**Which flower or herb combinations should I avoid?**
+Two high-volatility aromatics together — jasmine + osmanthus, rose + jasmine — fight each other rather than harmonising. Multiple cold-natured botanicals in one cup (chrysanthemum + honeysuckle + loquat leaf) can over-cool the body, particularly in winter or for cold-constitution drinkers. Strongly flavoured herbs (licorice, ginger, dried hawthorn) tend to overpower any tea base — use them alone as standalone infusions, not in mixology combinations. The principle from Rule 3: two aromatics rarely coexist productively; pair aroma with structure, not aroma with aroma.
 
-**Can I blend green tea with herbs and botanicals?**
-Yes, but use restraint — green tea's fresh vegetal character is easily overpowered. Light additions work: 1–2g osmanthus, a few dried jasmine buds, one small piece of chénpí. Avoid ginger, licorice, or strongly aromatic herbs entirely. Jasmine green tea succeeds because live-flower scenting integrates more gently than adding dried flowers directly.
+**What is the easiest first blend to try as a beginner?**
+Osmanthus + roasted tiě guānyīn: 5g roasted oolong, 1–2g dried osmanthus flowers, 90–95°C, brew as usual. The osmanthus adds caramel-sweet warmth that complements the charcoal notes of any medium-to-dark roasted oolong. No additional equipment, no TCM knowledge needed — the combination is forgiving, the ratio flexible, and both components are widely available. If you don't have roasted oolong, chrysanthemum + goji berry (no tea base, 90°C, 5 minutes) is the second-easiest introduction.
 
-**What is gānpǔ chá?**
-柑普茶 — whole small mandarins from Xīnhuì cored and filled with compressed ripe pu-erh, then dried. 柑 (gān) = mandarin, 普 (pǔ) = pu-erh. Peel and tea age together after production, creating a unified flavour profile. It is the most elaborate form of chénpí-pu-erh blending. See [Chénpí](/wiki/chenpi) for detail.
-
-**What Chinese teas work best for cold brew?**
-Ripe pu-erh (shou) — cocoa and earthy notes emerge distinctly. Medium-roasted yancha or oolong — mineral sweetness. White tea (especially aged) — clean, honeyed, effortless. Green teas work but require shorter times (3–4 hours) to avoid bitterness. Heavily scented teas (jasmine, osmanthus) do not cold-brew well — their volatile oils don't extract at low temperatures.
+**Can I make Chinese flower or herbal blends without any Camellia sinensis?**
+Yes — and this is the norm in liángchá (凉茶) practice. Chrysanthemum alone, honeysuckle alone, chrysanthemum + goji + rock sugar, or more complex liángchá formulas (chrysanthemum + honeysuckle + loquat leaf) are all caffeine-free and require no tea base. These are not teas in the botanical sense; they are infusions. For caffeine-free daily drinking that follows the mixology logic in this article, pure chrysanthemum with goji berry is the most practical starting point — cooling/warming balance, mildly sweet, seasonally flexible.
