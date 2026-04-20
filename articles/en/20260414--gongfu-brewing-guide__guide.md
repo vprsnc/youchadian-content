@@ -86,17 +86,17 @@ Mixed grades, summer harvests, and damaged material show in the leaf bottom even
 
 ## FAQ
 
-**What is gōngfū chá?**
-Gōngfū chá (功夫茶) is the Chinese method of brewing tea with a small vessel, high leaf-to-water ratio (1 g per 10–15 ml for oolongs), and multiple short sequential steeps. It originated in Cháozhōu, Guǎngdōng. The name means "tea with skill" — gōngfū (功夫) means applied effort and mastery.
+**Do I need a gàiwǎn, or can I use something else?**
+The gàiwǎn is ideal but not essential. Gōngfū brewing is defined by the ratio and method, not the vessel. Any small vessel works — a small teapot, a thick-walled ceramic cup, even two regular mugs (fill one with leaf and water, strain into the second). The gàiwǎn's advantages are neutrality (no flavour absorption), heat visibility, and easy leaf inspection. Start with what you have; upgrade when you understand what you're optimising for.
 
-**What equipment do I need for gōngfū brewing?**
-A gàiwǎn (100–150 ml) or small yíxīng teapot, a pitcher (公道杯 gōngdào bēi) to stop extraction and equalise pours, small tasting cups (30–50 ml), and a variable-temperature kettle. A tea tray is useful for catching rinse water.
+**How is gōngfū brewing different from western-style brewing?**
+Western brewing: one steep, 1–3 minutes, 2–3 g per 250 ml. Gōngfū: 6–12 steeps, 10–30 seconds each, 6–8 g per 100 ml. The higher ratio produces more concentrated and intense flavour; the shorter steeps prevent over-extraction. Crucially, gōngfū reveals how a tea evolves across infusions — early steeps show aroma, middle steeps show body and complexity, later steeps show endurance. A single western steep compresses this into one undifferentiated cup.
 
-**What water temperature should I use?**
-75–80°C for green tea; 80–85°C for fresh white tea; 90–95°C for light oolongs and red tea; 95–100°C for roasted oolongs and pǔ'ěr. Wrong temperature is the most common cause of bitter or flat results.
+**Is gōngfū brewing practical for everyday use?**
+Yes — once the timings become habitual, a gōngfū session takes no longer than making coffee. The ritual aspect is optional; the method is not inherently slow. Many practitioners brew gōngfū daily while working, using the multiple infusions across an hour or two. The minimum setup is a small gàiwǎn, a cup, and a kettle — no tray, no pitcher required for solo sessions.
 
-**How many times can I steep the same leaves?**
-Quality oolongs and pǔ'ěr yield 6–10+ infusions. Green and white teas typically give 2–3. Rock oolongs often peak at the third or fourth steep. Add 5–15 seconds per successive steep; watch the liquor colour in the pitcher.
+**How do I hold the gàiwǎn without burning my fingers?**
+Thumb and middle finger grip opposite sides of the bowl rim (not the body, which holds heat). Index finger presses lightly on the lid knob from above. This three-point grip keeps all contact at the cooler rim edge. Tilt the lid slightly to create a gap for pouring; the gap angle controls flow speed. A poorly shaped gàiwǎn with a narrow rim is harder to hold — rim diameter matters as much as volume when choosing one.
 
-**Why must I pour completely between steeps?**
-Residual liquid in the vessel continues extracting from the wet leaf. Each subsequent steep becomes stronger or more bitter than intended, collapsing the progression of flavours across the session.
+**Which teas suit gōngfū brewing, and which don't?**
+Best suited: oolongs (all styles), pǔ'ěr (shēng and shú), aged white tea, Chinese red tea. These teas have multi-steep depth — each infusion reveals something new. Less suited: most green teas (the leaf exhausts quickly; 2–3 steeps maximum, better in a glass), cheap commodity teas (no depth to reveal), and mass-market tea bags (the leaf is ground too fine for this method).
