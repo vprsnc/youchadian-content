@@ -93,17 +93,17 @@ Note: dāncōng is sometimes perceived as bitter by those used to lighter oolong
 
 ## FAQ
 
-**What is dāncōng oolong?**
-Dāncōng (单枞) is a style of oolong from Fènghuáng (Phoenix) Mountain in Cháozhōu county, Guǎngdōng. "Single bush" refers to the practice of harvesting and processing individual trees separately, each with a distinct aromatic character. It is the traditional tea of Cháozhōu gōngfū chá.
+**Does harvest season matter for dāncōng?**
+Significantly. High-altitude dāncōng is picked only once a year — spring (清明 Qīngmíng to 谷雨 Gǔyǔ, roughly April 4–20). After winter dormancy, trees accumulate nutrients, yielding tighter leaves, fuller flavour, and cleaner huí gān. Lower-elevation gardens add summer and autumn harvests; winter tea (雪片 xuě piàn, "snow flake") is light-bodied and fragrance-forward but considered a step below spring.
 
-**Why is one dāncōng called "duck droppings"?**
-Yā shǐ xiāng (鸭屎香) was deliberately named "duck droppings fragrance" by a farmer to discourage thieves from stealing cuttings of his exceptional bush. The tea itself is high-floral, jasmine-forward, and buttery — also sold as Yín Huā Táng (silver flower candy) in some markets.
+**Why do dāncōng prices vary so much?**
+Three factors: mountain position (山位 shān wèi), tree age, and cultivar rarity. Above 700 m — labelled 乌岽 (Wūdǒng) style — colder temperatures and shorter sun hours reduce bitterness and concentrate aromatics. Genuine lǎo cōng trees accumulate sugars with age, becoming naturally sweeter with minimal bitterness and very small yields. A ¥100/jin tea and a ¥3,500/jin tea can both be real dāncōng; altitude, age, and season explain the gap.
 
-**What is the difference between mì lán xiāng and yā shǐ xiāng dāncōng?**
-Mì lán xiāng (蜜兰香, honey orchid) is sweeter, honey-forward, and the most widely available style — a reliable entry point. Yā shǐ xiāng (duck droppings) is brighter, more intensely jasmine-forward, with a buttery smoothness. Both are high-oxidation strip-form oolongs.
+**How can I tell if a dāncōng is high quality?**
+Dry leaf: tightly twisted, robust, even — not loose or broken. Aroma: natural and soft, never heavy or perfume-like. Taste: any initial astringency resolves into a long, clean huí gān (回甘, returning sweetness) — persistent bitterness signals a quality or brewing fault. Genuine Fènghuáng origin falls under geographic indication protection covering Cháo'ān and Ráopíng counties, Guǎngdōng. If labelled lǎo cōng, ask what the tree age is.
 
-**What is lǎo cōng dāncōng?**
-Lǎo cōng (老枞, old bush) designates dāncōng from bushes over 50–100 years old. Old trees develop an additional woody, mossy note (枞味 cōng wèi) layered beneath the primary aromatic character. Production is small and prices are significantly higher.
+**How does dāncōng compare to tiě guānyīn or yán chá?**
+All three are Chinese oolongs but from different regions with distinct characters. Tiě guānyīn (Fújiàn) is lighter-oxidised — creamy, floral, and accessible. Yán chá (Wǔyí rock oolong) is heavily roasted — mineral, layered, slow-developing. Dāncōng sits between: moderate-to-high oxidation, immediate aromatic intensity, and a clean finish that makes the cultivar's character unmistakable from the first steep.
 
-**How do you brew dāncōng?**
-7–8 g per 100 ml — among the highest ratios in Chinese tea. Water at 95–100°C. Flash rinse, then 5–10 second infusions. Expect 8–12 infusions. Use a small clay pot or gàiwǎn. Bitterness is usually a ratio or temperature issue — reduce ratio to 5–6 g/100 ml if needed.
+**Can I brew dāncōng without gongfu equipment?**
+Yes, but results differ. A standard mug with a strainer: use 3–4 g per 250 ml, 90°C water, 2–3 minute steep. You'll get the aroma but lose the concentrated intensity and multi-steep character that gōngfū brewing unlocks. Even a small inexpensive gàiwǎn transforms the experience. If starting with Western equipment, mì lán xiāng (蜜兰香, honey orchid) is the most forgiving style.
