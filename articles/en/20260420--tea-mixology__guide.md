@@ -1,13 +1,15 @@
 :page/lang :en
-:article/title "Tea Mixology — Flowers, Peel, and Herbs in Chinese Tea"
-:article/tags ["mixology" "blending" "flower-tea" "chenpi" "jasmine" "osmanthus" "chrysanthemum" "herbal" "liang-cha" "guide"]
-:article/description "Chinese tea mixology: how to combine tea bases with flowers, aged peel, and herbs. Jasmine scenting, osmanthus pairing, chénpí blends, 凉茶 cooling drinks, and core rules for building your own combinations."
+:article/title "Chinese Tea Mixology — Flowers, Aged Peel, and Herbs"
+:article/tags ["mixology" "blending" "flower-tea" "chenpi" "jasmine" "osmanthus" "chrysanthemum" "herbal" "liang-cha" "hua-cha" "chinese-tea-blending" "guide"]
+:article/description "Chinese tea mixology: jasmine scenting, osmanthus pairing, chénpí blends, 凉茶 liángchá cooling drinks. Five rules for building balanced combinations by flavour, thermal quality, and intent."
 :article/hero-image ""
 :page/body
 
-# Tea Mixology — Flowers, Peel, and Herbs in Chinese Tea
+# Chinese Tea Mixology — Flowers, Aged Peel, and Herbs
 
-Chinese tea culture contains two parallel traditions: the gōngfū approach, which treats the single-origin leaf as something to be understood through repeated infusions, and a mixology tradition that combines tea with flowers, dried fruit peel, herbs, and botanicals to create specific flavour harmonies and therapeutic effects. Both are ancient. Both are serious. The gōngfū tradition is well-documented in Western tea writing; the mixology tradition is often reduced to "jasmine tea" and stopped there — which is like reducing French cooking to salted butter.
+Chinese tea mixology is the practice of combining a base tea with flowers, dried citrus peel, herbs, or botanicals to create specific flavour harmonies and therapeutic effects — a tradition documented in Chinese texts from at least the Sòng dynasty (960–1279 CE), distinct from the single-origin [gōngfū](/wiki/gongfu-brewing-guide) approach.
+
+Chinese tea culture contains two parallel traditions: the gōngfū approach, which treats the single-origin leaf as something to be understood through repeated infusions, and a mixology tradition that combines tea with flowers, dried fruit peel, herbs, and botanicals. Both are ancient. Both are serious. The gōngfū tradition is well-documented in Western tea writing; the mixology tradition is often reduced to "jasmine tea" and stopped there — which is like reducing French cooking to salted butter.
 
 This article covers the ingredients, the combinations, and the rules for building your own blends.
 
@@ -24,6 +26,8 @@ The scenting process is labour-intensive and technically precise. Fresh jasmine 
 **Base teas for jasmine**: Green tea (most traditional, brightest result), white tea (more delicate and fragrant), and occasionally black tea or oolong. The base determines the body; the scenting determines the aromatic intensity. A good jasmine tea should show both clearly.
 
 **Brewing**: 85°C, 2–3 minutes. Rinse optional. Do not overbrew — jasmine floral notes are volatile and bitter after extended steeping.
+
+**TL;DR — Jasmine:** Live flowers scented nightly, removed at dawn. Top grades: 7–9 sessions over two weeks. Aroma is inside the leaf, not applied. Brew at 85°C max — volatile compounds degrade above that temperature.
 
 ### Osmanthus — 桂花茶 Guìhuā Chá
 
@@ -57,7 +61,7 @@ The flavour pairing logic: rose's tannin-cutting sweetness works well with the r
 
 ## Citrus Peel — 陈皮 Chénpí
 
-Aged mandarin peel is detailed in its own article ([Chénpí — Aged Mandarin Peel](/wiki/chenpi)). In the blending context, the key principle is: chénpí is a **warming, qi-regulating** ingredient that acts as a bridge between the tea and the drinker's constitution. It smooths, warms, and deepens without adding sharpness.
+Aged mandarin peel is detailed in its own article ([Chénpí — Aged Mandarin Peel](/wiki/chenpi)). Chinese national standard GB/T 31739-2015 defines Xīnhuì chénpí as requiring a minimum of three years of aging before it may carry the protected geographical indication — below that threshold it is dried peel, not chénpí. In the blending context, the key principle is: chénpí is a **warming, qi-regulating** ingredient that acts as a bridge between the tea and the drinker's constitution. It smooths, warms, and deepens without adding sharpness.
 
 **Best pairings summary:**
 - **Ripe pu-erh**: The classic — mutual reinforcement. Both are warm, both are aged, both are digestive. The signature blend is gānpǔ chá (柑普茶), whole mandarin filled with pu-erh leaf.
@@ -87,6 +91,8 @@ The underlying logic is TCM thermal classification: certain herbs and teas "clea
 A simple everyday liángchá: chrysanthemum + honeysuckle + rock sugar, 90°C, 5 minutes. Drunk freely through the day in summer, or during illness.
 
 Liángchá formulas are usually drunk warm (not hot, not cold) and without any base tea. They are herbal infusions, not tea-plus-herbs.
+
+**TL;DR — Liángchá:** Cantonese therapeutic herbal tradition, not a tea category. Cold ingredients (chrysanthemum, honeysuckle) clear heat; warm ones (goji, longan) balance. Simplest formula: chrysanthemum + honeysuckle + rock sugar, 90°C, 5 minutes. No base tea required.
 
 ---
 
@@ -175,7 +181,7 @@ Liángchá (凉茶) means "cooling drink" — it is not necessarily made from Ca
 For ripe pu-erh: 2–4 small pieces (3–5g total) per 5–6g of tea, brewed at 95°C. For aged white tea: 1–2 small pieces alongside 3–4g of leaf, at 85–90°C. For roasted oolong: 1 small piece per 5g leaf, 95°C, quick first steeps. Proportion scales down with younger, more delicate peel — older peel is milder and can be used more generously.
 
 **Can I blend green tea with herbs and botanicals?**
-Yes, but green tea is the most fragile base — its fresh, vegetal character competes easily with strong herbs. Light floral additions (1–2g osmanthus, a few dried jasmine buds) work. Chénpí in very small amounts. Avoid ginger, licorice root, or heavily aromatic herbs — these will dominate entirely. Jasmine green tea exists precisely because jasmine scenting (applied externally) integrates more gently than dried flower mixing.
+Yes, but use restraint — green tea's fresh vegetal character is easily overpowered. Light additions work: 1–2g osmanthus, a few dried jasmine buds, one small piece of chénpí. Avoid ginger, licorice, or strongly aromatic herbs entirely. Jasmine green tea succeeds because live-flower scenting integrates more gently than adding dried flowers directly.
 
 **What is gānpǔ chá?**
 柑普茶 — whole small mandarins from Xīnhuì cored and filled with compressed ripe pu-erh, then dried. 柑 (gān) = mandarin, 普 (pǔ) = pu-erh. Peel and tea age together after production, creating a unified flavour profile. It is the most elaborate form of chénpí-pu-erh blending. See [Chénpí](/wiki/chenpi) for detail.

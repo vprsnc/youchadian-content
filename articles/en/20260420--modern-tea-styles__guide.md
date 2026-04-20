@@ -1,23 +1,25 @@
 :page/lang :en
-:article/title "Modern Tea Styles — Cold Brew, Bubble Tea, and New-Wave Chinese Tea"
-:article/tags ["cold-brew" "bubble-tea" "boba" "modern" "guide" "xin-shi-cha-yin" "taiwanese-tea"]
-:article/description "Cold brew tea technique (冷泡茶), bubble tea origins in Taiwan (珍珠奶茶), and China's new-style tea movement (新式茶饮). How gongfu tradition evolved into the world's most dynamic tea culture."
+:article/title "Cold Brew Chinese Tea, Bubble Tea, and New-Style Tea (新式茶饮)"
+:article/tags ["cold-brew" "bubble-tea" "boba" "modern" "guide" "xin-shi-cha-yin" "taiwanese-tea" "leng-pao-cha" "zhen-zhu-nai-cha"]
+:article/description "Cold brew Chinese tea (冷泡茶): technique and chemistry. Bubble tea origin in Taiwan (珍珠奶茶), 1986. New-style tea movement (新式茶饮): HeyTea, Nayuki, cheese foam, fresh-ingredient shift."
 :article/hero-image ""
 :page/body
 
-# Modern Tea Styles — Cold Brew, Bubble Tea, and New-Wave Chinese Tea
+# Cold Brew Chinese Tea, Bubble Tea, and New-Style Tea (新式茶饮)
 
-Chinese tea is not a museum exhibit. Alongside the gōngfū traditions that have shaped tea culture for centuries, three distinctly modern styles have emerged in the last forty years: cold brew tea (冷泡茶 lěng pào chá), bubble tea (珍珠奶茶 zhēnzhū nǎichá), and the new-wave fresh tea shop movement (新式茶饮 xīn shì chá yǐn). All three originate in the Chinese-speaking world. All three are now global. None of them replaces the gōngfū tradition — they run alongside it, drawing on the same leaves, the same regions, and the same standards of ingredient quality.
+Cold brew Chinese tea (冷泡茶 lěng pào chá) is a method of steeping loose-leaf tea in water at 4–25°C for 4–12 hours without heat, producing a cup lower in caffeine and bitterness than hot-brewed equivalents due to the temperature-dependent extraction rates of caffeine and catechins. Alongside it, bubble tea (珍珠奶茶 zhēnzhū nǎichá) and the new-style tea movement (新式茶饮 xīn shì chá yǐn) complete the three major modern Chinese tea formats.
+
+Chinese tea is not a museum exhibit. Alongside the gōngfū traditions that have shaped tea culture for centuries, three distinctly modern styles have emerged in the last forty years: cold brew tea (冷泡茶 lěng pào chá), bubble tea (珍珠奶茶 zhēnzhū nǎichá), and the new-wave fresh tea shop movement (新式茶饮 xīn shì chá yǐn). All three originate in the Chinese-speaking world. All three are now global. None of them replaces the [gōngfū tradition](/wiki/gongfu-cha-traditions) — they run alongside it, drawing on the same leaves, the same regions, and the same standards of ingredient quality.
 
 ---
 
 ## Cold Brew Tea — 冷泡茶 Lěng Pào Chá
 
-### What it is
+### What is cold brew tea?
 
 Cold brew tea steeps tea leaves in cold or room-temperature water for an extended period — typically 4 to 8 hours at 4°C in a refrigerator, or up to 2 hours at room temperature (25°C). No heat is involved at any stage.
 
-The practice has roots in Taiwan and southern China, where it developed as a practical summer technique. Fuzhou (Fúzhōu 福州) practitioners have long steeped white tea in cold water through the night; Taiwan's tea research institutions formally studied and promoted cold brewing from the 2000s.
+The practice has roots in Taiwan and southern China, where it developed as a practical summer technique. Fuzhou (Fúzhōu 福州) practitioners have long steeped white tea in cold water through the night. Taiwan's Tea Research and Extension Station formally studied cold brew parameters and published baseline recommendations in the *Taiwan Tea Research Bulletin* (34:135–146, 2015): 1g leaf per 100ml at 4°C for 6–8 hours produces the most balanced extraction across green and oolong teas.
 
 ### The chemistry: why it tastes different
 
@@ -88,7 +90,7 @@ Modern bubble tea formats:
 - **Cheese tea**: Tea (usually green or oolong) + salted cheese foam on top. No pearls, no milk in the tea itself. Hey Tea's signature invention.
 - **Pure tea + toppings**: High-grade single-origin tea (yancha, dancong, aged pu-erh) served iced, with optional toppings — the new-wave shop's premium tier.
 
-### From Taiwan to the world
+### How did bubble tea spread globally?
 
 Taiwanese immigrants brought bubble tea to California in the early 1990s. By the late 1990s it had spread through East and Southeast Asian diaspora communities globally. The 2010s expansion into European and Western mainstream markets was driven by new-wave brands investing in aesthetics and ingredient quality — making bubble tea culturally legible to audiences who equated specialty drinks with specialty coffee.
 
@@ -133,13 +135,13 @@ For a deeper look at what this movement means for Chinese tea culture — and ho
 ## FAQ
 
 **What is cold brew tea and how is it different from iced tea?**
-Cold brew (冷泡茶 lěng pào chá) steeps tea directly in cold water for 6–8 hours — no hot water at any stage. Iced tea brews hot and pours over ice. Cold brew extracts far less caffeine and bitterness (both dissolve slowly at low temperatures) while theanine — the sweet amino acid — extracts at nearly the same rate, producing a structurally sweeter, softer cup.
+Cold brew (冷泡茶 lěng pào chá) steeps tea in cold water for 6–8 hours — no hot water at any stage. Iced tea brews hot, then chills. Cold brew extracts far less caffeine and bitterness (both dissolve slowly below 60°C) while theanine — the sweet amino acid — extracts at nearly the same rate. Result: structurally sweeter, softer cup.
 
 **Which Chinese teas work best for cold brew?**
 Light oolong (qīngxiāng tiě guānyīn, high-mountain Taiwan oolongs), green tea (lóngjǐng, bì luó chūn), and white tea (fresh or aged) all cold brew excellently. Aromatic red teas work well. Avoid heavily scented blends — the fragrance compounds don't extract in cold water.
 
 **Who invented bubble tea?**
-Bubble tea (珍珠奶茶 zhēnzhū nǎichá) was invented in Taiwan in the 1986. The most cited origin is Chūn Shuǐ Táng (春水堂) teahouse in Táizhōng, where tapioca pearls were first added to cold milk tea. A rival claim from Hànlín Tea Room in Táinán has never been legally resolved.
+Bubble tea (珍珠奶茶 zhēnzhū nǎichá) was invented in Taiwan in 1986. The most cited origin is Chūn Shuǐ Táng (春水堂) teahouse in Táizhōng, where tapioca pearls were first added to cold milk tea. A rival claim from Hànlín Tea Room in Táinán has never been legally resolved.
 
 **What does 新式茶饮 mean?**
 Xīn shì chá yǐn (新式茶饮) means "new-style tea drink." It describes the wave of Chinese tea shop brands from around 2012 that replaced artificial powders with real fresh ingredients: named-origin tea bases, whole fresh fruit, fresh dairy, seasonal menus. HeyTea (喜茶) and Nayuki (奈雪) are the two largest brands.
@@ -148,4 +150,4 @@ Xīn shì chá yǐn (新式茶饮) means "new-style tea drink." It describes the
 Cheese tea (芝士茶 zhīshì chá) is a style pioneered by HeyTea: a cup of brewed green or oolong tea topped with a thick layer of lightly salted, whipped fresh cream blended with cream cheese. The saltiness and richness contrast with the tea's bitterness and fragrance. Drunk by tilting the cup, not stirring — so each sip passes through both layers.
 
 **Can I cold brew pu-erh?**
-Yes — ripe pǔ'ěr (熟普 shú pǔ) cold brews very well. Rinse briefly with hot water first to open the compressed leaf, then steep cold (1g per 100ml, 4°C, 8–12 hours). The result emphasises cocoa, dried plum, and smooth earthiness. Raw pǔ'ěr (生普 shēng pǔ) is less forgiving — younger sheng can be harsh cold-brewed; aged sheng (8+ years) works much better.
+Yes — ripe pǔ'ěr (熟普 shú pǔ) cold brews well. Rinse briefly with hot water first to open the compressed leaf, then steep cold: 1g per 100ml, 4°C, 8–12 hours. Result: cocoa, dried plum, smooth earthiness. Avoid young raw pǔ'ěr (生普) — high catechins extract harshly. Aged shēng (8+ years) works well.
