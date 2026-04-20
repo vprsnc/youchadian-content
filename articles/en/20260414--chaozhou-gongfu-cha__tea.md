@@ -121,26 +121,17 @@ Water temperature: 95–100°C throughout. Dāncōng and roasted oolongs require
 
 ## FAQ
 
-**What is Cháozhōu gōngfū chá?**
-Cháozhōu gōngfū chá (潮州工夫茶) is the oldest formally codified Chinese tea ceremony, originating in Cháozhōu county, eastern Guǎngdōng. It uses four specific utensils, a 17-step ritual sequence, and Fènghuáng dāncōng oolong. It was inscribed in UNESCO Intangible Cultural Heritage in 2022.
+**Can I practice Cháozhōu gōngfū chá without all Four Treasures?**
+Yes — the core of the practice is the high leaf ratio, short steeps, and the circular pouring sequence, not the specific utensils. A small Yíxīng or porcelain teapot (50–100 ml), tiny cups, and any heat source will produce authentic Cháozhōu-style brewing. The charcoal stove and clay kettle are traditional and add character, but modern practitioners widely use electric kettles. Start with what you have; acquire the traditional pieces as interest deepens.
 
-**What are the Four Treasures of Cháozhōu tea?**
-The Four Treasures (四宝 sìbǎo): the Yùshū Wēi water kettle (flat clay kettle), the Cháoshān Lú charcoal stove, the Měngchén Guàn teapot (small zhūní clay pot, 50–100 ml), and the Ruòchén Zhōng cups (tiny white porcelain cups, 20–30 ml). Together they define the traditional Cháozhōu setup.
+**How is Cháozhōu brewing different from what I see in tea shops or videos?**
+Most tea shop demonstrations show the Táiwān-refined style of gōngfū chá: a gàiwǎn, fairness pitcher, aroma cups, and individual tasting cups — a more elaborate and aesthetic setup that emerged in the 1970s. Cháozhōu is the older root: a small clay teapot, three shared cups in a triangle, no pitcher, and the circular pouring sequence directly from pot to cups. The Táiwān style is gentler and more visually theatrical; Cháozhōu is direct and concentrated, designed for regular use rather than ceremony.
 
-**What does 关公巡城 mean in the tea ceremony?**
-Guān Gōng Xún Chéng (关公巡城, "Guān Yǔ Patrols the City") is the pouring step in Cháozhōu service: the practitioner pours in a continuous circular motion over all three cups simultaneously, distributing the brew evenly. Named after the Three Kingdoms general whose vigilant patrols ensured fairness.
+**Does olive-pit charcoal (榄炭 lǎntàn) really make a difference?**
+Practitioners argue it does: olive-pit charcoal burns hotter and cleaner than standard wood charcoal, with less smoke and a faint sweet fragrance. The high heat accelerates the boil without imparting unwanted aromas; the low smoke keeps the environment clean for sensitive aromatics. For most everyday brewing the difference is subtle — any clean charcoal works. Olive-pit charcoal matters most in formal demonstration settings and for competition judges comparing water quality across variables.
 
-**What tea is used in Cháozhōu gōngfū chá?**
-Fènghuáng dāncōng (凤凰单枞) oolongs from Fènghuáng Mountain in Cháozhōu county. These highly aromatic, medium-to-high oxidation oolongs with natural fruit and floral notes developed alongside the ceremony — the high-ratio brewing method was partly designed for them.
+**How do I season a new Měngchén zhūní teapot?**
+Zhūní (朱泥) clay is denser and less porous than standard Yíxīng zǐshā and seasons more quickly. Basic seasoning: boil the new pot in plain water for 20–30 minutes to remove clay dust and kiln residue. Then brew a few sessions of your intended tea — traditionally dāncōng — discarding the first two or three sessions' tea or using it to rinse the exterior. Unlike standard zǐshā, zhūní does not require months of seasoning; it develops a subtle surface patina within weeks of regular use. See [Yíxīng Zǐshā](/wiki/yixing-zisha) for comparison with purple clay conditioning.
 
-**What is the leaf ratio for Cháozhōu brewing?**
-Typically around 1 g per 15 ml — filling the pot 60–70% with dry leaf, already among the highest ratios in Chinese tea practice. Some Cháozhōu traditionalists go further, packing the pot 80–100% with leaf and leaving almost no room for water. At this extreme the brew extracts in seconds; the first infusions are intensely concentrated, lightening across many rounds. The approach is not unusual in the Cháoshān region — it is a distinct style, not an exaggeration.
-
-**What is the 茶洗 (chá xǐ) in Cháozhōu tea?**
-The 茶洗 is a ceramic bowl of hot water used in dry-style (干泡) Cháozhōu brewing. The teapot sits in it between steeps to stay warm. A pad of 丝瓜络 (sīguā luò, dried loofah fiber) is placed at the bottom of the bowl as a cushion for the pot. The same bowl is used to warm the cups before service. In wet-style (湿泡) brewing, the teapot sits on a tea tray instead.
-
-**How much water should be in the 茶洗?**
-Enough to cover the lower belly of the teapot — roughly one third to one half of the pot's height. The pot should sit in the water, not float. Too little and the bowl isn't doing its job; too much and water slops in through the lid or spout when you set the pot down. If the water level is too high, just pour some out — there is no ritual around this. The rim of the bowl also serves a practical function: before pouring tea, the practitioner lets the base of the teapot glide over the rim to shed any water clinging to the exterior, so it doesn't drip into the cups.
-
-**The water in the 茶洗 has cooled — replace it or leave it?**
-Replace it with hot water. The bowl's only purpose is to keep the teapot warm; cool water does the opposite — it draws heat out of the pot and drops extraction temperature. In a properly paced session this rarely arises: in wet-style (湿泡) brewing, hot water is continuously poured over the pot throughout each infusion cycle (step 淋盖追热); in dry-style (干泡), the bowl is topped up with hot water each time you refill the kettle. If the session pauses and the bowl cools, refresh with hot water and let the pot warm up before the next steep.
+**Must there be exactly three cups — can I use more or fewer?**
+Three is traditional and meaningful (the 品 character, three mouths), but not mandatory in informal settings. In private brewing, cups adjust to the number of drinkers: one cup for solo, two cups for two people, four for four. The Guān Gōng circular pour simply extends its arc to cover however many cups are present. The three-cup 品 triangle is the ceremonial and formal default; adjust freely in informal contexts.
