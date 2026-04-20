@@ -61,14 +61,17 @@ Authentic Bīngdǎo from known producers with verifiable sourcing is the only re
 
 ## FAQ
 
-**Why is Bīngdǎo so famous?**
-The combination of exceptionally sweet, clean flavour from genuinely ancient trees, very limited production, and the contrast with the powerful Lǎobānzhāng style made Bīngdǎo famous in the puerh collector world from the early 2000s onward. It represents the "elegant" end of the single-origin puerh spectrum.
+**How do you brew Bīngdǎo shēng pǔ'ěr?**
+Rinse at 85°C to open compressed leaf (15–20 sec); brew at 90–95°C. 6–8 g per 100 ml gàiwǎn. Flash-pour first 5–7 infusions (10 sec). The high sweetness and clean character are apparent from infusion 2; peak typically around infusion 5–8. Good material sustains 15–20 infusions.
 
-**What does "Ice Island" mean?**
-冰 (bīng) = ice; 岛 (dǎo) = island. The name refers to the village's location — but in the tea context, "ice" also describes the distinctive cool, almost mentholated sensation (凉意 liángyì) found in high-quality material, which is an actual sensory characteristic rather than just a poetic name.
+**Why is Bīngdǎo called the "Queen" to Lǎobānzhāng's "King"?**
+The pairing reflects two opposing aesthetic ideals: Lǎobānzhāng is 刚 (gāng, strong, masculine) — power, bitterness, aggression. Bīngdǎo is 柔 (róu, soft, feminine) — sweetness, clarity, elegance. Collectors use this contrast to express that both are supreme within their polarity. "Queen" does not imply inferiority.
 
-**How can I tell if Bīngdǎo tea is genuine?**
-This is genuinely difficult without established sourcing. Key indicators: strong immediate sweetness without harsh bitterness; a pronounced cooling sensation; strong huíwèi (returning sweetness in the throat); the price is high. If the price seems low for a "Bīngdǎo Old Tree" label, the tea is almost certainly not what it claims.
+**How many ancient trees are in Bīngdǎo Lǎo Zhài?**
+Approximately 100–200 genuinely ancient arbor trees in the core Lǎo Zhài village. This extreme scarcity means verified single-tree (单株 dānzhū) material can reach ¥85,000+/kg. It also explains why most "Bīngdǎo Lǎo Zhài" in circulation cannot be authentic — genuine supply is physically incapable of meeting market demand.
 
-**How does Bīngdǎo compare to Lǎobānzhāng?**
-The two represent opposite ends of the Yúnnán shēng spectrum. Lǎobānzhāng: intense bitterness, powerful qì sensation, aggressive transformation potential, ages to great depth. Bīngdǎo: immediate sweetness, cooling character, elegant body, excellent aging but with a different profile arc. Collectors often describe Lǎobānzhāng as masculine (刚) and Bīngdǎo as feminine (柔) in traditional Chinese aesthetic terms.
+**How do prices differ across the five Bīngdǎo villages?**
+Lǎo Zhài ancient tree: ¥25,000–85,000+/kg at source; rare single-tree material has reached ¥1.88M/kg at auction. Nán Pò: ¥5,000–15,000/kg. Nuò Shā (peripheral): ¥1,000–4,500/kg. Material labelled simply "Bīngdǎo" without village specification is typically outer-village material or a blend.
+
+**Does Bīngdǎo need to be aged before drinking?**
+Unlike bitter-entry shēng pǔ'ěr, Bīngdǎo's sweetness and minimal bitterness make fresh material accessible immediately — many collectors drink spring material within 6 months for its fresh floral character. Long-term aging (10–20 years) develops depth but is not a prerequisite. This approachability contrasts sharply with Lǎobānzhāng, which benefits significantly from aging.
