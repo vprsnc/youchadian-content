@@ -67,14 +67,17 @@ Jǐngmài is significantly more affordable than Bīngdǎo or Lǎobānzhāng for 
 
 ## FAQ
 
-**Why is Jǐngmài a UNESCO World Heritage site?**
-The UNESCO inscription (2023) recognised Jǐngmài as the first "tea cultural landscape" World Heritage site — valued for the continuous 1,000-year management tradition of the Blang and Dǎi communities, the integration of tea cultivation into a functioning forest ecosystem (rather than monoculture plantation), and the living cultural practices preserved around tea. The inscription is Cultural, not Natural — it recognises the human-made landscape, not just the ecology.
+**Is Jǐngmài a good entry into ancient-tree puerh for beginners?**
+Jǐngmài is consistently recommended as the most approachable of the famous Yúnnán single origins. Lower bitterness than Lǎobānzhāng, less intense than Bīngdǎo, prominent honey-orchid fragrance that is easy to recognise, and significantly lower prices for genuine ancient-tree material. The large production scale means more authentic tea circulates at accessible price points.
 
-**How does Jǐngmài compare to Bīngdǎo?**
-Both are Líncāng-area ancient-tree puerh, but different in character. Bīngdǎo is defined by intense sweetness and a cooling sensation from very old individual trees. Jǐngmài has a more floral, honey-orchid character from a forest ecosystem, with a slightly more accessible body and taste. Jǐngmài is considerably more affordable for genuine material.
+**What should Jǐngmài ancient-tree puerh cost?**
+Spring ancient-tree (古树) maocha: ¥1,000–2,500/kg at source. A standard 357g pressed cake: ¥500–3,000 depending on sub-area and producer. Ecological garden (生态) material: ¥300–800/kg. Significantly more affordable than Bīngdǎo or Lǎobānzhāng for equivalent grades; the large production scale provides genuine material at prices accessible to regular drinkers, not only collectors.
 
-**What is the honey-orchid fragrance (蜜兰香)?**
-A specific floral-sweet aromatic note consistently found in Jǐngmài tea, produced by the combination of cultivar chemistry, forest ecosystem biodiversity, and processing conditions. It is more pronounced in Jǐngmài than in most other Yúnnán origins and is the primary sensory identifier of the area's material.
+**How do I identify quality Jǐngmài shēng pǔ'ěr?**
+Three signals: dry leaf with pronounced orchid-honey fragrance detectable before brewing; immediate and persistent sweetness with fragrance lingering in the emptied cup (杯底留香, cup-bottom fragrance); full, intact leaves from a forest-grown character. Flat malty profile without florals suggests non-Jǐngmài material.
 
-**Is Jǐngmài also counterfeited?**
-Less severely than Bīngdǎo or Lǎobānzhāng, partly because the genuine production scale is much larger. However, the UNESCO designation and growing fame since 2023 have increased demand and with it the incentive for misrepresentation. Source from known producers.
+**Did the UNESCO designation change Jǐngmài's prices or regulation?**
+The 2023 inscription raised international awareness and domestic prestige, increasing demand and prices. It adds monitoring scrutiny to the heritage zone but has not created a reliable authentication system — genuine-origin labelling remains partially self-reported. "UNESCO heritage zone" on a label is marketing; it does not guarantee specific sub-area or tree-age claims.
+
+**Is Jǐngmài available as loose maocha or only pressed cakes?**
+Both formats exist. Loose maocha (毛茶) is available from producers during harvest and is the base material before pressing. Standard 357g round cakes (饼茶) are the most common market format; small-format cakes (100–250g) are also common. Maocha from a verifiable Jǐngmài producer is often the most reliable route to genuine origin character.
