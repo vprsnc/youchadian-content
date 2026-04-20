@@ -61,17 +61,17 @@ The same material prized in wénwán is also used as incense. Whole root section
 
 ## FAQ
 
-**What is tàiháng yá bǎi?**
-Tàiháng yá bǎi (太行崖柏) is an aromatic cypress wood from the cliff faces of the Taihang Mountains in northern China. Centuries of slow growth in harsh, rocky terrain produce an exceptionally dense, oil-rich wood with six named grain patterns and a lasting woody-cedar fragrance. Living trees are protected; all traded material comes from ancient deadwood or fallen specimens.
+**Does developing bāojiāng patina reduce the fragrance of cliff cypress beads?**
+Yes — this is the core trade-off. As skin oils seal the surface and bāojiāng forms, the pores that release fragrance are progressively blocked. Chinese collectors note that heavily patinated cliff cypress beads become nearly scentless. If fragrance is your priority, keep handling light and let the wood breathe; if visual grain depth and patina are the priority, accept that scent will fade over years of wear.
 
-**Why is cliff cypress fragrant?**
-Slow growth in dry, nutrient-poor cliff environments forces the tree to produce high concentrations of resinous oils as a defence mechanism. These oils — accumulated over centuries — saturate the wood and give tàiháng yá bǎi its characteristic fragrance. Higher-elevation deadwood has the most concentrated oil and deepest scent.
+**How do I spot fake or mislabelled tàiháng yá bǎi?**
+Three field tests from Chinese collectors: First, root material (根料) — genuine Taihang cliff-grown roots are flat and irregular from growing in rock crevices; roots from valley-grown trees are round and fat. Second, grain lines — true tàiháng yá bǎi grain shows distinctive fine black resinous lines; other cypress lacks these. Third, fragrance — genuine aged material smells soft, rounded, with a mint-like cooling note; chemical fakes smell sharp, like synthetic perfume. Common fraud: soaking inferior cypress in chemical cypress extract.
 
-**What are the grain patterns in cliff cypress?**
-Six main patterns: sparrow eye (麻雀眼) — small knot cross-sections resembling bird eyes; flame (火焰纹) — radiant bursts at knot centres; water wave (水波纹) — fine undulating lines; tiger stripe (虎皮纹) — dark resin-sealed growth cracks; cloud (云纹) — layered swirls in high-oil material; bodhisattva (菩萨纹) — rare concentric spirals, considered most auspicious.
+**How does cliff cypress compare to agarwood (chénxiāng) and sandalwood as incense?**
+All three are in different categories: agarwood is the most complex and expensive, with layered, resinous depth; sandalwood (白檀) is warmer, smoother, and more approachable; cliff cypress is woodier, fresher, and notably cheaper. Cliff cypress is the most accessible native northern Chinese incense wood — agarwood and sandalwood are largely imported. For daily home use, cliff cypress shavings or powder are a practical, affordable alternative to either.
 
-**How do cliff cypress beads develop patina?**
-Skin oils interact with the wood's natural resins during wear, deepening colour toward amber-brown, increasing grain contrast, and modulating the fragrance as body chemistry blends with wood oils. With sustained wear, bāojiāng achieves rùn (润) — a jade-like inner luminosity. The process is similar to huánghuālí bāojiāng but typically faster due to the higher resin content.
+**Can I burn cliff cypress beads as incense?**
+No — burning whole beads is wasteful and produces poor results. Incense use requires shavings (崖柏刨花), powder (崖柏粉), or small root sections placed in a burner or on charcoal. The beads themselves are for wearing; dedicated incense-grade material is sold separately. Burning beads would destroy the grain, patina, and long-term value of the object.
 
-**Is tàiháng yá bǎi legal to buy?**
-Living trees are protected. Legitimately traded material is harvested from ancient deadwood (枯木), root sections (根料), or naturally fallen trees. Buyers should confirm sourcing when purchasing high-grade material.
+**Why is root material (根料) considered better than trunk or branch wood?**
+Roots are the site of maximum oil concentration: they grow deep into crack rock, exposed to minimal moisture and maximum stress, forcing the highest resin accumulation. Root sections also display the most complex grain figuring because growth direction follows rock structure. Trunk and branch wood develops more evenly but with less oil density and less dramatic grain. This is why "root section" pieces command a significant premium over equivalent trunk material of the same age and size.
