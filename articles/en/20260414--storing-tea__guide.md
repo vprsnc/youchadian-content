@@ -73,17 +73,17 @@ Relatively stable. Airtight container at room temperature, away from light and m
 
 ## FAQ
 
-**How should I store green tea?**
-Airtight, opaque container (tin or vacuum bag) at 0–5°C. Remove only what you need; re-seal immediately. Consume within 12–18 months of harvest. Do not freeze — moisture damage occurs on thawing. Keep away from all strong odours.
+**Can I freeze tea to extend its shelf life?**
+Not recommended for most teas. The problem is condensation: when cold tea is removed from the freezer, water vapour condenses on the leaf surface — accelerating degradation rather than preventing it. The exception: vacuum-sealed green tea in very small portions can survive one freeze-thaw cycle if the sealed bag is opened only after it returns to room temperature (20–30 minutes). In practice, refrigeration at 0–5°C achieves 80% of the benefit without the condensation risk. For teas intended for aging (pǔ'ěr shēng, aged white), freezing halts the microbial transformation that is the whole point.
 
-**What are the four enemies of tea?**
-Light (degrades aromatics and chlorophyll), oxygen (oxidises catechins and volatiles), moisture (causes microbial activity and off-flavours), and foreign odours (tea absorbs surrounding aromas readily). Seal away all four and most teas last years.
+**Can I store tea in a ziplock plastic bag?**
+Short-term only. Plastic is not truly airtight — oxygen and odours permeate slowly — and plastic itself can off-gas subtle compounds that tea absorbs. For transport or a few days, ziplock is fine. For anything beyond a week, transfer to a tin or sealed foil bag. The odour problem is cumulative: plastic tea storage smells faintly of plastic after a month. Green and white teas are most affected; heavily roasted oolong and pǔ'ěr are less sensitive.
 
-**Can pǔ'ěr be stored in a sealed tin?**
-Shēng (raw) pǔ'ěr intended for aging requires airflow — a sealed tin stops the slow microbial transformation that improves it. Use bamboo wrapping or cardboard at 55–70% relative humidity. Shú (ripe) pǔ'ěr can be stored semi-open or airtight after a few months of open-air "awakening."
+**Is refrigerating green tea really necessary?**
+For premium tea you want to enjoy at peak quality: yes. For everyday tea consumed within 2–3 months of purchase: room temperature in a sealed tin is adequate. Refrigeration matters most for: míng qián spring teas (very high amino acid content; degrades fastest), premium Lóngjǐng and Bìluóchūn, and any green tea you're keeping more than 3 months. The practical rule: the more you spent on it, the more it deserves refrigeration.
 
-**How long does tea last?**
-Green tea: 12–18 months. White tea (fresh): 1–2 years; (aged properly): 10+ years. Roasted oolong: 2–3 years. Red tea: 2–3 years. Raw pǔ'ěr (shēng): decades with correct storage. Ripe pǔ'ěr (shú): 5–20 years.
+**How do I store multiple teas without their aromas mixing?**
+Separate sealed containers per tea, ideally per category. Green and white teas are most susceptible to absorbing foreign aromas; they should never share shelf space with roasted oolongs or pǔ'ěr, which have stronger and persistent aromas. Dedicated tins for each tea are the cleanest solution. A single airtight box holding multiple sealed bags works if the bags are genuinely odour-proof; open-top containers sharing a box is asking for cross-contamination. The refrigerator itself carries odours — keep teas in sealed tins inside the fridge, not loose.
 
-**How do I know if my tea has gone stale?**
-Open the container and smell before brewing — fresh tea has a distinct, strong characteristic scent. Stale tea smells flat, papery (green), or musty (moisture damage). In the cup: flat, undifferentiated, no characteristic flavour. Moisture-damaged tea shows a soil-like mustiness distinct from the clean earthiness of well-aged pǔ'ěr.
+**Can stale tea be revived?**
+For most teas, no — oxidative degradation and aromatic compound loss are irreversible. There is one partial exception: roasted oolongs (yánchá, nóngxiāng tiě guānyīn) that have become flat can sometimes be re-roasted at home using an oven at 100–110°C for 10–15 minutes, which drives off moisture and reactivates some volatile compounds. This works best when the tea is slightly flat rather than deeply stale or moisture-damaged. Green tea, white tea, and red tea that have gone stale cannot be revived — use them for cooking, cleaning, or compost.
