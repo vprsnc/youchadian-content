@@ -70,17 +70,17 @@ This aging through wear is considered the point of huánghuālí beads — not d
 
 ## FAQ
 
-**What is huánghuālí?**
-Huánghuālí (黄花梨, *Dalbergia odorifera*) is a tropical hardwood from Hǎinán Island, China — the most prized Chinese decorative wood since the Míng dynasty. It is defined by its ghost-face grain pattern, distinctive lasting fragrance, and golden-to-reddish-brown heartwood. Wild specimens are critically endangered; listed under CITES Appendix II since 2017.
+**What is the difference between huánghuālí and zǐtán?**
+Zǐtán (紫檀, *Pterocarpus santalinus*) is so dense it sinks in water — extremely heavy, dark purple-black, valued for fine carving. By imperial decree it was reserved for court ceremonial use only. Huánghuālí is golden-to-reddish-brown, lighter, resinous, and valued for dramatic grain and lasting fragrance. Today both are critically scarce; zǐtán commands higher prices per gram due to rarity and imperial association.
 
-**Why is huánghuālí so expensive?**
-Wild Hǎinán specimens are commercially extinct due to centuries of overharvesting. Plantation material requires decades of growth. Antique reclaimed wood from Míng and Qīng furniture commands the highest prices. CITES Appendix II listing further restricts international trade.
+**Can I apply oil or wax to huánghuālí beads to condition them?**
+No — Chinese collectors are unanimous on this. Walnut oil, olive oil, beeswax, and similar agents coat the surface and block the natural process by which the wood's own resins migrate outward to form bāojiāng (包浆) patina. Applied oil produces an inferior surface film that inhibits genuine patina development. Huánghuālí is naturally resinous — regular wearing and skin contact provide all the surface conditioning it needs.
 
-**How do I identify genuine huánghuālí?**
-Rub vigorously between palms for 30 seconds — genuine huánghuālí's fragrance intensifies distinctly. The grain should show depth and irregularity, including ghost-face (鬼脸) figures. The wood is dense and heavy. Vietnamese rosewood (*Dalbergia tonkinensis*) has a different, sharper fragrance.
+**Why do huánghuālí beads crack, and how do I prevent it?**
+Cracking (开裂 kāi liè) typically results from abrupt temperature or humidity changes — sudden cold after a heated room, air conditioning, or prolonged direct sunlight. Prevention: avoid rapid climate transitions; store in a fabric pouch or wooden box away from heat sources and sunlight; do not leave in a hot car. Superficial surface checks can be stabilised with beeswax, but deep cracks cannot be concealed without affecting appearance.
 
-**What grain patterns does huánghuālí have?**
-Five named types: ghost face (鬼脸纹 guǐliǎn wén) — irregular eye-like figures, the most famous; phoenix eye (凤眼纹 fèngyǎn wén) — smaller elongated ovals; flowing water (行云流水纹 xíngyún liúshuǐ wén) — sweeping curves with a golden sea-like shimmer; mountain and water (山水纹 shānshuǐ wén) — landscape-like undulations; wheat spike (麦穗纹 màisuì wén) — fine herringbone figure. A single exceptional plank may show several simultaneously.
+**Is it legal to buy huánghuālí beads or bracelets in Europe?**
+The 2017 CITES Appendix II listing covers all *Dalbergia* species and requires export/import permits for commercial shipments. However, finished products — including beads, bracelets, and small objects — under 10 kg per shipment are exempt from permit requirements. Wild harvest is banned within China; plantation-grown material is legally tradeable. A bracelet purchased from a reputable dealer does not require special paperwork for import to the EU.
 
-**How do huánghuālí beads age?**
-Through regular wearing, beads develop bāojiāng (包浆) — a patina where the surface darkens slightly, grain definition deepens, and fragrance evolves as skin oils absorb into the wood. Mature bāojiāng achieves rùn (润) — a warm, jade-like inner glow. This transformation is considered the purpose of wearing the beads, not a sign of wear.
+**What is the difference between Hǎinán huánghuālí and Vietnamese rosewood?**
+Vietnamese rosewood (*Dalbergia tonkinensis*, also called huā lí 花梨) is the most common market substitute. It is closely related but distinct: fragrance is sharper and less sweet than genuine Hǎinán; grain patterns are similar but typically less dramatic; density is slightly lower. Field test: rub vigorously and smell — Hǎinán huánghuālí has a sweeter, more complex scent. Vietnamese material is significantly cheaper; many dealers do not distinguish between them.
