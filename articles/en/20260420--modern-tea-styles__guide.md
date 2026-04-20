@@ -134,20 +134,17 @@ For a deeper look at what this movement means for Chinese tea culture — and ho
 
 ## FAQ
 
-**What is cold brew tea and how is it different from iced tea?**
-Cold brew (冷泡茶 lěng pào chá) steeps tea in cold water for 6–8 hours — no hot water at any stage. Iced tea brews hot, then chills. Cold brew extracts far less caffeine and bitterness (both dissolve slowly below 60°C) while theanine — the sweet amino acid — extracts at nearly the same rate. Result: structurally sweeter, softer cup.
+**Is bubble tea healthy — how much sugar does it contain?**
+Standard bubble tea from commercial shops is not a low-sugar drink. A typical 500 ml milk tea with pearls contains 40–60 g of sugar — comparable to a soft drink. The tapioca pearls alone are starchy carbohydrates with no fibre. That said, most new-style shops allow customisation: "less sugar" (少糖 shǎo táng, ~50% of standard) or "no sugar" (无糖 wú táng) is available and reduces the impact significantly. Choosing fruit tea over milk tea, and reducing or removing toppings, also lowers the sugar load. Premium shops using high-grade tea bases and fresh fruit with no added sugar represent a very different nutritional profile from powder-based milk teas.
 
-**Which Chinese teas work best for cold brew?**
-Light oolong (qīngxiāng tiě guānyīn, high-mountain Taiwan oolongs), green tea (lóngjǐng, bì luó chūn), and white tea (fresh or aged) all cold brew excellently. Aromatic red teas work well. Avoid heavily scented blends — the fragrance compounds don't extract in cold water.
+**What is the difference between "boba" and "bubble tea"?**
+The two names refer to the same drink; the distinction is regional and historical. "Bubble tea" originally described the frothy bubbles from shaking — it became the dominant English term in the UK and Europe. "Boba" comes from Taiwanese slang 波霸 (bōbà, referring to the large pearls) and became dominant in the US. In Chinese, 珍珠奶茶 (zhēnzhū nǎichá, pearl milk tea) is the standard name. Some shops use "boba" to mean the drink, others specifically the pearls — context usually clarifies.
 
-**Who invented bubble tea?**
-Bubble tea (珍珠奶茶 zhēnzhū nǎichá) was invented in Taiwan in 1986. The most cited origin is Chūn Shuǐ Táng (春水堂) teahouse in Táizhōng, where tapioca pearls were first added to cold milk tea. A rival claim from Hànlín Tea Room in Táinán has never been legally resolved.
+**Can I make new-style tea drinks at home?**
+Yes, with moderate effort. Cold brew requires only good loose-leaf tea, water, and a sealed container — no equipment beyond a glass jar. For bubble tea, tapioca pearls are widely available in Asian supermarkets; cook per package instructions (typically 10–15 min boiling, then soak in sugar syrup). The key quality variable is the tea base — use loose-leaf rather than tea bags for the best result. Cheese foam can be made at home: whip double cream with cream cheese and a pinch of salt to a thick, pourable consistency. The new-style shop aesthetic is harder to replicate; the flavours are achievable.
 
-**What does 新式茶饮 mean?**
-Xīn shì chá yǐn (新式茶饮) means "new-style tea drink." It describes the wave of Chinese tea shop brands from around 2012 that replaced artificial powders with real fresh ingredients: named-origin tea bases, whole fresh fruit, fresh dairy, seasonal menus. HeyTea (喜茶) and Nayuki (奈雪) are the two largest brands.
+**What are the customisation options when ordering bubble tea?**
+Most shops allow: sweetness level (100% / 70% / 50% / 30% / 0%), ice level (full / less / no ice), milk type (whole / oat / soy / coconut), and toppings (tapioca pearls, grass jelly, pudding, aloe, popping boba). First-time ordering guide: start with 50% sugar, less ice; choose the shop's signature tea (usually oolong or jasmine base). Avoid 100% sugar for anything — the pearl syrup already adds sweetness beyond the listed percentage.
 
-**What is cheese tea?**
-Cheese tea (芝士茶 zhīshì chá) is a style pioneered by HeyTea: a cup of brewed green or oolong tea topped with a thick layer of lightly salted, whipped fresh cream blended with cream cheese. The saltiness and richness contrast with the tea's bitterness and fragrance. Drunk by tilting the cup, not stirring — so each sip passes through both layers.
-
-**Can I cold brew pu-erh?**
-Yes — ripe pǔ'ěr (熟普 shú pǔ) cold brews well. Rinse briefly with hot water first to open the compressed leaf, then steep cold: 1g per 100ml, 4°C, 8–12 hours. Result: cocoa, dried plum, smooth earthiness. Avoid young raw pǔ'ěr (生普) — high catechins extract harshly. Aged shēng (8+ years) works well.
+**What is the difference between milk tea and fruit tea in a bubble tea shop?**
+Milk tea: tea base + milk or cream + sweetener, usually served iced. Richer, rounder, heavier — the classic format. Fruit tea: tea base (usually green or light oolong) + fresh fruit juice + fruit pieces, no milk. Lighter, more acidic, often visually striking. Cheese tea occupies a third format: brewed tea only, topped with salted cream foam — no pearls, no milk blended in. Premium new-style shops often offer all three; the trend is toward fruit tea and pure tea formats as the category matures.
