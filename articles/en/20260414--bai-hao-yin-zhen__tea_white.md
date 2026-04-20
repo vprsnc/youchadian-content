@@ -75,17 +75,17 @@ White tea ages well under dry, dark, ventilated storage. The Fújiàn saying 一
 
 ## FAQ
 
-**What is bái háo yín zhēn?**
-Bái háo yín zhēn (白毫银针, "Silver Needle") is the top grade of Chinese white tea, made only from unopened buds of the Dàbái cultivar in Fúdīng and Zhènghe, Fújiàn. It undergoes 36–72 hours of natural withering with no rolling or fixation, yielding 2.5–3 cm silver-white needles.
+**What is the difference between Fúdīng and Zhènghe bái háo yín zhēn?**
+Fúdīng silver needle uses the Fúdīng Dàbái cultivar — needles are plumper, the aroma lighter and more floral, the liquor pale gold. Zhènghe silver needle uses Zhènghe Dàbái — needles are slightly darker, the flavour deeper and earthier, the body fuller. Both carry GB/T 22291-2017 protected-origin status; Fúdīng dominates market volume.
 
 **How is bái háo yín zhēn different from other white teas?**
-Silver needle uses only the terminal bud; bái mǔ dān adds one or two leaves; gōngméi and shòuméi use more mature leaf. The higher the bud ratio, the more delicate and prized the tea. Bái háo yín zhēn is the most labour-intensive: approximately 2,000 buds per picker per day.
+Silver needle uses only the terminal bud; bái mǔ dān (White Peony) adds one or two leaves, producing a more layered flavour at lower cost; gōngméi and shòuméi use more mature leaf. The higher the bud ratio, the more delicate and prized the tea. Bái háo yín zhēn is the most labour-intensive: approximately 2,000 buds per picker per day.
 
 **How do I brew bái háo yín zhēn?**
-Fresh silver needle: 80–85°C, 3–4 g per 150 ml, 3–4 minute steeps, glass or porcelain. Aged (3+ years): 90–95°C, 5–6 g per 100 ml, gōngfū style. Cold brew: 4–6 g per 500 ml, refrigerate 8–12 hours.
+Fresh silver needle: 80–85°C, 3–4 g per 150 ml, 3–4 minute steeps, glass or porcelain. Aged (3+ years): 90–95°C, 5–6 g per 100 ml, gōngfū style. Cold brew: 4–6 g per 500 ml, refrigerate 8–12 hours. Quality buds tolerate 85°C without bitterness — the common advice to use 75°C is overly cautious.
 
-**Where does bái háo yín zhēn come from?**
-Fúdīng and Zhènghe counties, Fújiàn province, China. Fúdīng is the historical centre; Fúdīng city produces roughly 50% of China's white tea output. Protected under GB/T 22291-2017.
+**Can bái háo yín zhēn be aged, and how does it change?**
+Yes — silver needle ages well for 3–10+ years in dry, odour-free storage. Fresh needles are floral and delicate (jasmine, melon, hay). After 3–5 years the profile shifts toward honey, dried dates, and golden raisin, the colour deepens, and the body gains weight. Aged silver needle is brewed at higher temperature and is a distinct taste experience from fresh.
 
 **What does bái háo yín zhēn taste like?**
 Fresh: hay, jasmine, white lily, melon, clean sweetness — no bitterness. Aged (3+ years): golden raisin, dried date, honey, amber liquor. The defining characteristic is a clean, lingering sweetness without any astringency.
