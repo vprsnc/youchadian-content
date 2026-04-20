@@ -106,8 +106,8 @@ Aged shú needs fewer rinses; longer steeps are welcome from the start.
 
 ## FAQ
 
-**What is shú pǔ'ěr?**
-Shú pǔ'ěr (熟茶, ripe puerh) is pǔ'ěr that has undergone accelerated fermentation via wòduī (渥堆, wet-piling), a process invented in 1973 at Kunming Tea Factory. Wòduī compresses decades of natural aging into 45–60 days, producing a tea that is earthy, smooth, and warming from day one — with no bitterness or astringency.
+**Why does shú pǔ'ěr taste earthy — is that normal?**
+Yes — the earthy, forest-floor, or dark-fruit character is the defining flavour of shú, produced by theabrownins formed during wòduī fermentation. It is not a defect or contamination. Think aged mushroom, dark rum, dried dates. If the taste is excessively muddy, fishy, or chemical, that signals very young tea (xīng wèi) or poor fermentation quality — not shú pǔ'ěr in general.
 
 **How does the wòduī process work?**
 Sun-dried máochá is piled to roughly one metre deep, sprayed with water (30–50% of leaf weight), covered with tarpaulin, and left to ferment. Inside the pile, temperature reaches 50–65°C; the microbial community — *Aspergillus niger*, thermophilic *Bacillus*, and the yeast *Blastobotrys adeninivorans* — converts catechins into dark theabrownins. The pile is turned every 7–14 days to prevent scorching. Total duration: 45–60 days.
