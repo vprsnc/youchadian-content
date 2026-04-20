@@ -55,17 +55,17 @@ For tea brewing: Jǐngdézhèn plain white báicí gàiwǎn — thin-walled, bri
 
 ## FAQ
 
-**What is Jǐngdézhèn?**
-Jǐngdézhèn (景德镇) is a city in Jiānxī province, China — the centre of Chinese porcelain production for over 1,000 years. Renamed by Emperor Zhēnzōng in 1004 CE as the imperial kiln site, it is the origin of the English word "china" for porcelain. Its geology (kaolinite + pétuntse firing at 1,280–1,350°C) produces the translucent white material that defines true porcelain.
+**Why is porcelain called "china" in English?**
+The word "china" entered English as a shortened form of "China ware" — goods from China, and specifically from Jǐngdézhèn, which dominated European imports of fine porcelain from the 14th century onward. The city's output was so dominant that Europeans came to use the country's name as a generic term for the material itself. The name predates any European ability to make true porcelain.
 
-**Why is Jǐngdézhèn porcelain special?**
-The unique combination of kaolinite and pétuntse (silica-feldspar) fired at 1,280–1,350°C produces a material that is translucent, non-porous, resonant (rings like a bell when struck), and brilliant white. No other region has the same geological combination in proximity.
+**How can I tell if a Jǐngdézhèn piece is genuine high-fired porcelain?**
+Two quick tests used by Chinese collectors: tap the rim lightly with a fingernail — genuine high-fired Jǐngdézhèn porcelain rings clearly like a chime (声如磬 shēng rú qìng); lower-grade ceramics produce a dull thud. Hold the piece up to light — true Jǐngdézhèn porcelain shows warm milky translucency even in thick-walled pieces; industrial imitations block light or appear muddy.
 
-**What is tiánbái (sweet white) porcelain?**
-Tiánbái (甜白, "sweet white") is an extremely thin, translucent Jǐngdézhèn style developed in the Yǒnglè period (1403–1424), with minimal decoration. It is prized by tea specialists for its neutrality — the brilliant white interior allows accurate assessment of tea liquor colour during tasting.
+**Is Jǐngdézhèn one of China's "five famous kilns"?**
+No. The five famous kilns (五大名窑) — Rǔ, Guān, Gē, Jūn, and Dǐng — were the prestigious kilns of the Sòng dynasty (960–1279). Jǐngdézhèn rose to dominance in the Míng dynasty as the dedicated imperial kiln site, after the Sòng kilns had largely declined. Jǐngdézhèn is not one of the five but has outpaced all of them in historical output and global influence.
 
-**What is the difference between qīnghuā and fěncǎi?**
-Qīnghuā (青花, blue and white) uses cobalt oxide applied under the glaze before firing — one firing. Fěncǎi (粉彩, famille rose) uses overglaze enamels in pastel colours applied after the initial firing, requiring a second firing. Fěncǎi is more technically complex; qīnghuā is the more historically iconic and widely exported style.
+**Where did the cobalt for blue-and-white qīnghuā come from?**
+Originally from Persia — the cobalt-rich mineral smalt was imported along the Silk Road and became known as "Mohammedan blue" (回青 huí qīng) in historical Chinese records. This is why early Míng qīnghuā has a particularly intense, slightly purplish blue character. Domestic Chinese cobalt deposits were later used and produce a warmer, slightly greener blue — connoisseurs distinguish the two in high-value antique pieces.
 
-**Is all Jǐngdézhèn porcelain the same quality?**
-No. Mass-produced slip-cast pieces and hand-thrown studio pieces are both technically "Jǐngdézhèn porcelain." The distinction matters for purchase. Studio-made pieces from named workshops or artists are hand-thrown and hand-decorated; industrial pieces are mechanically formed.
+**Who are the 景漂 (jǐngpiāo) and why do they matter?**
+景漂 (jǐngpiāo, "Jǐngdézhèn drifters") are artists — Chinese and international — who relocate to Jǐngdézhèn to work in its studio ceramics ecosystem. The city offers unmatched infrastructure: specialist clay suppliers, kiln-sharing cooperatives, master apprenticeships, and a community of thousands of working potters. The jǐngpiāo phenomenon has kept Jǐngdézhèn a living centre of studio ceramics rather than a museum of historical production.
