@@ -70,14 +70,17 @@ The slightly higher temperature and longer steep tolerance make Guā Piàn more 
 
 ## FAQ
 
-**Why does Lù'ān Guā Piàn remove the bud?**
-Intentional — the bud is the most astringent part of the leaf, containing the highest catechin concentration. Removing it eliminates the main source of bitterness and allows the mature leaf's accumulated sugars and amino acids to define the cup. The result is fuller, more mellow, and more structurally complex than bud-only greens.
+**How does Guā Piàn compare to Longjing?**
+Both are pan-fired Chinese greens but different. Longjing: bud-and-leaf, bright toasted-bean character, delicate, 2–3 infusions. Guā Piàn: single mature leaf, double-fired → heavier body, roasted chestnut, more mellow and forgiving, 4–6 infusions. Longjing is more temperature-sensitive; Guā Piàn tolerates slightly higher water and imprecision. No direct flavour overlap — different teas entirely.
 
-**Why is it called "melon seed"?**
-The finished leaf is flat, smooth, and oval — about 1.5–2 cm long — resembling a sunflower or melon seed (瓜片 guā piàn = melon slice/seed). The shape comes from the light rolling step and the flat-fired form.
+**What are the grades and which is best value?**
+Six grades: 精品 (jīngpǐn) = highest, harvested before Gǔyǔ (谷雨, ~April 20); 特一级/特二级 (tè yī/tè èr) = excellent. Chinese specialists recommend 特一/特二 as the best value range; 精品 commands premium prices but shows the most floral-chestnut depth. Budget well below ¥100/jin typically indicates outer-mountain or machine-processed material.
 
-**Is Guā Piàn a good choice for people who find green tea bitter?**
-Yes — removing the bud removes the most bitter component, and the slightly higher brewing temperature is more forgiving of imprecision. The roasted character also contributes sweetness that compensates for any minor over-extraction.
+**What is the difference between inner-mountain and outer-mountain Guā Piàn?**
+两 producing zones: 内山 nèi shān (inner, Jīnzhài county, 600–800m altitude) = hand-processed, best quality. 外山 wài shān (outer, lower Lù'ān county elevations) = machine-processed, weaker flavour, lower price. Jīnzhài county origin on packaging is a positive quality signal; outer-mountain material is acceptable but lacks the depth of core-area leaf.
 
-**When is Guā Piàn harvested?**
-Later than most premium Chinese greens — typically mid-April to early May, after Qīngmíng. This is because it is made from mature leaves rather than first buds, and the mature leaf develops its character as the season progresses. Guā Piàn is not a míng qián tea.
+**What should Guā Piàn cost and which brands are reliable?**
+Decent 特二级: ¥80–200/jin. Quality 特一级: ¥200–500/jin. 精品 pre-Gǔyǔ: ¥500–1,500+/jin. Reputable brands: 徽六 Huī Liù, 谢裕大 Xiè Yùdà, 徽将军 Huī Jiāngjūn. Inner-mountain (金寨 Jīnzhài) origin commands premium over outer-mountain material at equivalent grades.
+
+**Is Guā Piàn the tea Zhou Enlai favoured?**
+Yes — Premier Zhōu Ēnlái (周恩来) reportedly favoured Guā Piàn and requested it for state occasions. He is said to have offered it to foreign dignitaries, including during the 1972 US diplomatic opening. This association elevated Guā Piàn's national prestige and contributed to its continued inclusion in China's "ten famous teas" lists.
