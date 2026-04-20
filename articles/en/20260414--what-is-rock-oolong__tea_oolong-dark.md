@@ -92,17 +92,17 @@ Pre-warm all vessels including the pitcher (公道杯 gōngdào bēi). Quality r
 
 ## FAQ
 
-**What is yánchá?**
-Yánchá (岩茶, "rock tea") is a family of heavily oxidised and charcoal-roasted oolongs from the Wǔyí Shān mountains in Fújiàn, China. Defined by yán yùn (岩韵) — a mineral persistence from volcanic soils and gorge microclimates that cannot be replicated elsewhere. Includes ròuguì, shuǐxiān, dà hóng páo, and the míng cóng specialty cultivars.
+**How does yánchá differ from tiě guānyīn or dāncōng?**
+All three are Chinese oolongs but from different regions with fundamentally different characters. Tiě guānyīn (Fújiàn, Ānxī) is the most accessible — lightly oxidised, creamy, floral, often ball-rolled. Dāncōng (Guǎngdōng, Phoenix Mountain) is aromatic and fruit-forward, with extraordinary cultivar diversity. Yánchá is the most complex and demanding: high oxidation, heavy roasting, deep mineral persistence. The three represent a useful progression from approachable to intense.
 
-**What is yán yùn?**
-Yán yùn (岩韵, "rock rhyme") is the defining flavour quality of Wǔyí rock oolongs — a deep, mineral persistence that adheres to the throat and palate after swallowing, evolving slowly into sweetness. It results from volcanic soil minerals, gorge microclimate, and multi-cycle charcoal roasting. It is not bitterness or astringency.
+**Why does some yánchá taste smoky or burnt?**
+These are two different things. A light smoky-campfire note (烟味 yān wèi) is normal in freshly charcoal-roasted yánchá and dissipates with 1–3 months of rest — not a defect. An unpleasant scorched taste (焦味 jiāo wèi) — like burnt coffee or a cooking wok — indicates a processing fault (leaf scorched during kill-green or excessive roasting). If the tea tastes smoky but not harsh, give it time. If it tastes genuinely burnt and bitter, that is a quality problem.
 
-**What is the difference between zhèng yán and bàn yán?**
-Zhèng yán (正岩, "true rock") comes from the Sānkēng Liǎngjiàn core zone — five named gorges covering ~70 km² of the Wǔyí reserve. Bàn yán comes from the broader scenic area. Zhōu chá from surrounding valley plains. Each grade down removes terroir concentration; the processing can be identical.
+**Where should a beginner start with yánchá?**
+Start with medium-roast (中火 zhōng huǒ) ròuguì or shuǐxiān — the two dominant cultivars that define the category. Light roast (qīng huǒ) shows less yán yùn; heavy roast (足火 zú huǒ) can be challenging until you know the style. On budget: Chinese buyers consider ¥200–500 per jin (roughly €25–65 per 500 g) a realistic range for honest daily yánchá with genuine terroir character — below that, the Wǔyí mineral depth is rarely present.
 
-**How do I brew yánchá?**
-100°C water, 7–8 g per 100 ml, yíxīng or gàiwǎn. Rinse 5 seconds, discard. First steep 15–20 seconds; add 10–15 seconds per round. Expect 7–10 infusions. Pre-warm all vessels. Complexity peaks at the third or fourth infusion.
+**Can yánchá be brewed without gongfu equipment?**
+Yes. Use two mugs — steep in one, pour into the other to separate tea from leaf. 5–7 g per 100 ml, 100°C water, 30–60 seconds for a first infusion. Gongfu is strongly preferred: the high leaf ratio and short steeps reveal the layered character that defines yánchá. But a mug brew at correct temperature still produces a recognisable cup. Do not reduce temperature — yánchá requires boiling water regardless of method.
 
-**What does yánchá taste like?**
-Ròuguì: cinnamon, pepper, roasted grain, mineral. Shuǐxiān: orchid, wood, mellow depth. Both styles share yán yùn: a mineral throat-coat that lingers long after swallowing. Full-roast teas add caramel and dark fruit; medium-roast teas retain more floral lift.
+**Does freshly roasted yánchá need time to settle before drinking?**
+Yes — this is tuì huǒ (退火, "withdrawal of fire"). After heavy charcoal roasting, volatile roasting notes need 1–3 months to dissipate. A freshly roasted tea may taste sharp, smoky, or one-dimensional. The same tea after proper rest reveals floral depth, mineral persistence, and full yán yùn character. When buying, ask when the tea was roasted — and factor the rest period into when you open it.
