@@ -123,20 +123,17 @@ The simplest and most direct form: pieces of aromatic wood (agarwood, sandalwood
 
 ## FAQ
 
-**What is the difference between bamboo-core and coreless incense sticks?**
-Bamboo-core sticks (竹芯) have a thin bamboo splint inside; coreless (无芯) sticks are pure aromatic paste. Bamboo produces a faint cellulose smoke that slightly degrades fragrance quality. Coreless sticks are preferred for serious fragrance work; bamboo-core is more common in mass-market products.
+**Are backflow (waterfall) cones good incense, or mainly a visual novelty?**
+Primarily visual. The hollow channel that directs smoke downward requires a denser, heavier smoke formulation — the density agents that create the dramatic cascade also produce a harsher, more acrid odour than standard cone incense. Users consistently report the fragrance is noticeably inferior to regular cone or stick incense of equivalent ingredients. Treat backflow cones as a decorative object rather than a serious fragrance tool.
 
-**What is seal incense (篆香)?**
-Seal incense (篆香 zhuànxiāng) is aromatic powder pressed into a trail pattern on an ash bed using a stamp, then lit at one end to burn along the pattern. Patterns can be geometric, characters, or flowers. Used in Sòng dynasty literati culture as incense clocks — trail length determined burn time precisely.
+**What type of ash is best for seal incense (篆香)?**
+Use mineral incense ash (矿质灰 kuàngzhì huī) — typically diatomaceous earth or a similar inert silicate material. It doesn't absorb moisture, doesn't emit its own smell, compacts evenly, and holds the pressed trail without crumbling. Avoid ash from non-incense sources (paper, wood) which can introduce unwanted smells and irregular texture. Ash from previously burned high-quality incense was the traditional choice — it retains trace fragrance that complements subsequent burns.
 
-**What is indirect heat burning (隔火熏香)?**
-Burying charcoal under incense ash, placing a mica plate over it, then setting aromatic material on the mica. Temperature (~80–120°C) heats the wood without burning it — releasing fragrance without combustion or smoke. Preferred for high-grade chénxiāng and tánxiāng chips; electric heaters replicate this for indoor use.
+**How do I prevent a seal incense trail from dying midway through the pattern?**
+The most common causes: powder packed too loosely (tamp more firmly when filling the stamp), trail too thin relative to the ash surface (don't overfill or underfill the mould), and airflow breaking the ember (shield from drafts). Beginners should practise the pressing and lifting technique on white paper first — this reveals whether the trail is consistent before moving to the ash bed. Start at the beginning of the trail with a small paper insert to start the ember evenly.
 
-**Can I use an electric heater for all incense forms?**
-Wood chips, loose powder, resins, and honey pellets all work on electric heaters — each at a different temperature range (60–80°C for powder, 80–120°C for wood chips, 120–180°C for resins). Stick and coil incense require direct flame and cannot be used on a heater. Seal incense trails can be laid on a mica plate over a heater but burn less evenly than on a traditional ash bed.
+**Can a beginner practice seal incense at home without specialist tools?**
+Yes, with modest investment. Required: a flat-bowl incense vessel, mineral ash, a powder stamp (印模 yìn mú, sold in sets with multiple patterns), and sandalwood powder for practice (affordable, burns cleanly, good feedback). Begin with simple geometric patterns before characters. Expect the first 10–20 attempts to fail in some way — the technique requires consistent hand pressure to lift the stamp cleanly. It is a genuine craft skill that improves rapidly.
 
-**Which form is best for agarwood?**
-Indirect heat (隔火熏香) on mica over charcoal. Direct burning destroys the subtler volatile compounds through combustion. Indirect heat at controlled low temperature reveals the full fragrance arc — opening notes, middle development, and dry-down — that direct burning collapses into a single smoky impression.
-
-**How long do coil incenses burn?**
-Standard household coils: 4–8 hours. Temple coils sold in Chinese religious shops: 12–24 hours. Giant temple coils (30–50 cm diameter): up to several weeks in enclosed spaces. Burn time scales with mass; fragrance intensity increases with coil diameter and density.
+**Is it safe to leave incense burning unattended or while sleeping?**
+No. Direct-flame incense (sticks, coils, cones) is a genuine fire hazard when unattended — documented house fires have resulted from unmonitored sticks tipping into flammable material. Always use a proper heat-resistant holder, keep clear of fabrics and paper, and extinguish before leaving the room or sleeping. Electric heaters are significantly safer for unattended use (no open flame, auto-off options) but should still not be left running indefinitely on flammable surfaces.
