@@ -49,11 +49,11 @@ If-then authenticity test: Rub vigorously between palms for 30 seconds → the f
 
 ## Beads and wearables
 
-Carved beads and small objects have been part of huánghuālí culture for centuries — used in Buddhist malas, court accessories, and literati desk objects. Worn beads develop a bāojiāng (包浆) patina over years of handling: the surface darkens slightly, grain definition increases, and fragrance modulates as skin oils are absorbed into the wood.
+Carved beads and small objects have been part of huánghuālí culture for centuries — used in Buddhist malas, court accessories, and literati desk objects. Worn beads develop a bāojiāng (包浆) patina over years of handling: the surface darkens slightly, grain definition increases, and fragrance modulates as skin oils are absorbed into the wood. Mature bāojiāng achieves rùn (润) — a warm, jade-like inner glow.
 
 This aging through wear is considered the point of huánghuālí beads — not decoration to be preserved unchanged, but a material that improves with lived use, developing a personal character over years.
 
-**TL;DR:** Bāojiāng (patina) develops over years of wear: surface darkens, grain deepens, fragrance evolves with skin oils. This transformation is the purpose of wearing huánghuālí — not static decoration.
+**TL;DR:** Bāojiāng (patina) develops over years of wear: surface darkens, grain deepens, fragrance evolves with skin oils. Mature bāojiāng achieves rùn (润) — a warm, jade-like inner glow. This transformation is the purpose of wearing huánghuālí — not static decoration.
 
 ## Care
 
@@ -83,4 +83,4 @@ Rub vigorously between palms for 30 seconds — genuine huánghuālí's fragranc
 Five named types: ghost face (鬼脸纹 guǐliǎn wén) — irregular eye-like figures, the most famous; phoenix eye (凤眼纹 fèngyǎn wén) — smaller elongated ovals; flowing water (行云流水纹 xíngyún liúshuǐ wén) — sweeping curves with a golden sea-like shimmer; mountain and water (山水纹 shānshuǐ wén) — landscape-like undulations; wheat spike (麦穗纹 màisuì wén) — fine herringbone figure. A single exceptional plank may show several simultaneously.
 
 **How do huánghuālí beads age?**
-Through regular wearing, beads develop bāojiāng (包浆) — a patina where the surface darkens slightly, grain definition deepens, and fragrance evolves as skin oils absorb into the wood. This transformation is considered the purpose of wearing the beads, not a sign of wear.
+Through regular wearing, beads develop bāojiāng (包浆) — a patina where the surface darkens slightly, grain definition deepens, and fragrance evolves as skin oils absorb into the wood. Mature bāojiāng achieves rùn (润) — a warm, jade-like inner glow. This transformation is considered the purpose of wearing the beads, not a sign of wear.

@@ -74,7 +74,7 @@ All *Aquilaria* and *Gyrinops* species have been listed in CITES Appendix II sin
 
 **Incense:** Direct burning (点燃, diǎnrán) of chips or powder. The premium method is indirect heat (隔火熏香 gé huǒ xūn xiāng): charcoal buried in incense ash, a mica plate over it, and wood chips placed on the mica — the wood heats to 80–120°C without combustion, releasing fragrance without the harshness of burning.
 
-**Wearables (文玩):** Carved beads and pendants develop bāojiāng (包浆) patina with wear — the surface darkens, resin redistributes, and fragrance deepens with skin contact. Comparable to [huánghuālí](/wiki/huanghuali) wood beads.
+**Wearables (文玩):** Carved beads and pendants develop bāojiāng (包浆) patina with wear — the surface darkens and develops rùn (润), a jade-like inner luminosity, while resin redistributes and fragrance deepens with skin contact. Comparable to [huánghuālí](/wiki/huanghuali) wood beads.
 
 **Traditional medicine:** Chénxiāng is a material medica substance in the *Shénnóng Běncǎo Jīng* and subsequent Chinese pharmacopoeias — used for digestive disorders, pain, and as a Qi-regulating herb.
 

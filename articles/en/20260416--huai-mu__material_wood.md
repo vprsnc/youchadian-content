@@ -43,7 +43,7 @@ The combination of density, insect resistance, and lasting surface lustre explai
 
 Freshly cut huái mù heartwood is pale to mid golden-yellow, sometimes with a greenish or olive cast. With age and exposure to light and air, the colour deepens toward warm amber-brown. The grain is relatively straight but unevenly textured — the contrast between dense late-wood bands and the open-pored early wood creates a visual rhythm that becomes more defined with wear and time.
 
-Bāojiāng (包浆) on huái mù develops slowly compared to oily woods like huánghuālí or zǐtán, but results in a warm, mellow amber glow. Antique huái mù furniture shows a deep honey colour that is difficult to reproduce artificially.
+Bāojiāng (包浆) on huái mù develops slowly compared to oily woods like huánghuālí or zǐtán, but results in a warm, mellow amber glow — deepening over decades into rùn (润), a jade-like inner luminosity. Antique huái mù furniture shows a deep honey colour that is difficult to reproduce artificially.
 
 ## Wénwán Use
 
@@ -67,4 +67,4 @@ The *Rites of Zhou* records three scholar trees planted in the Zhou royal court 
 Huánghuālí is oilier, more figured, and dramatically more valuable. Huái mù is harder, denser, and more structurally practical — used throughout northern Chinese furniture construction for its stability and insect resistance. Huánghuālí was reserved for fine decorative pieces; huái mù was used where strength and longevity mattered more than visual spectacle.
 
 **What does huái mù patina look like?**
-Freshly worked heartwood is pale to golden-yellow. With age it deepens toward warm amber-brown. Bāojiāng (包浆) develops slowly — the surface takes on a mellow honey glow over decades of handling, without the dramatic darkening seen in oilier species. Antique huái mù furniture shows a deep amber colour that is difficult to artificially replicate.
+Freshly worked heartwood is pale to golden-yellow. With age it deepens toward warm amber-brown. Bāojiāng (包浆) develops slowly — the surface takes on a mellow honey glow over decades of handling, deepening into rùn (润), a jade-like inner luminosity, without the dramatic darkening seen in oilier species. Antique huái mù furniture shows a deep amber colour that is difficult to artificially replicate.

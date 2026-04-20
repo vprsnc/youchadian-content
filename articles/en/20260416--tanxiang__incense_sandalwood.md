@@ -50,7 +50,7 @@ This ritual role is distinct from chénxiāng, which in Chinese culture carries 
 
 Genuine high-grade sandalwood heartwood retains its fragrance for centuries. Antique Lǎo Shān pieces from the 17th–19th century still carry full fragrance. The fragrance does not develop over time in the same way as chénxiāng or huánghuālí — it is present from the moment the heartwood is formed and persists rather than transforms. Lower-grade material can lose volatile top notes within years, leaving a flat woody base.
 
-For wearable beads and carved objects, tánxiāng beads develop a mild patina (bāojiāng 包浆) with skin contact — oil absorption gives a warm glow — but the transformation is subtler than chénxiāng or huánghuālí.
+For wearable beads and carved objects, tánxiāng beads develop a mild patina (bāojiāng 包浆) with skin contact — oil absorption gives a warm rùn (润), a jade-like glow — but the transformation is subtler than chénxiāng or huánghuālí.
 
 ## How to authenticate tánxiāng
 

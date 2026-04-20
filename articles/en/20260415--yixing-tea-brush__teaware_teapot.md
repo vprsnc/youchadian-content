@@ -93,7 +93,7 @@ A small natural-bristle brush — horse hair or boar bristle — used to distrib
 Uneven pouring produces 花斑 (huā bān) — patchy, mottled aging where some areas develop faster than others. The brush ensures full, even coverage with every session, which is essential for the deep, uniform 包浆 that distinguishes a well-aged pot.
 
 **What is 包浆 (bāojiāng)?**
-The luminous patina that forms on the surface of a Yixing teapot through sustained use. It develops from three overlapping processes: oxidation, absorption of tea essence into the clay, and friction from handling. It cannot be rushed or artificially replicated — authentic bāojiāng requires consistent time and practice.
+The luminous patina that forms on the surface of a Yixing teapot through sustained use. It develops from three overlapping processes: oxidation, absorption of tea essence into the clay, and friction from handling. Mature bāojiāng achieves rùn (润) — a jade-like inner luminosity, deep and even. It cannot be rushed or artificially replicated — authentic bāojiāng requires consistent time and practice.
 
 **How long does 包浆 take to develop on a Yixing teapot?**
 First visible gloss appears around three months of regular daily sessions. A fully unified patina with deep luminosity takes one to three years or more. The quality reflects the consistency of the practice, not just its duration.

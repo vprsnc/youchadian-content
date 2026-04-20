@@ -72,7 +72,7 @@ Xiǎo yè zǐtán (小叶紫檀) is Chinese red sandalwood (*Pterocarpus santali
 Gold stars (金星纹 jīnxīng wén) are oxidised tree resin deposits that fill the vessel pores of zǐtán, creating golden-yellow spots that appear as stars against the dark wood. They form naturally in slow-grown old-growth material and sit flush with the wood surface. Full-sky stars (满天星) — maximum gold star density — represent the highest grade.
 
 **How fast does zǐtán develop patina?**
-Faster than most wénwán woods. Daily wear for two to three years produces visible deepening of colour and a glassy surface under raking light. The combination of high density, natural oil content, and fine grain absorbs skin oils efficiently. Gold stars intensify in contrast as the surrounding wood darkens.
+Faster than most wénwán woods. Daily wear for two to three years produces visible deepening of colour and a glassy surface under raking light — the sign of rùn (润), the jade-like inner luminosity of mature bāojiāng. The combination of high density, natural oil content, and fine grain absorbs skin oils efficiently. Gold stars intensify in contrast as the surrounding wood darkens.
 
 **How do I tell authentic zǐtán from imitations?**
 Three tests: (1) it sinks immediately in water — no float; (2) a damp white cloth rubbed on the surface picks up a faint pinkish-purple stain — not deep red or orange; (3) genuine cow-hair grain shows fine S-curved vessel lines under magnification, not straight coarser lines. CITES protection and high value make counterfeiting common.

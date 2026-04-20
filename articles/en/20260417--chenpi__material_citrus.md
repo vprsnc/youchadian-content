@@ -1,6 +1,6 @@
 :page/lang :en
 :article/title "Chénpí — Aged Mandarin Peel"
-:article/tags ["chenpi" "aged" "citrus" "material" "digestive" "pu-erh" "ganpu-cha" "xinhui"]
+:article/tags ["chenpi" "aged" "citrus" "material" "digestive" "pu-erh" "ganpu-cha" "xinhui" "white-tea"]
 :article/category :material
 :article/type :citrus
 :article/description "Chénpí (陈皮) is sun-dried mandarin peel aged three years or more. Xīnhuì origin is the benchmark — protected GI, Cha Zhi cultivar, used in TCM, cooking, and pu-erh pairing."
@@ -47,6 +47,8 @@ The key flavonoids — nobiletin and hesperidin — also change their bioavailab
 
 **Tea pairing**: Chénpí brews well alone as a warm infusion and pairs naturally with aged pu-erh. The classic combination is gānpǔ chá (柑普茶) — whole small mandarins cored and filled with compressed pu-erh leaves, then dried. Mandarin peel and tea age together, creating a unified flavour. This specialty originates in Xīnhuì and surrounding Guǎngdōng.
 
+**Aged white tea**: A lighter, more refined pairing is chénpí bái chá (陈皮白茶) — aged mandarin peel brewed with aged [white tea](/wiki/white-tea-overview). [Bái Mǔ Dān](/wiki/bai-mu-dan) or [Bái Háo Yín Zhēn](/wiki/bai-hao-yin-zhen) stored three or more years develops a mellow, honeyed character that meets aged peel on equal terms — both are slow-transformed ingredients, and neither dominates the other. The citrus oils lift and brighten white tea's depth; the tea softens the peel's warmth into something delicate. Brew at 85–90°C (lower than for pu-erh pairings) to preserve white tea's character. Use 1–2 small pieces of peel alongside the leaf.
+
 ## Brewing
 
 Break off 2–4 small pieces (3–5g). Rinse briefly with hot water, then steep 5–10 minutes in 90–95°C water. The infusion should be clear — pale yellow in young peel, deep amber in old — smooth and gently aromatic.
@@ -78,6 +80,9 @@ Chinese national standard for Xīnhuì chénpí requires minimum three years of 
 
 **What is gānpǔ chá?**
 柑普茶 — whole small mandarins filled with pu-erh and dried. 柑 (gān) = mandarin, 普 (pǔ) = pu-erh. The peel and tea age together after drying, creating a single unified infusion.
+
+**Does chénpí pair with white tea?**
+Yes — chénpí bái chá (陈皮白茶) is a recognised pairing. Aged white tea (Bái Mǔ Dān or Bái Háo Yín Zhēn stored three or more years) develops a honeyed, mellow character that works with aged mandarin peel: both are slow-aged, and the citrus oils add warmth without overwhelming white tea's delicacy. Brew at 85–90°C with 1–2 small pieces of peel — lower temperature than pu-erh pairings to preserve the tea's character.
 
 **Can I age my own?**
 In principle yes — thoroughly sun-dry fresh Citrus reticulata peel and store in a cool, dry, ventilated place. Results will differ from Xīnhuì professional aging, which depends on specific terroir and centuries of refined technique.
