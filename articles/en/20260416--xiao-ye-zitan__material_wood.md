@@ -65,17 +65,17 @@ Counterfeiting is widespread due to the wood's value. Three reliable field tests
 
 ## FAQ
 
-**What is xiǎo yè zǐtán?**
-Xiǎo yè zǐtán (小叶紫檀) is Chinese red sandalwood (*Pterocarpus santalinus*), a dense Indian hardwood used in Chinese imperial furniture and the wénwán bracelet tradition. It deepens from deep reddish-purple to near-black with years of handling. Four grain grades exist from plain brown eyes (棕眼) to all-over gold stars (满天星).
+**Is xiǎo yè zǐtán actually a type of sandalwood? Does it smell like sandalwood?**
+No and no. Despite the name (tán 檀 = sandalwood), xiǎo yè zǐtán (*Pterocarpus santalinus*) is botanically unrelated to true aromatic sandalwood (*Santalum album*). It has no significant fragrance — a very faint earthiness at most. The name is a historical misnomer: the deep red-purple heartwood colour reminded Chinese observers of the sandalwood family, and the Sanskrit word *chandan* was borrowed and corrupted into zǐtán in Chinese. If you want an aromatic wood, xiǎo yè zǐtán is not it.
 
-**What are gold stars in zǐtán?**
-Gold stars (金星纹 jīnxīng wén) are oxidised tree resin deposits that fill the vessel pores of zǐtán, creating golden-yellow spots that appear as stars against the dark wood. They form naturally in slow-grown old-growth material and sit flush with the wood surface. Full-sky stars (满天星) — maximum gold star density — represent the highest grade.
+**What is dà yè zǐtán, and how do I avoid buying it instead of xiǎo yè?**
+Dà yè zǐtán (大叶紫檀, "large-leaf purple sandalwood") is *Dalbergia louvelii*, a completely different genus introduced from Madagascar in the 1990s — not *Pterocarpus santalinus* at all. It is approximately 1/10th the price, has coarser grain, lacks the fine S-curve cow-hair pattern, and does not produce the blue fluorescence in water that xiǎo yè does. It is widely sold as xiǎo yè zǐtán, especially online and in markets. Check the fluorescence test and grain fineness before buying.
 
-**How fast does zǐtán develop patina?**
-Faster than most wénwán woods. Daily wear for two to three years produces visible deepening of colour and a glassy surface under raking light — the sign of rùn (润), the jade-like inner luminosity of mature bāojiāng. The combination of high density, natural oil content, and fine grain absorbs skin oils efficiently. Gold stars intensify in contrast as the surrounding wood darkens.
+**What is the water fluorescence test, and how do I do it?**
+Soak a small piece of xiǎo yè zǐtán (or a bead) in a clear glass of water for 30–60 minutes. Genuine xiǎo yè zǐtán produces a distinctive blue-green fluorescence — described as like thin machine oil — in the water near the surface. Dà yè zǐtán, other rosewood species, and dyed imitations produce no fluorescence or produce a red/brown bleed without the blue-green character. This is the single most reliable field test for distinguishing xiǎo yè from common substitutes.
 
-**How do I tell authentic zǐtán from imitations?**
-Three tests: (1) it sinks immediately in water — no float; (2) a damp white cloth rubbed on the surface picks up a faint pinkish-purple stain — not deep red or orange; (3) genuine cow-hair grain shows fine S-curved vessel lines under magnification, not straight coarser lines. CITES protection and high value make counterfeiting common.
+**Is it legal to buy and import xiǎo yè zǐtán beads and bracelets in Europe?**
+*Pterocarpus santalinus* is listed under CITES Appendix II, which restricts commercial export of raw material from India. However, finished products — including beads, bracelets, and small decorative objects — under 10 kg per shipment are exempt from CITES permit requirements. India has export restrictions on raw logs; finished jewellery purchased from established dealers is legal to import into the EU without special documentation.
 
-**Why is zǐtán associated with the imperial court?**
-The Qīng Emperor Qiánlóng commissioned zǐtán furniture on a large scale — thrones, screens, cabinets — using the wood's fine grain for high-relief carving and its deep purple colour for association with imperial authority. The Forbidden City holds the world's largest collection of zǐtán imperial furniture.
+**Is the near-black colour development normal, or does it mean the wood is damaged?**
+Normal and desirable. Fresh xiǎo yè zǐtán heartwood is deep reddish-purple; with years of daily wear it deepens progressively toward purple-black as skin oils accelerate oxidation. This is the mature bāojiāng (包浆) state — the same transformation that drives the collector value. A well-worn near-black surface with high gloss and vivid gold stars is a sign of genuine long-term use. The colour shift is irreversible and cannot be bleached back.
