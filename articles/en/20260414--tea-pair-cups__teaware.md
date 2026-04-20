@@ -68,17 +68,17 @@ The pair is less useful for heavily roasted teas (where the roasted note dominat
 
 ## FAQ
 
-**What is a wénxiāng bēi?**
-A wénxiāng bēi (闻香杯, aroma cup) is a tall, narrow porcelain cup used in Táiwān-style gōngfū service. Tea is poured into it first, then transferred to the tasting cup by inversion. The warm empty aroma cup releases trapped volatile aromatics — you inhale from it rather than drink from it.
+**Are aroma cups necessary, or are they optional?**
+Optional. The aroma cup concentrates volatile compounds that would otherwise dissipate in an open cup — real value for high-aromatic oolongs. But the tea itself is unaffected: you can skip the aroma step and drink from a standard small cup with no change to flavour. Most practitioners use them for special teas or tasting sessions, not necessarily every day.
 
-**How do you use tea pair cups?**
-Pour brewed tea into the wénxiāng bēi. Place the pǐnmíng bēi upside-down on top, flip both cups together, then lift the wénxiāng bēi away. The tea stays in the tasting cup. Hold the warm aroma cup in both palms, rotate gently, and inhale. Sip the tea from the tasting cup in 2–3 small sips.
+**Why must the aroma cup be porcelain, not zǐshā?**
+Zǐshā clay is porous and absorbs aromatic compounds — the same property that makes it excellent for teapots works against the aroma cup. A zǐshā aroma cup would trap and retain previous tea aromatics rather than releasing them cleanly to the nose. Non-porous porcelain releases all aromatics without absorbing any, which is why white porcelain is the correct material for the wénxiāng bēi.
 
-**What are the three aroma phases?**
-As the aroma cup cools: hot aroma (热香 rè xiāng, immediate top notes), warm aroma (温香 wēn xiāng, mid notes), cool aroma (冷香 lěng xiāng, base notes). The most complex character appears in the warm phase, 20–40 seconds after lifting the cup.
+**What is the correct technique for smelling the aroma cup?**
+Don't press the cup directly to your nose — the cup is hot immediately after lifting and can cause burns. Instead, hold the warm cup 2–3 cm from the nose and either rock it gently side to side (single-hand technique) or roll it between both palms with small upward strokes. The movement draws fresh air across the rim with each pass, making the aroma more distinct than a single static inhale.
 
-**Which teas benefit most from aroma cups?**
-Lightly oxidised oolongs with high volatile aromatic content: qīngxiāng tiěguānyīn, high-mountain Táiwān oolongs, and Fènghuáng dāncōng. Less useful for heavily roasted oolongs or pǔ'ěr, where volatile florals are reduced and colour/taste matter more than aroma.
+**Do I need to use the aroma cup on every steep?**
+No — volatile aromatics are highest in the first infusion and decline with each subsequent steep. Many practitioners use the aroma cup only for the first steep, then switch to direct sipping from the pǐnmíng bēi for rounds two and beyond. For tasting sessions where you want to track aroma evolution across steeps, use it every round.
 
-**Did Cháozhōu tea use aroma cups originally?**
-No. The wénxiāng bēi is a Táiwān innovation from the 1980s, developed for high-mountain oolongs with intense floral aromatics. It is not part of the original Cháozhōu or Mǐnnán gōngfū traditions.
+**Can aroma cups be used with green tea, red tea, or pǔ'ěr?**
+Technically yes, but the benefit is small. Green and white teas have delicate aromatics that dissipate too quickly even in the aroma cup. Red tea has little volatile floral character. Pǔ'ěr is evaluated primarily by colour and taste, not volatile aroma. The wénxiāng bēi was designed for high-aromatic oolongs and works best there — for other categories, a standard small cup is sufficient.
