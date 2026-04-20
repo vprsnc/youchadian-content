@@ -98,17 +98,17 @@ Unlike pu-erh or white tea, green tea does not improve with age. Fresh is always
 
 ## FAQ
 
-**What makes Chinese green tea different from Japanese green tea?**
-Processing method: most Chinese greens are pan-fired (guōchǎo), which gives toasty, nutty, or grassy-sweet notes. Most Japanese greens are steamed (zhēngqīng), producing a brighter, more vegetal, "marine" character. The same basic method — kill-green, shape, dry — but the heat source changes the flavour fundamentally.
+**How much caffeine does Chinese green tea have — and is it the same as coffee caffeine?**
+A cup (250 ml) contains 25–45 mg of caffeine — less than black tea or coffee. The molecule is identical to coffee caffeine ("theine" is just the historical name, not a different compound). What differs is the context: green tea contains 200+ bioactive compounds, including L-theanine, which promotes relaxed alertness and modifies caffeine's effect. Research (Oxford Nutrition Reviews, 2024) confirms the combination improves focus and mood more than caffeine alone. For some people, the sustained, jolt-free stimulation of green tea exceeds coffee's short spike in total effect.
 
-**What is míng qián (明前) and why does it matter?**
-Leaf harvested before the Qīngmíng festival (~April 5). Winter dormancy means the plant's energy concentrates in the first tiny buds — high amino acids (sweetness, umami), low catechins (bitterness). This is the sweetest, most aromatic material of the year. After Qīngmíng, catechin levels rise, flavour becomes fuller but less delicate.
+**How do I recognise good quality Chinese green tea when buying?**
+Chinese producers assess five dimensions: 形 (leaf form — tight, even, unbroken), 色 (colour — vivid jade-green, not yellowed or grey), 香 (dry aroma — fresh and clean, not flat), 味 (taste — sweet and clean, no harshness), 底 (wet leaf after steeping — bright, intact, tender). Practical tip: buy loose-leaf over bags, check that spring harvest and a harvest date are labelled, and avoid sealed packaging with no date.
 
-**Why does green tea go bitter?**
-Three causes: (1) water too hot — boiling water extracts catechins that cooler water would not; (2) too long a steep — even at correct temperature, over-extraction pulls bitterness; (3) too much leaf. The fix: cooler water (75–80°C), shorter steeps (15–20 s for gongfu, 1 min for western), and adjust leaf amount.
+**Which Chinese green tea is best for a beginner?**
+Bì Luó Chūn or a post-Gǔyǔ Lóngjǐng — both are widely available, forgiving to brew, and represent the character of Chinese greens without the price pressure of míng qián grades. Avoid starting with Tài Píng Hóu Kuí or Lù'ān Guā Piàn — their larger, denser leaves need more dialling-in to avoid flat or bitter results.
 
-**Can green tea be aged?**
-No — unlike white tea or pu-erh, Chinese green tea degrades with age. The delicate aromatic compounds and amino acids that define its character oxidise and dissipate. Store airtight, cool, and consume within 6–12 months of harvest.
+**Can Chinese green tea be cold-brewed?**
+Yes, and it works well. Use 4–5 g per 500 ml of cold filtered water and steep in the fridge for 6–8 hours without pre-warming. Cold water extracts amino acids (sweetness, umami) preferentially over catechins (bitterness), producing a sweeter, cleaner cup than hot brewing — and reduces caffeine extraction by roughly 40–50%. Bì Luó Chūn and Lóngjǐng are particularly good cold.
 
-**What is the difference between Lóngjǐng and Ānjí Bái Chá?**
-Both are pan-fired flat greens from Zhèjiāng, but they differ in cultivar and character. Lóngjǐng uses the standard Lóngjǐng 43 or Qúnti Zhǒng cultivars — vegetal-toasty. Ānjí Bái Chá uses an albino mutation with very low chlorophyll — the leaf is pale, the flavour is milky and sweet, almost umami. Despite containing "white" (白) in the name, Ānjí Bái Chá is processed and classified as green tea.
+**Should Chinese green tea be drunk without milk or sugar?**
+Yes. Milk proteins bind with catechins and polyphenols, suppressing the aromatic compounds that define each variety's character. Sugar masks the natural sweetness and huí gān (回甘, returning sweetness) that premium greens develop on the palate. Traditional Chinese practice is water only. If transitioning from milky tea, start with post-Gǔyǔ grades — fuller body, more tolerant of adjustment — and gradually reduce additions.
