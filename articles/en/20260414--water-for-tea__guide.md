@@ -78,17 +78,17 @@ If brewing pǔ'ěr or roasted oolongs requiring 100°C at altitude → a pressur
 
 ## FAQ
 
-**What TDS should water for tea be?**
-50–150 mg/L is the ideal range. Below 50 (distilled, RO-filtered) = flat and lifeless. Above 200 = dulls aroma and introduces chalky harshness. Check bottled mineral water labels; most European spring waters fall in the 80–200 mg/L range.
+**Which bottled water brands work well for tea in Europe?**
+Volvic (TDS ~109 mg/L) is widely available and works well for most teas. Evian (TDS ~357 mg/L) is too high — it dulls lighter green and white teas noticeably. Buxton (~280 mg/L) is borderline. San Pellegrino (~1,000 mg/L) is too hard for any fine tea. For delicate teas, low-mineral waters like Spa Reine (~27 mg/L) or Volvic work best; for roasted oolongs and pǔ'ěr, slightly higher mineral content (100–150 mg/L) adds body without flattening. Check labels for TDS or "dry residue at 180°C."
 
-**Does tap water affect tea quality?**
-Yes — primarily through chlorine, which destroys volatile aromatics. Filter with activated carbon or leave in an open container for 30+ minutes before boiling. In very hard water areas (TDS > 300 mg/L), a carbon filter or blending with low-mineral water helps significantly.
+**Does a Brita filter make tap water good enough for tea?**
+Yes for chlorine removal — activated carbon filters eliminate chlorine effectively, which is the primary concern for fine teas. The limitation: Brita's ion-exchange resin softens hard water only moderately and has a short-lived effect. In soft-water areas (TDS < 200 mg/L), Brita-filtered water works well. In very hard water areas (TDS > 300 mg/L), Brita alone is insufficient — supplement by blending with low-TDS bottled water or use a reverse osmosis filter with remineralisation.
 
-**What temperature should I use for green tea?**
-75–80°C. Above 85°C destroys the volatile aromatic compounds responsible for green tea's character and increases extraction of bitter catechins from tender buds. Use a variable-temperature kettle or let boiled water cool for 3–4 minutes before pouring.
+**Does the kettle material affect the water?**
+Measurably, yes — though the effect varies. Iron and clay kettles (cast iron tetsubin, clay yùshū wēi) soften the water's mouthfeel slightly and reduce perceived astringency; this is documented in traditional Chinese and Japanese tea literature and supported by modern observation. Stainless steel is neutral — no effect. Plastic kettles can leach subtle flavour compounds, particularly when new; this diminishes with use. For fine teas, stainless steel or glass is the practical choice if you don't use a traditional kettle.
 
-**What are shrimp eyes and fish eyes in tea?**
-These are traditional Chinese terms for bubble stages before full boil: shrimp eyes (~70°C), crab eyes (~80°C), fish eyes (~85°C). They provide approximate temperature guidance when brewing with a traditional kettle without a temperature display.
+**What should I do if I only have hard tap water?**
+Two practical approaches: (1) blend hard tap water with low-TDS bottled water in roughly 1:1 ratio — this cuts hardness by half without going to zero minerals; (2) use a carbon filter to remove chlorine, then accept some flavour dulling — hard water brews are still enjoyable, just less refined. Avoid: adding lemon juice to "soften" (this only acidifies, it doesn't reduce mineral content). For regular fine-tea brewing in a hard water area, a small reverse osmosis unit with a remineralisation cartridge is the long-term investment.
 
-**Why does tea taste different at high altitude?**
-Water boils at lower temperatures as elevation increases — approximately 1°C lower per 300 m. At 1,500 m, water only reaches ~95°C, which is insufficient for teas requiring a full boil. A pressurised kettle solves this for high-altitude brewing.
+**Does water temperature matter for cold brewing?**
+Cold brewing is specifically defined by using cold or room-temperature water — no heating at all. Temperature matters in a different way: colder water (fridge, ~4°C) produces a slower, sweeter extraction over 6–8 hours, preferentially pulling amino acids over catechins. Room temperature (~20°C) extracts faster and produces slightly more body. Both work; fridge extraction gives the cleanest, sweetest result for green and white teas.
