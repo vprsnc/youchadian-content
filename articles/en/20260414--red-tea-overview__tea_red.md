@@ -92,17 +92,17 @@ Unlike oolong, Chinese red tea generally does not benefit from a rinse — the l
 
 ## FAQ
 
-**What is Chinese red tea (hóngchá)?**
-Hóngchá (红茶) is what the West calls "black tea" — the name comes from the red-amber colour of the brewed liquor, not the dark leaf. It is fully oxidised tea (80–100%), produced through withering, rolling, enzymatic oxidation, and drying. Chinese red teas tend toward sweetness and floral complexity rather than the bold astringency of South Asian black teas.
+**Which Chinese red tea is best for a beginner?**
+Yúnnán Diān Hóng is the most approachable entry point — mellow body, natural sweetness, and a caramel-malt character that is immediately appealing without requiring palate development. Qímén (Keemun) is the other natural first choice for European audiences: complex orchid-fruit bouquet, no astringency, excellent hot or cooled. Avoid starting with Zhèngshān Xiǎozhǒng (pine-smoked Lapsang Souchong) — the smoke character is distinctive and polarising.
 
-**Why is it called "red tea" in China but "black tea" in the West?**
-Chinese classification uses liquor colour (red-amber cup); Western trade used dry leaf colour (dark brown-black leaf). The divergence arose in 17th-century export trade from Fújiàn ports. Both terms refer to the same processing category.
+**Can Chinese red tea be drunk with milk?**
+Some styles tolerate milk; most are better without. Yúnnán Diān Hóng and Guǎngdōng Yīng Hóng (英红) have enough body to hold up against milk. Qímén loses its defining orchid-fruit aromatics when milk is added. Chinese red teas were not processed for milk — unlike Assam or Ceylon CTC teas, which were developed specifically for the British milk-tea tradition. Drink straight to appreciate the tea's actual character.
 
-**Where was red tea invented?**
-In Tōngmù village, Wǔyí mountains, Fújiàn province, during the Ming-to-Qing transition (17th century). The original tea was Zhèngshān Xiǎozhǒng, smoke-dried over pine fires — now known in the West as Lapsang Souchong.
+**How is Chinese red tea different from Indian or Sri Lankan black tea?**
+Chinese red teas (Keemun, Diān Hóng, Jīn Jùn Méi) prioritise sweetness, floral complexity, and smooth body — minimal astringency, no harsh tannin, not designed for milk. South Asian black teas (Assam, Ceylon) are higher in theaflavins and tannins, producing a bolder, more astringent cup that cuts through milk. The leaf variety also differs: Chinese teas use *Camellia sinensis* var. *sinensis*; most South Asian teas use the larger-leaf var. *assamica*.
 
-**What are the three major Chinese red tea regions?**
-Ānhuī (Qímén hóngchá / Keemun — complex floral bouquet, orchid and stone fruit), Fújiàn (Zhèngshān Xiǎozhǒng and Jīn Jùn Méi — smoky or honey-floral), and Yúnnán (Diān Hóng — full-bodied, malty, golden-tipped).
+**Can Chinese red tea be cold brewed?**
+Yes — Diān Hóng and Jīn Jùn Méi work particularly well. Use 4–5 g per 500 ml cold filtered water, steep 6–8 hours refrigerated. The result is sweeter and smoother than hot-brewed, with malt and caramel notes amplified and astringency near zero. Smoked Zhèngshān Xiǎozhǒng cold brews cleanly too — the smoke character becomes subtler and more pleasant cold.
 
-**How do you brew Chinese red tea?**
-90–95°C water (never boiling — suppresses delicate aromatics). No rinse needed. Western: 3 g per 250 ml, 3–4 minutes. Gōngfū: 5–6 g per 100 ml, 15–30 second infusions, 5–8 steeps. Chinese red tea suits both methods.
+**What is sun-dried red tea (晒红 shài hóng)?**
+A Yúnnán style where the final drying step uses sun exposure rather than kiln heat. Kiln drying halts oxidation quickly and locks in a clean, defined profile. Sun drying is slower — continued low-level enzymatic activity during drying produces a wilder, more complex character: honey, dried fruit, and aging potential similar to raw pǔ'ěr. Well-made shài hóng is increasingly collected; poorly made versions can taste muddy or sour.
