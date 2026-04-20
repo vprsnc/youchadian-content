@@ -90,17 +90,17 @@ Distinguished from other Chinese red teas by its aromatic complexity and restrai
 
 ## FAQ
 
-**What is Keemun tea?**
-Keemun (Qímén hóngchá 祁门红茶) is a fully-oxidised red tea from Qímén county, Ānhuī province, produced since 1875. It is known for the "Keemun bouquet" — a complex aroma combining orchid, dried stone fruit, slight smokiness, and a cocoa undertone. One of the world's most celebrated teas.
+**Why is it spelled "Keemun" if the place is "Qímén"?**
+"Keemun" is the Wade-Giles romanisation of 祁门 — the older Western transcription system used before Pinyin became standard. Both names refer to the same county and the same tea; they are interchangeable. Victorian trade records also used spellings like "Ki-men" and "Kee-mun." All mean Qímén, Ānhuī.
 
-**What does Keemun taste like?**
-Clear red-amber liquor. Aroma: orchid, plum, gentle smokiness, cocoa. Taste: mellow and full-bodied without astringency, long sweet finish with a lingering resonance (韵 yùn). More restrained and aromatic than Yúnnán red tea; softer than Assam or Ceylon.
+**How does Keemun compare to Assam or Darjeeling?**
+Keemun: aromatic, wine-like, orchid and cocoa notes, low astringency, best without milk. Assam: malty, full-bodied, brisk — designed for milk. Darjeeling: lighter, muscatel grape character, notable astringency. Keemun is more complex aromatically than both Indian teas and carries less tannin. It was the dominant base for British blends before Indian production scaled.
 
-**What is the Qímén xiāng (Keemun bouquet)?**
-Qímén xiāng (祁门香) is the signature aroma of genuine Keemun — a combination of orchid florals, dried stone fruit, faint smokiness, and cocoa that has no precise parallel in other red teas. It results from the specific zhūyè zhǒng cultivar processed slowly in the high-humidity Huángshān foothills climate.
+**Is Keemun used in English Breakfast or Earl Grey?**
+Yes. Keemun was the base tea for classic British blends before Indian teas dominated. Traditional English Breakfast blends still use Keemun for its wine-like refinement as a softer counterpoint to malty Assam. Earl Grey blended from Keemun (rather than Ceylon) produces a more aromatic, less brisk cup — closer to the original Victorian formula.
 
-**What are the grades of Keemun?**
-Háo Yá (毫芽, A/B) — bud-and-leaf, premium. Máo Fēng (毛峰) — early harvest, lightest and sweetest. Gōngfū (工夫) — classic twisted strip form, full-flavoured. Each represents different leaf grade and harvest timing.
+**How do I recognise genuine Qímén hóngchá?**
+Look for tightly twisted dark strips, few broken pieces, and the Qímén bouquet detectable dry — orchid and dried stone fruit. Red flags: flat malty smell without florals (non-Qímén material), muddy liquor, harsh bitterness. Established Qímén brands: Rùnsī (润思), Tiānzhīhóng (天之红), Xiángyuán (祥源). Genuine Keemun cannot be very cheap — limited origin and labour-intensive processing set a meaningful price floor.
 
-**Should Keemun be drunk with milk?**
-No. Milk suppresses the Qímén fragrance — the delicate orchid and fruit aromatics are overwhelmed. Brew at 90–95°C (not boiling) and drink plain. 3–4 g per 200 ml Western; 5 g per 100 ml gōngfū.
+**What should Keemun cost?**
+Everyday Gōngfū grade: ¥200–500/500g. Good Máo Fēng or 1st-grade: ¥500–1,000/500g. Premium Háo Yá A/B: ¥1,000–2,500/500g. Keemun below ¥80–100/500g is almost certainly blended with non-Qímén material. The labour-intensive gōngfū processing and protected-origin production area mean genuine Keemun has a real price floor.
