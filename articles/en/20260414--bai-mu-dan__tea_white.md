@@ -131,17 +131,17 @@ Bái Mǔdān occupies the sweet spot where Silver Needle's elegance meets practi
 
 ## FAQ
 
-**What is Bái Mǔdān white tea?**
-Bái Mǔdān (白牡丹, White Peony) is the second grade of Chinese white tea, made from one bud and one or two leaves from spring shoots of large-leaf white tea cultivars, withered 52–72 hours without kill-green or rolling. The spread of a silver bud flanked by two opening leaves resembles a flower — hence the name. It is the most produced and consumed grade of Fujian white tea.
+**How do I identify good-quality Bái Mǔdān when buying?**
+Look for báiháo covering bud and both leaves (三白 standard); dry leaf smelling of fresh hay and flowers, never musty; clear apricot-yellow liquor. Red flags: uniform dark leaf (over-fired), no báiháo on leaves (low-grade or summer material), chemical floral scent. Named-origin labelling — Fuding or Zhenghe — matters for authentic material.
 
-**What does Bái Mǔdān taste like?**
-Fresh Bái Mǔdān (within 2 years): floral, fresh hay, melon, honeysuckle, clean sweetness. Fuding origin is lighter and more brightly floral; Zhenghe is fuller-bodied with darker honey and dried date notes. Aged 5–7 years: dried jujube, apricot, warm honey, light woody notes, near-zero astringency. Aged 10+ years: deep date, camphor, aged sweetness — resembling aged shēng pǔ'ěr in smoothness.
+**What is the difference between Bái Mǔdān and Shòuméi?**
+Both are Fujian white tea. Bái Mǔdān: bud plus one or two early-spring leaves, báiháo-dense, floral and clean. Shòuméi: later-harvest leaf-dominant material, less báiháo, bolder with slight nuttiness. Shòuméi is cheaper, often aged in bulk; Bái Mǔdān is the everyday premium drinking grade. Hierarchy: Silver Needle → Bái Mǔdān → Gòngméi → Shòuméi.
 
-**How does Bái Mǔdān differ from Silver Needle?**
-Báiháo Yínzhēn (Silver Needle) uses single buds only — maximum fragrance and delicacy, minimal polyphenol depth, slowest aging. Bái Mǔdān adds one or two leaves to the bud: the leaves contribute polyphenols, sugars, and flavour compounds that make it fruitier, more full-bodied, and more active as a daily drinking tea. Bái Mǔdān also ages more quickly and with greater complexity than Silver Needle.
+**Does Bái Mǔdān come from outside Fujian?**
+"Yunnan white tea" (滇白) exists and is sometimes sold as Bái Mǔdān. Made from Yúnnán large-leaf cultivar, it tends toward richer body and malt notes — less of Fujian's clean floral character. The name carries no protected origin designation, so non-Fujian material may use it. Traditional quality standard: Fuding and Zhenghe in Fujian.
 
-**What is the three-whites (三白) standard?**
-For Bái Mǔdān to meet grade, the bud *and* both flanking leaves must be densely covered in white báiháo (白毫, "white down hair"). This "three whites" requirement ensures the material comes from young, high-quality spring shoots. The highest-grade Mǔdān Wáng (牡丹王, Peony King), harvested in early March before Qīngmíng, shows buds nearly as prominent as Silver Needle needles.
+**Why do Bái Mǔdān prices vary so much?**
+Three drivers: grade (Mǔdān Wáng costs 5–10× third-grade), harvest year (aged Bái Mǔdān runs 2–4× equivalent fresh), and origin (named Fuding or Zhenghe teas carry a premium over untraced blends). Entry-level fresh material runs ¥150–300 per 500g; premium aged can reach ¥1,500+. Unusually cheap "aged" white tea is a common fraud.
 
-**How do you brew Bái Mǔdān?**
-Fresh: 85–90°C water, 5–7 g per 100 ml gōngfū-style (optional rinse, 30 sec → 45 sec → 60 sec, 5–7 steepings) or 3–4 g per 250 ml western (2–3 min). Cold brew: 5–8 g per 500 ml cold water, 6–8 hours refrigerated. Aged Bái Mǔdān (3+ years): raise temperature to 95–100°C; or boil in a small clay pot (煮茶 zhǔ chá) for rich, medicinal-sweet liquor.
+**Is the "one year tea, three year medicine, seven year treasure" saying about Bái Mǔdān?**
+一年茶、三年药、七年宝 applies to all Fujian white tea but is most cited for Bái Mǔdān and Shòuméi. "Medicine" is traditional attribution: aged white tea genuinely has mellowed polyphenols and smoother flavour. As a flavour transformation description the saying holds; specific medicinal claims are not clinically established.
