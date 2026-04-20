@@ -55,7 +55,7 @@ Not all teas cold brew well. The key variable is the tea's oxidation level and d
 - **Aromatic red teas**: Small-leaf varieties like Táiwān mì xiāng hóngchá (蜜香红茶, honey-fragrant red) and Diān Hóng (滇红) develop their caramel and honey notes distinctly cold.
 
 **Use with care:**
-- **Ripe pu-erh**: Works well but benefits from a brief rinse with hot water first to open the compressed leaf, then cold steep. Produces cocoa and dried plum notes. Described in [Tea Blending](/wiki/tea-blending).
+- **Ripe pu-erh**: Works well but benefits from a brief rinse with hot water first to open the compressed leaf, then cold steep. Produces cocoa and dried plum notes. Described in [Tea Mixology](/wiki/tea-mixology).
 - **Roasted oolongs / yancha**: The roast character mutes in cold brew. Can be pleasant — mineral sweetness emerges — but the signature fire aroma is lost.
 
 **Avoid:**
