@@ -112,3 +112,4 @@ Yes, particularly lighter styles — qīngxiāng Tiě Guānyīn, high-mountain T
 
 **Why do oolongs vary so much in price?**
 Three variables drive price: origin specificity (zhèng yán 正岩 — the inner rock zone of Wǔyí — vs. outer zones), harvest grade (single-spring bud material vs. later mixed harvests), and roast skill (a master charcoal roast adds months of labour and transforms the tea). A ¥200 Da Hong Pao and a ¥5,000 one can both be genuine — the gap reflects terroir, harvest season, and the roaster's craft, not fraud.
+
