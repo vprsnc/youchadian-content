@@ -94,6 +94,8 @@ Rinse (flash steep, discard) recommended for all oolongs, particularly tightly-r
 - [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide)
 - [Chinese Tea Categories](/wiki/chinese-tea-categories)
 
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="How Oolong Tea Is Made"></iframe>
+
 ## FAQ
 
 **Which oolong should a beginner start with?**
