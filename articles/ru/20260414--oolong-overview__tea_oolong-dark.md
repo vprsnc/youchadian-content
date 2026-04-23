@@ -93,6 +93,8 @@
 - [Руководство по заварке гунфу](/wiki/gongfu-brewing-guide)
 - [Категории китайского чая](/wiki/chinese-tea-categories)
 
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview-ru.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="Как производится улун"></iframe>
+
 ## FAQ
 
 **С какого улуна начать новичку?**

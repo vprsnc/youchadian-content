@@ -91,6 +91,8 @@
 - [Ръководство за гунфу заваряване](/wiki/gongfu-brewing-guide)
 - [Категории китайски чай](/wiki/chinese-tea-categories)
 
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview-bg.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="Как се прави улун чай"></iframe>
+
 ## FAQ
 
 **Какво е улун?**
