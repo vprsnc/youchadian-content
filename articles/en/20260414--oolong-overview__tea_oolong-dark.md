@@ -16,13 +16,13 @@ The name 乌龙 (wūlóng, black dragon) appears in Fújiàn records from at lea
 
 ## Defining Characteristics
 
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="How Oolong Tea Is Made"></iframe>
-
 What unifies oolongs across their enormous range is the processing method — specifically, the 做青 (zuòqīng) stage.
 
 **做青 (Zuòqīng)**: Alternating cycles of gentle agitation (摇青 yáoqīng, shaking) and rest (晾青 liàngqīng, spreading). Each agitation cycle bruises the leaf edges, initiating enzymatic oxidation at the margins; each rest period allows the leaf interior to recover. The number of cycles, their intensity, and the conditions of each rest period determine the final oxidation level, aroma profile, and body. A skilled tea master controls temperature, humidity, and timing across 6–12 hours of this process.
 
 After zuòqīng, the leaf is heat-fixed (杀青 shāqīng) to halt oxidation, then rolled and dried. Many oolongs undergo charcoal or electric roasting (焙火 bèihuǒ) as a final step — a major flavour variable that can transform a lighter tea into a roasted, complex one.
+
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="How Oolong Tea Is Made"></iframe>
 
 ## The Four Major Regions
 
