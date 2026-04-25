@@ -16,6 +16,8 @@ The name 乌龙 (wūlóng, black dragon) appears in Fújiàn records from at lea
 
 ## Defining Characteristics
 
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="How Oolong Tea Is Made"></iframe>
+
 What unifies oolongs across their enormous range is the processing method — specifically, the 做青 (zuòqīng) stage.
 
 **做青 (Zuòqīng)**: Alternating cycles of gentle agitation (摇青 yáoqīng, shaking) and rest (晾青 liàngqīng, spreading). Each agitation cycle bruises the leaf edges, initiating enzymatic oxidation at the margins; each rest period allows the leaf interior to recover. The number of cycles, their intensity, and the conditions of each rest period determine the final oxidation level, aroma profile, and body. A skilled tea master controls temperature, humidity, and timing across 6–12 hours of this process.
@@ -94,8 +96,6 @@ Rinse (flash steep, discard) recommended for all oolongs, particularly tightly-r
 - [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide)
 - [Chinese Tea Categories](/wiki/chinese-tea-categories)
 
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="How Oolong Tea Is Made"></iframe>
-
 ## FAQ
 
 **Which oolong should a beginner start with?**
@@ -112,6 +112,3 @@ Yes, particularly lighter styles — qīngxiāng Tiě Guānyīn, high-mountain T
 
 **Why do oolongs vary so much in price?**
 Three variables drive price: origin specificity (zhèng yán 正岩 — the inner rock zone of Wǔyí — vs. outer zones), harvest grade (single-spring bud material vs. later mixed harvests), and roast skill (a master charcoal roast adds months of labour and transforms the tea). A ¥200 Da Hong Pao and a ¥5,000 one can both be genuine — the gap reflects terroir, harvest season, and the roaster's craft, not fraud.
-
-
-

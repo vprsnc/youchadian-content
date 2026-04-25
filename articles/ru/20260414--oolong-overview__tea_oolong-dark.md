@@ -21,6 +21,8 @@
 
 После цзоцин лист фиксируют термически (杀青 шацин), останавливая окисление, потом скручивают и сушат. Многие улуны проходят финальное обжаривание на угле или электричестве (焙火 пэйхо) — это важнейшая вкусовая переменная, которая может превратить легкий чай в обжаренный и сложный.
 
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview-ru.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="Как делают улун"></iframe>
+
 ## Четыре основных региона
 
 ### 闽北 Минбэй — Северный Фуцзянь
@@ -92,8 +94,6 @@
 - [Яньча — что такое утесный улун?](/wiki/what-is-rock-oolong)
 - [Руководство по заварке гунфу](/wiki/gongfu-brewing-guide)
 - [Категории китайского чая](/wiki/chinese-tea-categories)
-
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview-ru.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="Как делают улун"></iframe>
 
 ## FAQ
 

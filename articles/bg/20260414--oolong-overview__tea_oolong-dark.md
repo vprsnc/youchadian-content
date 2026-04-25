@@ -21,6 +21,8 @@
 
 След цзоцин листът се фиксира термично (杀青 шацин) за спиране на окисленето, след което се навива и изсушава. Много улуни преминават финално печене на въглища или електричество (焙火 пейхо) — важна вкусова променлива, която може да преобрази по-лек чай в печен и сложен.
 
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview-bg.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="Как се прави улун чай"></iframe>
+
 ## Четирите основни региона
 
 ### 闽北 Минбей — Северен Фуцзян
@@ -90,8 +92,6 @@
 - [Яньча — какво е скален улун?](/wiki/what-is-rock-oolong)
 - [Ръководство за гунфу заваряване](/wiki/gongfu-brewing-guide)
 - [Категории китайски чай](/wiki/chinese-tea-categories)
-
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview-bg.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="Как се прави улун чай"></iframe>
 
 ## FAQ
 
