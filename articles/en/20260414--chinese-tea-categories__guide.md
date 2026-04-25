@@ -18,7 +18,7 @@ Chinese tea is classified into six categories based on processing method and deg
 | Red (红茶 hóngchá) | 80–100% | Malty, fruity, sweet |
 | Dark (黑茶 hēichá) | Post-fermented | Complex, ages, earthy |
 
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/en/chinese-tea-categories.html" width="100%" height="560" style="border:none;border-radius:12px;" loading="lazy" title="The Six Categories of Chinese Tea"></iframe>
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/chinese-tea-categories.html" width="100%" height="560" style="border:none;border-radius:12px;" loading="lazy" title="The Six Categories of Chinese Tea"></iframe>
 
 ## Green Tea (绿茶 lǜchá)
 

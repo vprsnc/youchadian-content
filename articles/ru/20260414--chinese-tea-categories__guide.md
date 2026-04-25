@@ -8,7 +8,7 @@
 
 Китайский чай делят на шесть категорий по способу обработки и степени окисления — а не по сорту растения. Все шесть делают из Camellia sinensis; разница в том, что происходит с листом после сбора.
 
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/ru/chinese-tea-categories-ru.html" width="100%" height="560" style="border:none;border-radius:12px;" loading="lazy" title="Шесть категорий китайского чая"></iframe>
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/chinese-tea-categories-ru.html" width="100%" height="560" style="border:none;border-radius:12px;" loading="lazy" title="Шесть категорий китайского чая"></iframe>
 
 ## Зелёный чай (绿茶 люйча)
 
