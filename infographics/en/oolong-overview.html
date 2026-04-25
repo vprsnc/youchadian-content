@@ -17,6 +17,13 @@
     --muted:    #7a6e63;
     --border:   #ddd5c5;
     --tag-bg:   #ede5d5;
+
+    --sc-1: #3d8c5c;   /* picking      — fresh green  */
+    --sc-2: #c49a1a;   /* withering    — golden sun   */
+    --sc-3: #2a9d8f;   /* tossing      — teal         */
+    --sc-4: #d95f3b;   /* kill-green   — flame/coral  */
+    --sc-5: #7a6042;   /* rolling      — earth brown  */
+    --sc-6: #b87333;   /* drying       — copper amber */
   }
 
   body {
@@ -113,12 +120,12 @@
     animation: up 0.4s ease both;
   }
 
-  .stage:nth-child(1) { animation-delay: 0.05s; }
-  .stage:nth-child(2) { animation-delay: 0.10s; }
-  .stage:nth-child(3) { animation-delay: 0.15s; }
-  .stage:nth-child(4) { animation-delay: 0.20s; }
-  .stage:nth-child(5) { animation-delay: 0.25s; }
-  .stage:nth-child(6) { animation-delay: 0.30s; }
+  .stage:nth-child(1) { animation-delay: 0.05s; --sc: var(--sc-1); }
+  .stage:nth-child(2) { animation-delay: 0.10s; --sc: var(--sc-2); }
+  .stage:nth-child(3) { animation-delay: 0.15s; --sc: var(--sc-3); }
+  .stage:nth-child(4) { animation-delay: 0.20s; --sc: var(--sc-4); }
+  .stage:nth-child(5) { animation-delay: 0.25s; --sc: var(--sc-5); }
+  .stage:nth-child(6) { animation-delay: 0.30s; --sc: var(--sc-6); }
 
   @keyframes up {
     from { opacity: 0; transform: translateY(10px); }
@@ -129,7 +136,7 @@
     width: 44px;
     height: 44px;
     border-radius: 50%;
-    background: var(--coral);
+    background: var(--sc, var(--coral));
     color: #fff;
     font-size: 16px;
     font-weight: 600;
@@ -143,10 +150,11 @@
   }
 
   .stage-icon {
-    font-size: 28px;
     display: block;
-    margin-bottom: 10px;
-    line-height: 1;
+    width: 64px;
+    height: 64px;
+    margin: 0 auto 12px;
+    color: var(--sc, var(--coral));
   }
 
   .stage-name {
@@ -159,7 +167,7 @@
 
   .stage-chinese {
     font-size: 12px;
-    color: var(--coral);
+    color: var(--sc, var(--coral));
     letter-spacing: 0.1em;
     display: block;
     margin-bottom: 8px;
@@ -174,6 +182,145 @@
 </style>
 </head>
 <body>
+
+<!-- Icons inlined from infographics/icons.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute;overflow:hidden">
+
+  <!-- 1. PICKING — bud + two broad leaves, V silhouette from photo -->
+  <symbol id="picking" viewBox="0 0 80 80">
+    <!-- Stem -->
+    <line x1="40" y1="52" x2="40" y2="74"
+          stroke="currentColor" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Central bud (tall pointed teardrop) -->
+    <path d="M40 8 C36 16 34 28 34 40 C34 46 36 52 40 52
+             C44 52 46 46 46 40 C46 28 44 16 40 8Z"
+          fill="currentColor"/>
+    <!-- Left leaf (broad wing) -->
+    <path d="M37 46 C28 40 14 40 8 50 C12 58 28 60 38 54Z"
+          fill="currentColor" opacity="0.72"/>
+    <!-- Right leaf (mirror) -->
+    <path d="M43 46 C52 40 66 40 72 50 C68 58 52 60 42 54Z"
+          fill="currentColor" opacity="0.72"/>
+  </symbol>
+
+  <!-- 2. SOLAR WITHERING — round bamboo sieve with thick rim + loose leaves + small sun -->
+  <symbol id="solar-withering" viewBox="0 0 80 80">
+    <!-- Sieve: thick outer rim -->
+    <circle cx="40" cy="50" r="28" fill="currentColor" fill-opacity="0.10"
+            stroke="currentColor" stroke-width="7"/>
+    <!-- Sieve inner surface -->
+    <circle cx="40" cy="50" r="20" fill="currentColor" fill-opacity="0.06" stroke="none"/>
+    <!-- Woven grid (schematic crosshatch) -->
+    <line x1="28" y1="42" x2="52" y2="42" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="26" y1="50" x2="54" y2="50" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="28" y1="58" x2="52" y2="58" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="32" y1="30" x2="32" y2="70" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="40" y1="30" x2="40" y2="70" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="48" y1="30" x2="48" y2="70" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <!-- Loose leaf shapes on surface -->
+    <ellipse cx="34" cy="46" rx="6" ry="2.5" fill="currentColor" opacity="0.65"
+             transform="rotate(-20 34 46)"/>
+    <ellipse cx="47" cy="44" rx="5" ry="2" fill="currentColor" opacity="0.65"
+             transform="rotate(15 47 44)"/>
+    <ellipse cx="38" cy="56" rx="6" ry="2.5" fill="currentColor" opacity="0.55"
+             transform="rotate(30 38 56)"/>
+    <ellipse cx="50" cy="54" rx="5" ry="2" fill="currentColor" opacity="0.55"
+             transform="rotate(-10 50 54)"/>
+    <!-- Small sun (top-right context marker) -->
+    <circle cx="64" cy="14" r="7" fill="currentColor" opacity="0.90"/>
+    <line x1="64" y1="3"  x2="64" y2="5"  stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="75" y1="14" x2="77" y2="14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="71" y1="6"  x2="73" y2="8"  stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+  </symbol>
+
+  <!-- 3. TOSSING — wide shallow barrel/drum + two X-crossing paddle handles -->
+  <symbol id="tossing" viewBox="0 0 80 80">
+    <!-- Barrel top (wide ellipse) -->
+    <ellipse cx="40" cy="46" rx="30" ry="9"
+             fill="currentColor" fill-opacity="0.18" stroke="currentColor" stroke-width="3.5"/>
+    <!-- Barrel sides -->
+    <line x1="10" y1="46" x2="10" y2="62" stroke="currentColor" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="70" y1="46" x2="70" y2="62" stroke="currentColor" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Barrel bottom arc -->
+    <path d="M10 62 C10 70 70 70 70 62"
+          fill="currentColor" fill-opacity="0.08" stroke="currentColor" stroke-width="3.5"/>
+    <!-- Two paddle handles crossing in X above barrel -->
+    <line x1="14" y1="8"  x2="58" y2="42" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <line x1="66" y1="8"  x2="22" y2="42" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <!-- Knob ends of paddles -->
+    <circle cx="14" cy="8"  r="5" fill="currentColor"/>
+    <circle cx="66" cy="8"  r="5" fill="currentColor"/>
+  </symbol>
+
+  <!-- 4. KILL-GREEN — top-view: wooden frame ring + inner wok rim + two hands inside -->
+  <symbol id="kill-green" viewBox="0 0 80 80">
+    <!-- Outer wooden frame (thick ring) -->
+    <circle cx="40" cy="40" r="36" fill="currentColor" fill-opacity="0.08"
+            stroke="currentColor" stroke-width="6"/>
+    <!-- Inner wok rim -->
+    <circle cx="40" cy="40" r="26" fill="currentColor" fill-opacity="0.10"
+            stroke="currentColor" stroke-width="2.5"/>
+    <!-- Left hand (simplified, 3 finger lines + palm curve) -->
+    <path d="M24 48 C20 42 20 32 24 28 C26 26 30 28 30 32
+             L28 40 C30 32 34 30 36 32 C38 34 36 40 34 46
+             C30 52 24 52 24 48Z"
+          fill="currentColor" opacity="0.82"/>
+    <!-- Right hand (mirror) -->
+    <path d="M56 48 C60 42 60 32 56 28 C54 26 50 28 50 32
+             L52 40 C50 32 46 30 44 32 C42 34 44 40 46 46
+             C50 52 56 52 56 48Z"
+          fill="currentColor" opacity="0.82"/>
+  </symbol>
+
+  <!-- 5. ROLLING — bamboo sieve (same visual language as #2) + two hands pressing -->
+  <symbol id="rolling" viewBox="0 0 80 80">
+    <!-- Sieve: thick outer rim -->
+    <circle cx="40" cy="58" r="20" fill="currentColor" fill-opacity="0.10"
+            stroke="currentColor" stroke-width="6"/>
+    <!-- Grid on sieve surface -->
+    <line x1="28" y1="52" x2="52" y2="52" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="26" y1="58" x2="54" y2="58" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="28" y1="64" x2="52" y2="64" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="32" y1="38" x2="32" y2="78" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="40" y1="38" x2="40" y2="78" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="48" y1="38" x2="48" y2="78" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <!-- Left hand pressing from above -->
+    <path d="M14 52 C12 46 14 38 18 34 C20 32 24 34 24 36
+             L22 44 C24 36 28 34 30 36 C32 38 30 46 28 52
+             C24 58 16 56 14 52Z"
+          fill="currentColor" opacity="0.82"/>
+    <!-- Right hand (mirror) -->
+    <path d="M66 52 C68 46 66 38 62 34 C60 32 56 34 56 36
+             L58 44 C56 36 52 34 50 36 C48 38 50 46 52 52
+             C56 58 64 56 66 52Z"
+          fill="currentColor" opacity="0.82"/>
+  </symbol>
+
+  <!-- 6. DRYING — tall bamboo 焙笼 basket: cylinder + sieve top + gauge + heat base -->
+  <symbol id="drying" viewBox="0 0 80 80">
+    <!-- Basket body (tall cylinder — taller than wide) -->
+    <rect x="18" y="16" width="44" height="50" rx="4"
+          fill="currentColor" fill-opacity="0.10" stroke="currentColor" stroke-width="3.5"/>
+    <!-- Top sieve ellipse -->
+    <ellipse cx="40" cy="16" rx="22" ry="7"
+             fill="currentColor" fill-opacity="0.15" stroke="currentColor" stroke-width="3.5"/>
+    <!-- Tea on top (dark centre patch) -->
+    <ellipse cx="40" cy="14" rx="12" ry="4" fill="currentColor" fill-opacity="0.55" stroke="none"/>
+    <!-- Horizontal weave lines on body -->
+    <line x1="18" y1="28" x2="62" y2="28" stroke="currentColor" stroke-width="1.2" opacity="0.25"/>
+    <line x1="18" y1="40" x2="62" y2="40" stroke="currentColor" stroke-width="1.2" opacity="0.25"/>
+    <line x1="18" y1="52" x2="62" y2="52" stroke="currentColor" stroke-width="1.2" opacity="0.25"/>
+    <!-- Thermometer gauge circle (distinctive detail from photo) -->
+    <circle cx="58" cy="50" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/>
+    <line x1="58" y1="46" x2="58" y2="51" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <line x1="62" y1="53" x2="58" y2="51" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <!-- Heat base -->
+    <rect x="22" y="66" width="36" height="10" rx="3"
+          fill="currentColor" fill-opacity="0.22" stroke="currentColor" stroke-width="2"/>
+  </symbol>
+
+</svg>
+
 <div class="card">
 
   <div class="header">
@@ -184,42 +331,42 @@
   <div class="stages">
     <div class="stage">
       <div class="stage-num">1</div>
-      <span class="stage-icon">🌿</span>
+      <svg class="stage-icon" aria-hidden="true"><use href="#picking"/></svg>
       <div class="stage-name">Picking</div>
       <span class="stage-chinese">采摘</span>
       <div class="stage-desc">Young shoots of one bud and two or three leaves, hand-picked at peak ripeness</div>
     </div>
     <div class="stage">
       <div class="stage-num">2</div>
-      <span class="stage-icon">☀️</span>
+      <svg class="stage-icon" aria-hidden="true"><use href="#solar-withering"/></svg>
       <div class="stage-name">Solar Withering</div>
       <span class="stage-chinese">晒青</span>
       <div class="stage-desc">30–60 min in sunlight. Moisture evaporates, enzymes activate, grassy notes soften</div>
     </div>
     <div class="stage">
       <div class="stage-num">3</div>
-      <span class="stage-icon">🔄</span>
+      <svg class="stage-icon" aria-hidden="true"><use href="#tossing"/></svg>
       <div class="stage-name">Tossing</div>
       <span class="stage-chinese">做青</span>
       <div class="stage-desc">Repeated tumbling and resting. Leaf edges bruise and oxidise while the centre stays green</div>
     </div>
     <div class="stage">
       <div class="stage-num">4</div>
-      <span class="stage-icon">🔥</span>
+      <svg class="stage-icon" aria-hidden="true"><use href="#kill-green"/></svg>
       <div class="stage-name">Kill-Green</div>
       <span class="stage-chinese">杀青</span>
       <div class="stage-desc">High heat in a wok or drum halts oxidation, locking in the aroma profile</div>
     </div>
     <div class="stage">
       <div class="stage-num">5</div>
-      <span class="stage-icon">🤲</span>
+      <svg class="stage-icon" aria-hidden="true"><use href="#rolling"/></svg>
       <div class="stage-name">Rolling</div>
       <span class="stage-chinese">揉捻</span>
       <div class="stage-desc">Leaves twisted into strips or balls, breaking cells to release oils and shape the leaf</div>
     </div>
     <div class="stage">
       <div class="stage-num">6</div>
-      <span class="stage-icon">💨</span>
+      <svg class="stage-icon" aria-hidden="true"><use href="#drying"/></svg>
       <div class="stage-name">Drying</div>
       <span class="stage-chinese">干燥</span>
       <div class="stage-desc">Final firing removes remaining moisture, fixes the flavour, and ensures long shelf life</div>
