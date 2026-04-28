@@ -233,34 +233,36 @@
           fill="currentColor" opacity="0.72"/>
   </symbol>
 
-  <!-- 2. SOLAR WITHERING — round bamboo sieve with thick rim + loose leaves + small sun -->
+  <!-- 2. SOLAR WITHERING — prominent sun above bamboo sieve with scattered leaves -->
   <symbol id="solar-withering" viewBox="0 0 80 80">
-    <!-- Sieve: thick outer rim -->
-    <circle cx="40" cy="50" r="28" fill="currentColor" fill-opacity="0.10"
-            stroke="currentColor" stroke-width="7"/>
-    <!-- Sieve inner surface -->
-    <circle cx="40" cy="50" r="20" fill="currentColor" fill-opacity="0.06" stroke="none"/>
-    <!-- Woven grid (schematic crosshatch) -->
-    <line x1="28" y1="42" x2="52" y2="42" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="26" y1="50" x2="54" y2="50" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <!-- Sun: large prominent circle -->
+    <circle cx="40" cy="18" r="11" fill="currentColor" opacity="0.90"/>
+    <!-- Sun rays: 8 directions -->
+    <line x1="40" y1="3"  x2="40" y2="5"  stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="40" y1="31" x2="40" y2="33" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="25" y1="18" x2="23" y2="18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="55" y1="18" x2="57" y2="18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="29" y1="7"  x2="28" y2="6"  stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="51" y1="7"  x2="52" y2="6"  stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="29" y1="29" x2="28" y2="30" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="51" y1="29" x2="52" y2="30" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Bamboo sieve below: thick rim -->
+    <circle cx="40" cy="58" r="19" fill="currentColor" fill-opacity="0.10"
+            stroke="currentColor" stroke-width="6"/>
+    <!-- Woven grid on surface -->
+    <line x1="30" y1="51" x2="50" y2="51" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
     <line x1="28" y1="58" x2="52" y2="58" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="32" y1="30" x2="32" y2="70" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="40" y1="30" x2="40" y2="70" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="48" y1="30" x2="48" y2="70" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <!-- Loose leaf shapes on surface -->
-    <ellipse cx="34" cy="46" rx="6" ry="2.5" fill="currentColor" opacity="0.65"
-             transform="rotate(-20 34 46)"/>
-    <ellipse cx="47" cy="44" rx="5" ry="2" fill="currentColor" opacity="0.65"
-             transform="rotate(15 47 44)"/>
-    <ellipse cx="38" cy="56" rx="6" ry="2.5" fill="currentColor" opacity="0.55"
-             transform="rotate(30 38 56)"/>
-    <ellipse cx="50" cy="54" rx="5" ry="2" fill="currentColor" opacity="0.55"
-             transform="rotate(-10 50 54)"/>
-    <!-- Small sun (top-right context marker) -->
-    <circle cx="64" cy="14" r="7" fill="currentColor" opacity="0.90"/>
-    <line x1="64" y1="3"  x2="64" y2="5"  stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
-    <line x1="75" y1="14" x2="77" y2="14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
-    <line x1="71" y1="6"  x2="73" y2="8"  stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="30" y1="65" x2="50" y2="65" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="35" y1="39" x2="35" y2="77" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="40" y1="39" x2="40" y2="77" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <line x1="45" y1="39" x2="45" y2="77" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
+    <!-- Leaf shapes on sieve -->
+    <ellipse cx="36" cy="55" rx="5"   ry="2"   fill="currentColor" opacity="0.60"
+             transform="rotate(-20 36 55)"/>
+    <ellipse cx="46" cy="54" rx="4.5" ry="1.8" fill="currentColor" opacity="0.60"
+             transform="rotate(15 46 54)"/>
+    <ellipse cx="38" cy="63" rx="5"   ry="2"   fill="currentColor" opacity="0.55"
+             transform="rotate(30 38 63)"/>
   </symbol>
 
   <!-- 3. TOSSING — wide shallow barrel/drum + two X-crossing paddle handles -->
@@ -282,48 +284,54 @@
     <circle cx="66" cy="8"  r="5" fill="currentColor"/>
   </symbol>
 
-  <!-- 4. KILL-GREEN — top-view: wooden frame ring + inner wok rim + two hands inside -->
+  <!-- 4. KILL-GREEN — 3/4-side view wok + heat waves rising above rim -->
   <symbol id="kill-green" viewBox="0 0 80 80">
-    <!-- Outer wooden frame (thick ring) -->
-    <circle cx="40" cy="40" r="36" fill="currentColor" fill-opacity="0.08"
-            stroke="currentColor" stroke-width="6"/>
-    <!-- Inner wok rim -->
-    <circle cx="40" cy="40" r="26" fill="currentColor" fill-opacity="0.10"
-            stroke="currentColor" stroke-width="2.5"/>
-    <!-- Left hand (simplified, 3 finger lines + palm curve) -->
-    <path d="M24 48 C20 42 20 32 24 28 C26 26 30 28 30 32
-             L28 40 C30 32 34 30 36 32 C38 34 36 40 34 46
-             C30 52 24 52 24 48Z"
-          fill="currentColor" opacity="0.82"/>
-    <!-- Right hand (mirror) -->
-    <path d="M56 48 C60 42 60 32 56 28 C54 26 50 28 50 32
-             L52 40 C50 32 46 30 44 32 C42 34 44 40 46 46
-             C50 52 56 52 56 48Z"
-          fill="currentColor" opacity="0.82"/>
+    <!-- Bowl: two curved sides meeting at a rounded bottom -->
+    <path d="M10 38 Q10 62 40 68 Q70 62 70 38"
+          fill="currentColor" fill-opacity="0.14"
+          stroke="currentColor" stroke-width="4.5"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Rim: ellipse across the top of the wok -->
+    <ellipse cx="40" cy="38" rx="30" ry="10"
+             fill="currentColor" fill-opacity="0.22"
+             stroke="currentColor" stroke-width="4.5"/>
+    <!-- Left handle stub -->
+    <line x1="10" y1="38" x2="2" y2="33"
+          stroke="currentColor" stroke-width="4.5" stroke-linecap="round"/>
+    <!-- Right handle stub -->
+    <line x1="70" y1="38" x2="78" y2="33"
+          stroke="currentColor" stroke-width="4.5" stroke-linecap="round"/>
+    <!-- Heat waves rising (3 sinuous lines) -->
+    <path d="M26 30 Q23 21 26 12"
+          fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M40 28 Q37 19 40 10"
+          fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M54 30 Q57 21 54 12"
+          fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
   </symbol>
 
-  <!-- 5. ROLLING — bamboo sieve (same visual language as #2) + two hands pressing -->
+  <!-- 5. ROLLING — large rolling cylinder pressing tea leaves onto bamboo mat -->
   <symbol id="rolling" viewBox="0 0 80 80">
-    <!-- Sieve: thick outer rim -->
-    <circle cx="40" cy="58" r="20" fill="currentColor" fill-opacity="0.10"
-            stroke="currentColor" stroke-width="6"/>
-    <!-- Grid on sieve surface -->
-    <line x1="28" y1="52" x2="52" y2="52" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="26" y1="58" x2="54" y2="58" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="28" y1="64" x2="52" y2="64" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="32" y1="38" x2="32" y2="78" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="40" y1="38" x2="40" y2="78" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <line x1="48" y1="38" x2="48" y2="78" stroke="currentColor" stroke-width="1.2" opacity="0.28"/>
-    <!-- Left hand pressing from above -->
-    <path d="M14 52 C12 46 14 38 18 34 C20 32 24 34 24 36
-             L22 44 C24 36 28 34 30 36 C32 38 30 46 28 52
-             C24 58 16 56 14 52Z"
-          fill="currentColor" opacity="0.82"/>
-    <!-- Right hand (mirror) -->
-    <path d="M66 52 C68 46 66 38 62 34 C60 32 56 34 56 36
-             L58 44 C56 36 52 34 50 36 C48 38 50 46 52 52
-             C56 58 64 56 66 52Z"
-          fill="currentColor" opacity="0.82"/>
+    <!-- Rolling cylinder/pin: large horizontal rounded rect -->
+    <rect x="4" y="20" width="72" height="20" rx="10"
+          fill="currentColor" fill-opacity="0.85" stroke="none"/>
+    <!-- End caps: darker ellipses for 3-D depth -->
+    <ellipse cx="4"  cy="30" rx="3" ry="10" fill="currentColor" opacity="0.40" stroke="none"/>
+    <ellipse cx="76" cy="30" rx="3" ry="10" fill="currentColor" opacity="0.40" stroke="none"/>
+    <!-- Squashed leaf strips between roller and mat -->
+    <ellipse cx="25" cy="44" rx="10" ry="2.5"
+             fill="currentColor" opacity="0.62" transform="rotate(-6 25 44)"/>
+    <ellipse cx="55" cy="45" rx="9"  ry="2.5"
+             fill="currentColor" opacity="0.62" transform="rotate(7 55 45)"/>
+    <!-- Bamboo mat / flat pressing surface -->
+    <rect x="8" y="50" width="64" height="18" rx="3"
+          fill="currentColor" fill-opacity="0.12"
+          stroke="currentColor" stroke-width="3"/>
+    <!-- Mat weave lines -->
+    <line x1="8"  y1="57" x2="72" y2="57"
+          stroke="currentColor" stroke-width="1.3" opacity="0.32"/>
+    <line x1="8"  y1="63" x2="72" y2="63"
+          stroke="currentColor" stroke-width="1.3" opacity="0.32"/>
   </symbol>
 
   <!-- 6. DRYING — tall bamboo 焙笼 basket: cylinder + sieve top + gauge + heat base -->
