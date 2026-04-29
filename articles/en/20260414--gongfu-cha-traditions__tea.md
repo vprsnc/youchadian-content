@@ -76,6 +76,18 @@ For more on the Sìchuān gàiwǎn drinking tradition, see [Solo Gàiwǎn — Th
 
 **Hong Kong and Overseas Cháozhōu communities**: Cháozhōu diaspora communities in Southeast Asia (Malaya, Thailand, Vietnam) and Hong Kong maintained the original tradition through the 20th century, often with greater fidelity than the mainland during periods of disruption.
 
+### Guǎngdōng and Hong Kong: Yǐn Chá (飲茶) and the Tea Hall
+
+Yǐn chá (飲茶, literally "drink tea") is the Cantonese institution of communal tea drinking in a 茶樓 (chálóu, tea pavilion) — a social tradition structurally opposite to gōngfū chá in almost every dimension. Where gōngfū chá is intimate, quiet, and focused on the tea itself, yǐn chá is deliberately loud, public, and food-centred. The Cantonese concept of 熱鬧 (rè nào, "heat and noise") is considered auspicious — an empty, silent teahouse is a failed one.
+
+The institution traces to the **二厘館 (yì lì gún)**, rudimentary riverside tea sheds serving Pearl River Delta labourers in the 18th century. The earliest documented formal chálóu is **成珠樓 Chéngzhū Lóu** in Guǎngzhōu, founded 1746. By the mid-19th century the practice had crystallised around **一盅兩件 (yī zhōng liǎng jiàn)** — "one pot, two pieces": a pot of tea and two dim sum items as the foundational unit of the meal. The chálóu became a space for morning business, matchmaking, and dispute resolution, its floors stratified by social class: ground floor for labourers, upper floors for merchants and gentry.
+
+Teas are chosen for durability under long, hot steeping in large pots rather than for connoisseurship: **普洱 pǔ'ěr** (ripe or aged) is the most traditional — its earthy robustness cuts through fatty dim sum and tolerates over-steeping — followed by mid-grade **鐵觀音 tiěguānyīn** and **香片 xiāngpiàn** (jasmine green tea). Premium single-origin teas of the gōngfū tradition have no place here; the pot sits on the leaves throughout the meal.
+
+Hong Kong's dense colonial economy consolidated the institution. **蓮香樓 Liánxiāng Lóu** (est. 1918) and **陸羽茶室 Lùyǔ Cháshì** (est. 1933, named after the Tang tea sage Lù Yǔ) became the model establishments still operating today. The dim sum cart (點心車 diǎn xīn chē) — a Hong Kong innovation of the 1950s — transformed service into a performative, matriarchal institution.
+
+Cantonese emigrants carried yǐn chá as a core identity marker. **Nom Wah Tea Parlor (南華茶室 Nánhuá Cháshì)** in New York, founded 1920, is the oldest surviving dim sum parlour in North America. **龍華茶樓 Lónghuá Chálóu** in Macau (est. 1962) remains the last intact classic chálóu in that city. The phrase **請你飲茶 (qǐng nǐ yǐn chá)** — "I'll treat you to tea" — carries weight beyond the literal: it can be a social invitation, a formal apology, or a veiled business ultimatum.
+
 ## Shared Ritual Sequence
 
 Despite regional differences, a core sequence is shared:
