@@ -4,7 +4,7 @@
 :article/category :tea
 :article/type :white
 :article/product-filter {:product/category :tea :product/type :white}
-:article/description "Bái Mǔdān (白牡丹): one bud + one or two leaves, three-whites (三白) standard. Fuding (floral) vs Zhenghe (honey-date). Four grades, Mǔdān Wáng top. Leaf ages faster than bud."
+:article/description "Bái Mǔdān (白牡丹): one bud + one or two leaves, three-whites (三白 Sān Bái) standard. Fuding (floral) vs Zhenghe (honey-date). Four grades, Mǔdān Wáng top. Leaf ages faster than bud."
 :article/hero-image "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?w=1280&fit=crop"
 :page/body
 
@@ -26,39 +26,39 @@ The ratio distinguishes Bái Mǔdān's character from 白毫银针 (Báiháo Yí
 
 ## Grade System
 
-Four grades under national standard (GB), determined primarily by harvest timing and bud-leaf ratio:
+Four grades under national standard (GB/T 22291–2017), determined primarily by harvest timing and bud-leaf ratio:
 
 | Grade | Chinese | Harvest window | Character |
 |---|---|---|---|
-| 牡丹王 Mǔdān Wáng (Peony King) | — | Early March, before Qīngmíng | Near one bud + one leaf; bud nearly as fat as a Silver Needle; intense báiháo; pale yellow, sweetly mellow liquor |
-| First-grade 一级 | yī jí | Mid–late March | One bud + one leaf, bud prominent; pure hay and floral, clean sweet taste |
-| Second-grade 二级 | èr jí | Late March – early April | One bud + two leaves, leaf dominant; richer body, orange-yellow liquor |
-| Third-grade 三级 | sān jí | Mid April | One bud + two leaves, leaves wider; thick body, deep orange-yellow |
+| 牡丹王 Mǔdān Wáng (Peony King) | Mǔdān Wáng | Early March, before Qīngmíng | Near one bud + one leaf; bud nearly as fat as a Silver Needle; intense báiháo; pale yellow, sweetly mellow liquor |
+| First-grade 一级 | Yī Jí | Mid–late March | One bud + one leaf, bud prominent; pure hay and floral, clean sweet taste |
+| Second-grade 二级 | Èr Jí | Late March – early April | One bud + two leaves, leaf dominant; richer body, orange-yellow liquor |
+| Third-grade 三级 | Sān Jí | Mid April | One bud + two leaves, leaves wider; thick body, deep orange-yellow |
 
 **头采 Tóu Cǎi (first-pick):** Not a formal grade — refers to the very first picking of the season, before Qīngmíng (清明, ~April 5). Marketed as a premium by Fuding producers; overlaps with Mǔdān Wáng material. Extreme báiháo density; maximum amino acid content (cold spring temperatures slow metabolic conversion, allowing amino acid accumulation); intensely sweet and light.
 
-**TL;DR:** Four grades by harvest timing: Mǔdān Wáng (early March, near bud+one leaf, maximum báiháo, most expensive) → 1st grade (mid–late March, bud+one leaf) → 2nd grade (late March–early April, bud+two leaves, richer body) → 3rd grade (mid April, widest leaves, thick body). 头采 (tóu cǎi) is a marketing premium for pre-Qīngmíng first-pick — maximum amino acid content, intensely sweet.
+**TL;DR:** Bái Mǔdān (白牡丹) = one bud + 1–2 leaves, three-whites (三白 Sān Bái) standard, withering 52–72 hours with no fix. Four grades: Mǔdān Wáng (before Qīngmíng) → First → Second → Third; tóu cǎi is an unofficial first-pick. Fuding: sun-withered, floral, light; Zhenghe: indoor-withered 48+ h, dark honey, ages better. Aging arc: fresh → 3 yr (dried fruit) → 5–7 yr (jujube, honey) → 10+ yr (camphor, date). 85–90°C fresh; 95–100°C aged.
 
 ## Fuding vs Zhenghe
 
 The same two origins that define the white tea category produce distinctly different Bái Mǔdān:
 
-**福鼎 Fúdǐng:** Primarily sun-wittered (日光萎凋). Buds plump and short, dense creamy báiháo. Lower oxidation (sun wither moves faster, less enzymatic conversion). Character: brighter, fresher, more floral — white flowers, fresh hay, melon, subtle honey. Light body. Higher firing temperature (up to ~120°C) produces a characteristic crispness. Ages well but transforms relatively quickly.
+**福鼎 Fúdǐng:** Primarily sun-withered (日光萎凋 rìguāng wěidiāo). Buds plump and short, dense creamy báiháo. Lower oxidation (sun wither moves faster, less enzymatic conversion). Character: brighter, fresher, more floral — white flowers, fresh hay, melon, subtle honey. Light body. Higher firing temperature (up to ~120°C) produces a characteristic crispness. Ages well but transforms relatively quickly.
 
-**政和 Zhènghé:** Primarily indoor-wittered (室内萎凋), 48+ hours, then supplemental sun. Buds slightly more slender, grey-green tinge. Higher natural oxidation during the longer indoor wither. Character: fuller body, deeper — dark honey, dried date, camphor notes, manuka-like richness. Lower firing temperature preserves depth for longer aging. Zhenghe Bái Mǔdān is said to age more gracefully due to its higher oxidative baseline at production.
+**政和 Zhènghé:** Primarily indoor-withered (室内萎凋 shìnèi wěidiāo), 48+ hours, then supplemental sun. Buds slightly more slender, grey-green tinge. Higher natural oxidation during the longer indoor wither. Character: fuller body, deeper — dark honey, dried date, camphor notes, manuka-like richness. Lower firing temperature preserves depth for longer aging. Zhenghe Bái Mǔdān is said to age more gracefully due to its higher oxidative baseline at production.
 
 ## Processing
 
 The complete process for traditional Bái Mǔdān has only two stages:
 
-**Withering (萎凋 wēidiāo):**
+**Withering (萎凋 wěidiāo):**
 1. Fresh leaf spread thinly on bamboo trays (水筛 shuǐshāi) — single layer, no overlap, never turned or flipped (leaf damage causes reddening and uneven oxidation)
-2. **Fuding:** 10+ hours direct sunlight daily; total 2–3 days (~72 hours). The strict 72-hour limit: beyond this, polyphenols break down sufficiently to eliminate the green-raw taste and fully develop báiháo aroma; beyond 72 hours the leaf tips become overly oxidised.
-3. **Zhenghe:** 52–60 hours total indoor wither; then 5 hours supplemental sun (compound wither)
+2. **Fúdǐng:** 10+ hours direct sunlight daily; total 2–3 days (~72 hours). The strict 72-hour limit: beyond this, polyphenols break down sufficiently to eliminate the green-raw taste and fully develop báiháo aroma; beyond 72 hours the leaf tips become overly oxidised.
+3. **Zhènghé:** 52–60 hours total indoor wither; then 5 hours supplemental sun (compound wither)
 4. As moisture drops: at 70% dry → consolidate two trays. At 85% dry → consolidate again. At 95% → transfer to firing.
 
 **Firing / drying (焙干 bèigān):**
-- If well-withered (>90% dry): single pass, 90–100°C in bamboo baking basket (烘笼 hónglóng), 10–15 minutes
+- If well-withered (>90% dry): single pass, 90–100°C in bamboo baking basket (烘笼 hōnglóng), 10–15 minutes
 - If only 60–70% dry from wither: two-pass — first pass 100°C, 1 kg/basket; second pass 80°C, 1.2 kg/basket
 - Final moisture content: ≤8.5% (national standard)
 
@@ -132,16 +132,16 @@ Bái Mǔdān occupies the sweet spot where Silver Needle's elegance meets practi
 ## FAQ
 
 **How do I identify good-quality Bái Mǔdān when buying?**
-Look for báiháo covering bud and both leaves (三白 standard); dry leaf smelling of fresh hay and flowers, never musty; clear apricot-yellow liquor. Red flags: uniform dark leaf (over-fired), no báiháo on leaves (low-grade or summer material), chemical floral scent. Named-origin labelling — Fuding or Zhenghe — matters for authentic material.
+Look for báiháo covering bud and both leaves (三白 Sān Bái standard); dry leaf smelling of fresh hay and flowers, never musty; clear apricot-yellow liquor. Red flags: uniform dark leaf (over-fired), no báiháo on leaves (low-grade or summer material), chemical floral scent. Named-origin labelling — Fúdǐng or Zhènghé — matters for authentic material.
 
 **What is the difference between Bái Mǔdān and Shòuméi?**
 Both are Fujian white tea. Bái Mǔdān: bud plus one or two early-spring leaves, báiháo-dense, floral and clean. Shòuméi: later-harvest leaf-dominant material, less báiháo, bolder with slight nuttiness. Shòuméi is cheaper, often aged in bulk; Bái Mǔdān is the everyday premium drinking grade. Hierarchy: Silver Needle → Bái Mǔdān → Gòngméi → Shòuméi.
 
 **Does Bái Mǔdān come from outside Fujian?**
-"Yunnan white tea" (滇白) exists and is sometimes sold as Bái Mǔdān. Made from Yúnnán large-leaf cultivar, it tends toward richer body and malt notes — less of Fujian's clean floral character. The name carries no protected origin designation, so non-Fujian material may use it. Traditional quality standard: Fuding and Zhenghe in Fujian.
+"Yunnan white tea" (滇白 Diān bái) exists and is sometimes sold as Bái Mǔdān. Made from Yúnnán large-leaf cultivar, it tends toward richer body and malt notes — less of Fujian's clean floral character. The name carries no protected origin designation, so non-Fujian material may use it. Traditional quality standard: Fúdǐng and Zhènghé in Fujian.
 
 **Why do Bái Mǔdān prices vary so much?**
-Three drivers: grade (Mǔdān Wáng costs 5–10× third-grade), harvest year (aged Bái Mǔdān runs 2–4× equivalent fresh), and origin (named Fuding or Zhenghe teas carry a premium over untraced blends). Entry-level fresh material runs ¥150–300 per 500g; premium aged can reach ¥1,500+. Unusually cheap "aged" white tea is a common fraud.
+Three drivers: grade (Mǔdān Wáng costs 5–10× third-grade), harvest year (aged Bái Mǔdān runs 2–4× equivalent fresh), and origin (named Fúdǐng or Zhènghé teas carry a premium over untraced blends). Entry-level fresh material runs ¥150–300 per 500g; premium aged can reach ¥1,500+. Unusually cheap "aged" white tea is a common fraud.
 
 **Is the "one year tea, three year medicine, seven year treasure" saying about Bái Mǔdān?**
 一年茶、三年药、七年宝 applies to all Fujian white tea but is most cited for Bái Mǔdān and Shòuméi. "Medicine" is traditional attribution: aged white tea genuinely has mellowed polyphenols and smoother flavour. As a flavour transformation description the saying holds; specific medicinal claims are not clinically established.

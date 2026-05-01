@@ -40,11 +40,13 @@ Water temperature controls which compounds are extracted and at what rate. Lower
 | Tea type | Recommended temperature | Why |
 |---|---|---|
 | Green (碧螺春, 龙井) | 75–80°C | Preserves volatile aromatics; suppresses bitter catechins from tender buds |
-| White (银针, 牡丹, fresh) | 80–85°C | Bud-only teas are delicate; slightly higher for aged white (90–95°C) |
-| Light oolong (铁观音 qīngxiāng) | 90–95°C | More robust leaf; floral notes survive at this range |
-| Roasted oolong, rock oolong (岩茶) | 95–100°C | Roasting creates compounds needing high temp to extract; cool water = flat brew |
-| Pǔ'ěr | 100°C | Full extraction required; compressed leaf needs maximum energy |
-| Red/black (hóngchá) | 90–95°C | Achieves full body while avoiding excessive astringency |
+| White (银针, 牡丹, fresh) | 80–85°C | Bud-only teas are delicate; aged white (老白茶) can go slightly higher, up to 90°C |
+| Light oolong (铁观音 qīngxiāng, 清香铁观音) | 90–95°C | More robust leaf; floral notes survive at this range |
+| Rock/wuyi oolong (岩茶, yánchá — cultvars like 大红袍, 肉桂, 水仙) | 95–100°C; 100°C for gōngfū brewing | Roasting creates compounds needing high temp to extract; even 95°C is considered insufficient for some premium rock oolongs |
+| Dāń Cōng (单丛, dān cóng — oolong from Cháozhōu/Guǎngdōng) | 100°C | Required to unlock complex fruity and floral aromas; under-heating noticeably impoverishes the bouquet |
+| Shú pǔ'ěr (熟普) | 100°C | Full extraction required; compressed leaf needs maximum energy. Some steep shú pǔ'ěr (烹饮, pēng yǐn) for extra body |
+| Shēng pǔ'ěr (生普) | 95–100°C | Young shēng — 95°C (avoids pulling bitterness); aged (5+ years) — 100°C |
+| Red/black (hóngchá: jūnshān yínzhēn 君山银针, jīn jùn méi 金骏眉) | 90–95°C | Achieves full body while avoiding excessive astringency. Large-leaf reds (e.g. 正山小种) at 90°C; small-leaf (e.g. 金骏眉) at 85–90°C |
 
 If-then rule: If brewing rock oolong below 95°C → flat, woody result with no mineral character. If brewing green tea above 85°C → harsh, bitter, aromatic compounds destroyed.
 
@@ -53,14 +55,14 @@ If-then rule: If brewing rock oolong below 95°C → flat, woody result with no 
 ## The boiling question
 
 **The boiling stages**: Watching a traditional kettle, distinct bubble stages appear before full boil:
-- **Shrimp eyes** (虾眼 xiā yǎn): tiny bubbles forming at bottom, ~70°C
-- **Crab eyes** (蟹眼 xiè yǎn): larger bubbles, ~80°C
-- **Fish eyes** (鱼眼 yú yǎn): clusters rising, ~85°C
-- **Full rolling boil**: 100°C at sea level
+- **Shrimp eyes** (虾眼, xiā yǎn): tiny bubbles forming at bottom, ~70°C
+- **Crab eyes** (蟹眼, xiè yǎn): larger bubbles, ~80°C
+- **Fish eyes** (鱼眼, yú yǎn): clusters rising, ~85°C
+- **Full rolling boil** (沸泉, fèiquán): 100°C at sea level
 
 These stages align approximately with target brewing temperatures for different tea types — useful if using a traditional kettle without temperature display.
 
-**Re-boiling**: Repeatedly boiled water concentrates dissolved minerals and loses dissolved oxygen. Traditional Chinese tea culture considers repeatedly-reboiled "dead water" (死水 sǐshuǐ) inferior for fine teas. For daily use the effect is minimal; for delicate green and white teas, use freshly drawn and freshly boiled water.
+**Re-boiling**: Repeatedly boiled water concentrates dissolved minerals and loses dissolved oxygen. Traditional Chinese tea culture considers repeatedly-reboiled "dead water" (死水, sǐshuǐ) inferior for fine teas. For daily use the effect is minimal; for delicate green and white teas, use freshly drawn and freshly boiled water.
 
 ## Altitude
 
@@ -85,10 +87,10 @@ Volvic (TDS ~109 mg/L) is widely available and works well for most teas. Evian (
 Yes for chlorine removal — activated carbon filters eliminate chlorine effectively, which is the primary concern for fine teas. The limitation: Brita's ion-exchange resin softens hard water only moderately and has a short-lived effect. In soft-water areas (TDS < 200 mg/L), Brita-filtered water works well. In very hard water areas (TDS > 300 mg/L), Brita alone is insufficient — supplement by blending with low-TDS bottled water or use a reverse osmosis filter with remineralisation.
 
 **Does the kettle material affect the water?**
-Measurably, yes — though the effect varies. Iron and clay kettles (cast iron tetsubin, clay yùshū wēi) soften the water's mouthfeel slightly and reduce perceived astringency; this is documented in traditional Chinese and Japanese tea literature and supported by modern observation. Stainless steel is neutral — no effect. Plastic kettles can leach subtle flavour compounds, particularly when new; this diminishes with use. For fine teas, stainless steel or glass is the practical choice if you don't use a traditional kettle.
+Measurably, yes — though the effect varies. Cast iron kettles (铁壶, tiěhú) and clay/silver kettles (银壶, yínhú; 陶壶, táohú) soften the water's mouthfeel slightly and reduce perceived astringency; this is documented in traditional Chinese and Japanese tea literature. Stainless steel is neutral — no effect. Plastic kettles can leach subtle flavour compounds, particularly when new; this diminishes with use. For fine teas, stainless steel or glass is the practical choice if you don't use a traditional kettle.
 
 **What should I do if I only have hard tap water?**
 Two practical approaches: (1) blend hard tap water with low-TDS bottled water in roughly 1:1 ratio — this cuts hardness by half without going to zero minerals; (2) use a carbon filter to remove chlorine, then accept some flavour dulling — hard water brews are still enjoyable, just less refined. Avoid: adding lemon juice to "soften" (this only acidifies, it doesn't reduce mineral content). For regular fine-tea brewing in a hard water area, a small reverse osmosis unit with a remineralisation cartridge is the long-term investment.
 
 **Does water temperature matter for cold brewing?**
-Cold brewing is specifically defined by using cold or room-temperature water — no heating at all. Temperature matters in a different way: colder water (fridge, ~4°C) produces a slower, sweeter extraction over 6–8 hours, preferentially pulling amino acids over catechins. Room temperature (~20°C) extracts faster and produces slightly more body. Both work; fridge extraction gives the cleanest, sweetest result for green and white teas.
+Cold brewing (冷泡, lěng pào) is specifically defined by using cold or room-temperature water — no heating at all. Temperature matters in a different way: colder water (fridge, ~4°C) produces a slower, sweeter extraction over 6–8 hours, preferentially pulling amino acids over catechins. Room temperature (~20°C) extracts faster and produces slightly more body. Both work; fridge extraction gives the cleanest, sweetest result for green and white teas.

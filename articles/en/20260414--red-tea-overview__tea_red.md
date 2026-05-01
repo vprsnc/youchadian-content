@@ -1,3 +1,4 @@
+:---
 :page/lang :en
 :article/title "Red Tea (红茶 Hóngchá) — Overview"
 :article/tags ["red" "hongcha" "overview" "fujian" "yunnan" "anhui" "processing"]
@@ -16,7 +17,7 @@ Chinese red teas tend toward sweetness, fruity complexity, and mellow body. The 
 
 ## History
 
-Red tea (full-oxidation black tea) was invented in Fújiàn, in Tōngmù village in the Wǔyí mountains, during the Ming-to-Qing transition (17th century). The origin story involves disruption of the tea processing cycle — leaves left to over-oxidise and then smoke-dried over pine fires to salvage them. The resulting tea (now known as Zhèngshān Xiǎozhǒng / Lapsang Souchong) found its way to European markets, where it became the foundation of the Western "black tea" tradition.
+Red tea (full-oxidation black tea) was invented in Fújiàn, in Tōngmù village (桐木村, Tóngmù) in the Wǔyí mountains (武夷山, Wǔyí Shān), during the Ming-to-Qing transition (17th century). The origin story involves disruption of the tea processing cycle — leaves left to over-oxidise and then smoke-dried over pine fires to salvage them. The resulting tea (now known as 正山小种 Zhèngshān Xiǎozhǒng / Lapsang Souchong) found its way to European markets, where it became the foundation of the Western "black tea" tradition.
 
 Red tea was the primary Chinese export tea for two centuries, driving the global tea trade. However, domestically in China, it was considered an export product — oolong and green tea dominated Chinese consumption. The domestic rise of hongcha as a valued category in China came much later, primarily after 2005, when premium domestic red teas began commanding high prices in the Chinese market.
 
@@ -24,17 +25,17 @@ Red tea was the primary Chinese export tea for two centuries, driving the global
 
 ## Processing
 
-Full oxidation defines red tea. The general sequence:
+Full oxidation (全发酵, quán fājiào, full fermentation) defines red tea. The general sequence:
 
-1. **萎凋 Wēidiāo — Withering**: Leaf is spread to wither for 16–24 hours, losing 30–40% moisture. Withering degree significantly affects the final flavour — longer withering develops more complex aromatic precursors.
+1. **萎凋 Wěidiāo — Withering**: Leaf is spread to wither for 16–24 hours, losing 30–40% moisture. Withering degree significantly affects the final flavour — longer withering develops more complex aromatic precursors.
 
-2. **揉捻 Róuniǎn — Rolling**: Leaf is rolled to break cell walls, releasing enzymes and initiating oxidation. Rolling style (light twist, heavy twist, bud-only CTC for mass-market) affects leaf appearance and extraction.
+2. **揉捻 Róuniǎn — Rolling**: Leaf is rolled to break cell walls, releasing enzymes and initiating oxidation. For tender leaves, a light roll is used; for coarser leaves, a heavier roll. Rolling style (light twist, heavy twist, bud-only CTC for mass-market) affects leaf appearance and extraction.
 
-3. **发酵 Fājiào — Oxidation**: Not fermentation in the microbial sense — an enzymatic oxidation catalysed by polyphenol oxidases. Leaf is spread in a cool, humid environment for 2–6 hours until the desired degree of oxidation (colour, aroma development) is reached. Full oxidation converts catechins to theaflavins (bright amber) and thearubigins (dark red-brown), developing the characteristic malty, fruity, and floral notes.
+3. **发酵 Fājiào — Oxidation**: Not fermentation in the microbial sense — an enzymatic oxidation catalysed by polyphenol oxidases. Leaf is spread in a cool, humid environment for 2–6 hours. Temperature and humidity are strictly controlled: typically 25–30 °C at 85–95% humidity. Full oxidation converts catechins to theaflavins (bright amber) and thearubigins (dark red-brown), developing the characteristic malty, fruity, and floral notes.
 
-4. **干燥 Gānzào — Drying**: Heat application to halt oxidation and reduce moisture to 4–6% for stability.
+4. **干燥 Gānzào — Drying**: Heat application to halt oxidation and reduce moisture to 4–6% for stability. A brief initial blast at 120–140 °C (fixation) is followed by drying at 80–90 °C until ready.
 
-Optional: **烟熏 Yānxūn — Smoking** (Zhèngshān Xiǎozhǒng only), **晒红 Shài Hóng — Sun-drying** (some Yúnnán styles).
+Optional: **烟熏 Yānxūn — Smoking** (only for Zhèngshān Xiǎozhǒng — leaves are dried and smoked over pine smoke from 马尾松 mǎwěi sōng, Masson's pine); **晒红 Shài Hóng — Sun-drying** (some Yúnnán styles — shài hóng).
 
 **TL;DR:** Four steps: withering (16–24 hr, 30–40% moisture loss) → rolling (breaks cell walls, starts oxidation) → enzymatic oxidation (2–6 hr, catechins → theaflavins + thearubigins → red-amber liquor, malty-fruity aroma) → drying (halts oxidation, moisture to 4–6%). Optional: pine smoking (Zhèngshān Xiǎozhǒng only) or sun-drying (some Yúnnán styles). If oxidation is cut short → green, grassy notes remain.
 
@@ -42,32 +43,33 @@ Optional: **烟熏 Yānxūn — Smoking** (Zhèngshān Xiǎozhǒng only), **晒�
 
 ### 安徽 Ānhuī — Qímén Hóngchá (Keemun)
 
-The world-famous Ānhuī red tea. Complex aroma with orchid, dried fruit, and a distinctive quality sometimes called the "Keemun bouquet" — combining stone fruit, slight smokiness, and floral notes unlike any other red tea. Considered one of the world's great teas by European standards. → [Ānhuī Red Teas](/wiki/anhui-red-tea)
+The world-famous Ānhuī red tea. Produced in Qímén County (祁门县, Qímén Xiàn) since the late 19th century. Complex aroma with orchid, dried fruit, and a distinctive quality sometimes called the "Keemun bouquet" (祁门香, Qímén Xiāng) — a combination of stone fruit (plum, apricot), slight smokiness, and floral notes unlike any other red tea. Considered one of the world's great teas by European standards. Used as a base for classic blends (e.g. English Breakfast). → [Ānhuī Red Teas](/wiki/anhui-red-tea)
 
 ### 福建 Fújiàn — Wǔyí Hóngchá
 
-Where red tea began. Zhèngshān Xiǎozhǒng (正山小种, Lapsang Souchong) — the original, pine-smoked red tea from Tōngmù village. And Jīn Jùn Méi (金骏眉) — an all-bud premium style developed in 2005 that sparked China's domestic red tea revival. → [Wǔyí Red Teas](/wiki/wuyi-red-tea)
+Where red tea began. Zhèngshān Xiǎozhǒng (正山小种, Lapsang Souchong) — the original, pine-smoked red tea from Tōngmù village. And Jīn Jùn Méi (金骏眉, Jīn Jùn Méi) — an all-bud premium style developed in 2005 that sparked China's domestic red tea revival. Jīn Jùn Méi is made from selected buds and yields a refined honey-fruit flavour. → [Wǔyí Red Teas](/wiki/wuyi-red-tea)
 
 ### 云南 Yúnnán — Diān Hóng
 
-The largest-leaf red teas: Yúnnán's assamica-variety plants produce full-bodied, malty, golden-tipped teas with a sweetness and depth different from other Chinese red teas. Both traditional kiln-dried and sun-dried (晒红 shài hóng) styles exist. → [Yúnnán Red Teas](/wiki/yunnan-red-tea)
+The largest-leaf red teas: Yúnnán's *Camellia sinensis* var. *assamica* plants produce full-bodied, malty, golden-tipped teas with a sweetness and depth different from other Chinese red teas. Production began in the 1940s in the Fèngqìng (凤庆, Fèngqìng) area. Several styles exist: 滇红工夫 Diān Hóng Gōngfū (traditional rolling), 滇红金芽 Diān Hóng Jīn Yá (pure bud). Both traditional kiln-dried and sun-dried (晒红 shài hóng) styles exist. → [Yúnnán Red Teas](/wiki/yunnan-red-tea)
 
 ### Other regions
 
-- **湖南 Húnán**: Gōngfu-style red teas from Anhua and other counties
-- **四川 Sìchuān**: Chuān Hóng (川红) — clean, light, floral
-- **江西 Jiāngxī**: Níng Hóng (宁红) — historical export tea
-- **广东 Guǎngdōng**: English Breakfast-style teas and some premium single-garden teas
+- **湖南 Húnán**: Gōngfu-style red teas from Anhua (安化, Ānhuà) — sweet, with honey notes
+- **四川 Sìchuān**: Chuān Hóng (川红, Chuān Hóng) — clean, light, floral, from Yíbīn County (宜宾)
+- **江西 Jiāngxī**: Níng Hóng (宁红, Níng Hóng) — historical export tea from Xiūshuǐ County (修水), soft with a cinnamon aroma
+- **广东 Guǎngdōng**: Yīng Hóng (英红, Yīng Hóng) — from Yīngdé County (英德), since the 1960s: dense body with fruity sweetness, good with milk
+- **贵州 Guìzhōu**: 遵义红 Zūnyì Hóng (Zūnyì Hóng) — a young style with caramel aroma
 
 ## Key Quality Indicators
 
-**Golden tips (金毫 jīn háo)**: Fine golden hairs on the bud tips. Visible in high-grade red teas and an indicator of young, tender leaf material. The more golden tips, the more labour-intensive the harvest and the higher the expected price.
+**Golden tips (金毫 jīn háo)**: Fine golden hairs on the bud tips. Visible in high-grade red teas and an indicator of young, tender leaf material. The more tips, the higher the sweetness and softness.
 
-**Liquor colour**: Clear red-amber (bright) to deep red-brown. Cloudiness can indicate poor withering or storage; green-tinged liquor suggests under-oxidation.
+**Liquor colour**: Clear red-amber (bright) to deep red-brown. Cloudiness can indicate poor withering or storage; green-tinged liquor suggests under-oxidation (a defect — though for shài hóng, a slight green note is acceptable).
 
-**Huí gān (回甘, returning sweetness)**: A sweet aftertaste that develops several seconds after swallowing. Consistent with high-quality hongcha across regions.
+**Huí gān (回甘, returning sweetness)**: A sweet aftertaste that develops several seconds after swallowing. Consistent with high-quality hongcha across regions; directly linked to amino acid and sugar content.
 
-**Astringency vs bitterness**: Well-made Chinese red tea should have minimal astringency and no bitterness. These indicate over-extraction (water too hot, too long) or lower-quality material.
+**Astringency vs bitterness**: Well-made Chinese red tea should have minimal astringency and no bitterness. Slight puckering astringency (涩, sè) is acceptable if it quickly dissipates.
 
 ## Brewing
 
@@ -75,12 +77,12 @@ Chinese red teas are versatile — they brew well in both Western (one long stee
 
 | Parameter | Western style | Gōngfū style |
 |---|---|---|
-| Water | 90–95°C | 90–95°C |
+| Water | 90–95 °C | 90–95 °C |
 | Ratio | 3g / 250ml | 5–6g / 100ml |
 | Steep time | 3–4 minutes | 15–30s, increasing |
 | Infusions | 1–2 | 5–8 |
 
-Unlike oolong, Chinese red tea generally does not benefit from a rinse — the leaf can be steeped directly.
+Unlike oolong, Chinese red tea generally does not benefit from a rinse — the leaf can be steeped directly. For delicate teas (Jīn Jùn Méi, fine bud-only), lower water temperature to 85–90 °C to avoid bitterness.
 
 ## Related
 

@@ -4,7 +4,7 @@
 :article/category :tea
 :article/type :red
 :article/product-filter {:product/category :tea :product/type :red}
-:article/description "Qímén hóngchá (Keemun): Ānhuī gōngfū red tea from Huángshān foothills. Qímén aroma (玫瑰香), grades (Háo Yá/Special/1st), 90–95°C brewing, wine and fruit character."
+:article/description "Qímén hóngchá (Keemun): Ānhuī gōngfū red tea from Huángshān foothills. Qímén aroma (祁门香), grades (Háo Yá/Special/1st), 90–95°C brewing, wine and fruit character."
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flickr_-_cyclonebill_-_Keemun.jpg/1280px-Flickr_-_cyclonebill_-_Keemun.jpg"
 :page/body
 
@@ -14,45 +14,41 @@ Qímén hóngchá (祁门红茶) — known internationally as Keemun (from the W
 
 ## History
 
-Qímén county had a long green tea tradition dating to the Tang dynasty. Red tea production was introduced in 1875 by Yú Gànchén (余干臣), a former Fújiàn government official who adapted the Fújiàn gōngfū (工夫, craft) red tea processing method to the local Ānhuī cultivar and conditions.
+Qímén county had a long green tea tradition dating to the Tang dynasty. Red tea production was introduced in 1875. According to one account, Yú Gànchén (余干臣), a former Fújiàn government official, adapted the Fújiàn gōngfū (工夫, craft) red tea processing method to the local Ānhuī cultivar and conditions. Another source credits Hú Yuánlóng (胡元龙), a native of Qímén, who founded the Rìshùn tea factory (日顺茶厂) in the same year and also mastered gōngfū processing. Both accounts agree that 1875 marks the birth of Qímén hóngchá.
 
 Within a decade, Qímén hóngchá had reached European markets and was acclaimed by British tea buyers — who had previously dominated the trade with Indian Assam and Ceylon teas — for its refined, complex character. It became the tea of choice for English Breakfast blends requiring a more delicate base, and was described at Victorian trade exhibitions as "the burgundy of teas." By the late Qing dynasty it was Ānhuī's most valuable export.
 
-**TL;DR:** Qímén hóngchá invented 1875 by Yú Gànchén (余干臣), adapting Fújiàn gōngfū red tea processing to the local zhūyè zhǒng (oak-leaf) cultivar. British buyers acclaimed it within a decade — Victorian trade exhibitions described it as "the burgundy of teas." Domestic Chinese interest in premium hóngchá came much later, after 2005.
-
 ## Terroir
 
-Qímén county: 800–1,000 m elevation, surrounded by the Huángshān mountains. Climate: high humidity, frequent cloud cover and fog (typically 200+ fog days per year), moderate temperatures, significant diurnal temperature variation. Soil: red-yellow podzolic soil, slightly acidic, high in organic matter.
+Qímén county: 800–1,000 m elevation, surrounded by the Huángshān mountains. Climate: high humidity, frequent cloud cover and fog (typically 200+ fog days per year), moderate temperatures, significant diurnal temperature variation. Soil: red-yellow podzolic soil, slightly acidic, high in organic matter. Pine, oak, and coniferous trees grow interspersed among the tea bushes — this influences the aroma of the leaf.
 
-The combination of slow leaf growth (caused by cloud cover and cooler temperatures), mineral-rich soil, and specific local cultivar produces the aromatic precursor profile that yields the Qímén fragrance.
+The combination of slow leaf growth (caused by cloud cover and cooler temperatures), mineral-rich soil, and specific local cultivar produces the aromatic precursor profile that yields the Qímén fragrance. Specific compounds contributing to the bouquet include linalool and geraniol (floral notes), bergamotene and α-ionone (fruity notes), and hexanal and coumarin (smoky, earthy undertones).
 
 ## The Cultivar
 
-Qímén hóngchá is made from a specific local Camellia sinensis cultivar — 槠叶种 (zhūyè zhǒng, oak-leaf variety) — selected over generations in Qímén county. This cultivar is responsible for the distinctive aromatic profile; the same processing applied to a different cultivar does not produce Qímén fragrance. The leaf is small-to-medium, with a characteristically thin membrane and high content of aromatic precursor compounds.
+Qímén hóngchá is made from a specific local Camellia sinensis cultivar — 槠叶种 (zhūyè zhǒng, oak-leaf variety) — selected over generations in Qímén county. The leaves are small, leathery, with a serrated edge resembling oak leaves. This cultivar is responsible for the distinctive aromatic profile; the same processing applied to a different cultivar does not produce Qímén fragrance. The leaf is small-to-medium, with a characteristically thin membrane and high content of aromatic precursor compounds.
 
 ## 祁门香 Qímén Xiāng — The Keemun Bouquet
 
 The famous Qímén fragrance is difficult to describe and easily recognised once encountered. It combines:
 - A high floral note — often described as orchid, rose, or geranium
 - A fruity depth — dried stone fruit (plum, longan)
-- A slight smokiness in some grades and seasons
+- A slight smokiness in some grades and seasons — reminiscent of baked plum
 - A cocoa or chocolate undertone in the finish
 - A characteristic sweetness without honey-like heaviness
 
-This aromatic profile is not a single compound but a complex interaction of esters, alcohols, and phenolic derivatives that emerge during the slow, controlled oxidation of the Qímén cultivar under the specific climatic conditions of the Huángshān foothills.
+This aromatic profile is not a single compound but a complex interaction of esters, alcohols, and phenolic derivatives that emerge during the slow, controlled oxidation of the Qímén cultivar under the specific climatic conditions of the Huángshān foothills. The bouquet is the result of the combination of the zhūyè zhǒng cultivar, gōngfū processing, and the local climate — it cannot be replicated in any other region.
 
-**TL;DR:** Qímén xiāng (祁门香) = high orchid floral + dried stone fruit + faint smokiness + cocoa undertone. Unique to the zhūyè zhǒng cultivar processed slowly under Huángshān's high-humidity, cloud-heavy climate. If a "Keemun" tastes flat or purely malty without the orchid-fruit note → it is not genuine Qímén zhūyè zhǒng material.
-
-## Processing — Qímén Gōngfū Method
+## Processing — Qímén Gōngfū Method (祁门工夫)
 
 The traditional Qímén processing (工夫茶 gōngfū chá, using 工夫 meaning "skilled craft" — the same characters as gōngfū brewing, but here referring to the labour-intensive tea production method) involves:
 
 1. **Picking**: Two leaves and a bud standard; bud-only for highest grades
-2. **Withering**: Longer and more gradual than most red teas — 24+ hours. The slow moisture loss develops aromatic precursors characteristic of Qímén.
+2. **Withering (萎凋 wěidiāo)**: Longer and more gradual than most red teas — 24+ hours. The slow moisture loss develops aromatic precursors characteristic of Qímén.
 3. **Rolling (揉捻 róuniǎn)**: Moderate pressure to break cell walls without crushing. The strip-form rolling creates the characteristic tightly twisted, dark leaf.
 4. **Oxidation (发酵 fājiào)**: Carefully controlled cool-room oxidation, 3–5 hours. Target: leaves turn coppery-red, aroma transitions from green to fruity-floral.
-5. **Drying**: Low-temperature drying to preserve aromatics.
-6. **Refining**: Sorting, grading, and blending — Qímén traditionally produces sorted grades based on leaf grade.
+5. **Drying (干燥 gānzào)**: Low-temperature drying to preserve aromatics.
+6. **Refining (精制 jīngzhì)**: Sorting, grading, and blending — Qímén traditionally produces sorted grades based on leaf grade.
 
 ## Grades
 
@@ -64,8 +60,6 @@ Qímén hóngchá is sold under several grade designations:
 | 毛峰 Máo Fēng | Earlier harvest, lighter, sweeter; two leaves and a bud |
 | 工夫 Gōngfū | Classic grade; twisted strip form, full-flavoured |
 | 碎茶 Suì Chá (Congou broken) | Smaller pieces; stronger extraction, used in blends |
-
-**Xīngyá (醒芽) and seasonal variation**: Spring harvest (April–May) typically produces the most delicate, aromatic cup. Summer harvest (June–July) is stronger and more robust. Autumn harvests are rare and often sold as specialty items.
 
 ## Flavor Profile
 
@@ -104,3 +98,5 @@ Look for tightly twisted dark strips, few broken pieces, and the Qímén bouquet
 
 **What should Keemun cost?**
 Everyday Gōngfū grade: ¥200–500/500g. Good Máo Fēng or 1st-grade: ¥500–1,000/500g. Premium Háo Yá A/B: ¥1,000–2,500/500g. Keemun below ¥80–100/500g is almost certainly blended with non-Qímén material. The labour-intensive gōngfū processing and protected-origin production area mean genuine Keemun has a real price floor.
+
+**TL;DR:** Qímén hóngchá (祁门红茶, Keemun) — a red tea from Qímén county, Huángshān, Ānhuī. Produced since 1875 (Yú Gànchén / Hú Yuánlóng). Cultivar zhūyè zhǒng (槠叶种, oak-leaf variety) — the main source of Qímén aroma (祁门香): orchid + dried stone fruit + slight smokiness + cocoa undertone. Oxidation: carefully controlled 3–5 hours. Grades: Háo Yá (bud, premium) → Máo Fēng → Gōngfū → Suì Chá. Victorian-era British buyers called it "the burgundy of teas." Brew at 90–95°C, without milk.

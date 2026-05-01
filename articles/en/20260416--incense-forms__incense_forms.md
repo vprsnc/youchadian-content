@@ -3,7 +3,7 @@
 :article/tags ["incense" "forms" "sticks" "coils" "seal-incense" "powder" "zhuanxiang" "electric-heater"]
 :article/category :incense
 :article/type :forms
-:article/description "Chinese incense forms: stick (线香), coil (盘香), cone (塔香), seal incense (篆香), indirect heat burning with mica and charcoal, electric heaters, honey pellets. Form determines burn time, fragrance character, and ritual context."
+:article/description "Chinese incense forms: stick (线香 xiànxiāng), coil (盘香 pánxiāng), cone (塔香 tǎxiāng), seal incense (篆香 zhuànxiāng), indirect heat with mica (隔火熏香 gé huǒ xūn xiāng), electric incense heaters (电香炉 diàn xiānglú), honey pellets (蜜炼香丸 mìliàn xiāngyuán). Form determines burn time, fragrance character, and ritual context."
 :page/body
 
 # Chinese Incense Forms — Sticks, Coils, Seals, and Raw Material
@@ -23,7 +23,7 @@ The most common form globally. A slender rod of compressed aromatic powder (and 
 - Standard (~3 mm): 45–90 minutes
 - Thick (~5–6 mm): 1.5–3 hours
 
-Stick incense emerged in China during the Míng dynasty (14th century). Before that, Chinese incense was primarily burned as powder, pellets, or raw material.
+Stick incense emerged in China during the Míng dynasty (14th century). Before that, Chinese incense was primarily burned as powder, pellets, or raw material. The earliest written mention of incense sticks (线香) appears in the *Xiāng Chéng* 《香乘》 (Zhōu Jiāzhòu, 1641), where their invention is attributed to monks of the Yuán dynasty (13th–14th centuries) for prayer and timekeeping.
 
 ## Coil incense (盘香 pánxiāng)
 
@@ -33,11 +33,15 @@ A spiral of incense paste, formed into a continuous coil. Burns from the outer e
 - **Burn direction:** Clockwise coils are traditional; temple practice varies
 - **Fragrance:** More intense than sticks due to greater mass; requires good ventilation
 
+Coils are also referred to as 蟠香 (pánxiāng) in classical texts, indicating their origin in Daoist and Buddhist rituals of prolonged altar burning.
+
 ## Cone incense (塔香 tǎxiāng)
 
 A small conical or pyramid-shaped form. Burns quickly — typically 15–30 minutes — with a concentrated initial release. A variation, **backflow cones** (倒流香 dàoliú xiāng), have a hollow channel running from tip to base: when lit, dense cooled smoke flows downward, creating a waterfall visual effect in backflow burners.
 
 - **Backflow burning:** Dense visible smoke descends into a bowl or landscape vessel — primarily aesthetic; the downward flow is caused by the cool dense smoke sinking against the warmer ambient air.
+
+Backflow cones have been known since the Míng dynasty but gained widespread popularity only in the 20th century as a decorative element in fēng-shuǐ and tea ceremonies. According to Chinese Wikipedia (Baidu Baike), their recipes often include additives to increase smoke density, which can affect the aroma.
 
 ## Seal incense / powder trails (篆香 zhuànxiāng / 印香 yìnxiāng)
 
@@ -56,7 +60,7 @@ One of the most refined classical forms. Aromatic powder is pressed into pattern
 4. Light the trail at its starting point
 5. The fire follows the trail at a predictable rate; burn time is proportional to trail length
 
-Zhuànxiāng was a central practice of Sòng-dynasty literati incense culture. According to the *Xiāng Shèng* 《香乘》 (Zhōu Jiāzhòu, 1641), seal-burning patterns were designed to track time — elaborate patterns burned for precisely an hour, two hours, or a full day, and functioned as incense clocks (香钟 xiāng zhōng) in studies and monasteries.
+Zhuànxiāng was a central practice of Sòng-dynasty literati incense culture (10th–13th centuries). According to the *Xiāng Chéng* 《香乘》 (Zhōu Jiāzhòu, 1641), seal-burning patterns were designed to track time — elaborate patterns burned for precisely an hour, two hours, or a full day, and functioned as incense clocks (香钟 xiāng zhōng) in studies and monasteries. During the Táng dynasty (7th–9th centuries) simple powder patterns already existed, but the stamped form with metal moulds spread only in the Sòng period.
 
 **TL;DR:** Seal incense (篆香) = aromatic powder pressed into trail pattern on ash bed, lit at one end. Patterns can be characters, flowers, or geometric. Used in Song dynasty as incense clocks. Requires fine quality powder — sandalwood or agarwood base — for clean trail burning.
 
@@ -73,6 +77,8 @@ The classical method for high-grade aromatic materials — chénxiāng and tánx
 The charcoal heats the mica to approximately 80–120°C; the wood/resin gently releases fragrance without combustion. No smoke, no burning smell, only pure aromatic vapour. The temperature is adjusted by raising or lowering the charcoal in the ash, or by the thickness of the ash layer above it.
 
 This is the preferred method among serious practitioners for agarwood and sandalwood. The fragrance released by indirect heat is substantially more complex and subtle than direct burning of the same material.
+
+The method is described in the *Xiāng Chéng* as "gé huǒ xūn xiāng" — through fire and mica — and is considered the highest art of Chinese aroma culture (香道 xiāng dào). During the Sòng dynasty, special charcoals made from plum pits (梅核炭 méi hé tàn) were used, providing even heat without smoke.
 
 **Electric equivalents:** Modern ceramic electric heaters with thermostatic control replicate the mica-over-charcoal setup without charcoal management. Useful for indoor use; the aromatic result is comparable to charcoal method for most materials.
 
@@ -105,6 +111,8 @@ An ancient form: aromatic powders kneaded with honey (or other natural binders �
 
 This is the most labour-intensive and ingredient-intensive form — associated with the highest levels of Chinese incense culture historically.
 
+Historical recipes for honey pellets (蜜丸 mì wán) are recorded in the *Chén Shì Xiāng Pǔ* (陈氏香谱) of the Sòng dynasty, which mentions compositions of sandalwood, agarwood, clove, cinnamon, camphor, and musk, aged for up to 3 years. In modern China, they are still produced by small workshops in Guǎngdōng (广东) and Fújiàn (福建) provinces for high-level tea ceremonies.
+
 ## Raw material chips and powder
 
 The simplest and most direct form: pieces of aromatic wood (agarwood, sandalwood) or resin, placed directly on a mica plate over indirect heat. No binder, no processing — pure material. The quality ceiling is highest here, and the authenticity requirements are strictest — adulterant materials are immediately detectable.
@@ -113,6 +121,8 @@ The simplest and most direct form: pieces of aromatic wood (agarwood, sandalwood
 - **Chips (片 piàn):** Small pieces of wood or resin; used on mica for indirect heating
 - **Powder (粉 fěn):** Fine-ground; used for seal incense trails or sprinkled on mica
 - **Carved objects:** Small figures or beads held near gentle heat
+
+In Chinese classification, raw material is divided into "shēngxiāng" (生香) — unprocessed chips, and "shúxiāng" (熟香) — materials that have undergone heat treatment (steaming or aging) to soften the aroma. For indirect heating, medium-fraction chips (0.3–0.5 cm) are preferred to avoid overheating fine particles.
 
 ## Related
 

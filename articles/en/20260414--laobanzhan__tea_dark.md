@@ -13,7 +13,7 @@ Lǎo Bānzhāng is a natural village on Bùlǎng Shān (布朗山, Bulang Mounta
 
 ## Location and Environment
 
-Lǎo Bānzhāng sits on a ridge within the Bùlǎng Shān massif, approximately 60 km from Měnghǎi town. Elevation: 1,700–1,900 m. Average temperature 18.7°C, annual rainfall 1,341–1,540 mm, ~2,088 sun-hours per year. The village is close to the China-Myanmar border, surrounded by primary old-growth forest. ~145 households, ~500 people, all Bùlǎng ethnic minority (布朗族 Bùlǎng Zú).
+Lǎo Bānzhāng sits on a ridge within the Bùlǎng Shān massif, approximately 60 km from Měnghǎi town. Elevation: 1,700–1,900 m. Average annual temperature 18.7°C, annual rainfall 1,341–1,540 mm, ~2,088 sun-hours per year. The village is close to the China-Myanmar border, surrounded by primary old-growth forest. ~145 households, ~500 people, all Bùlǎng ethnic minority (布朗族 Bùlǎng Zú).
 
 ## The Bùlǎng Ethnic Minority and the Tea Gardens
 
@@ -23,7 +23,7 @@ The tea gardens cover approximately 4,500–4,700 mǔ (亩) — roughly 300–31
 
 ## The Trees
 
-Tree age claims for Lǎo Bānzhāng run from 300 to over 1,000 years. Independent dendrochronology of *Camellia sinensis* var. *assamica* is difficult — no standard growth rings — so these figures are hard to verify scientifically. The village's 1476 founding and earlier Bùlǎng presence make ages of 200–500+ years for many trees plausible; claims of 1,000-year trees are likely inflated. The trees are Yunnan large-leaf cultivar (大叶种 dàyèzhǒng) with thick, robust leaves and heavy silver-hairy buds.
+Tree age claims for Lǎo Bānzhāng run from 300 to over 1,000 years. Independent dendrochronology of *Camellia sinensis* var. *assamica* is difficult — no standard growth rings — so these figures are hard to verify scientifically. The village's 1476 founding and earlier Bùlǎng presence make ages of 200–500+ years for many trees plausible; claims of 1,000-year trees are likely inflated. The trees are Yunnan large-leaf cultivar (大叶种 dàyèzhǒng) with thick, robust leaves and heavy silver-hairy buds. In the gardens, two main cultivated varieties are found: **勐海大叶种** (Měnghǎi dàyè zhǒng), adapted to the local climate, and **布朗山大叶种** (Bùlǎngshān dàyè zhǒng), distinguished by a high concentration of catechins.
 
 ## Flavour Profile
 
@@ -43,7 +43,7 @@ The Lǎo Bānzhāng flavour sequence is the primary reason for its reputation:
 
 ## The King Trees (茶王树 cháwáng shù)
 
-Among the ancient trees in the village gardens, specific specimens are designated as "king trees" — the oldest and most productive. Harvesting rights to these trees are auctioned annually in a well-publicised ceremony:
+Among the ancient trees in the village gardens, specific specimens are designated as "king trees" (茶王树, cháwángshù) — the oldest and most productive. In 2022, Měnghǎi County authorities conducted an inventory and registered **three** such trees: two in Lǎo Bānzhāng (numbered 1 and 2) and one in Xīn Bānzhāng. Harvesting rights to these trees are auctioned annually in a well-publicised ceremony:
 
 - **2017:** ¥320,000/kg — first well-documented auction (Yang Shǎngrǎn purchased rights from owner Yang Yǒngpíng)
 - **2018:** ¥880,000 for that harvest (peak event year)
@@ -68,23 +68,23 @@ Approximately 1,500× increase in 24 years. The "discovery" narrative: Lǎo Bān
 
 ## The Fraud Problem
 
-Counterfeiting began almost immediately after price discovery. The scale is documented: an investigation by The Paper (澎湃新闻) found that official village production statistics and market-circulating volumes differ by approximately **50 metric tonnes per year** — meaning the vast majority of "Lǎo Bānzhāng" sold globally is mislabelled.
+Counterfeiting began almost immediately after price discovery. The scale is documented: an investigation by The Paper (澎湃新闻, 2020) found that official village production statistics and market-circulating volumes differ by approximately **50 metric tonnes per year** — meaning the vast majority of "Lǎo Bānzhāng" sold globally is mislabelled.
 
 The village's stated annual output is approximately 40 metric tonnes of ancient-tree máochá from ~145 households. At ¥15,000/kg, this equals ¥600 million in farm value — a figure that already strains credibility. The authentic gǔshù yield with traceable provenance is likely a fraction even of the official figure, which includes younger plantation trees (台地茶 táidì chá) interspersed with the ancient gardens.
 
 **Authentication attempts:**
-- Hand-stamped receipts and QR-coded certificates issued by villagers
-- Holographic seals introduced by producers such as Chén Shēng Hào (陈升号)
-- DNA testing proposed by researchers; not commercially implemented at scale as of 2025
-- Geographic isotope analysis discussed; not standardised
+- Hand-stamped receipts and QR-coded certificates issued by villagers — in 2021, the village implemented a unified **防伪溯源** (fángwěi sùyuán, anti-counterfeiting and traceability) system with QR codes linked to each household.
+- Holographic seals introduced by producers such as Chén Shēng Hào (陈升号) in 2013 for their branded cakes.
+- DNA testing proposed in 2018 by specialists from Yunnan University (云南大学); not commercially implemented at scale as of 2025 due to cost.
+- Geographic isotope analysis discussed by the Chinese Institute of Geochemistry (中国科学院地球化学研究所) since 2020; no standardised method for tea exists.
 
-None of these are reliably forgery-proof; certificates themselves are routinely forged. Practically: any "Lǎo Bānzhāng" priced under ¥2,000–3,000 per 100g leaf equivalent is extremely unlikely to be authentic ancient-tree material.
+None of these are reliably forgery-proof; certificates themselves are routinely forged. Practically: any "Lǎo Bānzhāng" priced under ¥2,000–3,000 per 100g leaf equivalent is extremely unlikely to be authentic ancient-tree material. On platforms like Taobao or Pinduoduo, prices of ¥300–500 for "gǔshù Lǎo Bānzhāng" are guaranteed counterfeits, often using material from neighbouring mountains (e.g., Nánnuò or Hékāi).
 
 **TL;DR:** ~50 metric tonnes/year of fraudulent "Lǎo Bānzhāng" circulates against official village output of ~40 tonnes total. Certificates are forged. Price floor for plausible authentic ancient-tree: ¥2,000–3,000 per 100g. Xīn Bānzhāng at 20–40% of the price is the closest legitimate alternative.
 
 ## Xīn Bānzhāng (新班章) — The Sibling Village
 
-Founded ~60–70 years ago by villagers who split from Lǎo Bānzhāng; approximately 7 km away, one ridge separating them. Same climate, macro-environment, and forest terrain. The key difference is tree age: Xīn Bānzhāng averages ~100 years versus Lǎo Bānzhāng's ~300 years.
+Founded ~60–70 years ago by villagers who split from Lǎo Bānzhāng; approximately 7 km away, one ridge separating them. Same climate, macro-environment, and forest terrain. The key difference is tree age: Xīn Bānzhāng averages ~100 years versus Lǎo Bānzhāng's ~300 years. According to Měnghǎi County administration data, the total garden area of Xīn Bānzhāng is ~1,200 mǔ (~80 ha), of which about 300 mǔ are planted with trees over 100 years old.
 
 The flavour comparison: Xīn Bānzhāng is milder — less bitter, thinner body, shallower hóuyùn (throat resonance), less chá qì. Approachable where Lǎo Bānzhāng is intense. Price: typically 20–40% of Lǎo Bānzhāng for comparable grade. Market note: Xīn Bānzhāng leaf is frequently sold as Lǎo Bānzhāng; it is the closest legitimate approximation in fraudulent substitution.
 
@@ -103,7 +103,7 @@ Not recommended as a first shēng pǔ'ěr. The bitterness is intense — though 
 Yes — producers including Chén Shēng Hào (陈升号) press shū chá (熟茶) from Bānzhāng-area leaf. Ripe processing eliminates the extreme bitterness while retaining some of the material's power and huígān. An accessible entry to the Bùlǎng mountain profile at far lower cost than authentic ancient-tree shēng.
 
 **What is the difference between 老班章, 新班章, and 小班章?**
-Three villages on Bùlǎng Shān: 老班章 (Old) — original, ~300-year trees, ¥15,000–20,000+/kg. 新班章 (New) — ~7 km away, split ~60 years ago, ~100-year trees, 20–40% of LBZ price, milder character. 小班章 (Small) — smaller satellite village, younger trees, lowest of the three. All produce genuine Bùlǎng material; only 老班章 has severe fraud exposure.
+Three villages on Bùlǎng Shān: 老班章 (Old) — original, ~300-year trees, ¥15,000–20,000+/kg. 新班章 (New) — ~7 km away, split ~60 years ago, ~100-year trees, 20–40% of LBZ price, milder character. 小班章 (Small) — smaller satellite village, younger trees (mostly 30–60 years old), the most affordable of the three at ~¥5,000–8,000 per kg for spring harvest. All three produce genuine Bùlǎng material; only 老班章 has severe fraud exposure.
 
 ## Related
 

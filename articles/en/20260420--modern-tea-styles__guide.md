@@ -19,7 +19,7 @@ Chinese tea is not a museum exhibit. Alongside the gōngfū traditions that have
 
 Cold brew tea steeps tea leaves in cold or room-temperature water for an extended period — typically 4 to 8 hours at 4°C in a refrigerator, or up to 2 hours at room temperature (25°C). No heat is involved at any stage.
 
-The practice has roots in Taiwan and southern China, where it developed as a practical summer technique. Fuzhou (Fúzhōu 福州) practitioners have long steeped white tea in cold water through the night. Taiwan's Tea Research and Extension Station formally studied cold brew parameters and published baseline recommendations in the *Taiwan Tea Research Bulletin* (34:135–146, 2015): 1g leaf per 100ml at 4°C for 6–8 hours produces the most balanced extraction across green and oolong teas.
+The practice has roots in Taiwan and southern China, where it developed as a practical summer technique. Fuzhou (Fúzhōu 福州) practitioners have long steeped white tea in cold water through the night. A key role was played by the Taiwan Tea Research and Extension Station (台湾茶业改良场 Táiwān Cháyè Gǎiliáng Chǎng), which published the first systematic cold brew guidelines in the mid-2000s, recommending the method for summer consumption. Later formal studies (e.g., *Taiwan Tea Research Bulletin* 34:135–146, 2015) confirmed optimal parameters: 1 g leaf per 100 ml at 4°C for 6–8 hours produces the most balanced extraction across green and oolong teas.
 
 ### The chemistry: why it tastes different
 
@@ -37,7 +37,7 @@ The result: cold brew tea is structurally sweeter, less bitter, lower in caffein
 ### Technique
 
 **Standard cold brew parameters:**
-- **Ratio**: 1g leaf per 80–100ml water
+- **Ratio**: 1 g leaf per 80–100 ml water
 - **Temperature**: 4°C (refrigerator)
 - **Time**: 6–8 hours (overnight is convenient)
 - **Vessel**: Any sealed container — glass jar, bottle, pitcher
@@ -52,17 +52,17 @@ Not all teas cold brew well. The key variable is the tea's oxidation level and d
 
 **Excellent for cold brew:**
 - **Green tea**: Cold brewing eliminates green tea's tendency to turn bitter — Lóngjǐng (龙井), Bì Luó Chūn (碧螺春), and light Taiwanese greens become clean, sweet, and very drinkable. The grassy sharpness disappears; delicate sweetness emerges.
-- **Light oolong**: Qīngxiāng (清香型) tiě guānyīn (铁观音), Táiwān high-mountain oolongs, Bāozhǒng (包种) — all become intensely floral cold-brewed, often more fragrant than hot-brewed.
-- **White tea**: Both fresh and aged white tea cold brew beautifully. Fresh bái háo yín zhēn (白毫银针) produces a pale, honeyed, almost transparent cup. Aged white tea develops complexity slowly over a long cold steep.
+- **Light oolong**: Qīngxiāng (清香型) tiě guānyīn (铁观音), Táiwān high-mountain oolongs, Bāozhǒng (包种) — all become intensely floral cold-brewed, often more fragrant than hot-brewed. Particularly worth highlighting are Taiwanese Gāoshān (高山茶) oolongs such as Ālǐshān (阿里山) or Shānlínxī (杉林溪); their delicate orchid aroma opens up cleanly in cold water without bitterness.
+- **White tea**: Both fresh and aged white tea cold brew beautifully. Fresh bái háo yín zhēn (白毫银针) produces a pale, honeyed, almost transparent cup. Aged white tea (e.g., Bái Mǔ Dān (白牡丹) with 3–5 years of ageing) slowly unfolds complexity during a long cold steep — notes of dried pear and forest herbs appear.
 - **Aromatic red teas**: Small-leaf varieties like Táiwān mì xiāng hóngchá (蜜香红茶, honey-fragrant red) and Diān Hóng (滇红) develop their caramel and honey notes distinctly cold.
 
 **Use with care:**
 - **Ripe pu-erh**: Works well but benefits from a brief rinse with hot water first to open the compressed leaf, then cold steep. Produces cocoa and dried plum notes. Described in [Tea Mixology](/wiki/tea-mixology).
-- **Roasted oolongs / yancha**: The roast character mutes in cold brew. Can be pleasant — mineral sweetness emerges — but the signature fire aroma is lost.
+- **Roasted oolongs / yánchá**: The roast character mutes in cold brew. Can be pleasant — mineral sweetness emerges — but the signature fire aroma is lost. Best results come from yánchá with moderate roasting, such as Wǔyíshān Ròuguì (肉桂); its spicy notes become softer.
 
 **Avoid:**
 - **Heavily scented teas (jasmine, osmanthus blends)**: Volatile aromatics don't extract in cold water — the fragrance disappears almost entirely.
-- **Very young sheng pu-erh**: Aggressive bitterness from high catechin content extracts even cold, producing an unpleasant cup.
+- **Very young shēng pu-erh**: Aggressive bitterness from high catechin content extracts even cold, producing an unpleasant cup.
 
 ---
 
@@ -82,13 +82,13 @@ The pearls are made from tapioca starch (cassava root), shaped into balls and co
 
 ### Tea base and format
 
-Early bubble tea used black tea (originally Assam-style, later Chinese red teas) with condensed or whole milk, ice, and pearls. The drink was always iced and shaken — the shaking creates the surface foam that gave it the name "bubble tea" in English before "boba" became standard.
+Early bubble tea used black tea (originally Assam-style, later Chinese red teas such as Qímén Hóngchá (祁门红茶) or Hóng Yù (红玉, Taiwan's cultivar No. 18)) with condensed or whole milk, ice, and pearls. The drink was always iced and shaken — the shaking creates the surface foam that gave it the name "bubble tea" in English before "boba" became standard.
 
 Modern bubble tea formats:
-- **Milk tea**: Tea base + milk or non-dairy milk + pearls + sweetener. Black, oolong, or jasmine green bases are most common.
-- **Fruit tea**: Tea base + fresh fruit juice + fruit pieces. No milk. Became popular in the 2010s with the new-wave shops.
+- **Milk tea**: Tea base + milk or non-dairy milk + pearls + sweetener. Black, oolong, or jasmine green bases are most common. In premium shops, single-origin oolongs are used, such as Tiě Guānyīn (铁观音) or Jīn Xuān (金萱) with its creamy, buttery notes.
+- **Fruit tea**: Tea base + fresh fruit juice + fruit pieces. No milk. Became popular in the 2010s with the new-wave shops. The base is often green tea or a light oolong.
 - **Cheese tea**: Tea (usually green or oolong) + salted cheese foam on top. No pearls, no milk in the tea itself. Hey Tea's signature invention.
-- **Pure tea + toppings**: High-grade single-origin tea (yancha, dancong, aged pu-erh) served iced, with optional toppings — the new-wave shop's premium tier.
+- **Pure tea + toppings**: High-grade single-origin tea (yánchá, dān cōng, aged pu-erh) served iced, with optional toppings — the new-wave shop's premium tier.
 
 ### How did bubble tea spread globally?
 

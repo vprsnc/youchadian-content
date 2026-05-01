@@ -1,52 +1,46 @@
-:page/lang :en
-:article/title "White Tea (白茶 Báichá) — Overview"
-:article/tags ["white-tea" "fujian" "fuding" "zhenghe" "silver-needle" "bai-mu-dan" "aging"]
-:article/category :tea
-:article/type :white
-:article/product-filter {:product/category :tea :product/type :white}
-:article/description "White tea (白茶 báichá): withering only — no kill-green or rolling, Fujian. Four grades from Yínzhēn to Shòuméi. Fuding vs Zhenghe, aging chemistry, EPSFs as scientific marker."
-:article/hero-image "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=1280&fit=crop"
 :page/body
 
 # White Tea (白茶 Báichá) — Overview
 
 White tea is the least mechanically processed of China's six tea categories. The defining process is **萎凋** (wēidiāo, withering): the fresh leaf is spread on bamboo trays and allowed to wither for 36–72 hours in natural air, sun, and shade, before a final low-heat firing to fix moisture. There is no kill-green (杀青 shāqīng) to halt enzymatic activity and no rolling (揉捻 róuniǎn) to break cell structure. Slow natural oxidation occurs during the long wither — which is why white tea is not "unoxidised" in any meaningful sense, despite the marketing shorthand.
 
-The slow wither is the longest of any Chinese tea category, and it is itself a form of processing. The character of white tea — hay, melon, gentle floral, a quality softness — comes from this extended enzymatic transformation, not from the absence of processing.
+The slow wither is the longest of any Chinese tea category, and it is itself a form of processing. The character of white tea — hay, dried melon (蜜瓜 mìguā), gentle floral, a quality softness — comes from this extended enzymatic transformation, not from the absence of processing.
 
 ## Two Origins: Fuding and Zhenghe
 
 White tea's canonical production centres are both in Fujian province:
 
-**福鼎 Fúdǐng** (northern Fujian, ~600 m elevation, 1,622 sun-hours/year): The dominant producer by volume. Known for the sun-wither method (日光萎凋 rìguāng wēidiāo) — leaves spread in direct sunlight, typically 10–16 hours outdoors before indoor completion. Fuding's higher sun hours make this practical across most of the spring harvest season. The flavour character: lighter liquor, more floral and fruity, fresh hay, hawthorn notes, lively.
+**福鼎 Fúdǐng** (northern Fujian, Ningde prefecture, ~600 m elevation, 1,622 sun-hours/year): The dominant producer by volume. Known for the sun-wither method (日光萎凋 rìguāng wēidiāo) — leaves spread in direct sunlight, typically 10–16 hours outdoors before indoor completion. Fuding's higher sun hours make this practical across most of the spring harvest season. The flavour character: lighter liquor, more floral and fruity, fresh hay, hawthorn (山楂 shānzhā) notes, lively.
 
-**政和 Zhènghé** (higher altitude, ~800 m, 1,907 sun-hours but more spring rain): The traditional heartland; indoor withering dominates (室内萎凋 shìnèi wēidiāo), 48+ hours, followed by a 5-hour supplemental sun finish (复式萎凋 fùshì wēidiāo). This longer, more oxidative process produces fuller-bodied tea with darker honey, dried date, and camphor notes — more herbaceous and earthy than Fuding, with pronounced huígān (回甘 returning sweetness).
+**政和 Zhènghé** (higher altitude, ~800 m, Nanping prefecture, 1,907 sun-hours but more spring rain): The traditional heartland; indoor withering dominates (室内萎凋 shìnèi wēidiāo), 48+ hours, followed by a 5-hour supplemental sun finish (复式萎凋 fùshì wēidiāo). This longer, more oxidative process produces fuller-bodied tea with darker honey, dried red date (红枣 hóngzǎo), and camphor notes — more herbaceous and earthy than Fuding, with pronounced huígān (回甘 returning sweetness).
 
 Neither is superior — they express different terroir through the same minimal process.
 
 ## The Cultivars
 
-**福鼎大白 Fúdǐng Dàbái** (Huáchá No.1): Discovered ~1857 in Fuding county. Mid-size leaves, plump fat buds, dense white hairs (白毫 báiháo). Amino acids ~4.3% → sweeter, lighter body. First used for Silver Needle production from 1885. Now ~10% of Fuding output (lower yield).
+**福鼎大白 Fúdǐng Dàbái** (Huáchá No.1, 华茶1号): Discovered ~1857 in Fuding county, at Wangjiayang village (汪家洋) at the foot of Mount Tailao (太姥山). Mid-size leaves, plump fat buds, dense white hairs (白毫 báiháo). Amino acids ~4.3% → sweeter, lighter body. First used for Silver Needle production from 1885. Now ~10% of Fuding output (lower yield).
 
-**福鼎大毫 Fúdǐng Dàháo** (Huáchá No.2): Larger leaves, more abundant long báiháo, heavier buds. Tea polyphenols ~25.7% → richer, fuller body, more aging potential. Now the dominant Fuding cultivar by volume; higher yield and better environmental adaptability.
+**福鼎大毫 Fúdǐng Dàháo** (Huáchá No.2, 华茶2号): Larger leaves, more abundant long báiháo, heavier buds. Tea polyphenols ~25.7% → richer, fuller body, more aging potential. Now the dominant Fuding cultivar by volume; higher yield and better environmental adaptability. Recognised as a distinct clone in 1965.
 
-**政和大白 Zhènghé Dàbái** (Huáchá No.5): Discovered ~1880 in Zhenghe county; first used for Silver Needle from 1889. Large-leaf, late-maturing, high polyphenol content. Gives Zhenghe white tea its characteristic body depth and earthy-herbal dimension.
+**政和大白 Zhènghé Dàbái** (Huáchá No.5, 华茶5号): Discovered ~1880 in Zhenghe county, at the foot of Mount Tianzhu (天柱山); first used for Silver Needle from 1889. Large-leaf, late-maturing (10–14 days later than Fuding cultivars), high polyphenol content. Gives Zhenghe white tea its characteristic body depth and earthy-herbal dimension.
+
+**菜茶 Càichá** (小菜茶 xiǎo càichá, "vegetable tea"): The indigenous seed-propagated landrace, *Camellia sinensis* var. *chekiangensis*. Ungrafted, uncloned — propagated by seed. Smaller, uneven leaves with less down. Used exclusively for Gòngméi (贡眉). Produces tea with strong body, nectar sweetness, and cinnamon notes.
 
 ## The Grade Hierarchy
 
 **白毫银针 Báiháo Yínzhēn — Silver Needle**
-Single buds only — no leaves. Spring harvest exclusively, first flush. The most expensive white tea; maximally aromatic and delicate. Fuding style: lighter, sweeter, more purely floral. Zhenghe style: fuller-bodied bud, deeper character. Zero leaf means the slowest aging of the grade hierarchy — primarily aromatic, minimal polyphenol depth.
+Single buds only — no leaves. Spring harvest exclusively, first flush (明前 míngqián — before Qingming Festival, early April). The most expensive white tea; maximally aromatic and delicate. Fuding style: lighter, sweeter, more purely floral. Zhenghe style: fuller-bodied bud, deeper character. Zero leaf means the slowest aging of the grade hierarchy — primarily aromatic, minimal polyphenol depth.
 
 **白牡丹 Bái Mǔdān — White Peony**
 One bud + one or two leaves from the same grafted commercial cultivars (Fuding Dabai, Fuding Dahao, Zhenghe Dabai). More complex than Silver Needle: the leaf adds polyphenols, sugars, and body; the result is fruitier, more substantial, more active as a daily drinking tea. Also ages more actively than Silver Needle because the leaf fraction transforms first. The everyday premium white tea.
 
 **贡眉 Gòngméi — Tribute Eyebrow**
-Critically distinguished by cultivar: made from **群体种** (qúntǐ zhǒng, "group variety") — the sexually propagated landrace cultivar, also called 小菜茶 (xiǎo càichá) or *Camellia sinensis* var. *chekiangensis* — **not** from the grafted commercial cultivars used for higher grades. This cultivar distinction is definitional; Gòngméi is not simply a lower-grade Bái Mǔdān. Nectar-cinnamon notes, syrupy; stronger flavour than higher grades, less delicate.
+Critically distinguished by cultivar: made from **群体种** (qúntǐ zhǒng, "group variety") — the sexually propagated landrace cultivar càichá (菜茶) — **not** from the grafted commercial cultivars used for higher grades. This cultivar distinction is definitional; Gòngméi is not simply a lower-grade Bái Mǔdān. Nectar-cinnamon notes, syrupy; stronger flavour than higher grades, less delicate.
 
 **寿眉 Shòuméi — Longevity Eyebrow**
 Leaf-dominant, lower-bud ratio, later harvests (early May onward) or autumn. Most affordable. Mellow, less refined, more robust. Popular in large quantities for pressing into cakes for long-term aging investment — good body for transformation, low cost.
 
-**TL;DR:** Four grades by harvest material: Yínzhēn (single buds only, most delicate, slowest aging) → Bái Mǔdān (bud + 1–2 leaves, everyday premium, ages actively) → Gòngméi (from qúntǐ zhǒng landrace cultivar — definitionally distinct, not merely a lower-grade Bái Mǔdān; nectar-cinnamon character) → Shòuméi (leaf-dominant, affordable, best suited for long-term aging). If you want to press cakes for aging → Shòuméi; for daily drinking → Bái Mǔdān.
+**TL;DR:** Four grades by harvest material: Yínzhēn (single buds only, most delicate, slowest aging) → Bái Mǔdān (bud + 1–2 leaves, everyday premium, ages actively) → Gòngméi (from qúntǐ zhǒng landrace càichá cultivar — definitionally distinct, not merely a lower-grade Bái Mǔdān; nectar-cinnamon character) → Shòuméi (leaf-dominant, affordable, best suited for long-term aging). If you want to press cakes for aging → Shòuméi; for daily drinking → Bái Mǔdān.
 
 ## Aging White Tea
 
@@ -58,9 +52,9 @@ This maps to real chemistry at each stage:
 
 **Year 1 (茶):** Full polyphenols and amino acids. Grassy-floral, delicate, maximum fresh character.
 
-**Year 3 (药):** Polyphenols softened, sugars rising, aroma warming to dried fruit and honey. Antioxidant activity high while astringency drops. **EPSFs** (N-ethyl-2-pyrrolidinone-substituted flavan-3-ols) accumulating — now used as a scientific marker for authentic long-aged white tea. Measurable inhibitory activity on α-amylase and α-glucosidase (blood sugar metabolism enzymes).
+**Year 3 (药):** Polyphenols softened, sugars rising, aroma warming to dried fruit and honey. Antioxidant activity high while astringency drops. **EPSFs** (N-ethyl-2-pyrrolidinone-substituted flavan-3-ols, N-乙基-2-吡咯烷酮取代的黄烷-3-醇) accumulating — now used as a scientific marker for authentic long-aged white tea. Measurable inhibitory activity on α-amylase and α-glucosidase (blood sugar metabolism enzymes).
 
-**Year 7 (宝):** Deep transformation. Liquor red-amber; profile = dried dates, dried longan, woody-herbal. Theabrownins and thearubigins at significant concentration. EPSFs at peak. The "medicine" framing of the saying is an overstatement — health claims are plausible but not validated by RCTs — but the underlying chemistry is real.
+**Year 7 (宝):** Deep transformation. Liquor red-amber; profile = dried red dates (红枣 hóngzǎo), dried longan (龙眼 lóngyǎn), woody-herbal. Theabrownins and thearubigins at significant concentration. EPSFs at peak. The "medicine" framing of the saying is an overstatement — health claims are plausible but not validated by RCTs — but the underlying chemistry is real.
 
 Detailed chemical changes during aging:
 - Polyphenols: ↓ (oxidation) → reduced astringency
@@ -73,7 +67,7 @@ Detailed chemical changes during aging:
 
 **Storage for aging:** dry, dark, no strong odours, sealed. Humidity 60–65%. No refrigeration (moisture absorption risk on removal). Room temperature is correct — unlike fresh white tea, aged white is not refrigerated.
 
-**TL;DR:** Aging saying: 一年茶三年药七年宝 ("one year tea, three year medicine, seven year treasure"). At 3+ years: EPSFs (N-ethyl-2-pyrrolidinone-substituted flavan-3-ols) accumulate — now used as a scientific marker for authentic long-aged white tea; measurable activity on blood-sugar metabolism enzymes. At 7+ years: theabrownins peak, profile shifts to dried dates and woody-herbal. Storage: dry, sealed, 60–65% RH, room temperature — no refrigeration.
+**TL;DR:** Aging saying: 一年茶三年药七年宝 ("one year tea, three year medicine, seven year treasure"). At 3+ years: EPSFs (N-ethyl-2-pyrrolidinone-substituted flavan-3-ols) accumulate — now used as a scientific marker for authentic long-aged white tea; measurable activity on blood-sugar metabolism enzymes. At 7+ years: theabrownins peak, profile shifts to dried fruit and woody-herbal. Storage: dry, sealed, 60–65% RH, room temperature — no refrigeration.
 
 ## New Craft White Tea (新工艺白茶 Xīn Gōngyì Báichá)
 

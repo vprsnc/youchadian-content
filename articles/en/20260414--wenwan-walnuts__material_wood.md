@@ -26,13 +26,15 @@ All genuine wénwán walnuts come from the mountains of Héběi province — pri
 
 ## Major cultivar types
 
+Chinese classification counts dozens of cultivars, but four basic types define the market. All names are shape metaphors rooted in the Qīng era.
+
 | Type | Chinese | Key feature | Aging character |
 |---|---|---|---|
-| Lion Head | 狮子头 shīzitóu | Deep irregular furrows; broad rounded profile; near-spherical | Two-tone aging (ridges darken first); longest patina development; most prized |
-| Official Hat | 官帽 guānmào | Two distinct peaks separated by single prominent suture | Amber-gold aging; symmetry of peaks is grade criterion |
-| Lantern | 灯笼 dēnglóng | Round, evenly-spaced longitudinal ridges | Even surface aging due to uniform contact |
-| Tiger Head | 虎头 hǔtóu | Angular, sharp ridges; structured profile | Similar to lion head but faster |
-| Chicken Heart | 鸡心 jīxīn | Elongated, pointed at one end | Asymmetric aging; less valued |
+| Lion Head | 狮子头 shīzitóu | Deep irregular furrows; broad rounded profile; near-spherical | Two-tone aging (ridges darken first); longest patina development; most prized. Best subtypes: "four-ridged lion head" (四棱狮子头 sì léng shīzitóu) — highly rare, price soars |
+| Official Hat | 官帽 guānmào | Two distinct peaks separated by single prominent suture | Amber-gold aging; symmetry of peaks is grade criterion. Historically imitated the shape of the Mǎnzhōu official cap (军帽 jūn mào) |
+| Lantern | 灯笼 dēnglóng | Round, evenly-spaced longitudinal ridges | Even surface aging due to uniform contact. Originally a reference to the paper lanterns of the Yuánxiāo festival |
+| Tiger Head | 虎头 hǔtóu | Angular, sharp ridges; structured profile | Similar to lion head but faster. Rare, prized for aggressive texture |
+| Chicken Heart | 鸡心 jīxīn | Elongated, pointed at one end | Asymmetric aging; less valued in serious collections |
 
 A well-matched pair of lion-head shīzitóu must match within 1 mm in size (0.5 mm = excellent match) and closely in suture position, ridge height, and overall profile. Mismatched pairs lose significant value.
 
@@ -61,6 +63,11 @@ The transformation is the purpose. Fresh walnuts are yellow-white or pale tan; w
 - **No oil or lacquer treatment**: Artificially accelerating with oils or heat is considered fraud by serious collectors — value requires authentic accumulated time
 
 Museum-quality Qīng dynasty pieces show the terminal state: uniform near-black with a deep inner glow and defined grain texture.
+
+**Speed of patina development is affected by:**
+- **Skin chemistry** — people with oilier skin develop patina faster
+- **Frequency** — daily handling is better than occasional
+- **Climate** — humid environments slow oil absorption, dry environments accelerate it
 
 ## Identifying genuine quality
 

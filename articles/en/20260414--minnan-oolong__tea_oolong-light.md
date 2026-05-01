@@ -17,10 +17,10 @@ The defining Mǐnnán tea is 铁观音 (tiěguānyīn), and the defining region 
 ## The Region
 
 Main production areas:
-- **Ānxī (安溪)**: The core. Home of tiěguānyīn and multiple related cultivars. Ānxī is the largest oolong-producing county in Fújiàn.
-- **Yǒngchūn (永春)**: Produces Fó Shǒu (佛手, Buddha's Hand) oolong — a large-leaf cultivar with distinct citrus and floral notes, and Yǒngchūn Lú (永春芦) variants.
+- **Ānxī (安溪)**: The core. Home of tiěguānyīn and multiple related cultivars. Ānxī is the largest oolong-producing county in Fújiàn. Historically, Ānxī teas were divided into "inner mountain" (内山, nèishān) teas from high-altitude villages such as Xiángdì (祥地) and Xīpíng (西坪), and "outer mountain" (外山, wàishān) teas from gentler slopes—the former is considered superior.
+- **Yǒngchūn (永春)**: Produces Fó Shǒu (佛手, Buddha's Hand) oolong — a large-leaf cultivar with distinct citrus and floral notes, and Yǒngchūn Lú (永春芦) variants. The county is known for its mild climate; tea here is harvested from March to October.
 - **Zhāngzhōu (漳州)**: Huā'ān (华安) and Píng Hé (平和) counties; Mǐnnán shuǐxiān (水仙) — the southern Fújiàn variant of the shuǐxiān cultivar, lighter than its Wǔyí counterpart.
-- **Zhāngpíng (漳平)**: Zhāngpíng shuǐxiān — compressed into small rectangular cakes, a unique form within the oolong category.
+- **Zhāngpíng (漳平)**: Zhāngpíng shuǐxiān — compressed into small rectangular cakes, a unique form within the oolong category. The compression method was patented in the 1930s.
 
 ## Tiě Guānyīn — The Defining Tea
 
@@ -30,13 +30,13 @@ The key context here: tiěguānyīn is produced in two fundamentally different s
 
 ### 清香型 Qīngxiāng — Fresh Fragrance Style
 
-Modern style, dominant since the 1990s. Lighter oxidation (15–25%), minimal or no roasting, refrigerated storage. Processing emphasises the "three greens" (三绿 sān lǜ): green dry leaf, green-tinged liquor, green leaf bottom after steeping. Aroma is high, fresh, and floral — jade orchid, lily, green apple, light cream. The style has more in common with a refined green tea in character than with the traditional roasted oolong.
+Modern style, dominant since the 1990s. Lighter oxidation (15–25%), minimal or no roasting, refrigerated storage. Processing emphasises the "three greens" (三绿 sān lǜ): green dry leaf, green-tinged liquor, green leaf bottom after steeping. Aroma is high, fresh, and floral — jade orchid, lily, green apple, light cream. The style has more in common with a refined green tea in character than with the traditional roasted oolong. The tea plant cultivar used is primarily "tiěguānyīn" (铁观音), but "huángjīn guì" (黄金桂) is often blended in to boost the aroma.
 
 Qīngxiāng dominates current commercial production and is what most buyers encounter. It requires refrigeration and has a shorter shelf life — typically 6–12 months. The style was partly developed to suit Taiwanese and Hong Kong market preferences for fresh, delicate profiles.
 
 ### 浓香型 Nóngxiāng — Rich Fragrance Style
 
-Traditional style, lower oxidation (around 40%) plus charcoal roasting. The characteristic "red-edged green leaves" (绿叶红镶边 lǜ yè hóng xiāng biān) of the processed leaf — partially oxidised at the margins — are visible in well-made nóngxiāng. Aroma: ripe fruit, honey, roasted notes, deeper florals. Body is fuller. Shelf life is longer — roasting stabilises the tea.
+Traditional style, lower oxidation (around 40%) plus charcoal roasting. The characteristic "red-edged green leaves" (绿叶红镶边 lǜ yè hóng xiāng biān) of the processed leaf — partially oxidised at the margins — are visible in well-made nóngxiāng. Aroma: ripe fruit, honey, roasted notes, deeper florals. Body is fuller. Shelf life is longer — roasting stabilises the tea. Unlike qīngxiāng, nóngxiāng does not require refrigeration.
 
 Nóngxiāng is the older style and what tiěguānyīn tasted like before the qīngxiāng revolution. It is experiencing a revival among specialists who find the modern fresh style too simple.
 
@@ -44,37 +44,49 @@ Nóngxiāng is the older style and what tiěguānyīn tasted like before the qī
 
 ### 陈香型 Chénxiāng — Aged Style
 
-Aged tiěguānyīn: traditionally stored for multiple years, often with periodic re-roasting. Profile: dried fruits, wood, sweetness reminiscent of aged white tea or light pǔ'ěr. The floral notes transform into dried flower and resin. Not widely available; a collector's item.
+Aged tiěguānyīn: traditionally stored for multiple years, often with periodic re-roasting. Profile: dried fruits, wood, sweetness reminiscent of aged white tea or light pǔ'ěr. The floral notes transform into dried flower and resin. Not widely available; a collector's item. The Chinese national standard (GB/T 30357.2-2013) officially recognised chénxiāng as a distinct type in 2016.
 
 ## Other Mǐnnán Cultivars
 
 ### 黄金桂 Huángjīn Guì — Golden Osmanthus
 
-A lighter, faster-maturing cultivar than tiěguānyīn. The earliest-harvested of the Ānxī oolongs — sometimes two weeks ahead of tiěguānyīn. Profile: bright osmanthus fragrance, light body, green-gold liquor. More aromatic than deep; a delicate tea. Less commercially dominant than tiěguānyīn but well-regarded by specialists.
+A lighter, faster-maturing cultivar than tiěguānyīn. The earliest-harvested of the Ānxī oolongs — sometimes two weeks ahead of tiěguānyīn. Profile: bright osmanthus fragrance, light body, green-gold liquor. More aromatic than deep; a delicate tea. Less commercially dominant than tiěguānyīn but well-regarded by specialists. It is cultivated mainly in Xīpíng (西坪).
 
 ### 白芽奇兰 Bái Yá Qí Lán — White Bud Extraordinary Orchid
 
-From Píng Hé county, Zhāngzhōu. A strip-form oolong — unusual for Mǐnnán. Medium oxidation. Profile: distinct orchid aroma with an unusual "cool" menthol-like finish alongside fruity and floral notes. Named for the white bud tips visible on the leaf.
+From Píng Hé county, Zhāngzhōu. A strip-form oolong — unusual for Mǐnnán. Medium oxidation. Profile: distinct orchid aroma with an unusual "cool" menthol-like finish alongside fruity and floral notes. Named for the white bud tips visible on the leaf. This cultivar has been known since the Qīng dynasty.
 
 ### 闽南水仙 Mǐnnán Shuǐxiān — South Fujian Narcissus
 
-The same cultivar as Wǔyí shuǐxiān but processed in the Mǐnnán style: lower oxidation, lighter roast, pellet-rolled form. Character: lighter and more floral than its Wǔyí counterpart, with less of the deep mineral and woody notes. A bridge cultivar connecting the two major Fújiàn oolong traditions.
+The same cultivar as Wǔyí shuǐxiān but processed in the Mǐnnán style: lower oxidation, lighter roast, pellet-rolled form. Character: lighter and more floral than its Wǔyí counterpart, with less of the deep mineral and woody notes. A bridge cultivar connecting the two major Fújiàn oolong traditions. In Ānxī, it is harvested later than tiěguānyīn, around late April.
 
 ### 佛手 Fó Shǒu — Buddha's Hand
 
-Large-leaf cultivar from Yǒngchūn. Named for a resemblance to the Buddha's Hand citrus fruit. Profile: distinctive citrus-floral notes, bergamot-like aroma, relatively full body for a Mǐnnán oolong. Sometimes lightly roasted.
+Large-leaf cultivar from Yǒngchūn. Named for a resemblance to the Buddha's Hand citrus fruit. Profile: distinctive citrus-floral notes, bergamot-like aroma, relatively full body for a Mǐnnán oolong. Sometimes lightly roasted. Leaves can reach 10–12 cm in length.
+
+### 本山 Běnshān — Native Mountain
+
+A local Ānxī cultivar, second in prevalence only to tiěguānyīn. Slightly less aromatic but more cold-tolerant. Profile: mild, with earthy and nutty notes.
+
+### 毛蟹 Máo Xiè — Hairy Crab
+
+A cultivar named for its downy shoots. Fast-growing, it yields a rich liquor with notes of cherry and almond. Often used in blends.
+
+### 碧螺春 Bì Luó Chūn — Green Snail Spring
+
+A note on naming: this name is also borne by the famous green tea from Jiāngsū. In Ānxī, it designates a cultivar intended for oolong, producing a sweeter, less astringent taste.
 
 ## Processing: The Rolled Pellet Method
 
 All standard Mǐnnán oolongs share the ball-rolling process that distinguishes them from strip-form oolongs:
 
-1. **Solar withering (日光萎凋 rìguāng wēidiāo)**: Brief sun exposure
-2. **Indoor withering + zuòqīng**: Alternating shake/rest cycles — fewer and gentler than in yánchá production for the lighter styles
-3. **Fixation (杀青 shāqīng)**: Heat application to halt oxidation
-4. **Preliminary rolling (初揉 chū róu)**: Basic shaping
-5. **Ball-rolling cycles (包揉 bāo róu)**: The leaf is wrapped in cloth, compressed into a ball, then unwrapped and dried; repeated many times. This progressive tightening creates the characteristic pellet form
-6. **Final drying**: Stabilisation bake
-7. **Roasting (焙火 bèihuǒ)**: None for qīngxiāng; charcoal roast for nóngxiāng
+1. **Solar withering (日光萎凋 rìguāng wēidiāo)**: 20–40 minutes in the sun, until the leaves soften (moisture content 65–70%).
+2. **Indoor withering + zuòqīng**: Alternating shake/rest cycles — 3 to 6 cycles, each 2–5 minutes of shaking followed by 1–2 hours of rest, at 18–25°C. Fewer and gentler than in yánchá production for the lighter styles.
+3. **Fixation (杀青 shāqīng)**: Heat application at 200–250°C to halt oxidation.
+4. **Preliminary rolling (初揉 chū róu)**: Basic shaping at 80–100°C.
+5. **Ball-rolling cycles (包揉 bāo róu)**: The leaf is wrapped in cloth (bùbù), compressed into a ball (bāoróu) by machine or by hand, then unwrapped and dried at 60–80°C. This progressive tightening is repeated 10–20 times over 4–6 hours. Temperature and pressure are gradually reduced.
+6. **Final drying (烘干 hōnggān)**: Stabilisation bake to 3–5% moisture, at 80–90°C.
+7. **Roasting (焙火 bèihuǒ)**: None for qīngxiāng; charcoal roast (炭焙 tànbèi) at 60–100°C for nóngxiāng, for 2–4 hours.
 
 The pellet form releases slowly across multiple steeps — tightly-rolled balls gradually unfurl, delivering progressively different extraction with each infusion.
 
@@ -82,11 +94,11 @@ The pellet form releases slowly across multiple steeps — tightly-rolled balls 
 
 ## Brewing
 
-- **Vessel**: White porcelain gàiwǎn is preferred — neutral and well-suited to evaluating the delicate aromatics of qīngxiāng style. Clay teapots are used for nóngxiāng.
-- **Water**: 90–95°C for qīngxiāng (high temp can suppress delicate volatiles); 95°C for nóngxiāng and traditional styles
+- **Vessel**: White porcelain gàiwǎn is preferred — neutral and well-suited to evaluating the delicate aromatics of qīngxiāng style. Clay teapots (Yíxīng clay) are used for nóngxiāng — they retain heat and amplify body.
+- **Water**: 90–95°C for qīngxiāng (high temp can suppress delicate volatiles); 95°C for nóngxiāng and traditional styles. For qīngxiāng, soft water (pH 6.5–7.5) is desirable to avoid masking the aroma.
 - **Ratio**: 5–6 g per 100 ml
-- **Rinse**: Flash steep, discard — important for tightly-rolled pellets
-- **Steeps**: 6–8 infusions typical; premium qīngxiāng can go 8–10
+- **Rinse**: Flash steep (5–7 seconds), discard — important for tightly-rolled pellets to begin opening.
+- **Steeps**: 6–8 infusions typical; premium qīngxiāng can go 8–10. Timing: first steeps 20–30 seconds, gradually increasing to 1–2 minutes.
 
 For the aroma cup (wénxiāng bēi) technique — well-suited to qīngxiāng tiěguānyīn's high aromatic character — see [Tea Pair Cups](/wiki/tea-pair-cups).
 

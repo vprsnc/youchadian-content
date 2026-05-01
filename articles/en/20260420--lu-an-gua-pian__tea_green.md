@@ -10,7 +10,7 @@
 
 # Lù'ān Guā Piàn (六安瓜片) — Melon Seed Green Tea
 
-Lù'ān Guā Piàn (六安瓜片, "Lù'ān Melon Seed") is one of China's ten officially recognised famous teas and botanically unique among Chinese greens: it is the only tea made from single leaves with both the stem and the bud deliberately removed. Every other high-grade Chinese green uses either buds alone or bud-and-leaf sets; Guā Piàn uses only the mature leaf, stripped of its bud tip and stem section. The resulting tea has a fuller body, lower fragrance volatility, and more structural character than bud-heavy greens — closer in some ways to a very light oolong than to a typical delicate spring green.
+Lù'ān Guā Piàn (六安瓜片, "Lù'ān Melon Seed") is one of China's ten officially recognised famous teas and botanically unique among Chinese greens: it is the only tea made from single leaves with both the stem and the bud deliberately removed. Every other high-grade Chinese green uses either buds alone or bud-and-leaf sets; Guā Piàn uses only the mature leaf, stripped of its bud tip and stem section. The raw material comes from the local **dà huǒ piàn** (大瓜片) cultivar, grown exclusively in this region. The resulting tea has a fuller body, lower fragrance volatility, and more structural character than bud-heavy greens — closer in some ways to a very light oolong than to a typical delicate spring green.
 
 **TL;DR:** Single-leaf (no bud, no stem) green tea from Lù'ān county, Ānhuī. Flat, melon-seed shaped. Character: roasted-vegetal, full-bodied, nutty, lower fragrance than bud-heavy greens but greater depth. Brew 80–85°C (slightly higher than most greens), 4–5 g per 100 ml. More forgiving of temperature than delicate bud teas.
 
@@ -20,33 +20,35 @@ This is the defining paradox of Guā Piàn: every other premium Chinese tea priz
 
 - **Buds are astringent**: The tiny bud tip contains the highest catechin concentration of any part of the plant, which contributes to bitterness and astringency in high-temperature brewing
 - **Mature leaf = deeper flavour**: The middle leaf (the second and third leaves from the tip) has accumulated more sugars, amino acids, and aromatic compounds through photosynthesis than a barely-opened bud
-- **No stem = cleaner extraction**: Stems contain mostly water and add little to the cup; removing them concentrates the leaf character in the brew
+- **No stem = cleaner extraction**: Stems contain mostly water and add little to the cup; removing them concentrates the leaf character in the brew. Removing the stem (去梗, qù gěng) and bud (去芽, qù yá) is a mandatory hand-selection step.
 
 The result is a green tea with more body and roasted depth than its bud-only counterparts, at the cost of some of the extremely delicate floral notes characteristic of míng qián bud teas.
 
 ## Origin
 
-Guā Piàn is produced in Lù'ān county (六安) and surrounding areas of Ānhuī province, in the Dàbié (大别) Mountain range. The core producing area is Qí Shān (齐山) — specifically the Qí Yún Cháo area at altitude around 600–800 m. The most prized sub-origin is **Qí Yún Cháo (齐云巢)**, where mist-covered slopes produce leaf with exceptional depth.
+Guā Piàn is produced in Lù'ān county (六安) and surrounding areas of Ānhuī province, in the Dàbié (大别山) Mountain range. The core producing area is Qí Shān (齐山) — specifically the Qí Yún Cháo area at altitude around 600–800 m. The most prized sub-origin is **Qí Yún Cháo (齐云巢)**, a mountain massif on the border of Jīnzhài (金寨) and Lù'ān (六安) counties. The "inner mountain" (内山, nèi shān) area covers lands in Jīnzhài county, where leaves are smaller, denser, and more aromatic. The "outer mountain" (外山, wài shān) area consists of the plains of Lù'ān county, producing cheaper, coarser tea.
 
-The harvest window is later than most spring greens — typically mid-April to early May, after Qīngmíng — because the tea is made from mature leaves rather than first buds. This also means the tea is not technically míng qián.
+The harvest window is later than most spring greens — typically mid-April to early May, after Qīngmíng — because the tea is made from mature leaves rather than first buds. The earliest harvest, Gǔyǔ (谷雨, around April 20), yields first-grade tea (特一, tè yī). This means the tea is not technically míng qián, but rather a later "gǔ yǔ qián" (谷雨前) tea.
 
 ## Processing
 
 After harvest, Guā Piàn undergoes an unusually intensive processing sequence:
-1. **Removal of stem and bud**: Each leaf is hand-stripped, removing both the stem section and the bud tip. This is the most labour-intensive step.
-2. **Withering**: Several hours
-3. **Pan-firing (shā qīng)**: In a large wok at moderate heat
-4. **Rolling**: Light rolling to produce the flat melon-seed shape
-5. **Second firing**: A second pan-firing at higher temperature — this is distinctive to Guā Piàn and the step that develops its characteristic roasted depth
 
-The second firing is done over charcoal fire in the traditional method — the elevated heat caramelises some of the leaf sugars, producing the nutty, roasted notes that distinguish Guā Piàn from other Ānhuī greens.
+1. **Removal of stem and bud**: Each leaf is hand-stripped, removing both the stem section and the bud tip. Only mature second and third leaves without damage are selected. This is the most labour-intensive step.
+2. **Withering**: Several hours at room temperature until the leaf loses 30–40% of its moisture.
+3. **First pan-firing (shā qīng, 杀青)**: In a large wok at 120–140°C to fix the enzymes.
+4. **Shape formation**: Light pressing with the fingers during firing (a technique called 拉平, lā píng) to produce the flat melon-seed shape.
+5. **Second firing (lǎo huǒ, 老火)**: A second pan-firing at higher temperature (160–180°C) over charcoal fire — this is distinctive to Guā Piàn and the step that develops its characteristic roasted depth. The traditional method uses charcoal fire (炭火, tàn huǒ), which provides even heat and a smoky aroma.
+6. **Cooling and sorting**: The leaves are fanned and broken pieces are removed.
+
+The second firing is done over charcoal fire (炭火烘焙, tàn huǒ hōng bèi) in the traditional method — the elevated heat caramelises some of the leaf sugars, producing the nutty, roasted notes that distinguish Guā Piàn from other Ānhuī greens, with notes of roasted chestnut and caramel.
 
 ## Taste profile
 
-- **Fragrance**: Roasted-vegetal, slightly nutty, with a gentle floral background — less sharply aromatic than Máofēng or Hóu Kuí
-- **Taste**: Full-bodied for a green, mellow sweetness, roasted chestnut with clean vegetal depth
-- **Body**: The heaviest of the three major Ānhuī greens — more substantial than Máofēng, comparable to Hóu Kuí
-- **Finish**: Clean, lingering, slightly warming
+- **Fragrance**: Roasted-vegetal, slightly nutty, with a gentle floral background — less sharply aromatic than Máofēng or Hóu Kuí. In the highest grades (特一, 特二; tè yī, tè èr), notes of jasmine and fresh greenery appear.
+- **Taste**: Full-bodied for a green, mellow sweetness, roasted chestnut with clean vegetal depth. In good examples, a light smokiness from the charcoal firing.
+- **Body**: The heaviest of the three major Ānhuī greens — more substantial than Máofēng, comparable to Hóu Kuí.
+- **Finish**: Clean, lingering, slightly warming, with notes of cocoa and dried fruit.
 
 ## Brewing
 
@@ -77,7 +79,7 @@ Both are pan-fired Chinese greens but different. Longjing: bud-and-leaf, bright 
 Six grades: 精品 (jīngpǐn) = highest, harvested before Gǔyǔ (谷雨, ~April 20); 特一级/特二级 (tè yī/tè èr) = excellent. Chinese specialists recommend 特一/特二 as the best value range; 精品 commands premium prices but shows the most floral-chestnut depth. Budget well below ¥100/jin typically indicates outer-mountain or machine-processed material.
 
 **What is the difference between inner-mountain and outer-mountain Guā Piàn?**
-两 producing zones: 内山 nèi shān (inner, Jīnzhài county, 600–800m altitude) = hand-processed, best quality. 外山 wài shān (outer, lower Lù'ān county elevations) = machine-processed, weaker flavour, lower price. Jīnzhài county origin on packaging is a positive quality signal; outer-mountain material is acceptable but lacks the depth of core-area leaf.
+Two producing zones: 内山 nèi shān (inner, Jīnzhài county, 600–800m altitude) = hand-processed, best quality. 外山 wài shān (outer, lower Lù'ān county elevations) = machine-processed, weaker flavour, lower price. Jīnzhài county origin on packaging is a positive quality signal; outer-mountain material is acceptable but lacks the depth of core-area leaf.
 
 **What should Guā Piàn cost and which brands are reliable?**
 Decent 特二级: ¥80–200/jin. Quality 特一级: ¥200–500/jin. 精品 pre-Gǔyǔ: ¥500–1,500+/jin. Reputable brands: 徽六 Huī Liù, 谢裕大 Xiè Yùdà, 徽将军 Huī Jiāngjūn. Inner-mountain (金寨 Jīnzhài) origin commands premium over outer-mountain material at equivalent grades.

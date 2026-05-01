@@ -26,20 +26,20 @@ In Malaysian Chinese communities, the tea was stored and consumed over years, an
 
 Liù Bǎo undergoes post-fermentation — similar in principle to other hēichá but with regional variation:
 
-1. **Maocha (毛茶)**: Base green tea, pan-fired or steamed
-2. **Pile-fermentation (渥堆 wòduī)**: Moistened leaf is piled and covered, allowing microbial activity to generate heat and begin fermentation — similar to shú puerh's pile-fermentation but traditionally conducted more slowly
-3. **Initial aging**: Stored in bamboo baskets in natural warehouse conditions
-4. **Continued aging**: The tea changes significantly over years, developing the characteristic smooth, woody depth
+1. **Maocha (毛茶)**: Base green tea. The leaf material comes from *C. sinensis* var. *sinensis*, a variety adapted to Guǎngxī's humid subtropical climate. Harvest runs from late March through October.
+2. **Pile-fermentation (渥堆 wòduī)**: Moistened leaf is piled 40–60 cm high and covered, allowing microbial activity to generate heat and begin fermentation — similar to shú puerh's pile-fermentation but traditionally conducted more slowly: 12–18 hours at 35–45°C.
+3. **Initial aging (陈化 chénhuà)**: Stored in bamboo baskets under natural warehouse conditions — humidity 70–85%, temperature 20–30°C. Minimum period is 3 months, but 1–2 years is recommended for improved flavour.
+4. **Continued aging**: The tea changes significantly over years. In Guǎngxī, dry storage (干仓 gāncāng) with humidity 60–70% is used; in Malaysia, wet storage (湿仓 shīcāng) with 80–90% accelerates fermentation.
 
 Traditional Liù Bǎo is distinguished from modern factory versions by the slower, gentler fermentation and longer ambient aging — without the accelerated pile-heating used in industrial shú puerh production.
 
 ## Taste profile
 
-- **Young (1–5 years)**: Medium-heavy body, slightly earthy, woody, mild bitterness, hints of dried plum or dates
-- **Aged (10–20 years)**: Smooth, mellow, deep woody sweetness, notes of camphor, dried fruit, dark honey — bitterness essentially absent
-- **Very old (20+ years)**: Extraordinarily smooth, complex, with a character that blends camphor, aged wood, and a distinct mineral depth unlike other dark teas
+- **Young (1–5 years)**: Medium-heavy body, slightly earthy, woody, mild bitterness, hints of dried plum or dates. Aroma of wet hay and bark.
+- **Aged (10–20 years)**: Smooth, mellow, deep woody sweetness, notes of camphor, dried fruit, dark honey — bitterness essentially absent.
+- **Very old (20+ years)**: Extraordinarily smooth, complex, with a character that blends camphor, aged wood, and a distinct mineral depth unlike other dark teas.
 
-The "beetle-nut" (槟榔 bīnláng) or camphor note found in aged Liù Bǎo is considered a mark of quality — a specific aromatic compound that develops through long, slow aging in humid conditions.
+The camphor note (樟香 zhāngxiāng) found in aged Liù Bǎo is considered a mark of quality — a specific aromatic compound that develops through long, slow aging in humid conditions. It is absent in young tea and only appears after 10–15 years of aging.
 
 ## Brewing
 
@@ -63,16 +63,19 @@ A small Yixing teapot or large gaiwan both work. The tea benefits from warming t
 ## FAQ
 
 **What is 老茶婆 (Lǎo Chá Pó)?**
-Lǎo Chá Pó ("old tea matron") is a traditional Liù Bǎo sub-type made from large mature leaves harvested at Frost's Descent (霜降, late October). The coarser material receives minimal processing — kill-green, brief fermentation, drying — with no rolling. The result is lighter than standard Liù Bǎo, traditionally described as "rock-sugar sweet" (冰糖甜), clear and mellow.
+Lǎo Chá Pó ("old tea matron") is a traditional Liù Bǎo sub-type made from large mature leaves harvested at Frost's Descent (霜降, late October). Unlike standard Liù Bǎo, the 5th or 6th leaf is used, without the bud. The coarser material receives minimal processing — kill-green at 200°C, brief fermentation (30–40 minutes), drying — with no rolling. The result is lighter than standard Liù Bǎo, traditionally described as "rock-sugar sweet" (冰糖甜), clear and mellow.
 
 **Do higher grades mean better Liù Bǎo?**
-Not necessarily. Grades (special → grade 6) indicate leaf tenderness: special and grade 1 contain no stems; lower grades have more. But stems contribute structural compounds that transform during aging — grade 2–3 material with stems often develops better sweetness and complexity over time. Many experienced drinkers prefer lower grades specifically for long-term aging.
+Not necessarily. Grades (special → grade 6) indicate leaf tenderness: special and grade 1 contain no stems; lower grades have more. But stems contribute structural compounds — polysaccharides and flavonoids — that transform during aging. Grade 2–3 material with stems often develops better sweetness and complexity over time. Many experienced drinkers prefer lower grades specifically for long-term aging.
 
 **What should Liù Bǎo cost?**
-Entry everyday (口粮) material, within 5 years: ¥200–400/jin. Quality 5–15 year: ¥300–800/jin. 15+ year aged: ¥1,000+/jin. Old Malaysian-stored material from verified sources: ¥5,000–50,000+/jin. Common fraud: falsified age claims, particularly "30-year" material that lacks batch documentation.
+Entry everyday (口粮) material, within 5 years: ¥200–400/jin (approx. 500 g). Quality 5–15 year: ¥300–800/jin. 15+ year aged: ¥1,000+/jin. Old Malaysian-stored material from verified sources: ¥5,000–50,000+/jin. Common fraud: falsified age claims, particularly "30-year" material that lacks batch documentation. Genuine vintage tea comes with certificates and year markings, such as the "Lim Chong Tee" (林忠泰) collection from Kuala Lumpur.
 
 **What is the difference between loose Liù Bǎo and basket-stored?**
 Loose (散茶): easier to brew, ages faster, more contact with air. Basket-stored (篓装): compressed into bamboo baskets, ages more slowly with better preservation for long-term development. Traditional Liù Bǎo was basket-stored — this format carries the classic aged character. Pressed cakes also exist but are less traditional for this style.
 
 **Which Liù Bǎo brands are most reputable?**
-三鹤 Sānhè (Three Cranes) — flagship brand of Wúzhōu Tea Factory, the oldest state-run producer — is the primary benchmark; batch numbers allow some traceability for aged material. For vintage material, Malaysian re-export stocks from Kuala Lumpur and Penang tea houses are considered the most prized category.
+三鹤 Sānhè (Three Cranes) — flagship brand of the Wúzhōu Tea Factory (梧州茶厂), the oldest state-run producer, founded in 1953 — is the primary benchmark. Batch numbers, such as 801 or 0211, allow some traceability for aged material. Other important producers include 中茶 (Zhōng Chá), a state-owned company, and 六堡茶厂 (Liù Bǎo Chá Chǎng) in Cāngwú county. For vintage material, Malaysian re-export stocks from Kuala Lumpur and Penang tea houses — such as 南洋 (Nányáng) and 金宝 (Jīnbǎo) — are considered the most prized category.
+
+**What is 槟榔香 (bīnláng xiāng)?**
+Bīnláng xiāng — "betel-nut aroma" — is a unique, prized characteristic of well-aged old Liù Bǎo. It develops during prolonged aging (20+ years) under humid conditions, most commonly in Malaysia. The aroma is described as a clean, cool camphor note with undertones of bark and old wood. It is considered the pinnacle of aged Liù Bǎo.
