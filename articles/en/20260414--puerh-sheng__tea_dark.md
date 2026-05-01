@@ -16,9 +16,9 @@ Shēng chá (生茶, "raw tea") is pǔ'ěr in its unfermented state: Yunnan larg
 
 The aging potential of shēng pǔ'ěr depends entirely on the base material being **晒青毛茶** (shài qīng máochá) — sun-dried rough tea. This is what separates it from green tea.
 
-**Processing flow:** fresh leaf (鲜叶 xiān yè) → spreading (摊晾 tān liàng) → kill-green (杀青 shāqīng) → rolling (揉捻 róuniǎn) → sun-drying (晒干 shài gān)
+**Processing flow:** fresh leaf (鲜叶 xiān yè) → sun-spreading (摊晾 tān liàng) → kill-green (杀青 shāqīng) → rolling (揉捻 róuniǎn) → sun-drying (晒干 shài gān)
 
-**Kill-green (shāqīng):** Wok-fired over wood fire, but at a lower temperature and using a different technique than green tea's kill-green. The goal is *partial* enzyme inactivation — sufficient to stop rapid deterioration, insufficient to fully denature the polyphenol oxidase and peroxidase that will drive aging. Sun exposure during spreading also raises enzyme activity (UV documented to enhance polyphenol oxidase in Yunnan large-leaf cultivar).
+**Kill-green (shāqīng):** Wok-fired over wood fire, at a lower temperature than green tea — about 200 °C on the wok surface, versus 250–300 °C for Longjing. The goal is *partial* enzyme inactivation — sufficient to stop rapid deterioration, insufficient to fully denature the polyphenol oxidase and peroxidase that will drive aging. Sun exposure during spreading also raises enzyme activity (UV documented to enhance polyphenol oxidase in Yunnan large-leaf cultivar).
 
 **Sun-drying (shài qīng):** Temperature stays below 60°C — far below the heat that would kill residual enzymes and microorganisms. This is the critical difference from oven-dried (烘干 hōng gān) green tea. Oven-dried tea cannot age; the enzymes are dead. Sun-dried pǔ'ěr carries the biological potential for decades of transformation in every cell.
 
@@ -32,6 +32,8 @@ Pressing serves multiple functions. The traditional rationale — portability fo
 - Tight compression (hydraulic press) → slower aging than loose compression (stone press 石磨 shímó) due to limited oxygen penetration
 - Edge sections of any cake always age faster than the centre — visible as a colour gradient when breaking open old cakes
 - Optimal humidity for active aging: 60–80% RH. Below 50%: dormant. Above 80%: mould risk.
+
+Importantly, pressing is essential for aging. Loose sun-dried máochá (散茶 sǎn chá) is not shēng pǔ'ěr — it is simply old tea, lacking the same developmental dynamics because the cake's interior creates a unique ecosystem with gradients of moisture and air access.
 
 ## The Aging Arc
 
@@ -67,7 +69,7 @@ Four mechanisms operate simultaneously, with different relative weights across t
 Humidity below 70–75%, natural ventilation. Aging is slow and clean; terroir, mountain character, and cultivar fingerprint are preserved. Liquor stays clear and bright as it deepens gold→amber. Huígān (回甘) strong and lingering. Full aged character takes 20–30 years. Consistent preference among serious collectors.
 
 **湿仓 shīcāng (wet storage):**
-Humidity 75–90%+, historically Hong Kong harbour warehouses. Much faster transformation — 5–8 years can approximate 15–20 years of dry-stored aging. Liquor darker and less clear; earthier, smoother. Risks: mustiness (仓味 cāng wèi) from over-humidification; mould if moisture exceeds ~14%. Huígān typically weaker than comparable dry-stored material. Research shows 75–85% RH produces very smooth but reduced hóuyùn (喉韵) and huígān. Post-2007, mainlaind collector culture shifted strongly toward dry storage; wet-stored tea remains controversial among purists.
+Humidity 75–90%+, historically Hong Kong harbour warehouses. Much faster transformation — 5–8 years can approximate 15–20 years of dry-stored aging. Liquor darker and less clear; earthier, smoother. Risks: mustiness (仓味 cāng wèi) from over-humidification; mould if moisture exceeds ~14%. Huígān typically weaker than comparable dry-stored material. Research shows 75–85% RH produces very smooth but reduced hóuyùn (喉韵) and huígān. Post-2007, mainland collector culture shifted strongly toward dry storage; wet-stored tea remains controversial among purists.
 
 ## Quality Markers: Huígān and Hóuyùn
 
@@ -77,7 +79,7 @@ Humidity 75–90%+, historically Hong Kong harbour warehouses. Much faster trans
 
 ## Evaluating a Cake
 
-**Dry cake:** intact leaf surface visible, some silver tips (白毫) in quality material; no excessive breakage; smell the fresh-broken edge for aroma character.
+**Dry cake:** intact leaf surface visible, some silver tips (白毫 bái háo) in quality material; no excessive breakage; smell the fresh-broken edge for aroma character.
 
 **Soup colour:** good young shēng = bright, crystal-clear gold. Mid-aged = deep gold to amber. Aged = amber-red to garnet, still clear in dry storage, turbid in wet. Watch how quickly colour fades across steeps — slow fade = more material; rapid washout = thin leaf.
 
@@ -100,13 +102,15 @@ Shēng pǔ'ěr rewards careful brewing.
 - Young shēng: 6–10 steepings typical
 - Late steeps (30–60+ sec): flavour shifts to sweeter, woodier, camphor notes
 
-**Vessel:** gàiwǎn (盖碗) for young shēng — neutral, shows nuance clearly. Seasoned Yíxīng teapot for aged shēng — clay's mineral character complements deep aged profile.
+**Vessel:** gàiwǎn (盖碗) for young shēng — neutral, shows nuance clearly. Seasoned Yíxīng teapot made of zǐshā (紫砂) for aged shēng — clay's mineral character complements deep aged profile.
 
 ## Notable Benchmarks
 
 **88 青饼 (88 Qīng Bǐng):** Produced 1989–92 by Menghai Tea Factory (the "88" is a recipe code, not a year). Dry-stored by Tea Master Vesper Chan (陈国义) in Hong Kong. Proved that dry-stored shēng could age to extraordinary quality without mustiness — catalysed the dry-storage movement. Now the reference benchmark for aged dry-stored shēng.
 
-**Menghai 7542:** Menghai Tea Factory's most iconic recipe since 1975. Pre-2005 batches — especially 1999 and 2003 — are consistently more prized than post-2005 production, which coincided with the speculative boom and quality dilution.
+**Menghai 7542:** Menghai Tea Factory's most iconic recipe since 1975. Pre-2005 batches — especially 1999 and 2003 — are consistently more prized than post-2005 production, which coincided with the speculative boom and quality dilution. The fourth digit of recipe 7542, "2", denotes medium-coarse leaf grade; in good years younger leaves were used, but after 2005 the raw material was often plantation-grown, yielding larger, tougher leaves.
+
+**Bānzhāng (班章):** A village in Menghai County, the most expensive terroir for shēng pǔ'ěr. Lǎo Bānzhāng (老班章, "old Banzhang") refers to the old-tree village, producing dense, powerful, bitter tea that instantly turns sweet with legendary huígān. Counterfeits account for ~90% of the market. Genuine Lǎo Bānzhāng sells for thousands of dollars per kilogram.
 
 ## Related
 
@@ -124,7 +128,7 @@ Young shēng pǔ'ěr contains high polyphenol concentrations that decrease gradu
 The critical difference is the drying method. Shēng pǔ'ěr uses sun-drying (晒青 shài qīng) at below 60°C, which preserves residual enzymes and beneficial microorganisms. Green tea is oven-dried at high temperatures that kill these enzymes completely. The living biology in shēng drives decades of transformation; oven-dried tea has no such potential.
 
 **What is the difference between dry and wet storage?**
-Dry storage (干仓 gāncāng) uses below 75% humidity, aging the tea slowly and cleanly over 20–30 years while preserving terroir. Wet storage (湿仓 shīcāng) at 75–90%+ humidity, historically in Hong Kong harbour warehouses, accelerates aging to approximately 5–8 years for similar transformation — but risks mustiness and weaker huígān. Post-2007, serious collectors strongly prefer dry storage.
+Dry storage (干仓 gāncāng) uses below 75% humidity, aging the tea slowly and cleanly over 20–30 years while preserving terroir. Wet storage (湿仓 shīcāng) at 75–90%+ humidity, historically in Hong Kong harbour warehouses, accelerates aging to approximately 5–8 years for similar transformation — but risks mustiness (仓味 cāng wèi) and weaker huígān. Post-2007, serious collectors strongly prefer dry storage.
 
 **What is huígān and why does it matter?**
 Huígān (回甘, "returning sweetness") is the surge of sweetness that rises from the throat after swallowing initial bitterness — caused by bitter compounds stimulating salivation. In top shēng pǔ'ěr from old trees it arrives within 15–30 seconds, spreads upward from the throat, and persists for minutes. Weak or absent huígān in cheap plantation shēng is a direct quality indicator.

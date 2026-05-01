@@ -12,21 +12,21 @@ Bēi pào fǎ (杯泡法) is the Chinese method of brewing tender green, white, 
 
 ## Why is glass used for green tea in China?
 
-Traditional Chinese teaware evolved through clay, porcelain, and lacquerware across the Táng, Sòng, Míng, and Qīng dynasties. Glass teaware became widely available only with China's industrialisation in the early-to-mid 20th century. It quickly found its own niche: fine, tender green teas whose visual appearance is part of the experience — something ceramics conceal.
+Traditional Chinese teaware evolved through clay, porcelain, and lacquerware across the Táng (618–907), Sòng (960–1279), Míng (1368–1644), and Qīng (1644–1912) dynasties. Glass teaware became widely available only with China's industrialisation in the early-to-mid 20th century. The first industrial production of borosilicate glass tea cups (耐热玻璃 nài rè bōlí) in China began in the 1950s at the Jīnghuá factory in Beijing. Glass quickly found its own niche: fine, tender green teas whose visual appearance is part of the experience — something ceramics conceal.
 
-The archetypal teas of 杯泡法 are Lóngjǐng (龙井) from Hángzhōu's West Lake hills and Bìluóchūn (碧螺春) from the shores of Lake Tai in Jiāngsū — both former imperial tribute teas, both famous for handcrafted appearance that unfolds visibly in the cup. Glass also dissipates heat rapidly, acting as a passive safeguard against overbrewing the delicate leaves. Unlike Yíxīng clay and glazed porcelain, glass imparts nothing to the flavour.
+The archetypal teas of 杯泡法 are Lóngjǐng (龙井) from Hángzhōu's West Lake hills (Zhèjiāng province) and Bìluóchūn (碧螺春) from the shores of Lake Tai in Jiāngsū — both former imperial tribute teas, both famous for handcrafted appearance that unfolds visibly in the cup. Glass also dissipates heat rapidly, acting as a passive safeguard against overbrewing the delicate leaves. Unlike Yíxīng clay and glazed porcelain, glass imparts nothing to the flavour.
 
 ## What is 观茶 (guān chá)?
 
-观茶 (guān chá, "watching the tea") is the practice of observing leaves transform in hot water as part of tea appreciation — not incidental, but listed alongside fragrance and taste in Chinese tea culture as a primary quality dimension.
+观茶 (guān chá, "watching the tea") is the practice of observing leaves transform in hot water as part of tea appreciation — not incidental, but listed alongside fragrance and taste in Chinese tea culture as a primary quality dimension. The term traces back to the Sòng dynasty, when tea masters (茶师 chá shī) separately evaluated "form" (形 xíng), "colour" (色 sè), "aroma" (香 xiāng), and "taste" (味 wèi).
 
-In a glass of Lóngjǐng, the flat dry leaves catch the water and rise immediately — "like spring bamboo shoots breaking from the soil" (traditional tasting note). The buds stand vertically for a moment, then spiral slowly downward as they become saturated, finally settling at the base. The liquor shifts from clear to pale jade-green as polyphenols and chlorophyll disperse. The entire process takes 2–3 minutes.
+In a glass of Lóngjǐng, the flat dry leaves catch the water and rise immediately — "like spring bamboo shoots breaking from the soil" (traditional tasting note from the Hángzhōu tea centre). The buds stand vertically for a moment, then spiral slowly downward as they become saturated, finally settling at the base. The liquor shifts from clear to pale jade-green as polyphenols and chlorophyll disperse. The entire process takes 2–3 minutes.
 
-Jūnshān Yínzhēn (君山银针), yellow tea from Húnán, demonstrates this most dramatically. Brewed at 85–90°C in a glass, the needle-shaped buds perform 三起三落 (sān qǐ sān luò) — "three rises and three falls": their specific gravity shifts as they absorb water, causing them to stand upright, sink, rise again, and finally settle vertically — "like a forest of swords" (如剑戟林立). This effect is invisible in any opaque vessel; glass is the only correct choice for Jūnshān Yínzhēn.
+Jūnshān Yínzhēn (君山银针), yellow tea from Húnán, demonstrates this most dramatically. Brewed at 85–90°C in a glass, the needle-shaped buds perform 三起三落 (sān qǐ sān luò) — "three rises and three falls": their specific gravity shifts as they absorb water, causing them to stand upright, sink, rise again, and finally settle vertically — "like a forest of swords" (如剑戟林立 rú jiàn jǐ lín lì). This effect is invisible in any opaque vessel; glass is the only correct choice for Jūnshān Yínzhēn. This behaviour is characteristic only of bud-only teas (单芽 dān yá), where each bud is whole and undamaged.
 
 ## What are the three pouring methods (三投法)?
 
-The sequence of combining leaves and water determines how much mechanical stress and heat the leaf receives. China's tea arts certification curriculum (茶艺师职业技能标准) formalises three methods, differentiated by leaf fragility:
+The sequence of combining leaves and water determines how much mechanical stress and heat the leaf receives. China's tea arts certification curriculum (茶艺师职业技能标准 chá yì shī zhí yè jì néng biāo zhǔn, approved by the Ministry of Labour in 2002) formalises three methods, differentiated by leaf fragility:
 
 | Method | Sequence | Best for |
 |---|---|---|
@@ -38,15 +38,15 @@ The sequence of combining leaves and water determines how much mechanical stress
 
 Pour water to about 70% of the glass. Then place dry leaves gently on the water surface and let them sink at their own pace, absorbing moisture from below.
 
-**Why:** Maximum leaf protection — no impact from falling water, no agitation of the fine down (茸毛 rónmáo). The trade-off is uneven concentration top-to-bottom until the leaves descend; swirl once slowly before drinking.
+**Why:** Maximum leaf protection — no impact from falling water, no agitation of the fine down (茸毛 róngmáo). The trade-off is uneven concentration top-to-bottom until the leaves descend; swirl once slowly before drinking.
 
 **If-then:** If the tea is heavily coated in white hairs → 上投法. Forceful water strips the down and crushes bud structure.
 
 **Suited to:**
 - [Bìluóchūn (碧螺春)](/wiki/bi-luo-chun) — spiral-curled, dense white down; the canonical 上投法 tea
-- Xìnyáng Máojiān (信阳毛尖)
-- Dūyún Máojiān (都匀毛尖)
-- Fresh [Báiháo Yínzhēn (白毫银针)](/wiki/bai-hao-yin-zhen) — all-bud white tea
+- Xìnyáng Máojiān (信阳毛尖) — from Hénán province, with dense down cover
+- Dūyún Máojiān (都匀毛尖) — from Guìzhōu, similar in texture
+- Fresh [Báiháo Yínzhēn (白毫银针)](/wiki/bai-hao-yin-zhen) — all-bud white tea, picked before Qīngmíng
 
 ### 中投法 (zhōng tóu fǎ) — Sandwich method
 
@@ -58,15 +58,15 @@ Pour water to about 30% of the glass. Add the leaves. Swirl once or twice gently
 
 **Suited to:**
 - [Lóngjǐng (龙井)](/wiki/longjing) — flat sword-shaped leaf; the canonical 中投法 tea
-- [Huángshān Máofēng (黄山毛峰)](/wiki/huangshan-maofeng) — curved bud-leaves with gold tips
-- Liùān Guāpiàn (六安瓜片)
-- [Ānjí Bái Chá (安吉白茶)](/wiki/anji-bai-cha)
+- [Huángshān Máofēng (黄山毛峰)](/wiki/huangshan-maofeng) — curved bud-leaves with gold tips, from Ānhuī
+- Liùān Guāpiàn (六安瓜片) — from Ānhuī, budless, large flat leaves
+- [Ānjí Bái Chá (安吉白茶)](/wiki/anji-bai-cha) — albino cultivar from Zhèjiāng, with very pale liquor
 
 ### 下投法 (xià tóu fǎ) — Tea first, water on top
 
 Place dry leaves in the glass. Pour water using the 凤凰三点头 (fènghuáng sān diǎn tóu) technique: raise and lower the kettle rhythmically three times during the pour, letting the water stream agitate the leaves so they tumble and circulate.
 
-**Why:** The rhythmic motion physically opens coarser or larger leaves that need mechanical help, and the direct high-temperature contact achieves better extraction from denser material. The three-nod gesture carries a traditional meaning of respect to the guest.
+**Why:** The rhythmic motion physically opens coarser or larger leaves that need mechanical help, and the direct high-temperature contact achieves better extraction from denser material. The three-nod gesture carries a traditional meaning of respect to the guest, originating in Confucian etiquette.
 
 **If-then:** If the leaf is large, flat, or low-grade → 下投法. Also the default when simplicity matters most.
 
@@ -82,15 +82,15 @@ Place dry leaves in the glass. Pour water using the 凤凰三点头 (fènghuáng
 
 | Tea | Method | Notes |
 |---|---|---|
-| [Lóngjǐng (龙井)](/wiki/longjing) | 中投法 | "One flag, one spear" (旗枪) shape visible as leaves sink |
+| [Lóngjǐng (龙井)](/wiki/longjing) | 中投法 | "One flag, one spear" (旗枪 qí qiāng) shape visible as leaves sink |
 | [Bìluóchūn (碧螺春)](/wiki/bi-luo-chun) | 上投法 | Spiral buds slowly uncurl; white down stays intact |
 | [Huángshān Máofēng (黄山毛峰)](/wiki/huangshan-maofeng) | 中投法 or 上投法 | Gold-tipped edges visible in pale liquor |
 | [Ānjí Bái Chá (安吉白茶)](/wiki/anji-bai-cha) | 上投法 | Albino cultivar — nearly translucent pale leaf in glass |
 | [Tàipíng Hóukuí (太平猴魁)](/wiki/tai-ping-hou-kui) | 下投法 | Large leaves (up to 6 cm) require agitation to open |
 
-**White teas:** Fresh (non-aged) [Báiháo Yínzhēn (白毫银针)](/wiki/bai-hao-yin-zhen) brews well in glass at 75–80°C. The buds float upright before slowly sinking — similar visual arc to Lóngjǐng. Aged white teas (≥3 years storage) extract better at higher temperature in a gàiwǎn.
+**White teas:** Fresh (non-aged) [Báiháo Yínzhēn (白毫银针)](/wiki/bai-hao-yin-zhen) brews well in glass at 75–80°C. The buds float upright before slowly sinking — similar visual arc to Lóngjǐng. Aged white teas (≥3 years storage) extract better at higher temperature in a gàiwǎn due to oxidative changes in the leaf.
 
-**Yellow teas:** Jūnshān Yínzhēn (君山银针) is the canonical glass-brewing demonstration tea specifically because of the 三起三落 visual effect — invisible in any other vessel.
+**Yellow teas:** Jūnshān Yínzhēn (君山银针) is the canonical glass-brewing demonstration tea specifically because of the 三起三落 visual effect — invisible in any other vessel. Other yellow teas, such as **Méngdǐng Huángyá** (蒙顶黄芽) from Sìchuān, also suit glass brewing but with a less pronounced dance.
 
 ## How do you brew green tea in a glass? (Step by step)
 
@@ -123,7 +123,7 @@ See [Water for Tea](/wiki/water-for-tea) for source water quality guidance.
 
 ### Leaf ratio and steeping
 
-**3 g per 150–200 ml** (approximately 1:50 by weight) is the standard ratio, lighter than gōngfū ratios because 杯泡法 keeps leaves in continuous contact with the water rather than cycling through rapid short infusions.
+**3 g per 150–200 ml** (approximately 1:50 by weight) is the standard ratio, lighter than gōngfū brewing ratios (typically 1:15–1:20), because 杯泡法 keeps leaves in continuous contact with the water rather than cycling through rapid short infusions.
 
 Wait 2–3 minutes before drinking. Drink down to ⅓ remaining liquid before refilling — this maintains roughly consistent concentration. Most fine green teas yield 2–3 enjoyable steeps. Premium grades (Lóngjǐng, Bìluóchūn) hold up better across three steeps than lower-grade material.
 
@@ -133,9 +133,9 @@ Wait 2–3 minutes before drinking. Drink down to ⅓ remaining liquid before re
 
 The mismatch is physical, not aesthetic.
 
-**Temperature:** Oolongs require water at or near 100°C to release their aromatic compounds. An open glass cools below the viable threshold before the first infusion is complete. Yíxīng clay and thick-walled gaiwans retain heat across rapid cycling; glass cannot.
+**Temperature:** Oolongs require water at or near 100°C to release their aromatic compounds (essential oils and volatiles). An open glass cools below the viable threshold before the first infusion is complete. Yíxīng clay and thick-walled gaiwans retain heat across rapid cycling; glass cannot.
 
-**Infusion structure:** Oolongs and pǔ'ěr are built for gōngfū chá (功夫茶) — 6–12 infusions of 20–45 seconds each in a 75–150 ml vessel. A 200 ml glass cannot support this: the ratio is wrong, heat retention is absent, and there is no mechanism to pour off the liquor quickly to stop extraction.
+**Infusion structure:** Oolongs and pǔ'ěr are built for gōngfū chá (功夫茶 gōngfū chá) — 6–12 infusions of 20–45 seconds each in a 75–150 ml vessel. A 200 ml glass cannot support this: the ratio is wrong, heat retention is absent, and there is no mechanism to pour off the liquor quickly to stop extraction.
 
 **The principle:** 杯泡法 suits low-temperature, visually-centred, 2–3 steep brewing of unoxidised teas. The higher the oxidation or fermentation level, the more the tea demands high heat, rapid cycling, and heat-retaining ware — pulling it away from glass entirely.
 
@@ -156,16 +156,16 @@ The mismatch is physical, not aesthetic.
 ## FAQ
 
 **What kind of glass should I use?**
-A straight-sided or slightly flared clear glass, 200–250 ml, made from borosilicate glass (耐热玻璃 nàirè bōlí). Borosilicate withstands repeated thermal shock from hot water without cracking; regular soda-lime glass risks fracturing. Avoid very thick walls — they slow visual observation and retain heat too long. Avoid coloured or patterned glass — the visual appeal of 观茶 requires complete transparency. A simple, undecorated straight-walled tumbler is the functional ideal.
+A straight-sided or slightly flared clear glass, 200–250 ml, made from borosilicate glass (耐热玻璃 nài rè bōlí). Borosilicate withstands repeated thermal shock from hot water without cracking; regular soda-lime glass risks fracturing. Avoid very thick walls — they slow visual observation and retain heat too long. Avoid coloured or patterned glass — the visual appeal of 观茶 requires complete transparency. A simple, undecorated straight-walled tumbler is the functional ideal.
 
 **How do I achieve the right temperature without a thermometer?**
-Bring water to a full rolling boil (100°C), then remove from heat and let stand open for 3–5 minutes → approximately 80–85°C. For more tender grades needing 75–80°C: transfer boiling water between two vessels twice before pouring, or wait 6–8 minutes uncovered. Practical test: touch the outside of the kettle — if comfortably warm rather than burning, water is in the right range. A variable-temperature kettle (¥80–150 range in China) eliminates guesswork entirely and is the best investment for regular glass brewing.
+Bring water to a full rolling boil (100°C), then remove from heat and let stand open for 3–5 minutes → approximately 80–85°C. For more tender grades needing 75–80°C: transfer boiling water between two vessels twice before pouring, or wait 6–8 minutes uncovered. Practical test: touch the outside of the kettle — if comfortably warm rather than burning, water is in the right range (approximately 70–80°C). A variable-temperature kettle (¥80–150 range in China) eliminates guesswork entirely and is the best investment for regular glass brewing.
 
 **My glass-brewed green tea tastes bitter — what went wrong?**
 Almost always one of three causes in order of likelihood: (1) water too hot — even 5°C above the target rapidly increases catechin extraction; (2) leaf in water too long — unlike gōngfū brewing, there is no pour-off step, so all over-steeped time accumulates; (3) wrong pouring method used (e.g., 下投法 poured forcefully over downy leaves). Fix: lower temperature first, then reduce time; finally check pouring sequence for the specific tea.
 
 **Is glass brewing traditional or was it invented recently?**
-Modern in materials, traditional in principle. Glass teaware only became widely available in China with industrialisation in the early-to-mid 20th century. Before that, Sòng-dynasty tea culture used shallow white porcelain bowls precisely to observe the tea's colour and form. The 观茶 value — watching the leaf as part of the experience — is ancient; glass is its contemporary expression. The three pouring methods (三投法) are formalised in China's national tea arts certification curriculum and are considered part of orthodox technique.
+Modern in materials, traditional in principle. Glass teaware only became widely available in China with industrialisation in the early-to-mid 20th century (the first mass-produced glass cups appeared in the 1950s). Before that, Sòng-dynasty tea culture used shallow white porcelain bowls (建盏 jiàn zhǎn) precisely to observe the tea's colour and form. The 观茶 value — watching the leaf as part of the experience — is ancient, dating back to the Sòng dynasty; glass is its contemporary expression. The three pouring methods (三投法) are formalised in China's national tea arts certification curriculum (茶艺师职业技能标准, 2002) and are considered part of orthodox technique.
 
 **Can I add milk, sugar, or lemon to glass-brewed green tea?**
-Technically yes; in Chinese tea culture, generally no. Milk binds polyphenols and suppresses the aromatic compounds that distinguish premium greens. Sugar masks the natural huí gān (回甘, returning sweetness) that develops after swallowing. Lemon juice acidifies the liquor and changes the extraction profile. None of these additions are traditional for fine Chinese greens. If transitioning from sweetened tea, reduce additions gradually — the natural sweetness of míng qián grades becomes more apparent as the palate adjusts.
+Technically yes; in Chinese tea culture, generally no. Milk binds polyphenols and suppresses the aromatic compounds that distinguish premium greens. Sugar masks the natural huí gān (回甘, returning sweetness) that develops after swallowing. Lemon juice acidifies the liquor and changes the extraction profile, destroying chlorophyll. None of these additions are traditional for fine Chinese greens. If transitioning from sweetened tea, reduce additions gradually — the natural sweetness of míng qián grades becomes more apparent as the palate adjusts.

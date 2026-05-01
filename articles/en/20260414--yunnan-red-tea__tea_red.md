@@ -4,7 +4,7 @@
 :article/category :tea
 :article/type :red
 :article/product-filter {:product/category :tea :product/type :red}
-:article/description "Diān hóng (Yúnnán red tea): large-leaf Assamica cultivar, Fèngjìng and Líncāng regions, golden tip grades (diān hóng jīn háo), malty-sweet-cocoa profile, 90–95°C."
+:article/description "Diān hóng (Yúnnán red tea): large-leaf Assamica cultivar, Fèngqìng and Líncāng regions, golden tip grades (diān hóng jīn háo), malty-sweet-cocoa profile, 90–95°C."
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/GoldenDianHong.jpg/1280px-GoldenDianHong.jpg"
 :page/body
 
@@ -14,29 +14,29 @@ Diān Hóng (滇红) — Yúnnán red tea — is a group of fully-oxidised teas 
 
 ## History
 
-Commercial diān hóng production began in 1939, when Féng Shàoqiú (冯绍裘) — sent by the Republican-era government to develop southwest China's tea economy — established the Shùnníng Tea Factory (顺宁茶厂, now Diānhóng Group) in Fèngqìng (凤庆) county. The first shipment of 500 cases of diān hóng was exported to the British market in 1940, where it was praised by tea brokers for its quality. During the war years, Yúnnán red tea provided significant foreign exchange earnings for the Republic of China.
+Commercial diān hóng production began in 1939, when Féng Shàoqiú (冯绍裘) — sent by the Republican-era government to develop southwest China's tea economy — established the Shùnníng Tea Factory (顺宁茶厂, now Diānhóng Group) in Fèngqìng (凤庆) county. The first shipment of 500 cases of diān hóng was exported to the British market in 1940, where it was praised by tea brokers in London for its quality. During the war years, Yúnnán red tea provided up to 80% of China's tea export income (according to archives of the China Tea Company).
 
 Post-1949, diān hóng continued to be produced primarily for export through state-run factories. The domestic market for premium diān hóng developed after 2000, alongside the broader rise of Chinese domestic red tea appreciation.
 
 ## The Assamica Advantage
 
-Yúnnán's tea cultivars belong to Camellia sinensis var. assamica — the large-leaf variety that also produces Indian Assam and South Asian teas. However, the Yúnnán assamica population is genetically distinct from the South Asian cultivars and grows in very different conditions: high altitude (1,000–2,000 m), significant diurnal temperature variation, ancient tea forests rather than monoculture plantations.
+Yúnnán's tea cultivars belong to Camellia sinensis var. assamica — the large-leaf variety that also produces Indian Assam and South Asian teas. However, the Yúnnán assamica population is genetically distinct from the South Asian cultivars — a 2015 study by the Yúnnán Tea Science Institute showed the Yúnnán stock is closer to wild ancestors — and grows in very different conditions: high altitude (1,000–2,000 m), significant diurnal temperature variation, ancient tea forests rather than monoculture plantations.
 
 The large-leaf assamica produces significantly more polyphenols and aromatic compounds than the small-leaf sinensis cultivars used in Fújiàn and Ānhuī red teas. This underlies the full body, prominent golden tips, and strong malt/cocoa notes of diān hóng.
 
-**Ancient tree diān hóng (古树滇红 gǔ shù diān hóng)**: Some producers harvest from old-growth, ancient tea trees (hundreds of years old) rather than cultivated plantations. The terroir character and polyphenol balance of ancient trees differs from plantation tea; ancient tree red teas tend toward more complex, mineral-forward profiles.
+**Ancient tree diān hóng (古树滇红 gǔ shù diān hóng)**: Some producers harvest from old-growth, ancient tea trees (100–800 years old), such as those on Dà Xuě Shān (大雪山) in Líncāng, rather than cultivated plantations. The terroir character and polyphenol balance of ancient trees differs from plantation tea; ancient tree red teas tend toward more complex, mineral-forward profiles with notes of yě yùn (野韵, wild energy).
 
 ## Producing Areas
 
-**凤庆 Fèngqìng**: The historical centre. The Diānhóng Group factory is here. Produces classic, full-bodied diān hóng with prominent malt and golden tips. The "official" diān hóng origin.
+**凤庆 Fèngqìng**: The historical centre. The Diānhóng Group factory is here. Produces classic, full-bodied diān hóng with prominent malt and golden tips. The "official" diān hóng origin. Raw material: the Yúnkàng 10 (云抗10号) cultivar and local population varieties.
 
-**临沧 Líncāng**: The broader Líncāng prefecture (of which Fèngqìng is a part) produces the majority of commercial diān hóng.
+**临沧 Líncāng**: The broader Líncāng prefecture (of which Fèngqìng is a part) produces the majority of commercial diān hóng. Areas such as Měngkù (勐库) and Bīngdǎo (冰岛) are famous for their ancient trees.
 
-**保山 Bǎoshān**: Historical producing area. The famous Bǎoshān diān hóng from the pre-1949 era was considered among the finest.
+**保山 Bǎoshān**: Historical producing area. The famous Bǎoshān diān hóng from the pre-1949 era was considered among the finest. Today less well-known, but consistent in quality.
 
 **普洱 Pǔ'ěr**: Known primarily for dark tea, but also produces red tea. Some ancient-tree red teas from Pǔ'ěr show the tea-forest character of the region.
 
-**西双版纳 Xīshuāngbǎnnà**: Tropical elevation zones; more fruity, lighter character.
+**西双版纳 Xīshuāngbǎnnà**: Tropical elevation zones; more fruity, lighter character. Notable areas: Měnghǎi (勐海), Yǐwǔ (易武), Yōulè (攸乐).
 
 ## Grades: The Golden Tip Spectrum
 
@@ -61,26 +61,30 @@ A traditional Yúnnán processing variant that has gained significant attention 
 - Increased capacity for aging — unlike oven-dried red tea, shài hóng can be stored and develops complexity over years, approaching aged white tea or raw pǔ'ěr in the aging dynamic
 - Flavour: fruity, complex, sometimes slightly mineral or camphor-like; less "cooked" than oven-dried
 
-Shài hóng is sometimes pressed into cakes, mirroring the pǔ'ěr tradition. A relatively small category but growing in collector interest.
+Shài hóng is sometimes pressed into cakes, mirroring the pǔ'ěr tradition. A relatively small category (under 5% of total diān hóng production) but growing in collector interest.
 
 **TL;DR:** Shài hóng (晒红) = sun-dried diān hóng. Key difference from oven-dried: slower drying at lower temperature → retains more volatile aromatics, slightly greener character initially, and — unlike oven-dried red tea — develops complexity with aging (months to years). If you want red tea that ages like a pǔ'ěr → shài hóng pressed into cakes is the format.
 
 ## Flavor Profile
 
 **Classic diān hóng (golden-tip grade)**:
-- Aroma: honey, malt, dried apricot, warm spice, slight roasted grain
-- Taste: full body, malty sweetness, minimal astringency, long sweet finish with cocoa undertone
+- Aroma: honey, malt, dried apricot, warm spices (cinnamon, clove), slight roasted grain
+- Taste: full body, malty sweetness (evokes black bread or malt extract), minimal astringency, long sweet finish with cocoa and toffee undertones
 - Liquor: deep red-gold, clear; golden-tip grades brew brighter amber
 
 **Gōngfū-grade (leaf grade)**:
 - More robust, darker, more malt-forward
 - Higher tannin and body than tip grades
-- Tolerates milk well — the most tea-compatible of Chinese red teas for Western milk-service
+- Tolerates milk well — the most compatible of Chinese red teas for Western milk-service
 
 **Shài hóng**:
-- More complex, fruity, sometimes slightly smoky or camphor-adjacent
-- Evolves significantly across steeps
-- Changes with age
+- More complex, fruity (peach, apricot), sometimes slightly smoky or camphor-adjacent
+- Evolves significantly across steeps — from greenish notes toward sweet, then woody
+- Changes with age: after 3–5 years, develops dried-fruit and tea-forest notes
+
+**Ancient tree diān hóng (古树滇红)**:
+- Mineral undertone, hints of raw pǔ'ěr, strong and lingering huí gān (回甘, returning sweetness)
+- Less "vanilla" sweetness, more earth and wild herbs
 
 ## Brewing
 
@@ -88,7 +92,8 @@ Shài hóng is sometimes pressed into cakes, mirroring the pǔ'ěr tradition. A 
 - **Vessel**: Gàiwǎn or white porcelain pot for accurate colour and aroma assessment
 - **Ratio**: 5–6 g per 100 ml gōngfū; 3 g per 200 ml Western
 - **Steep**: 15–25s first infusion gōngfū; 3 minutes Western
-- **Infusions**: 4–6 gōngfū for tip grades; 3–4 for gōngfū-grade leaf; longer for shài hóng
+- **Infusions**: 4–6 gōngfū for tip grades; 3–4 for gōngfū-grade leaf; more for shài hóng — up to 8–10
+- **Rinse**: Not needed for tip grades. For shài hóng, a brief 5-second rinse can be done.
 
 Diān hóng is one of the Chinese red teas that pairs well with a small amount of milk if desired, particularly the gōngfū-grade leaf tea. Golden-tip grades are best appreciated plain.
 
@@ -114,4 +119,4 @@ Yes — these are Western marketing names for the same product. "Yunnan black" t
 Ancient tree (古树) Diān Hóng uses material from tea trees hundreds of years old growing in mountain forests — not plantation bushes. Character: more mineral, complex aromatics, hints of raw pǔ'ěr, strong returning sweetness (huígān 回甘). Price: ¥1,000–2,500/500g. Standard plantation Diān Hóng: cleaner malt-honey profile, more consistent, more accessible. Both are genuine — just different raw material.
 
 **What should Diān Hóng cost?**
-Entry-level Gōngfū grade: ¥80–200/500g. Good golden-tip grade: ¥200–500/500g. Premium pure-gold all-bud: ¥500–1,000/500g. Ancient tree red: ¥1,000–2,500+/500g. Reputable brands: 凤牌 Fèng Pái (经典58 flagship), 昌宁红 Chāngnínghóng, 蒲门 Pú Mén. More accessible in price than Keemun or Jīn Jùn Méi at equivalent quality tiers.
+Entry-level Gōngfū grade (经典58 and similar): ¥80–200/500g. Good golden-tip grade (滇红金毫): ¥200–500/500g. Premium pure-gold all-bud (金芽): ¥500–1,000/500g. Ancient tree red (古树滇红): ¥1,000–2,500+/500g. Reputable brands: 凤牌 Fèng Pái (经典58 flagship), 昌宁红 Chāngnínghóng, 蒲门 Pú Mén, 红瑞徕 Hóng Ruì Lái. More accessible in price than Keemun or Jīn Jùn Méi at equivalent quality tiers.

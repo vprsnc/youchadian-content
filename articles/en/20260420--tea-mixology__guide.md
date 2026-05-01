@@ -19,9 +19,9 @@ Huāchá (花茶, flower tea) is the broadest category of blended Chinese tea, e
 
 ### Jasmine — 茉莉花茶 Mòlì Huāchá
 
-The most famous blended tea in China, exported globally since the Qing dynasty. Jasmine tea (茉莉花茶 mòlì huāchá) originated in Fújiàn during the Sòng dynasty as an elegant combination of fresh jasmine blossoms and green tea.
+The most famous blended tea in China, exported globally since the Qing dynasty. Jasmine tea (茉莉花茶 mòlì huāchá) originated in Fújiàn during the Sòng dynasty as an elegant combination of fresh jasmine blossoms (茉莉花 mòlìhuā) and green tea. Key production regions: Fúdǐng (福鼎, Fújiàn) and Héngxiàn (横县, Guǎngxī) — the latter is China's largest centre for jasmine cultivation.
 
-The scenting process is labour-intensive and technically precise. Fresh jasmine blossoms are harvested in the late afternoon, just before they open, and layered alternately with dried tea leaves through the night — the period of maximum fragrance release. At dawn, the spent flowers are sifted out. One scenting session takes a full day. High-grade jasmine tea undergoes three, five, or up to nine sessions, with fresh flowers used each time. The cumulative fragrance is deeply absorbed into the leaf structure, not applied as an external coating.
+The scenting process is labour-intensive and technically precise. Fresh jasmine blossoms are harvested in the late afternoon, just before they open, and layered alternately with dried tea leaves through the night — the period of maximum fragrance release. At dawn, the spent flowers are sifted out. One scenting session takes a full day. High-grade jasmine tea undergoes three, five, or up to nine sessions, with fresh flowers used each time. The cumulative fragrance is deeply absorbed into the leaf structure, not applied as an external coating. The finest grades, such as "Jade Pool Snow" (碧潭飘雪 Bì Tán Piāo Xuě) from Sìchuān province, include petals in the finished tea for visual effect.
 
 **Base teas for jasmine**: Green tea (most traditional, brightest result), white tea (more delicate and fragrant), and occasionally black tea or oolong. The base determines the body; the scenting determines the aromatic intensity. A good jasmine tea should show both clearly.
 
@@ -31,9 +31,9 @@ The scenting process is labour-intensive and technically precise. Fresh jasmine 
 
 ### Osmanthus — 桂花茶 Guìhuā Chá
 
-Osmanthus flowers (桂花 guìhuā) have been used in Chinese tea for over a thousand years. Unlike jasmine, osmanthus is almost always dried and blended directly with the leaf rather than used for live scenting — the dried flowers retain their apricot, honey, and peach fragrance very well.
+Osmanthus flowers (桂花 guìhuā) have been used in Chinese tea for over a thousand years. Unlike jasmine, osmanthus is almost always dried and blended directly with the leaf rather than used for live scenting — the dried flowers retain their apricot, honey, and peach fragrance very well. Main harvest areas: Guǎngxī, Guìzhōu, Húnán.
 
-Osmanthus pairs particularly well with roasted oolongs: the flowers' caramel-sweet warmth complements the charcoal notes of a medium-roasted tiě guānyīn (铁观音) or Wǔyí yánchá (武夷岩茶). It also pairs with white tea, where it adds warmth without interfering with the tea's natural delicacy.
+Osmanthus pairs particularly well with roasted oolongs: the flowers' caramel-sweet warmth complements the charcoal notes of a medium-roasted tiě guānyīn (铁观音 tiě guān yīn) or Wǔyí yánchá (武夷岩茶 wǔ yí yán chá) — for example, shuǐxiān (水仙, literally "narcissus") or ròuguì (肉桂, cinnamon). It also pairs with white tea, where it adds warmth without interfering with the tea's natural delicacy.
 
 In Chinese medicine, osmanthus is classed as warming and qi-moving — the same directional quality as many roasted teas, which makes the pairing feel coherent beyond taste alone.
 
@@ -41,7 +41,7 @@ In Chinese medicine, osmanthus is classed as warming and qi-moving — the same 
 
 ### Chrysanthemum — 菊花茶 Júhuā Chá
 
-Chrysanthemum tea occupies an interesting middle position: it can be brewed purely as a flower infusion (no tea base), blended with a base tea, or combined with other herbs. In everyday Chinese practice, dried chrysanthemum flowers (菊花 júhuā) are the most common herbal tea ingredient outside of formal tea categories.
+Chrysanthemum tea occupies an interesting middle position: it can be brewed purely as a flower infusion (no tea base), blended with a base tea, or combined with other herbs. In everyday Chinese practice, dried chrysanthemum flowers (菊花 júhuā) are the most common herbal tea ingredient outside of formal tea categories. Key varieties: Hángzhōu chrysanthemum (杭白菊 háng bái jú, white from Hángzhōu) — the sweetest and gentlest — and "golden cups" (金盏菊 jīn zhǎn jú) with a more pronounced bitterness.
 
 **Pure chrysanthemum infusion**: Light, mildly bitter, cooling. In TCM it is classified as cold in nature — used for clearing heat from the eyes, head, and liver. Popular during hot weather, at computers, in offices.
 
@@ -53,20 +53,20 @@ Chrysanthemum tea occupies an interesting middle position: it can be brewed pure
 
 ### Rose — 玫瑰花茶 Méiguī Huāchá
 
-Dried rose petals and rosebuds (玫瑰花 méiguī huā) are commonly blended with red tea (black tea) or drunk alone. Rose is classed in TCM as lǐqì (理气, qi-regulating) and mildly warming — considered particularly beneficial for women's health and emotional balance.
+Dried rose petals and rosebuds (玫瑰花 méiguī huā) — not to be confused with rosehip (玫瑰果 méiguī guǒ) — are commonly blended with red tea (black tea) or drunk alone. Rose is classed in TCM as lǐqì (理气, qi-regulating) and mildly warming — considered particularly beneficial for women's health and emotional balance.
 
-The flavour pairing logic: rose's tannin-cutting sweetness works well with the robustness of Chinese red teas like Diān Hóng (滇红, Yunnan Gold) or Ānhuī red teas, softening the astringency into something rounder and more floral. Rose + red tea is the most commercially popular blended red tea in the Chinese market.
+The flavour pairing logic: rose's tannin-cutting sweetness works well with the robustness of Chinese red teas like Diān Hóng (滇红, Yunnan Gold) or Ānhuī red teas such as Qí Mén Hóng Chá (祁门红茶, red tea from Qí Mén), softening the astringency into something rounder and more floral. Rose + red tea is the most commercially popular blended red tea in the Chinese market.
 
 ---
 
 ## Citrus Peel — 陈皮 Chénpí
 
-Aged mandarin peel is detailed in its own article ([Chénpí — Aged Mandarin Peel](/wiki/chenpi)). Chinese national standard GB/T 31739-2015 defines Xīnhuì chénpí as requiring a minimum of three years of aging before it may carry the protected geographical indication — below that threshold it is dried peel, not chénpí. In the blending context, the key principle is: chénpí is a **warming, qi-regulating** ingredient that acts as a bridge between the tea and the drinker's constitution. It smooths, warms, and deepens without adding sharpness.
+Aged mandarin peel is detailed in its own article ([Chénpí — Aged Mandarin Peel](/wiki/chenpi)). Chinese national standard GB/T 31739-2015 defines Xīnhuì chénpí as requiring a minimum of three years of aging before it may carry the protected geographical indication — below that threshold it is dried peel, not chénpí. High-quality chénpí comes from Xīnhuì county (新会, Guǎngdōng province), where mandarins of the chá zhī gān variety (茶枝柑) are grown, with their characteristically thin and fragrant skin. In the blending context, the key principle is: chénpí is a **warming, qi-regulating** ingredient that acts as a bridge between the tea and the drinker's constitution. It smooths, warms, and deepens without adding sharpness.
 
 **Best pairings summary:**
-- **Ripe pu-erh**: The classic — mutual reinforcement. Both are warm, both are aged, both are digestive. The signature blend is gānpǔ chá (柑普茶), whole mandarin filled with pu-erh leaf.
+- **Ripe pu-erh**: The classic — mutual reinforcement. Both are warm, both are aged, both are digestive. The signature blend is gānpǔ chá (柑普茶 gān pǔ chá), whole mandarin filled with pu-erh leaf. In Guǎngdōng this is the standard winter tea.
 - **Aged white tea**: Mellow on mellow. The peel's warmth lifts aged white tea's honeyed depth. Brew at 85–90°C to protect white tea's delicacy.
-- **Roasted oolong**: Charcoal-roasted tiě guānyīn or medium-roast yancha — peel adds layered citrus complexity to the roasted base without competing.
+- **Roasted oolong**: Charcoal-roasted tiě guānyīn or medium-roast yancha — peel adds layered citrus complexity to the roasted base without competing. Particularly good with dàhóngpáo (大红袍, big red robe).
 - **Green tea**: Possible but requires restraint — 1 small piece only. Green tea's fresh, vegetal character is easily overwhelmed by peel.
 
 The TCM principle behind the pairings: green and white teas are cool to cold in nature; chénpí is warm. Adding peel to these teas shifts the drink toward thermal neutrality, which is considered more suitable for daily consumption by those with cooler constitutions (especially in winter).
@@ -75,7 +75,7 @@ The TCM principle behind the pairings: green and white teas are cool to cold in 
 
 ## Cooling Herbal Blends — 凉茶 Liángchá
 
-Liángchá (凉茶, literally "cooling tea") is the Cantonese tradition of therapeutic herbal drinks, served throughout Guǎngdōng, Guǎngxī, Hong Kong, and diaspora communities worldwide. The term covers a vast range of formulas — from mild everyday blends to intensely bitter medicinal preparations.
+Liángchá (凉茶, literally "cooling tea") is the Cantonese tradition of therapeutic herbal drinks, served throughout Guǎngdōng, Guǎngxī, Hong Kong, and diaspora communities worldwide. The term covers a vast range of formulas — from mild everyday blends to intensely bitter medicinal preparations. Classic recipes such as "Wáng Lǎojí" (王老吉 Wáng Lǎojí) date back over 170 years and are sold as ready-to-drink beverages worldwide.
 
 The underlying logic is TCM thermal classification: certain herbs and teas "clear heat" (清热 qīng rè) from the body — relevant during hot weather, fever, after spicy meals, or when experiencing "dampness" (湿 shī). Classic liángchá ingredients:
 
@@ -84,7 +84,7 @@ The underlying logic is TCM thermal classification: certain herbs and teas "clea
 | Chrysanthemum | 菊花 júhuā | Cold | Clears liver heat |
 | Honeysuckle | 金银花 jīnyínhuā | Cold | Antiviral, anti-inflammatory |
 | Loquat leaf | 枇杷叶 pípáyè | Cooling | Cough and lung |
-| Pandan | — | Neutral | Aromatic, Southeastern variant |
+| Pandan | 班兰叶 bān lán yè | Neutral | Aromatic, Southeastern variant |
 | Goji berry | 枸杞 gǒuqǐ | Warm | Liver, eyes — balancing |
 | Dried longan | 龙眼 lóngyǎn | Warm | Sweet, calming — balancing |
 
@@ -98,28 +98,31 @@ Liángchá formulas are usually drunk warm (not hot, not cold) and without any b
 
 ## Seasonal and Practical Logic
 
-Chinese blending is not arbitrary — it maps onto a seasonal and constitutional framework:
+Chinese blending is not arbitrary — it maps onto a seasonal and constitutional framework described in the classic text "Huángdì Nèijīng" (黄帝内经):
 
 **Summer / hot season**:
 - Chrysanthemum, honeysuckle, green tea — all cooling or neutral
 - Light jasmine green tea (cooling base, aromatic)
 - Avoid heavy roasted oolongs and aged pu-erh as daily blends
+- Liángchá with added hawthorn fruit (山楂 shān zhā) for digestion
 
 **Autumn / drying season**:
 - Chénpí + aged white tea — moistens and warms simultaneously
 - Osmanthus + white tea or light oolong — aromatic and gentle
 - Goji + chrysanthemum — neutral year-round
+- Add dried pear (白梨 bái lí) to moisten the lungs
 
 **Winter / cold season**:
 - Chénpí + ripe pu-erh — warming and digestive
 - Rose + red tea — warming, qi-moving
 - Osmanthus + roasted oolong — warm and aromatic
-- Ginger + black tea — circulation, warmth
+- Ginger (生姜 shēng jiāng) + black tea — circulation, warmth
 
 **After meals**:
 - Chénpí with any tea — qi-regulation, digestion
 - Chrysanthemum + pu-erh (teahouse style) — cuts richness
 - Oolong alone (no herbs) — natural lipid-reducing quality is sufficient
+- In Guǎngzhōu, hawthorn fruit tea (山楂茶) is popular after a heavy meal
 
 ---
 
@@ -131,7 +134,7 @@ Cold brewing has opened a new dimension for tea blending. When brewed at low tem
 - **Yancha cold brew**: Rock oolongs develop a mineral sweetness cold-brewed that disappears in heat. Pair with a few dried osmanthus flowers added after brewing for a complex aromatic cold drink.
 - **Chrysanthemum cold brew**: 5–6 heads per 500ml, fridge 6 hours. Pale and clean — the cooling quality without the slight bitterness of hot brewing.
 
-For those approaching tea from a cocktail or craft beverage angle, ripe pu-erh functions like a dark base spirit in the flavour architecture — earthy, complex, with natural tannin grip. Jasmine green tea concentrates (short-steeped, 1:15 ratio) work as aromatic modifiers alongside citrus and floral components.
+For those approaching tea from a cocktail or craft beverage angle, ripe pu-erh functions like a dark base spirit in the flavour architecture — earthy, complex, with natural tannin grip. Jasmine green tea concentrates (short-steeped, 1:15 ratio) work as aromatic modifiers alongside citrus and floral components. In modern tea bars in Shànghǎi and Guǎngzhōu, "sparkling" blends are popular — a cold-brewed oolong with sparkling water and osmanthus syrup.
 
 ---
 

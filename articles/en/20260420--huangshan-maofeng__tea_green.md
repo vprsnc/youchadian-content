@@ -10,23 +10,28 @@
 
 # Huángshān Máofēng (黄山毛峰) — Yellow Mountain Green Tea
 
-Huángshān Máofēng (黄山毛峰, "Yellow Mountain Fur Peak") is one of China's ten officially recognised famous teas, produced in the Huángshān (Yellow Mountain) scenic area of southern Ānhuī province. The name describes the tea's appearance: each piece is a single bud paired with one or two young leaves, covered in fine white hairs (máo 毛) that stand upright like a mountain peak (fēng 峰) when the leaf is dried.
+Huángshān Máofēng (黄山毛峰, "Yellow Mountain Fur Peak") is one of China's ten officially recognised famous teas (中国十大名茶), produced in the Huángshān (Yellow Mountain) scenic area of southern Ānhuī province. The name describes the tea's appearance: each piece is a single bud paired with one or two young leaves, covered in fine white hairs (máo 毛) that stand upright like a mountain peak (fēng 峰) when the leaf is dried. The tea was created in the late Qīng dynasty (circa 1875) by master Xiè Zhèng'ān (谢正安) from Fǔxī village, using a technique called "one-step drying and rolling" (烘青). It was originally named 黄山毛尖 ("Yellow Mountain Fur Tip"), but the character 尖 (tip) was later replaced with 峰 (peak), giving it its modern name.
 
-**TL;DR:** Bud-and-leaf green from the Huángshān peaks, Ānhuī. White-tipped, lightly vegetal with orchid fragrance, extremely gentle — one of the lightest greens in the Chinese canon. Brew at 75–80°C, 3–4 g per 100 ml, 20–30 s. Best: Fǔxī village material, míng qián harvest.
+**TL;DR:** Bud-and-leaf green from the Huángshān peaks, Ānhuī. White-tipped, lightly vegetal with orchid fragrance, extremely gentle — one of the lightest greens in the Chinese canon. Brew at 75–80°C, 3–4 g per 100 ml, 20–30 s. Best: Fǔxī village material, míng qián (明前) harvest.
 
 ## Origin and terroir
 
-The Huángshān range in southern Ānhuī reaches 1,864 m at its highest point (Lián Huā Fēng, Lotus Flower Peak). Tea is grown on the lower and mid slopes, typically between 700–1,200 m, in conditions defined by heavy year-round mist, granite-derived sandy-loam soils, and significant diurnal temperature variation. The persistent cloud cover reduces direct sunlight, slowing leaf growth and increasing the accumulation of amino acids — a key factor in Máofēng's notably gentle, sweet character.
+The Huángshān range in southern Ānhuī reaches 1,864 m at its highest point (Lián Huā Fēng, Lotus Flower Peak, 莲花峰). Tea is grown on the lower and mid slopes, typically between 400–1,200 m, in conditions defined by heavy year-round mist (often described as "mountain peaks wearing a down coat" — 峰峰戴云帽), granite-derived sandy-loam soils rich in humus, and significant diurnal temperature variation. The persistent cloud cover reduces direct sunlight, slowing leaf growth and increasing the accumulation of amino acids — a key factor in Máofēng's notably gentle, sweet character. The tea bushes on Huángshān include the historical local population 黄山种 (Huángshān zhǒng) and later hybrid cultivars such as 漕溪种 (Cáo Xī zhǒng), developed in the Fǔxī area.
 
-The core origin village is **Fǔxī (富溪)** in Huīzhōu district — the site considered the historical source of the tea, first documented in the late Qīng dynasty (late 19th century). Other growing villages spread across the Huángshān district, with quality generally correlating with altitude and distance from the core zone.
+Key growing zones:
+- **Fǔxī (富溪乡)** in Huīzhōu district — the historical source and hometown of the creator.
+- **Huángshān village on the peaks** — together with Fǔxī, considered to produce the highest quality.
+- **Shèxiàn (歙县) and Xiūníng (休宁县) counties** as well as surrounding isolated valleys.
+
+A national geographic indication (GI) status, granted in 2008, protects authentic Huángshān Máofēng.
 
 ## Harvest and appearance
 
 Máofēng is harvested in early spring, starting just before Qīngmíng (~April 5). The standard pick is one bud and one or two young leaves — harvested by hand, carefully to avoid bruising. The ratio of bud to leaf determines the grade: more bud = higher grade = lighter, sweeter character.
 
 Dried Máofēng is immediately recognisable:
-- **Shape**: Slightly curved, not flat or tightly rolled
-- **Colour**: Yellow-green to pale green, with visible white tip (the bud's tip shows through the down)
+- **Shape**: Slightly curved, not flat or tightly rolled — described as "shrimp-back shape" (虾背形)
+- **Colour**: Pale green to yellow-green, with visible white tip (the bud's tip shows through the down)
 - **Surface**: Covered in fine white hairs (máo), particularly visible at the bud end
 - **Size**: Relatively uniform — 2–3 cm pieces
 
@@ -34,21 +39,21 @@ Authentic high-grade Máofēng has what producers call a "golden fish leaf" (黄
 
 ## Taste profile
 
-Huángshān Máofēng is among the most gentle of Chinese greens. The characteristic profile:
+Huángshān Máofēng is among the most gentle of Chinese greens. A classic description calls it "sweet and cool" (甘冷): a pure, lingering sweetness in the mouth and a light cooling sensation across the palate. The characteristic profile:
 - **Fragrance**: Clean orchid or osmanthus — delicate, not sharp
-- **Taste**: Fresh, lightly sweet, subtly vegetal without grassiness or astringency
-- **Body**: Light — this is not a tea for people seeking full body or deep roast
-- **Finish**: Lingering floral sweetness; no bitterness in well-made material
+- **Taste**: Fresh, lightly sweet, subtly vegetal without grassiness or astringency; occasionally a coconut note (especially in tèjí grade)
+- **Body**: Light, "like water with fragrance" — this is not a tea for people seeking full body or deep roast
+- **Finish**: Lingering floral sweetness that remains in the throat and on the palate; no bitterness in well-made material
 
 The gentleness comes from the tea's exceptionally high theanine content (elevated by mountain mist and slow growth) and the minimal processing — no roasting beyond what is necessary for kill-green, which preserves the raw fragrance.
 
 ## Processing
 
 After harvest, Máofēng undergoes:
-1. **Brief withering** — 3–4 hours, reducing moisture and beginning flavour development
-2. **Pan-firing (shā qīng 杀青)** — in a hot wok at moderate heat, shorter and gentler than Lóngjǐng
-3. **Light rolling** — gentle hand-rolling that gives the slightly curved shape without breaking the fine hairs
-4. **Drying (baking)** — low-heat drying to stabilise moisture content
+1. **Brief withering (摊放 tānfàng)** — 4–6 hours on bamboo trays, reducing moisture and beginning flavour development
+2. **Pan-firing (杀青 shā qīng)** — in a hot wok at 150–200°C, shorter and gentler than Lóngjǐng
+3. **Gentle hand-rolling (揉捻 róu niǎn)** — done in two stages: first shaping the curved form, then a light roll to avoid damaging the fine hairs
+4. **Drying by baking (烘焙 hōng bèi)** — at 80–110°C, first lightly then fully; this method (烘青) produces a softer texture than charcoal roasting
 
 The entire process is designed to preserve the delicate white hairs and fresh fragrance — aggressive heat or rolling would strip both.
 
@@ -63,7 +68,7 @@ The entire process is designed to preserve the delicate white hairs and fresh fr
 | Subsequent steeps | Add 10–15 s per steep |
 | Steeps | 3–4 |
 
-Glass or porcelain is preferred — unglazed yixing clay would absorb the delicate fragrance. The white hairs create slight cloudiness in the first steep, which is normal and settles quickly.
+Glass or porcelain is preferred — unglazed yixing clay would absorb the delicate fragrance. The white hairs create slight cloudiness in the first steep, which is normal and settles quickly. Do not use boiling water — it will destroy all the delicacy.
 
 ## Relation to other Ānhuī greens
 

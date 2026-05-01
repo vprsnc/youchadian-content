@@ -7,19 +7,19 @@
 
 # Solo Gàiwǎn — The Sìchuān Gàiwǎn Tradition
 
-Solo gàiwǎn (盖碗) is the practice of brewing and drinking Chinese tea from a single lidded bowl, without a fairness pitcher (公道杯 gōngdào bēi) or separate cups — the original function of the vessel, documented in Chinese court culture since at least the 7th century and unbroken in Sìchuān teahouses to the present day. The lid acts as a leaf filter; the saucer insulates against heat; the drinker sips directly from the bowl edge through the gap created by the tilted lid.
+Solo gàiwǎn (盖碗) is the practice of brewing and drinking Chinese tea from a single lidded bowl, without a fairness pitcher (公道杯 gōngdào bēi) or separate cups — the original function of the vessel, from the Táng dynasty to the Qīng court, and unbroken in Sìchuān teahouses to the present day. The lid acts as a leaf filter; the saucer insulates against heat; the drinker sips directly from the bowl edge through the gap created by the tilted lid.
 
 The gōngdào bēi and small tasting cups came later, as gōngfū chá became a shared, ceremonial practice. Solo gàiwǎn returns to the source: one vessel, one person, full attention on the tea.
 
 ## When did the gàiwǎn originate as a drinking vessel?
 
-Bowl-and-saucer tea vessels are documented in Chinese records from the 7th–9th century CE, originally used to brew ground leaf and drink directly from the same piece. According to Tea Guardian's historical survey of gàiwǎn development, the saucer form emerged in the 8th century specifically to protect court ladies using gold bowls from burns — the protective function of the saucer was designed for drinking, not for pouring.
+Bowl-and-saucer tea vessels are documented in Chinese records from the Táng dynasty (618–907 CE), originally used to brew powdered tea (末茶 mòchá) and drink directly from the same piece — whisked like the Japanese tea ceremony. According to Tea Guardian's historical survey of gàiwǎn development, the saucer form emerged in the 8th century specifically to protect court ladies using gold bowls from burns — the protective function of the saucer was designed for drinking, not for pouring.
 
 By the Qīng dynasty (1644–1911), Manchurian court culture had made the tall gàiwǎn the standard vessel for loose-leaf tea consumed in the same cup it was brewed in. Taller designs allowed stronger leaf to settle toward the bottom while lighter, aromatic liquor floated at the top — the drinker sipped the surface without disturbing the sediment.
 
-In Sìchuān (四川) teahouses this tradition remained unbroken. Servers pour boiling water from long-spouted kettles directly into gaiwans at the table; drinkers sip through the gap created by the tilted lid throughout a long, unhurried session. The gōngdào bēi never appears. Roaming vendors weave between tables selling sunflower seeds (瓜子 guāzi) and peanuts (花生 huāshēng) — slow cracking of seeds and slow sipping of tea share the same unhurried rhythm, and both are considered part of the teahouse experience.
+In Sìchuān (四川) teahouses this tradition remained unbroken. Servers pour boiling water from long-spouted kettles directly into gaiwans at the table; drinkers sip through the gap created by the tilted lid throughout a long, unhurried session. The gōngdào bēi never appears. The folk rhythm of the Sìchuān style captures it precisely: **"sip, refill; refill, sip"** — the gàiwǎn is never empty and never overfull. Roaming vendors weave between tables selling sunflower seeds (瓜子 guāzi) and peanuts (花生 huāshēng) — slow cracking of seeds and slow sipping of tea share the same unhurried rhythm, and both are considered part of the teahouse experience.
 
-**TL;DR:** The gàiwǎn was designed as a drinking vessel first. Its bowl-and-saucer form dates to 7th–9th century China; the Qīng court made it standard for loose-leaf tea. Sìchuān teahouses retain the original solo-drinking tradition today.
+**TL;DR:** The gàiwǎn was designed as a drinking vessel first. Its bowl-and-saucer form dates to the 7th–9th century Táng dynasty; powdered tea was whisked in it. The Qīng court made it standard for loose-leaf tea. Sìchuān teahouses retain the original solo-drinking tradition today.
 
 ## The long-spouted copper kettle (长嘴壶 cháng zuǐ hú)
 
@@ -27,7 +27,7 @@ The defining image of the Sìchuān teahouse is not the gàiwǎn itself but the 
 
 **Why so long?** The functional origin is practical: Sìchuān's traditional teahouses were narrow, densely packed spaces. A server with a normal-spouted pot could not reach over seated guests to refill their gàiwǎn without disturbing them. A 70 cm spout solved this — the server pours from the aisle, the stream arcs across the table, and the gàiwǎn is filled without contact. As an added benefit, the water cools slightly in transit down the long copper spout, arriving at approximately 80°C — exactly the right temperature for Chéngdū's typical tea, jasmine green (茉莉花茶 mòlì huā chá).
 
-The most important historical teahouse in this tradition is the **Hèmíng Cháshè (鹤鸣茶社, Heming Teahouse)**, located in Chéngdū's People's Park (人民公园). Founded in 1923, it is Chéngdū's oldest continuously operating teahouse and the place most associated with this service style.
+The most important historical teahouse in this tradition is the **Hèmíng Cháshè (鹤鸣茶社, Heming Teahouse)**, located in Chéngdū's People's Park (人民公园). Founded in 1923, it is Chéngdū's oldest continuously operating teahouse and the place most associated with this service style. Chéngdū today preserves over 3,000 teahouses — more than any other city in China. The local teahouses primarily serve **Sìchuān jasmine tea** (碧潭飘雪 bìtán piāoxuě, "jade pool, drifting snow") — a green tea scented with fresh jasmine flowers (茉莉花 mòlìhuā), not jasmine oil, through no fewer than four scentings.
 
 ### 长嘴壶茶艺 — the performance art
 
@@ -37,11 +37,12 @@ The theatrical form was largely invented by **Zēng Xiǎolóng (曾小龙)**, bo
 
 Named techniques documented in the repertoire:
 
-| Move | Chinese | Description |
-|---|---|---|
-| 仙人过河 Xiānrén guò hé | Immortal Crossing the River | Accurate pour from ~1 metre, without approaching the table |
-| 雪花盖顶 Xuěhuā gài dǐng | Snowflakes on the Top | Arc poured over the guest's head into the gàiwǎn |
-| 双龙戏珠 Shuānglóng xì zhū | Double Dragons Playing with Pearls | Two-handed grip producing two streams meeting at the cup |
+| Move | Chinese | Pinyin | Description |
+|---|---|---|---|
+| Immortal Crossing the River | 仙人过河 | Xiānrén guò hé | Accurate pour from ~1 metre, without approaching the table |
+| Snowflakes on the Top | 雪花盖顶 | Xuěhuā gài dǐng | Arc poured over the guest's head into the gàiwǎn |
+| Double Dragons Playing with Pearls | 双龙戏珠 | Shuānglóng xì zhū | Two-handed grip producing two streams meeting at the cup |
+| Reverse Pipa Play | 反弹琵琶 | Fǎntán pípá | Pour over the shoulder — kettle swung from behind the back |
 
 Regional styles vary: Éméi school (峨眉派), Dragon 18 Style from Méngdǐng, and a Táijí-influenced Hángzhōu school all trace back to the Sìchuān copper kettle. Zēng Xiǎolóng himself has publicly stated he wants the art to "return to its essence" as tea service — the acrobatic spectacle having in some venues overtaken the tea entirely.
 
@@ -59,13 +60,13 @@ Additional reasons to use the solo method:
 
 ## The sāncái bēi (三才杯)
 
-The gàiwǎn is sometimes called the sāncái bēi (三才杯, "three talents cup"): the lid represents heaven (天 tiān), the bowl represents humanity (人 rén), and the saucer represents earth (地 dì). In solo use this symbolism is immediate — the drinker is the human element mediating between the heat above and the vessel below.
+The gàiwǎn is sometimes called the sāncái bēi (三才杯, "three talents cup"): the lid represents heaven (天 tiān), the bowl represents humanity (人 rén), and the saucer represents earth (地 dì). In solo use this symbolism is immediate — the drinker is the human element mediating between the heat above and the vessel below. The term was reliably recorded in Qīng-dynasty texts: in the canonical *Chájīng* (《茶经》), Lù Yǔ (陆羽, 733–804) interpreted the tea bowl (碗 wǎn) as a microcosm, but the specific formulation "三才" for the gàiwǎn was fixed during the Qīng dynasty — in the everyday practice of Chéngdū teahouses.
 
 ## How do you brew and drink from a single gàiwǎn?
 
 ### Holding the gàiwǎn
 
-Hold the saucer rim between the base of the thumb and the middle finger of one hand. Rest the index finger lightly on the lid's top knob to stabilise it. The bowl itself is not gripped — heat transfers through saucer and lid knob only.
+Hold the saucer rim between the base of the thumb and the middle finger of one hand. Rest the index finger lightly on the lid's top knob to stabilise it. The bowl itself is not gripped — heat transfers through saucer and lid knob only. In the Sìchuān tradition, the common grip uses the **right hand** as the working hand: the thumb supports the saucer from below, middle finger from above, index finger rests on the lid knob; the ring and little fingers are tucked in.
 
 If-then rules:
 - If the bowl feels hot on contact → your grip has shifted to the bowl; reposition to saucer rim
@@ -84,7 +85,7 @@ A 100–120 ml gàiwǎn brewed at standard gōngfū ratios (7–8 g per 100 ml f
 
 ### Signalling a refill (teahouse context)
 
-In Sìchuān teahouses: lid resting half-open across the rim = refill needed. Lid fully closed = session ongoing. Lid removed = session ended.
+In Sìchuān teahouses: lid resting half-open across the rim = refill needed. Lid fully closed = session ongoing. Lid removed = session ended. **Important:** a lid left tilted on the saucer (with a gap) can also mean "still drinking, just stepped away." This gesture is part of the unwritten etiquette of local teahouses, passed down orally by Chéngdū tea masters.
 
 **TL;DR:** Hold saucer + lid knob only. Tilt lid toward the lip to form a gap; brush leaves aside; sip through the gap. For direct drinking, reduce leaf to 5–6 g per 100 ml — standard gōngfū ratio overfills the bowl.
 
@@ -97,22 +98,27 @@ In Sìchuān teahouses: lid resting half-open across the rim = refill needed. Li
 | Leaf ratio (white/green) | 2–3 g per 100 ml | These expand significantly |
 | Water temperature | Same as for the tea type | See [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide) and [Water for Tea](/wiki/water-for-tea) |
 | Number of steeps | 5–8 for oolongs | Liquor assessment happens at source |
+| Interval between sips | 20–40 s | Tilt lid slightly open to aerate |
 
 ## Which teas suit solo gàiwǎn best?
 
-**Oolongs** (light and dark) are the most natural match — high-ratio gōngfū steeping yields concentrated, small-volume infusions comfortable to sip directly. Rolled oolongs like tiě guānyīn (铁观音) and roasted rock oolongs (yánchá 岩茶) both work well; their tightly rolled or ribbon-shaped leaves settle quickly.
+**Oolongs** (light and dark) are the most natural match — high-ratio gōngfū steeping yields concentrated, small-volume infusions comfortable to sip directly. Rolled oolongs like tiě guānyīn (铁观音) and roasted rock oolongs (yánchá 岩茶) work well; their tightly rolled or ribbon-shaped leaves settle quickly. **Dāncōng (单丛)** from Fènghuáng County (广东凤凰 Guǎngdōng Fènghuáng) is especially suitable — its long, twisted leaves produce a clear layer of liquor after just 10–15 seconds of steeping.
 
-**White teas** brewed at lower ratios and higher volumes are also well suited — the large, open leaf settles fast, leaving a clear surface to sip from.
+**White teas** brewed at lower ratios and higher volumes are also well suited — the large, open leaf settles fast, leaving a clear surface to sip from. Optimal choices: **Bái Mǔdān (白牡丹)** and **Shòuméi (寿眉)** from Fúdǐng (福鼎).
 
-**Green teas** require lower temperature and lighter ratios; the fine leaf is harder to filter with the lid. Possible, but less forgiving of a wide gap.
+**Green teas** require lower temperature and lighter ratios; the fine leaf is harder to filter with the lid. Possible, but less forgiving of a wide gap. Among greens, **Lóngjǐng (龙井)** and **Bì Luó Chūn (碧螺春)** at 75–80°C — no more than 2 g per 100 ml.
 
-**Pǔ'ěr** (ripe shú 熟普): the compressed leaf settles after the initial rinse, and subsequent steeps pour cleanly through the lid gap.
+**Pǔ'ěr** (ripe shú 熟普): the compressed leaf settles after the initial rinse, and subsequent steeps pour cleanly through the lid gap. For raw pǔ'ěr (生普 shēng pǔ), reduce the ratio to 4 g per 100 ml — it yields a more astringent infusion.
+
+**Red tea (红茶 hóngchá)**: suitable if the leaf is large — **Jīn Jùn Méi (金骏眉)** or **Qímén (祁门)** work well; fine leaf clogs the lid gap. Optimal ratio: 3–4 g per 100 ml, temperature 90°C, first steep 20–30 seconds.
+
+**Jasmine tea** is the most traditional for the Sìchuān style: **Bìtán Piāo Xuě (碧潭飘雪)** — a green tea scented with jasmine flowers. Brew at 80°C, 3 g per 100 ml; the leaves and blossoms settle calmly, yielding a clear infusion.
 
 If-then selection:
-- Best first choice → rolled oolong (tiě guānyīn, dāncōng 单枞)
-- Natural second → white tea (bái háo yín zhēn 白毫银针, bái mǔdān 白牡丹)
-- Works with practice → ripe pǔ'ěr, strip-style oolongs
-- Requires care → green tea (small gap, cool immediately before sipping)
+- Best first choice → rolled oolong (tiě guānyīn, dāncōng)
+- Natural second → white tea (bái mǔdān, shòuméi)
+- Works with practice → ripe pǔ'ěr, strip-style oolongs, jasmine tea
+- Requires care → green tea (small gap, cool immediately before sipping), red tea (large leaf required)
 
 ## Common adjustments
 
@@ -122,6 +128,8 @@ If-then selection:
 | Too hot to sip immediately | Tilt lid fully open for 20–30 s; thin-walled gàiwǎn (薄胎 bótāi) cools faster |
 | Concentration too high | Reduce leaf or add 5–10% more water per steep |
 | Overextracted taste | Pour sooner — without a pitcher, residual heat in the bowl continues extracting |
+| Lid slipping | Slightly moisten index finger for better grip on the knob |
+| Sticky residue on bowl walls | Rinse with boiling water after each session — do not let tea dry inside |
 
 ## Related
 
@@ -133,10 +141,10 @@ If-then selection:
 ## FAQ
 
 **What should I look for when buying a gàiwǎn for solo use?**
-Three things: rim width, wall thickness, and lid fit. A wider rim (relative to bowl diameter) gives more surface contact for the thumb-and-middle-finger grip without touching the hot bowl. Thin walls (薄胎 bótāi) cool faster — important for solo sipping where there is no pour-off lag. The lid should sit snugly but tip easily with one-finger pressure. Avoid lids with deep rims that trap leaf; a shallower lid seat creates a cleaner gap for sipping. For solo use, 100–120 ml white porcelain is the practical benchmark.
+Three things: rim width, wall thickness, and lid fit. A wider rim (relative to bowl diameter) gives more surface contact for the thumb-and-middle-finger grip without touching the hot bowl. Thin walls (薄胎 bótāi) cool faster — important for solo sipping where there is no pour-off lag. The lid should sit snugly but tip easily with one-finger pressure. Avoid lids with deep rims that trap leaf; a shallower lid seat creates a cleaner gap for sipping. For solo use, 100–120 ml white porcelain (白瓷 bái cí) is the practical benchmark.
 
 **How do I stop burning my fingers when holding a gàiwǎn?**
-The grip error is almost always the same: fingers touching the bowl body instead of the saucer rim. Correct grip: the saucer sits between the base of the thumb and middle finger; the index finger presses only the lid knob from above. The bowl itself is never gripped. If the bowl feels hot, your grip has drifted — reposition to the saucer edge. Thin-walled gàiwǎn cool significantly faster than thick ones and are far more forgiving for beginners.
+The grip error is almost always the same: fingers touching the bowl body instead of the saucer rim. Correct grip: the saucer sits between the base of the thumb and middle finger; the index finger presses only the lid knob from above. The bowl itself is never gripped. If the bowl feels hot, your grip has drifted — reposition to the saucer edge. Thin-walled gàiwǎn cool significantly faster than thick ones and are far more forgiving for beginners. In Sìchuān teahouses, a small porcelain under-plate (托 tuō) is served alongside the gàiwǎn, placed under the saucer for extra heat insulation.
 
 **Can I use one gàiwǎn for different teas, or does it absorb flavours?**
 Porcelain and glass gàiwǎn are non-porous — they absorb nothing and can be used for any tea without flavour carryover. Rinse thoroughly with hot water between sessions. Unglazed clay (Yíxīng or similar) is porous and seasons with use; a clay gàiwǎn will absorb character from each tea and should be dedicated to one type. For solo use and maximum versatility, white porcelain is the correct choice.
