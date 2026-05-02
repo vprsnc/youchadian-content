@@ -30,6 +30,8 @@ Fujian is the single most important province in Chinese tea — the origin of wh
 
 ### Wǔyí Mountains (武夷山) — northern Fujian
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/wiki/chinese-tea-regions/wuyi-1.webp" alt="Wǔyí Mountains — misty red sandstone cliffs above the Nine Bends River" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 The Wǔyí Mountains — a range of red sandstone peaks and ravines of the dānxiá (丹霞地貌) landform covering about 70 km², a UNESCO World Heritage site since 1999 — produce the world's most complex oolongs and one of its oldest red teas. The microclimate is extremely humid, with moist ravines alongside dry slopes. The mineral-rich soil — zhènyán (正岩, "true rock") — is a red loam with gravel. This geology gives teas grown here a distinctive stone-fruit depth called yán yùn (岩韵, literally "rock rhythm" or "rock rhyme").
 
 Within Wǔyí there are three distinct zones: zhènyán (true rock — the core area, especially the Lǐ Sānchéng (李三城) hollows), bànyán (半岩, "half rock" — slopes outside the protected core), and zhōuchá (洲茶, "river tea" — valleys and terraces along the river). The price and flavour differences between them are very noticeable.
