@@ -107,7 +107,7 @@ The inland province of Ānhuī is known for two distinct tea-growing areas separ
 
 ### Qímén (祁门) — Keemun red tea
 
-Qímén county in southwestern Ānhuī produces Qímén Hóngchá (祁门红茶) — Keemun — one of the "three great" Chinese red teas (alongside Zhèngshān Xiǎozhǒng and Diānhóng). It is China's most celebrated export red tea. Defined by the "Qímén aroma" (祁门香, Qímén xiāng): a complex floral-fruit bouquet with notes of rose, lychee, and dried fruit, softer and more elegant than Yunnan red. The cultivar used is Zhūyèzhǒng (槠叶种), a small-leaf form. Production follows the traditional gōngfū process: withering, rolling, fermentation (30 minutes to several hours), and firing. Qímén Máofēng (祁门毛峰) is a less premium grade, but retains the characteristic aroma. → [Ānhuī Red Tea](/wiki/anhui-red-tea)
+Qímén county in southwestern Ānhuī produces Qímén Hóngchá (祁门红茶) — Keemun — one of the "three great" Chinese red teas (alongside Zhèngshān Xiǎozhǒng and Diānhóng). It is China's most celebrated export red tea. Defined by the "Qímén aroma" (祁门香, Qímén xiāng): a complex floral-fruit bouquet with notes of rose, lychee, and dried fruit, softer and more elegant than Yunnan red. The cultivar used is Zhūyèzhǒng (槠叶种), a small-leaf form. Production follows a traditional artisanal process: withering, rolling, fermentation (30 minutes to several hours), and firing. Qímén Máofēng (祁门毛峰) is a less premium grade, but retains the characteristic aroma. → [Ānhuī Red Tea](/wiki/anhui-red-tea)
 
 ### Huángshān (黄山) — mountain greens
 
