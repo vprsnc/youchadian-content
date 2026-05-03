@@ -3,7 +3,7 @@
 :article/tags ["geography" "regions" "provinces" "guide" "fujian" "yunnan" "guangdong" "anhui" "zhejiang" "jiangsu" "hunan"]
 :article/category :guide
 :article/description "A geographic overview of China's major tea-producing provinces: Fujian, Yunnan, Guangdong, Anhui, Zhejiang, Jiangsu, Hunan, and more — with their most famous teas and links to wiki articles."
-:article/hero-image ""
+:article/hero-image "https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/hero.webp"
 :page/body
 
 # Chinese Tea Regions — A Geographic Guide
@@ -30,7 +30,7 @@ Fujian is the single most important province in Chinese tea — the origin of wh
 
 ### Wǔyí Mountains (武夷山) — northern Fujian
 
-<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/wiki/chinese-tea-regions/wuyi-1.webp" alt="Wǔyí Mountains — misty red sandstone cliffs above the Nine Bends River" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/wuyi-1.webp" alt="Wǔyí Mountains — misty red sandstone cliffs above the Nine Bends River" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
 
 The Wǔyí Mountains — a range of red sandstone peaks and ravines of the dānxiá (丹霞地貌) landform covering about 70 km², a UNESCO World Heritage site since 1999 — produce the world's most complex oolongs and one of its oldest red teas. The microclimate is extremely humid, with moist ravines alongside dry slopes. The mineral-rich soil — zhènyán (正岩, "true rock") — is a red loam with gravel. This geology gives teas grown here a distinctive stone-fruit depth called yán yùn (岩韵, literally "rock rhythm" or "rock rhyme").
 
@@ -38,13 +38,19 @@ Within Wǔyí there are three distinct zones: zhènyán (true rock — the core 
 
 **Wǔyí rock oolongs** are heavily oxidised (typically 40–70%) and roasted (bèihuǒ, 焙火), ranging from a light green roast to dark chocolate through several firing cycles. The most famous cultivars (míngcóng, 名丛): Dà Hóng Páo (大红袍, "Big Red Robe"), Ròuguì (肉桂, "cinnamon" — with bright cinnamon-malt notes), Shuǐxiān (水仙, "narcissus" — soft, with orchid character), as well as Qílán (奇兰, "rare orchid") and Bā Xiān (八仙, "eight immortals"). The mother bushes of Dà Hóng Páo grow on the Jiǔlóngkē (九龙窠, "Nine Dragon Gulley") cliff; their age is estimated at 350 years, but these are legendary trees — not the source of all commercially sold Dà Hóng Páo. → [Wǔyí Rock Oolongs](/wiki/wuyi-oolong) · [What is Rock Oolong?](/wiki/what-is-rock-oolong) · [Dà Hóng Páo](/wiki/da-hong-pao) · [Wǔyí Shān](/wiki/wuyi-shan)
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/tongmuguan-1.webp" alt="Tōngmùguān village — pine forest in the Wuyi nature reserve" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
+
 **Wǔyí red teas** come from Tōngmùguān (桐木关) village deep within the reserve. Zhèngshān Xiǎozhǒng (正山小种, "true rock — small variety") is the world's first red tea, documented from the mid-17th century. Its defining characteristic is smoking over pinewood. Jīn Jùn Méi (金骏眉, "golden beautiful eyebrow") is made exclusively from unopened buds — one kilogram requires 50,000–60,000 buds; it was created in 2005 at a factory in Tōngmù. The price per kilogram ranges from 1,500 to over 5,000 RMB. The cultivar used is Càichá (菜茶, "vegetable tea") — a local population of small-leaf bushes. → [Wǔyí Red Teas](/wiki/wuyi-red-tea)
 
 ### Northern Fujian — white tea
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/fuding-1.webp" alt="Fúdīng white tea gardens — sun-withering on bamboo trays" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 **Fúdīng (福鼎)** and **Zhènghe (政和)** districts produce China's finest white tea. Both are historic centres, but with different traditions. In Fúdīng, the leaf is withered in sunlight and indoors, using the Dà Bái Chá (大白茶, "big white tea") cultivar. In Zhènghe, they use only shade-withering and a mix of Dà Bái (大白) and local cultivars. Bái Háo Yín Zhēn (白毫银针, "silver needles") uses only buds, harvested in March–April. Bái Mǔ Dān (白牡丹, "white peony") consists of one bud plus two or three young leaves. An important note: leaf age — within 1–2 days of unfurling — is critical for Yín Zhēn; if left longer, the bud begins to open and the tea is no longer considered premium. → [Bái Háo Yín Zhēn](/wiki/bai-hao-yin-zhen) · [Bái Mǔ Dān](/wiki/bai-mu-dan) · [White Tea Overview](/wiki/white-tea-overview)
 
 ### Minnan (闽南) — southern Fujian
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/anxi-1.webp" alt="Ānxī tea gardens — terraced oolong plantations in southern Fujian" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 The southern Fujian lowlands produce light, floral oolongs from lush green-processed leaf — the stylistic opposite of northern rock tea. Oxidation levels are generally 15–30%, and roasting is typically light to medium.
 
@@ -60,11 +66,15 @@ Yunnan is the oldest tea-growing region in the world — fossilised leaves datin
 
 ### Xīshuāngbǎnnà (西双版纳)
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/xishuangbanna-1.webp" alt="Xīshuāngbǎnnà — subtropical tea forest in southern Yunnan" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 An autonomous prefecture in southern Yunnan bordering Myanmar and Laos. The climate is subtropical monsoon with two distinct seasons: wet (May–October) and dry (November–April). Key sub-regions:
 
 - **Měnghǎi (勐海)** — major factories (Měnghǎi Tea Factory, 勐海茶厂, founded 1940), a centre for shú puerh production. The Bānzhāng (班章) sub-region includes the cult village Lǎobānzhāng (老班章).
 - **Yìwǔ (易武)** — a classic zone for shēng puerh (especially Yìwǔ Shān, 易武山), known for its soft, sweet profile. Old estates (sòng zhài, 宋寨) have bushes 300–400 years old.
 - **Bùlǎng Mountain (布朗山)** — the most expensive zone in Xīshuāngbǎnnà, with gǔ shù bushes up to 500 years old.
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/laobanzhang-1.webp" alt="Lǎobānzhāng village — ancient puerh trees on Bùlǎng Mountain" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Lǎobānzhāng (老班章) village on Bùlǎng Mountain produces the most celebrated and expensive shēng puerh — raw material prices in 2024 reached 40,000–50,000 RMB per kilogram. Its character: very strong, slightly bitter, with a powerful, long, sweet aftertaste (huí gān, 回甘). → [Pu-erh Overview](/wiki/puerh) · [Shēng Pu-erh](/wiki/puerh-sheng) · [Shú Pu-erh](/wiki/puerh-shu) · [Lǎobānzhāng](/wiki/laobanzhan)
 
@@ -77,6 +87,8 @@ A high-altitude growing region north of Xīshuāngbǎnnà (elevation 1,500–2,0
 
 ### Diānhóng — Yunnan red tea
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/fengqing-1.webp" alt="Fèngqìng county — Diānhóng red tea gardens in western Yunnan" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 The Fèngqìng (凤庆) and Líncāng counties produce Diānhóng (滇红) using the same large-leaf Āsāmică family trees (变种云南大叶种, biànzhǒng Yúnnán dà yè zhǒng). Harvest begins in March, with the best being spring tea (chūn chá, 春茶). Diānhóng is full-bodied, malty-sweet, with characteristic golden tips (fuzzy bud tips). A variant is Diānhóng Gōngfū (滇红工夫) — hand-rolled and processed. → [Yunnan Red Tea](/wiki/yunnan-red-tea)
 
 ---
@@ -86,6 +98,8 @@ The Fèngqìng (凤庆) and Líncāng counties produce Diānhóng (滇红) using
 Guangdong is home to Fènghuángshān (凤凰山, Phoenix Mountain), the source of Dāncōng (单丛, "single bush") oolongs, and to Cháozhōu (潮州) — the city whose gōngfū chá (工夫茶) tradition shaped a distinctive style of Chinese tea ceremony.
 
 ### Fènghuáng Mountain (凤凰山)
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/fenghuangshan-1.webp" alt="Fènghuáng Mountain — ancient dancong trees on sandstone slopes" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Located in Cháo'ān (潮安) district near Cháozhōu, the main peak stands at 1,497 m. The soil is well-drained sandstone. The microclimate features sea fogs and humid air. Dāncōng oolongs are made from old trees, each harvested individually at different times — "dān cōng" literally means "single bush." Today it is a botanical and cultivar group: about 200 numbered clones (aroma cultivars, xiāngzhī, 香枝) have been recorded. The most famous:
 
@@ -97,6 +111,8 @@ Harvest occurs three times a year: spring, autumn (best for intensity of aroma),
 
 ### Cháozhōu (潮州) — gōngfū chá tradition
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/chaozhou-gfc-1.webp" alt="Cháozhōu gōngfū chá — small clay pot and three cups on a tea tray" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 Cháozhōu is the capital of the formal gōngfū chá method: a small ceramic pot (cháhú, 茶壶) or gàiwǎn, three tiny cups (chá'ōu, 茶瓯), and many short infusions (brewing time 5–10 seconds). Scalding all utensils with boiling water is mandatory. The standard portion is 5–7 grams of dry tea per 100 ml of water. The tradition traces back to the Sòng dynasty (10th–13th centuries). → [Cháozhōu Gōngfū Chá](/wiki/chaozhou-gongfu-cha)
 
 ---
@@ -107,15 +123,21 @@ The inland province of Ānhuī is known for two distinct tea-growing areas separ
 
 ### Qímén (祁门) — Keemun red tea
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/qimen-1.webp" alt="Qímén county — rolling hills and tea fields in southwestern Anhui" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
+
 Qímén county in southwestern Ānhuī produces Qímén Hóngchá (祁门红茶) — Keemun — one of the "three great" Chinese red teas (alongside Zhèngshān Xiǎozhǒng and Diānhóng). It is China's most celebrated export red tea. Defined by the "Qímén aroma" (祁门香, Qímén xiāng): a complex floral-fruit bouquet with notes of rose, lychee, and dried fruit, softer and more elegant than Yunnan red. The cultivar used is Zhūyèzhǒng (槠叶种), a small-leaf form. Production follows a traditional artisanal process: withering, rolling, fermentation (30 minutes to several hours), and firing. Qímén Máofēng (祁门毛峰) is a less premium grade, but retains the characteristic aroma. → [Ānhuī Red Tea](/wiki/anhui-red-tea)
 
 ### Huángshān (黄山) — mountain greens
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/huangshan-1.webp" alt="Huángshān peaks — cloud-shrouded granite above the tea gardens" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
 
 The Huángshān peaks (elevation up to 1,864 m) produce Huángshān Máofēng (黄山毛峰), one of China's ten famous teas — a delicate green with an orchid fragrance and sweet, vegetal character with a "misty" quality. Harvest occurs before Qīngmíng (清明, Pure Brightness) and before Gǔyǔ (谷雨, Grain Rain). Also from this region: Tàipíng Hóu Kuí (太平猴魁) — a flat-pressed green with a distinctive elongated leaf form (often 5–7 cm long). Made in Tàipíng county (now part of Huángshān), it is not twisted but pressed, giving it a more grassy, creamy flavour than Máofēng.
 
 ---
 
 ## Zhejiang (浙江) — Longjing and the heart of Chinese green tea
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/zhejian-1.webp" alt="West Lake Longjing gardens — flat-pan-fired green tea terraces near Hangzhou" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Zhèjiāng province, south of Shanghai, produces the most famous green tea in China: Lóngjǐng (龙井, Dragon Well). The most prestigious growing area is the West Lake (西湖, Xīhú) district of Hángzhōu — the five historic villages of Shīfēng (狮峰, "Lion Peak"), Lóngwǔ (龙坞), Wēngjiāshān (翁家山), Wèngjiālōng (翁家龙), and Hǔpào (虎跑). Lóngjǐng is pan-fired (chǎo, 炒, method "tíbái", 提白) — it is not steamed. During roasting, the leaves are flattened, giving them their characteristic flat shape. Three zones are distinguished: premium Xīhú Lóngjǐng (西湖龙井, protected GI), standard Hángzhōu Lóngjǐng, and provincial Qiántáng Lóngjǐng (钱塘龙井, along the Qiántáng River). Counterfeiting is rampant: up to 90% of "Lóngjǐng" sold in supermarkets is a cheap blend from Yunnan or Sichuan.
 
@@ -125,11 +147,15 @@ Also from Zhèjiāng: **Ān Jí Bái Chá** (安吉白茶) — a mutation of the
 
 ## Jiangsu (江苏) — Bì Luó Chūn
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/jiansu-1.webp" alt="Dōngtíng Mountain — Bì Luó Chūn gardens interplanted with fruit trees on Lake Tàihú" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 Jiāngsū's most celebrated tea grows on Dōngtíng Mountain (洞庭山) in Tàihú Lake near Sūzhōu. Bì Luó Chūn (碧螺春, "Green Snail Spring") is a tightly-rolled spring green with an intensely fruity, floral fragrance — the result of tea gardens interplanted with peach, plum, and apricot trees; the leaf absorbs the aromas of flowers and fruits. Bì Luó Chūn is one of China's ten famous teas. Harvest is strictly before Qīngmíng, by hand, one or two leaves with a bud. It has GI protection. → [Bì Luó Chūn](/wiki/bi-luo-chun)
 
 ---
 
 ## Hunan (湖南) — dark teas
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/anhua-1.webp" alt="Ānhuà county — hēichá compressed tea drying on bamboo racks" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Húnán is the primary production province for hēichá (黑茶, dark tea — fermented, aged with mould). The key area is **Ānhuà (安化)** county in central Húnán, which produces several formats:
 
@@ -143,11 +169,15 @@ Húnán is the primary production province for hēichá (黑茶, dark tea — fe
 
 ## Guangxi (广西) — Liù Bǎo, Chéngméi
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/wujou-1.webp" alt="Wúzhōu — Liù Bǎo dark tea aging in riverside warehouses" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 Guǎngxī's Wúzhōu (梧州) area produces Liù Bǎo (六堡, "six fortresses") — a traditionally fermented dark tea with a smooth, woody, slightly earthy character that improves with aging from 5 to 20 years. Historically exported to overseas Chinese communities in Malaysia and Singapore (tea for tin-mining workers). Also from Guangxi: Chéngméi Chá (橙梅茶), a rarer variant. Major factories include Wúzhōu Chéngméi.
 
 ---
 
 ## Sichuan (四川) — ancient border teas
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-regions/chengdu-1.webp" alt="Sichuan tea culture — traditional teahouse near Chengdu" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Sìchuān has one of the longest tea histories in China — the earliest reliable records of tea culture date to the Western Hàn dynasty (206 BCE–8 CE). The Měngdǐng (蒙顶) Mountain area near Yǎ'ān produced tribute teas for imperial dynasties. Měngdǐng Gān Lù (蒙顶甘露, "heavenly dew of Mount Měngdǐng") is a superb green tea with a soft, sweet, creamy taste; one of the ten famous teas. Měngdǐng Huáng Yá (蒙顶黄芽) is a yellow tea. Yǎ'ān borders Tibet and was the source of **Zàng Chá** (藏茶, Tibetan tea) — compressed dark tea traded along the ancient Chá Mǎ Gǔ Dào (茶马古道, Tea Horse Road). Today Sìchuān — one of the largest tea producers in China — produces both premium greens (including Yuèxī Cuì Méi, 越西翠眉) and raw material for dark tea.
 
