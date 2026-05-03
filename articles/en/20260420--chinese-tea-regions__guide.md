@@ -72,7 +72,7 @@ Lǎobānzhāng (老班章) village on Bùlǎng Mountain produces the most celebr
 
 A high-altitude growing region north of Xīshuāngbǎnnà (elevation 1,500–2,000 m). Key zones:
 
-- **Bīngdǎo (冰岛)** — not to be confused with Iceland: five villages in the Měngkù (勐库) area producing one of the sweetest and most fruity shēng puerhs with powerful huí gān. Prices for gǔ shù Bīngdǎo are comparable to Lǎobānzhāng.
+- **Bīngdǎo (冰岛)** — five villages in the Měngkù (勐库) area producing one of the sweetest and most fruity shēng puerhs with powerful huí gān. Prices for gǔ shù Bīngdǎo are comparable to Lǎobānzhāng.
 - **Jǐngmài (景迈)** — a plateau with thousands of hectares of ancient tea gardens (up to 1,000 years old). Unlike wild forests, this is an agroforestry system created by the Dǎi and Lāhù peoples. Jǐngmài tea is light, with a bright floral and fruity character, less dense than Bānzhāng.
 
 ### Diānhóng — Yunnan red tea
