@@ -7,7 +7,7 @@
 
 # The Six Categories of Chinese Tea
 
-Chinese tea is classified into six categories based on processing method and degree of oxidation — not the plant variety. All six come from *Camellia sinensis*; what differs is what happens after the leaf is picked. The six-category framework was codified in Chinese national standard GB/T 30766-2014 (*Classification of Tea*), which defines each category by processing method and final product character.
+Chinese tea is classified into six categories based on processing method and degree of oxidation — not the plant variety. All six categories come from *Camellia sinensis* — including its varieties large-leaf *var. assamica* and small-leaf *var. sinensis* — but specific cultivars and growing conditions (bush or tree form) shape the flavour of the finished tea; what differs between categories is what happens to the leaf after picking. The six-category framework was codified in Chinese national standard GB/T 30766-2014 (*Classification of Tea*), which defines each category by processing method and final product character.
 
 | Category | Oxidation | Key character |
 |---|---|---|
