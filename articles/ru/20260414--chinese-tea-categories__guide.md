@@ -1,3 +1,11 @@
+:page/lang :ru
+:article/title "Шесть категорий китайского чая"
+:article/tags ["справочник" "зелёный" "белый" "улун" "красный" "тёмный" "жёлтый" "обзор"]
+:article/category :guide
+:article/description "Шесть категорий китайского чая по методу обработки и степени окисления: зелёный (0%), белый (5–15%), жёлтый (10–20%), улун (15–85%), красный (80–100%), тёмный (постферментированный). Все из Camellia sinensis."
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jin_Xuan_oolong_tea_steeping_in_gaiwan.jpg/1280px-Jin_Xuan_oolong_tea_steeping_in_gaiwan.jpg"
+:page/body
+
 # Шесть категорий китайского чая
 
 Китайский чай делят на шесть категорий по способу обработки и степени окисления — а не по сорту растения. Все шесть делают из *Camellia sinensis*; разница в том, что происходит с листом после сбора.
