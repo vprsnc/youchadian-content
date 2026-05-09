@@ -117,7 +117,7 @@ Dark tea ages almost indefinitely under correct conditions (60–70% humidity, 2
 ## FAQ
 
 **Which category should a beginner start with?**  
-Green tea or a light oolong are the most accessible entry points. Green tea (Lóngjǐng, Bìluóchūn) shows the most direct leaf-to-cup flavour with no processing complexity to interpret. Light oolong (qīngxiāng tiě guānyīn) bridges green and roasted without demanding specialist knowledge. Red tea (Diān Hóng, Keemun) is the most forgiving to brew and the easiest transition for people familiar with Western black tea. Avoid starting with aged pǔ'ěr or heavily roasted rock oolongs — both reward prior context.
+Oolong is the best entry point — either a light style (qīngxiāng tiě guānyīn) or a roasted rock oolong (yánchá). Oolong forgives brewing mistakes, stores for years at room temperature without degrading, and shows the full range of Chinese tea without the risk of disappointment. Green tea demands freshness and cold storage — without it, flavour fades within 2–3 months. Aged pǔ'ěr is not a beginner tea.
 
 **Where do jasmine tea and other scented teas fit in the six categories?**  
 Scented teas are not a seventh category — they are a processing technique applied on top of an existing category. Jasmine tea (茉莉花茶 mòlì huāchá) is typically a green tea base from Fujian or Sichuan, repeatedly layered with fresh jasmine blossoms (3–6 times on average). Osmanthus oolong and rose pǔ'ěr work similarly. The base tea determines the category; the scenting is an additional processing step. Scented teas are very popular in China and historically were the primary form in which tea reached European markets.
