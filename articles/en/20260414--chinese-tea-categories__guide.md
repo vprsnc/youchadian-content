@@ -28,8 +28,6 @@ Chinese tea is classified into six categories based on processing method and deg
 
 The leaf is pan-fired in a wok at 180–260 °C (炒青 chǎoqīng) or steamed (蒸青 zhēngqīng) within hours of picking to halt all enzymatic activity, preserving fresh-leaf character: vegetal, grassy, floral, sometimes nutty. In China, pan-firing dominates: it imparts characteristic nutty-chestnut and floral notes. Steaming — typical of Japanese tea — yields brighter, "sea-vegetable" umami notes. The result is a tea with the character of the fresh leaf: vegetal, grassy, floral, occasionally nutty. Liquor colour ranges from pale-straw to bright green depending on cultivar and processing.
 
-<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/maofen-1.webp" alt="Huángshān Máofēng — tender green tea shoots from Anhui's Yellow Mountain" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
-
 Pan-fired greens dominate Chinese production: from chestnut-nutty (西湖龙井 Xīhú Lóngjǐng, Hangzhou, Zhejiang) to intensely floral (碧螺春 Bìluóchūn, Taihu Lake, Jiangsu). Steamed greens — more common in Japan — tend toward stronger vegetal and umami notes. The influence of cultivar and terroir is significant: Lu'an tea from Anhui (六安瓜片 Liù'ān Guāpiàn) has a melon-like, nuttier profile compared to the grassy Zhejiang Huangshan Maofeng (黄山毛峰).
 
 If-then storage rule: Green tea does not age. Store airtight, refrigerated (0–5°C); consume within 12–18 months of harvest; at room temperature, it deteriorates within 3–6 months.
@@ -63,6 +61,8 @@ Notable examples: Jūn Shān Yín Zhēn (君山银针) — from Junshan Island o
 ## Oolong Tea (乌龙茶 / 青茶 qīngchá)
 
 **Oxidation: 15–85%** — the widest range of any category, with optional roasting (烘焙 hōngbèi).
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/maofen-1.webp" alt="Twisted oolong leaves — partially oxidised and shaped during zuòqīng processing" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Oolong is defined by partial oxidation controlled through repeated zuòqīng (做青) cycles of agitation and rest: the leaf is shaken to lightly bruise the edges, allowed to rest, and repeated 4–8 times over 8–12 hours. The range spans from lightly oxidised jade-green pellets (tiě guānyīn qīngxiāng, 15–25%) to heavily oxidised and roasted rock oolongs (yánchá, 60–80%). Profiles within this range: floral, milky, fruity, nutty, mineral, roasted, spiced.
 
