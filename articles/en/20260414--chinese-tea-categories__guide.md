@@ -24,7 +24,11 @@ Chinese tea is classified into six categories based on processing method and deg
 
 **Oxidation: 0%** — enzymes halted immediately after picking via heat fixation (杀青 shāqīng).
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/longjin-1.webp" alt="Lóngjǐng (Dragon Well) green tea leaves pan-fired in a wok — classic Zhejiang style" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 The leaf is pan-fired in a wok at 180–260 °C (炒青 chǎoqīng) or steamed (蒸青 zhēngqīng) within hours of picking to halt all enzymatic activity, preserving fresh-leaf character: vegetal, grassy, floral, sometimes nutty. In China, pan-firing dominates: it imparts characteristic nutty-chestnut and floral notes. Steaming — typical of Japanese tea — yields brighter, "sea-vegetable" umami notes. The result is a tea with the character of the fresh leaf: vegetal, grassy, floral, occasionally nutty. Liquor colour ranges from pale-straw to bright green depending on cultivar and processing.
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/maofen-1.webp" alt="Huángshān Máofēng — tender green tea shoots from Anhui's Yellow Mountain" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Pan-fired greens dominate Chinese production: from chestnut-nutty (西湖龙井 Xīhú Lóngjǐng, Hangzhou, Zhejiang) to intensely floral (碧螺春 Bìluóchūn, Taihu Lake, Jiangsu). Steamed greens — more common in Japan — tend toward stronger vegetal and umami notes. The influence of cultivar and terroir is significant: Lu'an tea from Anhui (六安瓜片 Liù'ān Guāpiàn) has a melon-like, nuttier profile compared to the grassy Zhejiang Huangshan Maofeng (黄山毛峰).
 
@@ -35,6 +39,8 @@ If-then storage rule: Green tea does not age. Store airtight, refrigerated (0–
 ## White Tea (白茶 báichá)
 
 **Oxidation: 5–15%** — natural enzymatic activity during extended withering (萎凋 wěidiāo), then gentle drying at 40–50 °C.
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/baimudan-1.webp" alt="Bái Mǔdān (White Peony) — silver-tipped buds and young leaves withered on bamboo trays" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
 
 The simplest processing: picked leaf is spread to wither for 36–72 hours in cool, well-ventilated conditions — no fixation, no rolling, no shaping. Quality is almost entirely dependent on raw material and precise withering; terroir strongly shapes the result. Traditional producing regions: **Fuding** (福鼎) and **Zhenghe** (政和), both in Fujian province. Fuding white tea is softer and sweeter; Zhenghe tea has a grassier, slightly smoky note.
 
@@ -47,6 +53,8 @@ Fresh white tea: white flowers, fresh hay, melon, light sweetness. Aged (3+ year
 ## Yellow Tea (黄茶 huángchá)
 
 **Oxidation: 10–20%** — similar to green but with a sealed-yellowing step added (闷黄 mènhuáng, "yellowing in enclosure").
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/junshanyinzhen-1.webp" alt="Jūn Shān Yín Zhēn — rare yellow tea needle buds from Junshan Island, Hunan" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 The rarest category — less than 1% of Chinese tea production. Processing resembles green, with the addition of an extra step: the fixed leaf is piled and covered while warm and slightly moist (40–50 °C) in cloth bags, bamboo baskets, or paper for several hours or even 2–3 days. This allows mild non-enzymatic oxidation and Maillard reactions to occur, removing green tea's "grassy" sharpness and developing a mellow, slightly fermented sweetness reminiscent of cooked peas, cream, or baked goods.
 
@@ -70,6 +78,8 @@ Major oolong regions:
 
 **Oxidation: 80–100%** — fully oxidised before heat fixation. Key step is rolling (揉捻 róuniǎn), which releases juice and initiates fermentation.
 
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/qimen-1.webp" alt="Qímén Hóngchá (Keemun Red) — fully oxidised red tea leaves from Anhui province" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+
 Called "black tea" in the West (from dark leaf colour); "red tea" in China (from the red-amber liquor). Full oxidation develops malty, fruity, and floral notes. Chinese red teas tend toward sweetness and floral complexity compared to the brisk tannin of Assam or Ceylon. A key difference: Chinese processing uses whole-leaf rolling (or cutting/crushing for cheaper grades), whereas Indian processing uses CTC (crush-tear-curl).
 
 Notable Chinese red teas:  
@@ -81,6 +91,8 @@ Notable Chinese red teas:
 ## Dark / Fermented Tea (黑茶 hēichá)
 
 **Oxidation: post-fermentation** — microbial activity after fixation, either slow (shēng 生) or accelerated (shú 熟).
+
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/puerh-1.webp" alt="Pǔ'ěr tea cake (bǐngchá) — compressed shēngchá aging in dry storage" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 Dark tea undergoes microbial fermentation — distinct from the enzymatic oxidation of oolongs and red teas. The most famous is pǔ'ěr (普洱茶 pǔ'ěrchá) from Yunnan, compressed into cakes (饼茶 bǐngchá), bricks (砖茶 zhuānchá), or tuóchá (沱茶). Raw pǔ'ěr (shēngchá 生茶) is compressed and aged slowly for years to decades. Ripe pǔ'ěr (shúchá 熟茶) undergoes accelerated wet-pile fermentation (渥堆 wòduī) at 50–65 °C and 80–95% humidity for 45–60 days to simulate aging. The quality of shu puer depends heavily on the master's skill: poor piling yields earthy, "raw" flavours; good piling produces a chocolate-dried fruit profile with hints of dates and clay.
 
