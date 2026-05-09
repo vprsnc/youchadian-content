@@ -38,7 +38,7 @@ If-then storage rule: Green tea does not age. Store airtight, refrigerated (0–
 
 **Oxidation: 5–15%** — natural enzymatic activity during extended withering (萎凋 wěidiāo), then gentle drying at 40–50 °C.
 
-<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/baimudan-1.webp" alt="Bái Mǔdān (White Peony) — silver-tipped buds and young leaves withered on bamboo trays" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/baimudan-1.webp" alt="Bái Mǔdān (White Peony) — silver-tipped buds and young leaves withered on bamboo trays" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
 
 The simplest processing: picked leaf is spread to wither for 36–72 hours in cool, well-ventilated conditions — no fixation, no rolling, no shaping. Quality is almost entirely dependent on raw material and precise withering; terroir strongly shapes the result. Traditional producing regions: **Fuding** (福鼎) and **Zhenghe** (政和), both in Fujian province. Fuding white tea is softer and sweeter; Zhenghe tea has a grassier, slightly smoky note.
 
@@ -52,7 +52,7 @@ Fresh white tea: white flowers, fresh hay, melon, light sweetness. Aged (3+ year
 
 **Oxidation: 10–20%** — similar to green but with a sealed-yellowing step added (闷黄 mènhuáng, "yellowing in enclosure").
 
-<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/junshanyinzhen-1.webp" alt="Jūn Shān Yín Zhēn — rare yellow tea needle buds from Junshan Island, Hunan" style="float:left;width:45%;margin:0 1.5rem 1rem 0;border-radius:8px">
+<img src="https://storage.yandexcloud.net/youchadian-ru/wiki/chinese-tea-categories/junshanyinzhen-1.webp" alt="Jūn Shān Yín Zhēn — rare yellow tea needle buds from Junshan Island, Hunan" style="float:right;width:45%;margin:0 0 1rem 1.5rem;border-radius:8px">
 
 The rarest category — less than 1% of Chinese tea production. Processing resembles green, with the addition of an extra step: the fixed leaf is piled and covered while warm and slightly moist (40–50 °C) in cloth bags, bamboo baskets, or paper for several hours or even 2–3 days. This allows mild non-enzymatic oxidation and Maillard reactions to occur, removing green tea's "grassy" sharpness and developing a mellow, slightly fermented sweetness reminiscent of cooked peas, cream, or baked goods.
 
