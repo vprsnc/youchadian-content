@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>35 Chinese Tea Cup Shapes — 茶杯形制</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:      #f0e8d8;
+    --card-bg: #faf5ec;
+    --coral:   #d95f3b;
+    --teal:    #2a9d8f;
+    --ink:     #1e1a16;
+    --muted:   #7a6e63;
+    --border:  #ddd5c5;
+    --tag-bg:  #ede5d5;
+  }
+
+  body {
+    background: var(--bg);
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 32px 40px;
+  }
+
+  .card {
+    max-width: 1100px;
+    width: 100%;
+    background: var(--card-bg);
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  /* ── HEADER ── */
+  .header {
+    padding: 32px 52px 26px;
+    border-bottom: 1px solid var(--border);
+  }
+  .eyebrow {
+    display: inline-block;
+    background: var(--tag-bg);
+    color: var(--muted);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 3px 9px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  }
+  .header h1 {
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--teal);
+    line-height: 1.2;
+    margin-bottom: 5px;
+  }
+  .header-chinese {
+    font-size: 14px;
+    color: var(--coral);
+    letter-spacing: 0.18em;
+    margin-bottom: 7px;
+    display: block;
+  }
+  .header-sub {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+
+  /* ── GRID ── */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 8px;
+    padding: 20px 20px 16px;
+  }
+
+  @keyframes up {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .cup {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 6px 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    animation: up 0.3s ease both;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  .cup:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.09);
+  }
+  .cup img {
+    width: 84px;
+    height: 84px;
+    object-fit: contain;
+    margin-bottom: 7px;
+  }
+  .cup-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--coral);
+    line-height: 1.25;
+    margin-bottom: 2px;
+  }
+  .cup-pinyin {
+    font-size: 10px;
+    color: var(--muted);
+    line-height: 1.3;
+  }
+
+  /* stagger animation delay by column */
+  .cup:nth-child(7n+1) { animation-delay:   0ms; }
+  .cup:nth-child(7n+2) { animation-delay:  50ms; }
+  .cup:nth-child(7n+3) { animation-delay: 100ms; }
+  .cup:nth-child(7n+4) { animation-delay: 150ms; }
+  .cup:nth-child(7n+5) { animation-delay: 200ms; }
+  .cup:nth-child(7n+6) { animation-delay: 250ms; }
+  .cup:nth-child(7n+0) { animation-delay: 300ms; }
+
+  /* ── DIVIDER + FOOTER ── */
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 4px 52px 20px;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 52px 22px;
+    font-size: 12px;
+  }
+  .footer-brand {
+    color: var(--coral);
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+  }
+  .footer-url {
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="header">
+    <span class="eyebrow">Teaware · Visual Guide</span>
+    <h1>35 Chinese Tea Cup Shapes</h1>
+    <span class="header-chinese">茶杯形制 · cháng bēi xíng zhì</span>
+    <p class="header-sub">From the ancient 耳杯 (ěr bēi) to the gongfu-tea 闻香杯 (wén xiāng bēi) — a visual survey of classic Chinese cup silhouettes across dynasties and traditions.</p>
+  </div>
+
+  <div class="grid">
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/jigangbei.webp" alt="鸡缸杯" loading="eager">
+      <div class="cup-name">鸡缸杯</div>
+      <div class="cup-pinyin">jī gāng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/yashoubei.webp" alt="压手杯" loading="eager">
+      <div class="cup-name">压手杯</div>
+      <div class="cup-pinyin">yā shǒu bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/wozubei.webp" alt="卧足杯" loading="eager">
+      <div class="cup-name">卧足杯</div>
+      <div class="cup-pinyin">wò zú bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/jixinbei.webp" alt="鸡心杯" loading="eager">
+      <div class="cup-name">鸡心杯</div>
+      <div class="cup-pinyin">jī xīn bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/fangdoubei.webp" alt="方斗杯" loading="eager">
+      <div class="cup-name">方斗杯</div>
+      <div class="cup-pinyin">fāng dǒu bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/lushibei.webp" alt="炉式杯" loading="eager">
+      <div class="cup-name">炉式杯</div>
+      <div class="cup-pinyin">lú shì bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/chandingbei.webp" alt="禅定杯" loading="eager">
+      <div class="cup-name">禅定杯</div>
+      <div class="cup-pinyin">chán dìng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/doulibei.webp" alt="斗笠杯" loading="lazy">
+      <div class="cup-name">斗笠杯</div>
+      <div class="cup-pinyin">dǒu lì bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/yuanrongbei.webp" alt="圆融杯" loading="lazy">
+      <div class="cup-name">圆融杯</div>
+      <div class="cup-pinyin">yuán róng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/gongwan.webp" alt="宫碗" loading="lazy">
+      <div class="cup-name">宫碗</div>
+      <div class="cup-pinyin">gōng wǎn</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/lingkoubei.webp" alt="菱口杯" loading="lazy">
+      <div class="cup-name">菱口杯</div>
+      <div class="cup-pinyin">líng kǒu bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/shukoubei.webp" alt="束口杯" loading="lazy">
+      <div class="cup-name">束口杯</div>
+      <div class="cup-pinyin">shù kǒu bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/linglongbei.webp" alt="玲珑杯" loading="lazy">
+      <div class="cup-name">玲珑杯</div>
+      <div class="cup-pinyin">líng lóng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/zheyaobei.webp" alt="折腰杯" loading="lazy">
+      <div class="cup-name">折腰杯</div>
+      <div class="cup-pinyin">zhé yāo bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/zhan.webp" alt="盏" loading="lazy">
+      <div class="cup-name">盏</div>
+      <div class="cup-pinyin">zhǎn</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/matibei.webp" alt="马蹄杯" loading="lazy">
+      <div class="cup-name">马蹄杯</div>
+      <div class="cup-pinyin">mǎ tí bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/zhujiebei.webp" alt="竹节杯" loading="lazy">
+      <div class="cup-name">竹节杯</div>
+      <div class="cup-pinyin">zhú jié bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/haitangbei.webp" alt="海棠杯" loading="lazy">
+      <div class="cup-name">海棠杯</div>
+      <div class="cup-pinyin">hǎi táng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/liufangbei.webp" alt="六方杯" loading="lazy">
+      <div class="cup-name">六方杯</div>
+      <div class="cup-pinyin">liù fāng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/zhongshibei.webp" alt="钟式杯" loading="lazy">
+      <div class="cup-name">钟式杯</div>
+      <div class="cup-pinyin">zhōng shì bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/kuikoubei.webp" alt="葵口杯" loading="lazy">
+      <div class="cup-name">葵口杯</div>
+      <div class="cup-pinyin">kuí kǒu bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/huashenbei.webp" alt="花神杯" loading="lazy">
+      <div class="cup-name">花神杯</div>
+      <div class="cup-pinyin">huā shén bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/lianbanbei.webp" alt="莲瓣杯" loading="lazy">
+      <div class="cup-name">莲瓣杯</div>
+      <div class="cup-pinyin">lián bàn bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/guxingbei.webp" alt="鼓形杯" loading="lazy">
+      <div class="cup-name">鼓形杯</div>
+      <div class="cup-pinyin">gǔ xíng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/zhusibei.webp" alt="竹丝杯" loading="lazy">
+      <div class="cup-name">竹丝杯</div>
+      <div class="cup-pinyin">zhú sī bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/zhitongbei.webp" alt="直筒杯" loading="lazy">
+      <div class="cup-name">直筒杯</div>
+      <div class="cup-pinyin">zhí tǒng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/wenxiangbei.webp" alt="闻香杯" loading="lazy">
+      <div class="cup-name">闻香杯</div>
+      <div class="cup-pinyin">wén xiāng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/jiangjunbei.webp" alt="将军杯" loading="lazy">
+      <div class="cup-name">将军杯</div>
+      <div class="cup-pinyin">jiāng jūn bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/gaozubei.webp" alt="高足杯" loading="lazy">
+      <div class="cup-name">高足杯</div>
+      <div class="cup-pinyin">gāo zú bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/kelebei.webp" alt="可乐杯" loading="lazy">
+      <div class="cup-name">可乐杯</div>
+      <div class="cup-pinyin">kě lè bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/linglanbei.webp" alt="铃兰杯" loading="lazy">
+      <div class="cup-name">铃兰杯</div>
+      <div class="cup-pinyin">líng lán bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/lingdangbei.webp" alt="铃铛杯" loading="lazy">
+      <div class="cup-name">铃铛杯</div>
+      <div class="cup-pinyin">líng dāng bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/erbei.webp" alt="耳杯" loading="lazy">
+      <div class="cup-name">耳杯</div>
+      <div class="cup-pinyin">ěr bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/luohanbei.webp" alt="罗汉杯" loading="lazy">
+      <div class="cup-name">罗汉杯</div>
+      <div class="cup-pinyin">luó hàn bēi</div>
+    </div>
+
+    <div class="cup">
+      <img src="https://storage.yandexcloud.net/youchadian-ru/wiki/tea-cups/bazibei.webp" alt="把子杯" loading="lazy">
+      <div class="cup-name">把子杯</div>
+      <div class="cup-pinyin">bǎ zi bēi</div>
+    </div>
+
+  </div><!-- /grid -->
+
+  <div class="divider"></div>
+
+  <div class="footer">
+    <span class="footer-brand">又一家茶店</span>
+    <span class="footer-url">youchadian.com</span>
+  </div>
+
+</div><!-- /card -->
+</body>
+</html>
