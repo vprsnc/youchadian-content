@@ -1,3 +1,11 @@
+:page/lang :en
+:article/title "White Tea (白茶 Báichá) — Overview"
+:article/tags ["white" "bacha" "fujian" "overview" "fuding" "zhenghe" "processing"]
+:article/category :tea
+:article/type :white
+:article/product-filter {:product/category :tea :product/type :white}
+:article/description "Chinese white tea overview: natural withering process (wēidiāo), Fújiàn origins, Bái Háo Yín Zhēn to Shòu Méi grades, dry vs wet storage ageing, brewing parameters."
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/White_tea_leaves.jpg/1280px-White_tea_leaves.jpg"
 :page/body
 
 # White Tea (白茶 Báichá) — Overview

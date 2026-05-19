@@ -1,4 +1,3 @@
-:---
 :page/lang :en
 :article/title "Red Tea (红茶 Hóngchá) — Overview"
 :article/tags ["red" "hongcha" "overview" "fujian" "yunnan" "anhui" "processing"]

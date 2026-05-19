@@ -1,5 +1,11 @@
 :page/lang :ru
 :article/title "Белый Чай (白茶 Байча) — Обзор"
+:article/tags ["white" "bacha" "fujian" "overview" "fuding" "zhenghe" "processing"]
+:article/category :tea
+:article/type :white
+:article/product-filter {:product/category :tea :product/type :white}
+:article/description "Обзор китайского белого чая: вяление (萎凋 wēidiāo), происхождение в Фуцзяне, сорта от Бай Хао Инь Чжэнь до Шоу Мэй, сухое и влажное хранение."
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/White_tea_leaves.jpg/1280px-White_tea_leaves.jpg"
 :page/body
 
 # Белый Чай (白茶 Байча) — Обзор
