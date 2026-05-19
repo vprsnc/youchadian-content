@@ -101,6 +101,10 @@ Yǐn chá (飲茶, yǐn chá) — кантонский институт совм
 | 斟茶 | zhēn chá | Чжэнь ча | Разлив — равномерно распределить настой |
 | 品味 | pǐn wèi | Пинь вэй | Дегустация — пить внимательно, смакуя |
 
+## Визуальный справочник — формы китайских чашек
+
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups-ru.html" width="100%" height="820" style="border:none;border-radius:12px;" title="35 форм китайских чашек" loading="lazy"></iframe>
+
 ## Ссылки
 
 - [Руководство по заварке гунфу](/wiki/gongfu-brewing-guide) — пошаговая техника
