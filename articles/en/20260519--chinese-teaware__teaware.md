@@ -70,7 +70,9 @@ A brief overview of key shapes:
 
 ## Visual Reference — 35 Chinese Tea Cup Shapes
 
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups.html" width="100%" height="820" style="border:none;border-radius:12px;" title="35 Chinese Tea Cup Shapes" loading="lazy"></iframe>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0;">
+<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups.html" width="1100" height="820" style="border:none;border-radius:12px;display:block;" title="35 Chinese Tea Cup Shapes" loading="lazy"></iframe>
+</div>
 
 ## Tea Tray (茶盘 chápán) and Tea Boat (茶船 cháchuan)
 
