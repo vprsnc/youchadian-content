@@ -118,10 +118,6 @@ Despite regional differences, a core sequence is shared:
 | 斟茶 | zhēn chá | Zhēn chá | Pour — distribute brew to cups evenly |
 | 品味 | pǐn wèi | Pǐn wèi | Taste — sip attentively, savouring |
 
-## Visual Guide — Chinese Tea Cup Forms
-
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups.html" width="100%" height="820" style="border:none;border-radius:12px;" title="35 Chinese Tea Cup Shapes" loading="lazy"></iframe>
-
 ## Related
 
 - [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide) — step-by-step technique
