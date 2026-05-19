@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Красный чай Юньнань — Дянь Хун (滇红)"
+:article/tags ["red" "yunnan" "dianhong" "golden-tips" "yunnan-gold" "maocha"]
+:article/category :tea
+:article/type :red
+:article/product-filter {:product/category :tea :product/type :red}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/GoldenDianHong.jpg/1280px-GoldenDianHong.jpg"
+:page/body
+
 # Красный чай Юньнань — Дянь Хун (滇红)
 
 Дянь хун (滇红) — это красный чай из провинции Юньнань. 滇 (дянь) — традиционное сокращение для Юньнани; 红 (хун) — красный. Дянь хун отличается от других китайских красных чаёв тем, что делается из крупнолистовой разновидности Camellia sinensis var. assamica, а высшие сорта щеголяют заметными золотыми типсами. По вкусу это солодово-сладкий, полнотелый чай, иногда по насыщенности сравнимый с южноазиатскими чёрными, но с куда меньшей терпкостью и более сладким послевкусием.

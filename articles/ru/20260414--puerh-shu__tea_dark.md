@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Шу Пуэр (熟茶) — Зрелый Пуэр"
+:article/tags ["puerh" "heicha" "dark-tea" "yunnan" "fermented" "shu" "aged"]
+:article/category :tea
+:article/type :dark
+:article/product-filter {:product/category :tea :product/type :dark}
+:article/hero-image "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=1280&fit=crop"
+:page/body
+
 # Шу Пуэр (熟茶) — Зрелый Пуэр
 
 Шу ча (熟茶, буквально «готовый чай», shú chá) — пуэр, прошедший ускоренную ферментацию методом водуй (渥堆, wòduī, кучное завяливание). Сырой шэн пуэр обретает гладкий, тёмный, зрелый характер только после десятилетий сухой выдержки. Водуй сжимает этот процесс до 45–60 дней. Получается принципиально другой чай: землистый, мягкий и согревающий, без горечи и терпкости шэна.

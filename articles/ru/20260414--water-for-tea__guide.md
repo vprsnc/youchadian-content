@@ -1,8 +1,7 @@
-:page
-:lang :ru
+:page/lang :ru
 :article/title "Вода для чая — температура и качество"
-:article/tags ["руководство" "заваривание" "вода" "температура" "техника"]
-:article/description "Вода для чая: оптимальный ТРС 50–150 мг/л, удаление хлора, температурное руководство по видам чая (75–100°C), стадии кипения (креветочные/крабьи/рыбьи глаза), влияние высоты."
+:article/tags ["guide" "brewing" "water" "temperature" "technique"]
+:article/hero-image "https://images.unsplash.com/photo-oBvOyQigJ9I?w=1280&fit=crop"
 :page/body
 
 # Вода для чая — температура и качество

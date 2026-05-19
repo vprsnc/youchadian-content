@@ -1,12 +1,9 @@
-:page
-:lang :ru
+:page/lang :ru
 :article/title "Биндао (冰岛) — престижное происхождение пуэра Линьцан"
-:article/tags ["бингдао" "пуэр" "шэн" "юньнань" "линьцан" "древние-деревья" "единственное-происхождение" "тёмный-чай"]
+:article/tags ["bingdao" "puerh" "sheng" "yunnan" "lincang" "ancient-trees" "single-origin" "dark-tea"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}
-:article/description "Биндао (冰岛): одно из самых прославленных мест происхождения пуэра в Юньнани — пять деревень в уезде Шуанцзян, Линьцан. Древние чайные деревья, сладкий и чистый вкус, линьцаньский аналог Лаобаньчжана."
-:article/hero-image ""
 :page/body
 
 # Биндао (冰岛) — престижное происхождение пуэра Линьцан

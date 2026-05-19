@@ -1,11 +1,10 @@
-:---
 :page/lang :ru
 :article/title "Красные чаи Уишань — Чжэньшань Сяочжун и Цзинь Цзюнь Мэй"
-:article/tags ["красный" "уи" "фуцзянь" "лапсанг" "чжэншань" "цзинь-цзюнь-мэй" "копчёный"]
+:article/tags ["red" "wuyi" "fujian" "lapsang" "zhengshan" "jinjunmei" "smoky"]
 :article/category :tea
 :article/type :red
 :article/product-filter {:product/category :tea :product/type :red}
-:article/description "Красные чаи Уишань из деревни Тунму: Чжэньшань Сяочжун (Лапсан Сушонг, копчёный и некопчёный) и Цзинь Цзюнь Мэй (только почки, создан в 2005 г.). Температура заваривания зависит от сорта."
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zhengshan_Xiaozhong.jpg/1280px-Zhengshan_Xiaozhong.jpg"
 :page/body
 
 # Красные чаи Уишань — Чжэньшань Сяочжун и Цзинь Цзюнь Мэй

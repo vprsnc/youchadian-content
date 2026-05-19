@@ -1,10 +1,10 @@
-:---
 :page/lang :ru
 :article/title "Пуэр (普洱茶) — Обзор"
-:article/tags ["пуэр" "юньнань" "тёмный-чай" "выдержанный" "шэн" "шу" "гушу" "сишуанбаньна"]
+:article/tags ["puerh" "yunnan" "dark-tea" "aged" "sheng" "shu" "gushu" "xishuangbanna"]
 :article/category :tea
 :article/type :dark
-:article/description "Пуэр (普洱茶): юньнаньский крупнолистовой сорт, маочай на основе шайцин, защищённое географическое наименование — 639 волостей. Шэн (сырой) и шу (зрелый), формы прессования (лепёшка 357 г, туо, кирпич), сухое и влажное хранение, пять ключевых гор, гушу и тайди."
+:article/product-filter {:product/category :tea :product/type :dark}
+:article/hero-image "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1280&fit=crop"
 :page/body
 
 # Пуэр (普洱茶) — Обзор

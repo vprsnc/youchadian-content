@@ -1,11 +1,9 @@
-:page/:lang :ru
+:page/lang :ru
 :article/title "Аньцзи Бай Ча (安吉白茶) — зелёный чай с белым листом"
-:article/tags ["аньцзи-бай-ча" "зелёный-чай" "чжэцзян" "аньцзи" "альбинос-сорт" "умами" "молочный" "мин-цянь"]
+:article/tags ["anji-bai-cha" "green-tea" "zhejiang" "anji" "albino-cultivar" "umami" "milky" "ming-qian"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
-:article/description "Аньцзи Бай Ча (安吉白茶): зелёный чай из уезда Аньцзи, Чжэцзян — из редкой мутации сорта-альбиноса. Бледно-нефритовый лист, молочно-сладкий умами-характер. Несмотря на название, обрабатывается как зелёный чай, а не белый."
-:article/hero-image ""
 :page/body
 
 # Аньцзи Бай Ча (安吉白茶) — зелёный чай с белым листом

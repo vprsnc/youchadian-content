@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Янь ху би (养壶笔) — Кисточка для ухода за исинским чайником"
+:article/tags ["teaware" "yixing" "teapot" "maintenance" "patina" "gongfu" "zisha" "brushing"]
+:article/category :teaware
+:article/type :teapot
+:article/product-filter {:product/category :teaware :product/type :teapot}
+:article/hero-image "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=1280&fit=crop"
+:page/body
+
 # Янь ху би (养壶笔) — Кисточка для ухода за исинским чайником
 
 **Янь ху би (养壶笔, «кисточка для взращивания чайника»)** — небольшая кисточка из натуральной щетины. Её используют в гунфу ча (功夫茶), чтобы «воспитывать» исинские чайники из цзышā (宜兴紫砂) постепенно, год за годом. Второе название — **чашуā (茶刷)** или **ча дань (茶掸)**. Это редкий инструмент: он нужен не для заваривания чая, а для ухода за сосудом, в котором его заваривают.

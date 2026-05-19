@@ -1,3 +1,9 @@
+:page/lang :ru
+:article/title "Как хранить чай"
+:article/tags ["guide" "storage" "freshness" "aging" "technique"]
+:article/hero-image "https://images.unsplash.com/photo-74HGrqRby2Q?w=1280&fit=crop"
+:page/body
+
 # Как хранить чай
 
 Большинство чаёв портится при неправильном хранении. Немногие — становятся лучше. Правила сильно различаются в зависимости от категории.

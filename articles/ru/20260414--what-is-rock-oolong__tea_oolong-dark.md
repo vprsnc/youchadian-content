@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Яньча (岩茶) — Утёсный улун Уи"
+:article/tags ["oolong" "fujian" "wuyi" "yancha" "rock-oolong" "roasted"]
+:article/category :tea
+:article/type :oolong-dark
+:article/product-filter {:product/category :tea :product/type :oolong-dark}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wuyi_Mountains_Sea_of_clouds_1.jpg"
+:page/body
+
 # Яньча (岩茶) — Утёсный улун Уи
 
 Яньча (岩茶, «утёсный чай») — собирательное название для крепко окисленных, обжаренных улунов из заповедника Уи Шань (武夷山) на севере Фуцзяни. Своё имя они получили благодаря скалистому рельефу: узкие ущелья, базальтовые утёсы, тонкие кислые почвы, которые веками складывались из выветренной горной породы. Чай, выросший в таких условиях, впитывает минералы — и это даёт то, что мастера называют янюнь (岩韵), «утёсная мелодия». Глубокое минеральное послевкусие, по которому настоящий уишаньский чай отличают от подделок из других мест.

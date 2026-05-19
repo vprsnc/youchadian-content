@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Улуны Миньнань (闽南乌龙) — Традиция Южного Фуцзяня"
+:article/tags ["oolong" "minnan" "fujian" "tieguanyin" "anxi" "qingxiang" "nongxiang"]
+:article/category :tea
+:article/type :oolong-light
+:article/product-filter {:product/category :tea :product/type :oolong-light}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maxim-2a-TinKuanYinLeaves.JPG/1280px-Maxim-2a-TinKuanYinLeaves.JPG"
+:page/body
+
 # Улуны Миньнань (闽南乌龙) — Традиция Южного Фуцзяня
 
 Миньнань (闽南, южный Фуцзянь) — второй по значимости регион производства улунов в провинции Фуцзянь, и он отличается от традиции яньча из Уи на севере. Миньбэй (闽北, северный Фуцзянь) делает лентовидные улуны с высоким окислением и обжаркой, а Миньнань специализируется на плотно скатанных шарообразных улунах с пониженным окислением — от нефритово-зелёных и цветочных до поджаренных и насыщенных.

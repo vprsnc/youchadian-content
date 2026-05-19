@@ -1,3 +1,9 @@
+:page/lang :ru
+:article/title "Гайвань для одного — заваривание по-сычуански"
+:article/tags ["gaiwan" "gongfu" "brewing" "teaware" "technique" "solo" "sichuan" "qing-dynasty" "lidded-bowl" "drinking-technique" "chang-zui-hu" "long-spout-kettle" "chengdu"]
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chinese_gaiwan.jpg/1280px-Chinese_gaiwan.jpg"
+:page/body
+
 # Гайвань для одного — заваривание по-сычуански
 
 Гайвань (盖碗, gàiwǎn) изначально вовсе не была заварным чайником. С эпохи Тан и до двора Цин её использовали именно так: заваривали и пили из одного сосуда — крышка задерживала листья, а блюдце защищало руки от жара. Чахай (公道杯, gōngdào bēi) и отдельные пиалы появились позже, когда гунфу ча превратилось в церемонию на несколько человек. Гайвань на одного возвращает к истокам: один сосуд, один человек, полное внимание чаю.

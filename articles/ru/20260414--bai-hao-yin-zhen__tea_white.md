@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Бай Хао Инь Чжэнь (白毫银针) — Серебряные иглы"
+:article/tags ["white" "fujian" "fuding" "buds" "white-tea" "silver-needle"]
+:article/category :tea
+:article/type :white
+:article/product-filter {:product/category :tea :product/type :white}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/9/94/Bai_Hao_Yinzhen_or_Silver_needle_White_Tea.JPG"
+:page/body
+
 # Бай Хао Инь Чжэнь (白毫银针) — Серебряные иглы
 
 Бай хао инь чжэнь — высшая категория китайского белого чая. Его делают только из нераскрытых почек сорта Фудин Дабай (福鼎大白茶) или Чжэнхэ Дабай (政和大白茶), каждая покрыта густым серебристым пушком (хао, 毫). Готовый чай — горсть игл длиной 2–3 см (до 3,5 см у фудинского сорта), бледно-зелёных у основания и почти белых на кончике.

@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Яньча Уи (武夷岩茶) — Сорта и производство"
+:article/tags ["oolong" "yancha" "wuyi" "fujian" "rougui" "shuixian" "dahongpao" "roasting"]
+:article/category :tea
+:article/type :oolong-dark
+:article/product-filter {:product/category :tea :product/type :oolong-dark}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wuyi_Mountains_Sea_of_clouds_1.jpg"
+:page/body
+
 # Яньча Уи (武夷岩茶) — Сорта и производство
 
 Яньча (岩茶, утёсный чай) делают на горе Уи Шань (武夷山) и вокруг неё в северо-западном Фуцзяне. Рельеф местности, классификация терруара (чжэн янь / бань янь) и география самой горы описаны в статье [Уи Шань](/wiki/wuyi-shan). Общее введение в утёсный улун — в статье [Что такое утёсный улун?](/wiki/what-is-rock-oolong). Здесь разберём сорта, обработку, обжарку и вкусовые характеристики.

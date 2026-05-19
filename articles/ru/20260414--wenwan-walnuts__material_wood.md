@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Вэньвань хэтао (文玩核桃) — орехи для ладоней"
+:article/tags ["walnuts" "wenwan" "patina" "aging" "hebei" "hand-exercise" "wood"]
+:article/category :material
+:article/type :wood
+:article/product-filter {:product/category :wearable :product/type :wood}
+:article/hero-image "https://images.unsplash.com/photo-nBnl9sXFft0?w=1280&fit=crop"
+:page/body
+
 # Вэньвань хэтао (文玩核桃) — орехи для ладоней
 
 Вэньвань хэтао (文玩核桃) — это грецкие орехи, которые не едят, а держат в руках. Пару катают в одной ладони каждый день, месяцами и годами. Скорлупа темнеет от кожного масла и трения: сперва бледно-жёлтая, через несколько лет — янтарная, через десятилетие — почти чёрная. Эту патину называют бао цзян (包浆).

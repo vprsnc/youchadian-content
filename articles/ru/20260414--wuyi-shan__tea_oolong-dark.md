@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Уи Шань (武夷山) — Горы утёсного чая"
+:article/tags ["fujian" "wuyi" "terroir" "yancha" "oolong" "geography"]
+:article/category :tea
+:article/type :oolong-dark
+:article/product-filter {:product/category :tea :product/type :oolong-dark}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wuyi_Mountains_Sea_of_clouds_1.jpg"
+:page/body
+
 # Уи Шань (武夷山) — Горы утёсного чая
 
 Уи Шань — горный массив на северо-западе провинции Фуцзянь, административно подчинённый городскому округу Наньпин (南平市). В 1999 году ЮНЕСКО включило его в список Всемирного наследия за уникальную экологию и культурное значение. Здесь делают утёсный улун (岩茶 яньча) — один из самых дорогих чаёв в мире. Горы служат естественной границей между Фуцзянем и провинцией Цзянси. Чайные угодья лежат на высотах 200–750 метров, но самые ценные участки — 300–500 м.

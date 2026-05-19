@@ -1,10 +1,10 @@
-:page
-:lang :ru
+:page/lang :ru
 :article/title "Лао Ча Тоу (老茶头) — Старые Чайные Головы"
-:article/tags ["пуэр" "шу-пуэр" "зрелый-пуэр" "тёмный-чай" "юньнань" "ферментированный" "выдержанный" "лао-ча-тоу" "ча-тоу" "водуй"]
+:article/tags ["puerh" "pu-erh" "shu" "shu-puerh" "ripe-puerh" "dark-tea" "yunnan" "fermented" "aged" "lao-cha-tou" "cha-tou" "wodui"]
 :article/category :tea
 :article/type :dark
-:article/description "Лао ча тоу (老茶头) — спрессованные комочки зрелого пуэра из Юньнани, возникающие при ферментации водуй. Богаты пектином; густой настой с нотами фиников; 20–30+ проливов."
+:article/product-filter {:product/category :tea :product/type :dark}
+:article/hero-image "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1280&fit=crop"
 :page/body
 
 # Лао Ча Тоу (老茶头) — Старые Чайные Головы

@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Улун (乌龙茶 улун Ча) — Обзор и региональные традиции"
+:article/tags ["oolong" "overview" "fujian" "guangdong" "taiwan" "yancha" "dancong" "tieguanyin"]
+:article/category :tea
+:article/type :oolong-dark
+:article/product-filter {:product/category :tea :product/type :oolong-dark}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/a/a3/BZC_Oolong_tea_leaf_close.jpg"
+:page/body
+
 # Улун (乌龙茶 улун Ча) — Обзор и региональные традиции
 
 Улун — самая широкая из шести китайских категорий чая: частично окисленный чай, который делают в несколько этапов, уникальных для этого класса. Степень окисления варьируется от 15% до 85% — тут все: от нефритово-зеленых, плотно скрученных, цветочных легких улунов южного Фуцзяня до темных, сильно прожаренных, минеральных листовых чаев Уи. Ни одна другая категория не охватывает такой диапазон.

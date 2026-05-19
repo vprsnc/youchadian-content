@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Исинская Цзышā (宜兴紫砂) — Посуда из пурпурной глины"
+:article/tags ["teaware" "yixing" "clay" "zisha" "teapot"]
+:article/category :material
+:article/type :clay
+:article/product-filter {:product/category :teaware :product/type :teapot}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ceramic_stoneware_teapot_produced_with_Yixing_clay_before_1923_CE_Jiangsu_Province_China.jpg/1280px-Ceramic_stoneware_teapot_produced_with_Yixing_clay_before_1923_CE_Jiangsu_Province_China.jpg"
+:page/body
+
 # Исинская Цзышā (宜兴紫砂) — Посуда из пурпурной глины
 
 Цзышā (紫砂, «пурпурный песок») — каменноварная глина из окрестностей Исина (宜兴) в провинции Цзянсу, а также чайники и сосуды из неё. Со времён эпохи Сун (960–1279) исинские чайники занимают главное место в серьёзной китайской чайной культуре.

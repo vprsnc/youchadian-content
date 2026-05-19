@@ -1,11 +1,10 @@
-:page
-:lang :ru
-:article/title "Фэнхуан Дань Цун — Улуны с одиноких кустов горы Феникс"
-:article/tags ["улун" "дань-цун" "гуандун" "чаочжоу" "фэнхуан" "аромат"]
+:page/lang :ru
+:article/title "Фэнхуан Дань Цун (凤凰单丛) — Улуны с одиноких кустов горы Феникс"
+:article/tags ["oolong" "dancong" "guangdong" "chaozhou" "phoenix" "fenghuang" "aroma"]
 :article/category :tea
 :article/type :oolong-dark
 :article/product-filter {:product/category :tea :product/type :oolong-dark}
-:article/description "Фэнхуан дань цун (凤凰单丛): улуны Гуандуна с природной ароматикой медовой орхидеи, утиного помёта и цветка имбиря. Десять классических типов аромата, заваривание 7–8 г/100 мл."
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Duck_shit_aroma_tea_1.jpg/1280px-Duck_shit_aroma_tea_1.jpg"
 :page/body
 
 # Фэнхуан Дань Цун (凤凰单丛) — Улуны с одиноких кустов горы Феникс

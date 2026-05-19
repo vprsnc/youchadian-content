@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Тегуаньинь (铁观音) — Улун Железной Богини"
+:article/tags ["oolong" "fujian" "anxi" "floral" "oolong-light"]
+:article/category :tea
+:article/type :oolong-light
+:article/product-filter {:product/category :tea :product/type :oolong-light}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Maxim-3-TinKuanYinInfusion.JPG/1280px-Maxim-3-TinKuanYinInfusion.JPG"
+:page/body
+
 # Тегуаньинь (铁观音) — Улун Железной Богини
 
 Тегуаньинь — улун из уезда Аньси (安溪) на юге провинции Фуцзянь, исторический центр производства — область Миньнань (闽南). В названии два слова: «железо» (铁) — за тёмно-зелёную плотность скатанных листьев, и «Гуаньинь» (观音) — буддийская богиня сострадания. По легенде, бедный крестьянин Вэй Инь (魏饮) нашёл куст у разрушенного храма Гуаньинь, десятилетиями ухаживал за ним, а потом поделился с соседями. К эпохе Цин тегуаньинь стал трибутным чаем, ежегодно поставляемым ко двору императора.

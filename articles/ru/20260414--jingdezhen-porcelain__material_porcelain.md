@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Цзиндэчжэнь (景德镇) — Фарфоровая столица Китая"
+:article/tags ["teaware" "porcelain" "jingdezhen" "gaiwan" "material"]
+:article/category :material
+:article/type :porcelain
+:article/product-filter {:product/category :teaware}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20th_century_Jingdezhen_ware_with_factory_mark.jpg/1280px-20th_century_Jingdezhen_ware_with_factory_mark.jpg"
+:page/body
+
 # Цзиндэчжэнь (景德镇) — Фарфоровая столица Китая
 
 Цзиндэчжэнь — город на северо-востоке Цзянси, в нижнем течении реки Чанцзян (昌江), притока Поянху. Лучший фарфор мира делают здесь больше тысячи лет. В 1004 году, на первом году правления под девизом Цзиндэ (景德), император Чжэньцзун из династии Сун повелел наносить на изделия местных печей клеймо «Цзиндэ нянь цзао» (景德年造 — «изготовлено в годы Цзиндэ») и открыл императорские печи. Европейцы назвали фарфор «china» — в конечном счёте по этой стране, чьим главным экспортным центром был Цзиндэчжэнь.

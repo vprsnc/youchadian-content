@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Красный чай Аньхоя — Цимэнь Хунча (祁门红茶)"
+:article/tags ["red" "anhui" "keemun" "qimen" "gongfu" "huangshan"]
+:article/category :tea
+:article/type :red
+:article/product-filter {:product/category :tea :product/type :red}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flickr_-_cyclonebill_-_Keemun.jpg/1280px-Flickr_-_cyclonebill_-_Keemun.jpg"
+:page/body
+
 # Красный чай Аньхоя — Цимэнь Хунча (祁门红茶)
 
 Цимэнь хунча (祁门红茶) — на международном рынке его знают как Кимун (от старой транслитерации Уэйда — Джайлза: 祁门 → Ch'i-mên). Делают этот чай в уезде Цимэнь, у западного подножия гор Хуаншань (黄山), на юге провинции Аньхой. Один из самых знаменитых чаёв в мире: его сложный, ни с чем не сравнимый аромат китайцы называют «цимэньским ароматом» (祁门香 Qímén xiāng). У других красных чаёв такого нет.

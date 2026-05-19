@@ -1,3 +1,12 @@
+:page/lang :ru
+:article/title "Да Хун Пао (大红袍) — Большой Красный Халат"
+:article/tags ["oolong" "fujian" "wuyi" "yancha" "rock-oolong" "dahongpao" "roasted"]
+:article/category :tea
+:article/type :oolong-dark
+:article/product-filter {:product/category :tea :product/type :oolong-dark}
+:article/hero-image "https://upload.wikimedia.org/wikipedia/commons/f/f2/Da_Hong_Pao.jpg"
+:page/body
+
 # Да Хун Пао (大红袍) — Большой Красный Халат
 
 Да хун пао (大红袍) — самый знаменитый утёсный улун Уи Шань. Исторически так называли три-шесть древних чайных деревьев на скале над Храмом Небесного Сердца (天心永乐禅寺). Сегодня это имя носят клоновый потомок тех деревьев, а в 99% случаев — купажный яньча из жоугуй (肉桂 — «коричный коричник»), шуйсянь (水仙 — «нарцисс») и других сортов, включая иногда тэхунпао (铁罗汉 — «железный архат») или басянь (白鸡冠 — «белый петушиный гребень»).
