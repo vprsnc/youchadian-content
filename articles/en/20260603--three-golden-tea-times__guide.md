@@ -61,6 +61,10 @@ Tea is not a universal medicine. There are periods when it's better not to drink
 - **After 17:00** — disrupts 心肾相交 (interaction of heart and kidneys), interferes with natural falling asleep.
 - **23:00–3:00 (子时/丑时)** — hours of the Liver and Gallbladder. Caffeine blocks 肝藏血 (gān cáng xuè, 'liver stores blood') — the liver cannot calmly store blood. Especially harmful for those with sleep or liver issues.
 
+## The Thermal Nature of Tea: What It Means
+
+In Chinese medicine, every food product has its own thermal nature — 性味 (xìngwèi). This is not the temperature of the drink, but its internal effect on the body. Tea can be warm (性温 xìngwēn), cool (性凉 xìngliáng), or neutral (性平 xìngpíng). Warm teas (such as shou pu'er or red tea) warm the body, improve circulation, and help when energy is low. Cool teas (such as green and young white teas) calm heat and cool the body. Neutral teas (many oolongs) act gently and suit almost everyone. Choosing tea according to its thermal nature helps harmonize internal processes and maintain health.
+
 ## Additional Recommendations by Tea Category
 
 ### 黑茶 hēichá (dark tea, except pu'er) — 福砖 Fú zhuān, 湖南黑茶 Húnán hēichá
