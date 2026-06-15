@@ -8,7 +8,7 @@
 
 The Chinese tradition of drinking tea isn't about “whenever you feel like it.” Behind it lies the system of twelve two-hour periods 十二时辰 (shí'èr shíchén), where each segment is linked to the peak activity of a specific organ. The concept of “three golden times” (三个黄金饮茶时刻 sān gè huángjīn yǐnchá shíkè) is a modern reading of these ancient principles. The idea is simple: tea is not just a beverage, but a tool that works in unison with the body's rhythms. Drinking it in the right window means getting the most from the leaf without disrupting qì.
 
-## First Time: 辰时 (7:00–9:00) — Awakening the Stomach
+## First Time: 辰时 Chénshí (7:00–9:00) — Awakening the Stomach
 
 The 辰时 Chénshí period is the peak of the stomach meridian 足阳明胃经. The digestive fire 胃火 (wèi huǒ, 'stomach fire') is at its maximum, and the body is ready to receive and process. Tea here is an assistant, not a stimulant.
 
@@ -26,7 +26,7 @@ The 辰时 Chénshí period is the peak of the stomach meridian 足阳明胃经.
 
 **TL;DR:** Morning is stomach time. Drink tea after breakfast, choose a light oolong or aged white. No green tea or shēng on an empty stomach.
 
-## Second Time: 未时 (13:00–15:00) — Separating the Pure and the Turbid
+## Second Time: 未时 Wèishí (13:00–15:00) — Separating the Pure and the Turbid
 
 From 13:00 to 15:00 is 未时 Wèishí, the peak of the small intestine meridian 手太阳小肠经. At this moment, the body engages in 分清泌浊 (fēn qīng mì zhuó, 'separating the pure and the turbid'): nutrients are sent to the blood, waste to the large intestine. Lunch is already partially digested by this time, and tea helps avoid 食积 (shí jī, 'food stagnation').
 
@@ -38,7 +38,7 @@ From 13:00 to 15:00 is 未时 Wèishí, the peak of the small intestine meridian
 
 **TL;DR:** After lunch is small intestine time. Aromatic oolongs and lóng jǐng help digestion, prevent food from stagnating. Drink no sooner than 15–20 minutes after eating.
 
-## Third Time: 申时 (15:00–17:00) — Water Drainage and Clarity
+## Third Time: 申时 Shénshí (15:00–17:00) — Water Drainage and Clarity
 
 The most powerful period is 申时 Shénshí, the peak of the bladder meridian 足太阳膀胱经. This is the main channel for water metabolism and descending qì 下气 (xià qì, 'descending qì'). Tea here works as a mild diuretic, flushing the system and nourishing 肾气 (shènqì, 'kidney qì'). At the same time, qì rises to the head — 清阳上升 (qīng yáng shàngshēng, 'pure yang rises'), providing mental clarity without overstimulation.
 
@@ -93,7 +93,9 @@ In Chinese medicine, every food product has its own thermal nature — 性味 (x
 
 ## Summary Table
 
-| Tea | Best Time | 时辰 (Shí'èr shíchén period) | Organ | Thermal Nature | Brief Rationale |
+The table uses the 十二时辰 (shí'èr shíchén) system — twelve traditional two-hour periods of the day in Chinese timekeeping. Each period has its own name and is linked to the peak activity of a specific organ. The "时辰" column shows the name of that period: for example, 未时 Wèishí ("Hour of the Goat", 13:00–15:00) is the small intestine period.
+
+| Tea | Best Time | 时辰 — period name | Organ | Thermal Nature | Brief Rationale |
 |---|---|---|---|---|---|
 | **Green Tea** | 13:00–15:00 | 未时 Wèishí | Small Intestine | Cool (性凉) | Cools after lunch, relieves heat, helps with food stagnation 食积. |
 | **Young White Tea** | 7:00–9:00 or 13:00–15:00 | 辰时/未时 Chénshí/Wèishí | Stomach/Small Intestine | Cool (性凉) | Gently clears 胃火 in the morning (only after eating) or relieves overheating after a heavy lunch. |
