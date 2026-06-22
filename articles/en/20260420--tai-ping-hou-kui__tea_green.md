@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Tài Píng Hóu Kuí (太平猴魁): one of China's ten famous teas — large flat-pressed green from Hóu Kēng village, Ānhuī. Cross-pressed pattern, full-bodied for a green, orchid fragrance."
-:article/hero-image ""
 :page/body
 
 # Tài Píng Hóu Kuí (太平猴魁) — Monkey King Green Tea

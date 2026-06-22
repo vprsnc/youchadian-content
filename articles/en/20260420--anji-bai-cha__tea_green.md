@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Ānjí Bái Chá (安吉白茶): a green tea from Ānjí county, Zhèjiāng — made from a rare albino cultivar mutation. Pale jade leaf, milky-sweet umami character. Despite the name, it is processed as a green tea, not white tea."
-:article/hero-image ""
 :page/body
 
 # Ānjí Bái Chá (安吉白茶) — White-Leaf Green Tea

@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Китайский зелёный чай: технология, шесть основных регионов, классические чаи (Лунцзин, Хуаншань Маофэн, Би Ло Чунь) и заваривание. Крупнейшая чайная категория Китая по объёму производства."
-:article/hero-image ""
 :page/body
 
 # Зелёный чай в Китае — обзор

@@ -5,7 +5,6 @@
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}
 :article/description "Bīngdǎo (冰岛): one of Yúnnán's most celebrated single puerh origins — five villages in Měngkù township, Shuāngjiāng county, Líncāng. Ancient tea trees, sweet and clean character, the Líncāng counterpart to Lǎobānzhāng."
-:article/hero-image ""
 :page/body
 
 # Bīngdǎo (冰岛) — The Prestigious Lincang Puerh Origin

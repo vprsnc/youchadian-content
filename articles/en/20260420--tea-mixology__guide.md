@@ -2,7 +2,6 @@
 :article/title "Chinese Tea Mixology — Flowers, Aged Peel, and Herbs"
 :article/tags ["mixology" "blending" "flower-tea" "chenpi" "jasmine" "osmanthus" "chrysanthemum" "herbal" "liang-cha" "hua-cha" "chinese-tea-blending" "guide"]
 :article/description "Chinese tea mixology: jasmine scenting, osmanthus pairing, chénpí blends, 凉茶 liángchá cooling drinks. Five rules for building balanced combinations by flavour, thermal quality, and intent."
-:article/hero-image ""
 :page/body
 
 # Chinese Tea Mixology — Flowers, Aged Peel, and Herbs

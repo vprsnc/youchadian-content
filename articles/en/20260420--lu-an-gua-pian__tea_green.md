@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Lù'ān Guā Piàn (六安瓜片): the only Chinese green made from single leaves with no bud or stem — flat, melon-seed shaped, roasted-vegetal character with good body. One of China's ten famous teas."
-:article/hero-image ""
 :page/body
 
 # Lù'ān Guā Piàn (六安瓜片) — Melon Seed Green Tea

@@ -5,7 +5,6 @@
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}
 :article/description "Liù Bǎo (六堡): traditionally fermented dark tea from Wúzhōu, Guǎngxī. Smooth woody character, improves with aging. Historically exported to overseas Chinese communities in Malaysia and Singapore."
-:article/hero-image ""
 :page/body
 
 # Liù Bǎo (六堡) — Guangxi Aged Dark Tea

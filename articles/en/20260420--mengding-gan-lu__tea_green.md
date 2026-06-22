@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Měngdǐng Gān Lù (蒙顶甘露): ancient Sìchuān green tea from Měngdǐng Mountain — one of China's oldest documented tea origins and one of its ten famous teas. Tightly rolled needle leaf, mellow sweetness, light body."
-:article/hero-image ""
 :page/body
 
 # Měngdǐng Gān Lù (蒙顶甘露) — Mengding Sweet Dew Green Tea

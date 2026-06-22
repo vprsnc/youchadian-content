@@ -4,7 +4,6 @@
 :article/category :material
 :article/type :citrus
 :article/description "Chénpí (陈皮) is sun-dried mandarin peel aged three years or more. Xīnhuì origin is the benchmark — protected GI, Chá Zhī cultivar, used in TCM, cooking, and pu-erh pairing."
-:article/hero-image ""
 :page/body
 
 # Chénpí — Aged Mandarin Peel

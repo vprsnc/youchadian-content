@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Chinese green tea: processing, the six major producing provinces, classic teas (Lóngjǐng, Huángshān Máofēng, Bì Luó Chūn), and how to brew. The largest tea category by volume in China."
-:article/hero-image ""
 :page/body
 
 # Green Tea in China — An Overview

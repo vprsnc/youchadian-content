@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Lóngjǐng (龙井, Dragon Well): China's most famous green tea from the West Lake district of Hángzhōu, Zhèjiāng. Flat-pressed, pan-fired, five historic villages. Míng qián harvest, GI protected, toasty-vegetal character."
-:article/hero-image ""
 :page/body
 
 # Lóngjǐng (龙井) — Dragon Well Green Tea

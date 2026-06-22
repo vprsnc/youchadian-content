@@ -5,7 +5,6 @@
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}
 :article/description "Jǐngmài (景迈): a vast ancient tea garden plateau in Láncāng county, Yúnnán — UNESCO World Heritage site (2023). Distinctive honey-orchid fragrance (蜜兰香, mìlán xiāng) and forest ecosystem character. One of Yúnnán's most accessible ancient-tree puerh origins."
-:article/hero-image ""
 :page/body
 
 # Jǐngmài (景迈) — Ancient Tea Garden Plateau

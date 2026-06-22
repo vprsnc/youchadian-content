@@ -5,7 +5,6 @@
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}
 :article/description "Huángshān Máofēng (黄山毛峰): delicate green tea from the Huángshān (Yellow Mountain) peaks of Ānhuī. Bud-and-leaf, white-tipped, orchid fragrance. One of China's ten famous teas."
-:article/hero-image ""
 :page/body
 
 # Huángshān Máofēng (黄山毛峰) — Yellow Mountain Green Tea

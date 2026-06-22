@@ -2,7 +2,6 @@
 :article/title "Cold Brew Chinese Tea, Bubble Tea, and New-Style Tea (新式茶饮)"
 :article/tags ["cold-brew" "bubble-tea" "boba" "modern" "guide" "xin-shi-cha-yin" "taiwanese-tea" "leng-pao-cha" "zhen-zhu-nai-cha"]
 :article/description "Cold brew Chinese tea (冷泡茶): technique and chemistry. Bubble tea origin in Taiwan (珍珠奶茶), 1986. New-style tea movement (新式茶饮): HeyTea, Nayuki, cheese foam, fresh-ingredient shift."
-:article/hero-image ""
 :page/body
 
 # Cold Brew Chinese Tea, Bubble Tea, and New-Style Tea (新式茶饮)
