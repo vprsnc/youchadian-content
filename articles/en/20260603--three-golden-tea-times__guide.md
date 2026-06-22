@@ -121,7 +121,7 @@ Tannins bind iron, and water dilutes gastric juices. The body spends resources o
 Shú pǔ'ěr is safer. It's warm 性温, gently tonifies the kidneys, and isn't overstimulating. Young shēng pǔ'ěr is better left for the morning or avoided — it's harsh and cold 性凉. Aged shēng (10+ years) is closer to shú.
 
 **4. Is green tea suitable for the evening?**
-No. Green tea is cooling 性凉 and contains caffeine. After 17:00, it disrupts the interaction of heart and kidneys 心肾相交 and interferes with sleep. Better to switch to shú pǔ'ěr or rooibos.
+No. Green tea is cooling 性凉 and contains caffeine. After 17:00, it disrupts the interaction of heart and kidneys 心肾相交 and interferes with sleep. Better to switch to shú pǔ'ěr or a lightly steeped aged shēng.
 
 **5. What if I drink tea at 20:00 — is that always bad?**
 Not always, but often. If the tea is weak and caffeine-free (e.g., a low-concentration shú pǔ'ěr), some drink it without consequences. But the principle of 心肾相交 is disrupted — it's best to finish tea sessions by 19:00.
