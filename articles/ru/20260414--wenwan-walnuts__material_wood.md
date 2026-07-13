@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Вэньвань хэтао (文玩核桃) — орехи для ладоней"
-:article/tags ["walnuts" "wenwan" "patina" "aging" "hebei" "hand-exercise" "wood"]
+:article/tags ["грецкие-орехи" "вэньвань" "патина" "выдержка" "хэбэй" "разминка-рук" "дерево"]
 :article/category :material
 :article/type :wood
 :article/product-filter {:product/category :wearable :product/type :wood}

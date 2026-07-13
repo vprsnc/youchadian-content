@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Гунфу Ча (功夫茶) — Руководство по завариванию"
-:article/tags ["brewing" "gongfu" "gaiwan" "technique" "guide"]
+:article/tags ["заваривание" "гунфу" "гайвань" "техника" "справочник"]
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/8/89/Gong_fu_cha.jpg"
 :page/body
 

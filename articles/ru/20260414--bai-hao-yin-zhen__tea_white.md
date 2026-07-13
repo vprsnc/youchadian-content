@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Бай Хао Инь Чжэнь (白毫银针) — Серебряные иглы"
-:article/tags ["white" "fujian" "fuding" "buds" "white-tea" "silver-needle"]
+:article/tags ["белый" "фуцзянь" "фудин" "почки" "белый-чай" "серебряные-иглы"]
 :article/category :tea
 :article/type :white
 :article/product-filter {:product/category :tea :product/type :white}

@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Лю Бао (六堡) — выдержанный тёмный чай из Гуанси"
-:article/tags ["liu-bao" "dark-tea" "guangxi" "wuzhou" "heicha" "aged" "fermented" "overseas-chinese"]
+:article/tags ["лю-бао" "тёмный-чай" "гуанси" "учжоу" "хэйча" "выдержанный" "ферментированный" "хуацяо"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}

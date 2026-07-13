@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Сяньлу (香炉) — Китайские курильницы"
-:article/tags ["incense" "xianglu" "burner" "boshan" "xuande" "celadon" "teaware"]
+:article/tags ["благовония" "сянлу" "курильница" "бошань" "сюаньдэ" "селадон" "чайная-посуда"]
 :article/category :incense
 :article/type :burner
 :page/body

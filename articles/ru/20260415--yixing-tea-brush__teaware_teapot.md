@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Янь ху би (养壶笔) — Кисточка для ухода за исинским чайником"
-:article/tags ["teaware" "yixing" "teapot" "maintenance" "patina" "gongfu" "zisha" "brushing"]
+:article/tags ["чайная-посуда" "исин" "чайник" "уход" "патина" "гунфу" "цзыша" "кисточка"]
 :article/category :teaware
 :article/type :teapot
 :article/product-filter {:product/category :teaware :product/type :teapot}

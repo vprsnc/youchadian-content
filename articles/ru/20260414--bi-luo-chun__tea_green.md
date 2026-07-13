@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Би Луо Чунь (碧螺春) — Нефритовая Улитка Весны"
-:article/tags ["green" "jiangsu" "dongting" "floral" "spring" "green-tea"]
+:article/tags ["зелёный" "цзянсу" "дунтин" "цветочный" "весна" "зелёный-чай"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}

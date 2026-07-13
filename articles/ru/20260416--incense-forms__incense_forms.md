@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Формы китайских благовоний — Палочки, спирали, печати и ароматический порошок"
-:article/tags ["incense" "forms" "sticks" "coils" "seal-incense" "powder" "zhuanxiang" "electric-heater"]
+:article/tags ["благовония" "формы" "палочки" "спирали" "печать-благовоний" "порошок" "чжуаньсян" "электроплитка"]
 :article/category :incense
 :article/type :forms
 :page/body

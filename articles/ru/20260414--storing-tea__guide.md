@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Как хранить чай"
-:article/tags ["guide" "storage" "freshness" "aging" "technique"]
+:article/tags ["справочник" "хранение" "свежесть" "выдержка" "техника"]
 :article/hero-image "https://images.unsplash.com/photo-74HGrqRby2Q?w=1280&fit=crop"
 :page/body
 

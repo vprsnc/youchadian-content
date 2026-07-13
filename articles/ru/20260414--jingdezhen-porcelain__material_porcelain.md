@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Цзиндэчжэнь (景德镇) — Фарфоровая столица Китая"
-:article/tags ["teaware" "porcelain" "jingdezhen" "gaiwan" "material"]
+:article/tags ["чайная-посуда" "фарфор" "цзиндэчжэнь" "гайвань" "материал"]
 :article/category :material
 :article/type :porcelain
 :article/product-filter {:product/category :teaware}

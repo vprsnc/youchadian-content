@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Шу Пуэр (熟茶) — Зрелый Пуэр"
-:article/tags ["puerh" "heicha" "dark-tea" "yunnan" "fermented" "shu" "aged"]
+:article/tags ["пуэр" "хэйча" "тёмный-чай" "юньнань" "ферментированный" "шу" "выдержанный"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}

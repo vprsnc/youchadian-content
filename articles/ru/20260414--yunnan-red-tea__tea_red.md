@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Красный чай Юньнань — Дянь Хун (滇红)"
-:article/tags ["red" "yunnan" "dianhong" "golden-tips" "yunnan-gold" "maocha"]
+:article/tags ["красный" "юньнань" "дяньхун" "золотые-типсы" "юньнань-голд" "маоча"]
 :article/category :tea
 :article/type :red
 :article/product-filter {:product/category :tea :product/type :red}

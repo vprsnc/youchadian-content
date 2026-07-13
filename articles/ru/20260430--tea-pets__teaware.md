@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Чайные питомцы (茶宠) — спутники чайного подноса"
-:article/tags ["teaware" "tea-pets" "zisha" "yixing" "gongfu-cha" "tea-culture" "chaochong"]
+:article/tags ["чайная-посуда" "чайные-питомцы" "цзыша" "исин" "гунфу-ча" "чайная-культура" "чаочун"]
 :article/category :teaware
 :article/type :teaware
 :article/description "Чайные питомцы — маленькие глиняные или фарфоровые фигурки, которых 'поят' чаем во время гунфу-ча: история, материалы, механизм смены цвета, символика и как выбрать своего."

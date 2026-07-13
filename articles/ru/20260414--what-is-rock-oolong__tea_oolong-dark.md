@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Яньча (岩茶) — Утёсный улун Уи"
-:article/tags ["oolong" "fujian" "wuyi" "yancha" "rock-oolong" "roasted"]
+:article/tags ["улун" "фуцзянь" "уи" "яньча" "утёсный-улун" "обжаренный"]
 :article/category :tea
 :article/type :oolong-dark
 :article/product-filter {:product/category :tea :product/type :oolong-dark}

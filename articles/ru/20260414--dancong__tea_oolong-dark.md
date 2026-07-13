@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Фэнхуан Дань Цун (凤凰单丛) — Улуны с одиноких кустов горы Феникс"
-:article/tags ["oolong" "dancong" "guangdong" "chaozhou" "phoenix" "fenghuang" "aroma"]
+:article/tags ["улун" "даньцун" "гуандун" "чаочжоу" "фэнхуан" "аромат"]
 :article/category :tea
 :article/type :oolong-dark
 :article/product-filter {:product/category :tea :product/type :oolong-dark}

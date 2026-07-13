@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Уи Шань (武夷山) — Горы утёсного чая"
-:article/tags ["fujian" "wuyi" "terroir" "yancha" "oolong" "geography"]
+:article/tags ["фуцзянь" "уи" "терруар" "яньча" "улун" "география"]
 :article/category :tea
 :article/type :oolong-dark
 :article/product-filter {:product/category :tea :product/type :oolong-dark}

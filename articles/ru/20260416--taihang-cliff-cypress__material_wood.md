@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Тайхан Я Бай (太行崖柏) — Утёсный Кипарис Тайхан"
-:article/tags ["wood" "cypress" "taihang" "wenwan" "bracelet" "incense" "aromatic" "shanxi"]
+:article/tags ["дерево" "кипарис" "тайхан" "вэньвань" "браслет" "благовония" "ароматный" "шаньси"]
 :article/category :material
 :article/type :wood
 :article/product-filter {:product/category :wearable :product/type :wood}

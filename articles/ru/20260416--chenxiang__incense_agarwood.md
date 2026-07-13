@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Чэньсян (沉香) — агаровое дерево"
-:article/tags ["incense" "agarwood" "chenxiang" "hainan" "vietnam" "qinan" "wearable"]
+:article/tags ["благовония" "агаровое-дерево" "чэньсян" "хайнань" "вьетнам" "цинань" "украшения"]
 :article/category :incense
 :article/type :agarwood
 :article/product-filter {:product/category :incense :product/type :agarwood}

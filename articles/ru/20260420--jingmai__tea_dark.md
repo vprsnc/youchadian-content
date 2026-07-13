@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Цзинмай (景迈) — плато с древними чайными садами"
-:article/tags ["jingmai" "puerh" "sheng" "yunnan" "lincang" "ancient-gardens" "UNESCO" "honey-orchid" "dark-tea"]
+:article/tags ["цзинмай" "пуэр" "шэн" "юньнань" "линьцан" "старые-сады" "юнеско" "медовая-орхидея" "тёмный-чай"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}

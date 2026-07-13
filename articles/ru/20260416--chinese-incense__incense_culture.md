@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Китайское благовоние (香 Xiāng) — История и культура"
-:article/tags ["incense" "culture" "history" "pinxiang" "xiangdao" "song-dynasty"]
+:article/tags ["благовония" "культура" "история" "пиньсян" "сяндао" "династия-сун"]
 :article/category :incense
 :article/type :culture
 :page/body

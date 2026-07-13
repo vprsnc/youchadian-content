@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Бай Мудань (白牡丹) — Белый Пион"
-:article/tags ["white-tea" "bai-mu-dan" "fujian" "fuding" "zhenghe" "aging" "spring"]
+:article/tags ["белый-чай" "бай-му-дань" "фуцзянь" "фудин" "чжэнхэ" "выдержка" "весна"]
 :article/category :tea
 :article/type :white
 :article/product-filter {:product/category :tea :product/type :white}

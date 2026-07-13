@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Лунцзин (龙井) — чай «Колодец Дракона»"
-:article/tags ["longjing" "dragon-well" "green-tea" "zhejiang" "hangzhou" "west-lake" "shifeng" "ming-qian" "pan-fired"]
+:article/tags ["лунцзин" "колодец-дракона" "зелёный-чай" "чжэцзян" "ханчжоу" "западное-озеро" "шифэн" "мин-цянь" "обжарка-в-котле"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}

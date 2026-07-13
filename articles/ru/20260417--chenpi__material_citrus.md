@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Чэньпи — выдержанная мандариновая кожура"
-:article/tags ["chenpi" "aged" "citrus" "material" "digestive" "pu-erh" "ganpu-cha" "xinhui" "white-tea"]
+:article/tags ["чэньпи" "выдержанный" "цитрус" "материал" "пищеварение" "пуэр" "ганьпу-ча" "синьхуэй" "белый-чай"]
 :article/category :material
 :article/type :citrus
 :page/body

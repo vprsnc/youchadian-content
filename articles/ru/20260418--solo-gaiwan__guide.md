@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Гайвань для одного — заваривание по-сычуански"
-:article/tags ["gaiwan" "gongfu" "brewing" "teaware" "technique" "solo" "sichuan" "qing-dynasty" "lidded-bowl" "drinking-technique" "chang-zui-hu" "long-spout-kettle" "chengdu"]
+:article/tags ["гайвань" "гунфу" "заваривание" "чайная-посуда" "техника" "соло" "сычуань" "династия-цин" "чаша-с-крышкой" "техника-питья" "чан-цзуй-ху" "чайник-с-длинным-носиком" "чэнду"]
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chinese_gaiwan.jpg/1280px-Chinese_gaiwan.jpg"
 :page/body
 

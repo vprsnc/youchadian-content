@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Вода для чая — температура и качество"
-:article/tags ["guide" "brewing" "water" "temperature" "technique"]
+:article/tags ["справочник" "заваривание" "вода" "температура" "техника"]
 :article/hero-image "https://images.unsplash.com/photo-oBvOyQigJ9I?w=1280&fit=crop"
 :page/body
 

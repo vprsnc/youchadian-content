@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Улун (乌龙茶 улун Ча) — Обзор и региональные традиции"
-:article/tags ["oolong" "overview" "fujian" "guangdong" "taiwan" "yancha" "dancong" "tieguanyin"]
+:article/tags ["улун" "обзор" "фуцзянь" "гуандун" "тайвань" "яньча" "даньцун" "тегуаньинь"]
 :article/category :tea
 :article/type :oolong-dark
 :article/product-filter {:product/category :tea :product/type :oolong-dark}

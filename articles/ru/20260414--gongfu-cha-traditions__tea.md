@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Гунфу Ча — Региональные традиции и стили"
-:article/tags ["gongfu" "chaozhou" "minnan" "brewing" "ceremony" "tradition"]
+:article/tags ["гунфу" "чаочжоу" "миньнань" "заваривание" "церемония" "традиции"]
 :article/category :tea
 :article/description "Гунфу ча (工夫茶) — китайское искусство заваривания с мастерством и вниманием. Сравнение региональных стилей: Чаочжоу, Миньнань, Тайвань. Истоки, ритуальные последовательности, ключевые различия."
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kung_fu_cha_-_Shanghai_-_2013-08-15_-_1411.jpg/1280px-Kung_fu_cha_-_Shanghai_-_2013-08-15_-_1411.jpg"
