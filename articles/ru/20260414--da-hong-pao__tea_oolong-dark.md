@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Да Хун Пао (大红袍) — Большой Красный Халат"
-:article/tags ["oolong" "fujian" "wuyi" "yancha" "rock-oolong" "dahongpao" "roasted"]
+:article/tags ["улун" "фуцзянь" "уи" "яньча" "утёсный-улун" "да-хун-пао" "обжаренный"]
 :article/category :tea
 :article/type :oolong-dark
 :article/product-filter {:product/category :tea :product/type :oolong-dark}

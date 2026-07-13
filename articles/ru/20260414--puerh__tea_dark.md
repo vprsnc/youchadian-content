@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Пуэр (普洱茶) — Обзор"
-:article/tags ["puerh" "yunnan" "dark-tea" "aged" "sheng" "shu" "gushu" "xishuangbanna"]
+:article/tags ["пуэр" "юньнань" "тёмный-чай" "выдержанный" "шэн" "шу" "гушу" "сишуанбаньна"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}

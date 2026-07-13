@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Биндао (冰岛) — престижное происхождение пуэра Линьцан"
-:article/tags ["bingdao" "puerh" "sheng" "yunnan" "lincang" "ancient-trees" "single-origin" "dark-tea"]
+:article/tags ["биндао" "пуэр" "шэн" "юньнань" "линьцан" "старые-деревья" "моносорт" "тёмный-чай"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}

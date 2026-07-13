@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Лу Ань Гуа Пянь (六安瓜片) — зелёный чай «Тыквенное семечко»"
-:article/tags ["lu-an-gua-pian" "green-tea" "anhui" "lu-an" "melon-seed" "single-leaf" "roasted" "ten-famous"]
+:article/tags ["люань-гуапянь" "зелёный-чай" "аньхой" "люань" "семечки-дыни" "одиночный-лист" "обжаренный" "десять-знаменитых"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}

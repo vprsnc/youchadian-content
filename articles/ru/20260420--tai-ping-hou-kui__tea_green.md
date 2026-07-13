@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Тай Пин Хоу Куй (太平猴魁) — зелёный чай «Царь обезьян»"
-:article/tags ["taiping-houkui" "monkey-king" "green-tea" "anhui" "taiping" "houkeng" "large-leaf" "ten-famous"]
+:article/tags ["тайпин-хоукуй" "царь-обезьян" "зелёный-чай" "аньхой" "тайпин" "хоукэн" "крупнолистовой" "десять-знаменитых"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}

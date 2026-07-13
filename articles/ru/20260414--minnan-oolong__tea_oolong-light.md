@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Улуны Миньнань (闽南乌龙) — Традиция Южного Фуцзяня"
-:article/tags ["oolong" "minnan" "fujian" "tieguanyin" "anxi" "qingxiang" "nongxiang"]
+:article/tags ["улун" "миньнань" "фуцзянь" "тегуаньинь" "анси" "цинсян" "нунсян"]
 :article/category :tea
 :article/type :oolong-light
 :article/product-filter {:product/category :tea :product/type :oolong-light}

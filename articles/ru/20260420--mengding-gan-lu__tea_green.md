@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Мэндин Гань Лу (蒙顶甘露) — зелёный чай «Сладкая роса с Мэндин»"
-:article/tags ["mengding-ganlu" "green-tea" "sichuan" "mengding" "yaan" "ancient-origin" "ten-famous" "sweet-dew"]
+:article/tags ["мэндин-ганьлу" "зелёный-чай" "сычуань" "мэндин" "яань" "древнее-происхождение" "десять-знаменитых" "сладкая-роса"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}

@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Чайная миксология — цветы, кожура и травы"
-:article/tags ["mixology" "blending" "flower-tea" "chenpi" "jasmine" "osmanthus" "chrysanthemum" "herbal" "liang-cha" "hua-cha" "chinese-tea-blending" "guide"]
+:article/tags ["миксология" "купажирование" "цветочный-чай" "чэньпи" "жасмин" "османтус" "хризантема" "травяной" "лян-ча" "хуа-ча" "купажирование-чая" "справочник"]
 :page/body
 
 # Чайная миксология — цветы, кожура и травы

@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Красные чаи Уишань — Чжэньшань Сяочжун и Цзинь Цзюнь Мэй"
-:article/tags ["red" "wuyi" "fujian" "lapsang" "zhengshan" "jinjunmei" "smoky"]
+:article/tags ["красный" "уи" "фуцзянь" "лапсанг" "чжэншань" "цзинь-цзюнь-мэй" "копчёный"]
 :article/category :tea
 :article/type :red
 :article/product-filter {:product/category :tea :product/type :red}

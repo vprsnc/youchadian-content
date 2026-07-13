@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Аньцзи Бай Ча (安吉白茶) — зелёный чай с белым листом"
-:article/tags ["anji-bai-cha" "green-tea" "zhejiang" "anji" "albino-cultivar" "umami" "milky" "ming-qian"]
+:article/tags ["аньцзи-бай-ча" "зелёный-чай" "чжэцзян" "аньцзи" "культивар-альбинос" "умами" "молочный" "мин-цянь"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}

@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Бэй Пао Фа (杯泡法) — Как Заваривать Зелёный Чай в Стакане"
-:article/tags ["brewing" "glass" "green-tea" "white-tea" "yellow-tea" "technique" "bei-pao-fa" "shang-tou-fa" "zhong-tou-fa" "xia-tou-fa" "guan-cha" "longjing" "biluochun" "junshan-silver-needle" "three-pouring-methods"]
+:article/tags ["заваривание" "стекло" "зелёный-чай" "белый-чай" "жёлтый-чай" "техника" "бэй-пао-фа" "шан-тоу-фа" "чжун-тоу-фа" "ся-тоу-фа" "гуань-ча" "лунцзин" "би-ло-чунь" "цзюньшань-иньчжэнь" "три-метода-пролива"]
 :page/body
 
 # Бэй Пао Фа (杯泡法) — Как Заваривать Зелёный Чай в Стакане

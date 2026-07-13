@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Сяо Е Цзытань (小叶紫檀) — Красный Сандал"
-:article/tags ["wood" "zitan" "india" "wenwan" "bracelet" "rosewood" "imperial" "red-sandalwood"]
+:article/tags ["дерево" "цзытань" "индия" "вэньвань" "браслет" "розовое-дерево" "императорский"]
 :article/category :material
 :article/type :wood
 :article/product-filter {:product/category :wearable :product/type :wood}

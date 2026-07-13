@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Хэйча (黑茶) — Тёмный Чай Китая"
-:article/tags ["heicha" "dark-tea" "fermented" "puerh" "fu-brick" "liubao" "yunnan" "hunan"]
+:article/tags ["хэйча" "тёмный-чай" "ферментированный" "пуэр" "фучжуань" "лю-бао" "юньнань" "хунань"]
 :article/category :tea
 :article/type :dark
 :article/hero-image "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?w=1280&fit=crop"

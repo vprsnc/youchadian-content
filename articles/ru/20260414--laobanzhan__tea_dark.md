@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Лаобаньчжан (老班章) — Король Пуэра"
-:article/tags ["puerh" "laobanzhan" "yunnan" "gushu" "bulang" "terroir" "sheng"]
+:article/tags ["пуэр" "лаобаньчжан" "юньнань" "гушу" "булан" "терруар" "шэн"]
 :article/category :tea
 :article/type :dark
 :article/hero-image "https://images.unsplash.com/photo-1583493890847-7ab60dfadbf5?w=1280&fit=crop"

@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Лао Ча Тоу (老茶头) — Старые Чайные Головы"
-:article/tags ["puerh" "pu-erh" "shu" "shu-puerh" "ripe-puerh" "dark-tea" "yunnan" "fermented" "aged" "lao-cha-tou" "cha-tou" "wodui"]
+:article/tags ["пуэр" "шу" "шу-пуэр" "тёмный-чай" "юньнань" "ферментированный" "выдержанный" "лао-ча-тоу" "ча-тоу" "водуй"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}

@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Тасян (檀香) — Сандаловое дерево"
-:article/tags ["благовоние" "сандал" "тасян" "лаошань" "майсур" "украшения"]
+:article/tags ["благовония" "сандал" "тасян" "лаошань" "майсур" "украшения"]
 :article/category :incense
 :article/type :sandalwood
 :article/product-filter {:product/category :incense :product/type :sandalwood}

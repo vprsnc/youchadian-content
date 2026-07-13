@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Чаочжоуский Гунфу Ча (潮州工夫茶) — Первоначальная традиция"
-:article/tags ["gongfu" "chaozhou" "teaware" "ceremony" "dancong" "tradition"]
+:article/tags ["гунфу" "чаочжоу" "чайная-посуда" "церемония" "даньцун" "традиции"]
 :article/category :tea
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/8/89/Gong_fu_cha.jpg"
 :page/body

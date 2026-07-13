@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Парные чайные чашки — Вэньсян Бэй (闻香杯) и Пинмин Бэй (品茗杯)"
-:article/tags ["teaware" "gongfu" "taiwan" "cups" "aroma"]
+:article/tags ["чайная-посуда" "гунфу" "тайвань" "чашки" "аромат"]
 :article/category :teaware
 :article/product-filter {:product/category :teaware}
 :article/hero-image "https://images.unsplash.com/photo-2168FFDZKg8?w=1280&fit=crop"

@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Яньча Уи (武夷岩茶) — Сорта и производство"
-:article/tags ["oolong" "yancha" "wuyi" "fujian" "rougui" "shuixian" "dahongpao" "roasting"]
+:article/tags ["улун" "яньча" "уи" "фуцзянь" "жоугуй" "шуйсянь" "да-хун-пао" "обжарка"]
 :article/category :tea
 :article/type :oolong-dark
 :article/product-filter {:product/category :tea :product/type :oolong-dark}

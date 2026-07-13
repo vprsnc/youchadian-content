@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Хуай Му (槐木) — Древесина Китайской Акации"
-:article/tags ["wood" "scholar-tree" "northern-china" "shanxi" "wenwan" "furniture" "huai"]
+:article/tags ["дерево" "софора" "северный-китай" "шаньси" "вэньвань" "мебель" "хуай"]
 :article/category :material
 :article/type :wood
 :article/product-filter {:product/category :wearable :product/type :wood}

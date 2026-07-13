@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Шэн Пуэр (生茶) — «Сырой» Пуэр"
-:article/tags ["puerh" "sheng" "raw" "yunnan" "dark-tea" "aged" "gushu" "storage"]
+:article/tags ["пуэр" "шэн" "юньнань" "тёмный-чай" "выдержанный" "гушу" "хранение"]
 :article/category :tea
 :article/type :dark
 :article/product-filter {:product/category :tea :product/type :dark}

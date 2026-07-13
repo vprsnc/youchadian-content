@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Белый Чай (白茶 Байча) — Обзор"
-:article/tags ["white" "bacha" "fujian" "overview" "fuding" "zhenghe" "processing"]
+:article/tags ["белый" "ба-ча" "фуцзянь" "обзор" "фудин" "чжэнхэ" "обработка"]
 :article/category :tea
 :article/type :white
 :article/product-filter {:product/category :tea :product/type :white}

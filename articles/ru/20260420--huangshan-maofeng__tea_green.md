@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Хуаншань Маофэн (黄山毛峰) — зелёный чай Жёлтой горы"
-:article/tags ["huangshan-maofeng" "green-tea" "anhui" "huangshan" "yellow-mountain" "ming-qian" "maofeng"]
+:article/tags ["хуаншань-маофэн" "зелёный-чай" "аньхой" "хуаншань" "мин-цянь" "маофэн"]
 :article/category :tea
 :article/type :green
 :article/product-filter {:product/category :tea :product/type :green}

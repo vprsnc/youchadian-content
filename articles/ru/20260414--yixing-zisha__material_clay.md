@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Исинская Цзышā (宜兴紫砂) — Посуда из пурпурной глины"
-:article/tags ["teaware" "yixing" "clay" "zisha" "teapot"]
+:article/tags ["чайная-посуда" "исин" "глина" "цзыша" "чайник"]
 :article/category :material
 :article/type :clay
 :article/product-filter {:product/category :teaware :product/type :teapot}

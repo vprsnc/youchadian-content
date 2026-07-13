@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Тегуаньинь (铁观音) — Улун Железной Богини"
-:article/tags ["oolong" "fujian" "anxi" "floral" "oolong-light"]
+:article/tags ["улун" "фуцзянь" "анси" "цветочный" "светлый-улун"]
 :article/category :tea
 :article/type :oolong-light
 :article/product-filter {:product/category :tea :product/type :oolong-light}

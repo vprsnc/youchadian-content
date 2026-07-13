@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Современные стили чая — холодная заварка, бабл-ти и новая волна"
-:article/tags ["cold-brew" "bubble-tea" "boba" "modern" "guide" "xin-shi-cha-yin" "taiwanese-tea" "leng-pao-cha" "zhen-zhu-nai-cha"]
+:article/tags ["холодное-заваривание" "бабл-ти" "боба" "современный" "справочник" "синь-ши-ча-инь" "тайваньский-чай" "лэн-пао-ча" "чжэнь-чжу-най-ча"]
 :page/body
 
 # Современные стили чая — холодная заварка, бабл-ти и новая волна

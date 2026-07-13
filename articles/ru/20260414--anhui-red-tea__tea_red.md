@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Красный чай Аньхоя — Цимэнь Хунча (祁门红茶)"
-:article/tags ["red" "anhui" "keemun" "qimen" "gongfu" "huangshan"]
+:article/tags ["красный" "аньхой" "цимэнь" "гунфу" "хуаншань"]
 :article/category :tea
 :article/type :red
 :article/product-filter {:product/category :tea :product/type :red}

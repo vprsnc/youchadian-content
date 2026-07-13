@@ -1,6 +1,6 @@
 :page/lang :ru
 :article/title "Китайский чайный дом (茶馆) — история, общество и выживание"
-:article/tags ["teahouse" "culture" "history" "chengdu" "secret-society" "gongfu" "sichuan"]
+:article/tags ["чайный-дом" "культура" "история" "чэнду" "тайное-общество" "гунфу" "сычуань"]
 :article/category :tea
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teahouse_in_Baihuatan_Park_-_Chengdu%2C_China_-_DSC03846.JPG/1280px-Teahouse_in_Baihuatan_Park_-_Chengdu%2C_China_-_DSC03846.JPG"
 :page/body
