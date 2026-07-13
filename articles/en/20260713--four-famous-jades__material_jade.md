@@ -27,6 +27,8 @@ Let us proceed in order.
 
 **Status:** The stone of Chinese civilization. As early as the Liangzhu culture (c. 3300–2300 BCE), it was fashioned into ritual jades — the cong 琮 and the bi 璧. Later, it was used for imperial seals of the Han dynasty. Today, hé tián yù is the most expensive of the four: top material ranges from $1,000 to $10,000+ per gram. The same term 和田玉 is also applied to imported material — Russian 俄料 (é liào) and Korean 韩料 (hán liào); these are cheaper.
 
+The classic river deposits near Hotan — pebble "seed jade" (籽料 zǐliào) from the Yurungkash and Karakash rivers — are essentially worked out. There is no industrial prospecting or mining there today; prospectors search the riverbeds by hand, finds are rare and expensive. The very same mineral (tremolite-actinolite nephrite) is mined all across Xinjiang along the Kunlun and Altyn-Tagh ranges: Yecheng/Kargilik (叶城), Qiemo/Cherchen (且末), Ruoqiang (若羌) counties and others. This is mountain material "山料" (shānliào) — mineralogically the same Hetian nephrite. Qiemo county produces most of Xinjiang's output today. The Chinese national standard (GB/T 16552) defines 和田玉 by mineral composition, not locality — so Xinjiang shānliào, plus Qinghai, Russian and Korean material, all legally sell as "Hetian jade". The name now denotes a stone type, not geography. Price difference: river seed jade is the collector top tier; shānliào is more affordable at the same composition.
+
 ### Dú shān yù (独山玉) — Dushan Jade
 
 **Mineral:** Anorthosite rock — neither nephrite nor jadeite. Mohs hardness: 6.0–6.5.
@@ -49,7 +51,7 @@ Let us proceed in order.
 
 ### Lán tián yù (蓝田玉) — Lantian Jade (Not Blue!)
 
-**Mineral:** Marble with silicates. Mohs hardness: 3–4. Color is pale, yellow-green; there is no blue in it — the name is poetic.
+**Mineral:** Marble with silicates. Mohs hardness: 3–4. The character 蓝 (lán, "blue") in the county name Lantian ("blue field") might make readers expect a blue stone — but the stone is pale yellow-green with no blue; the name comes from the place, not the color.
 
 **Region:** Lantian County, Shaanxi Province.
 
@@ -79,7 +81,7 @@ Let us proceed in order.
 
 | Stone | Mineral | Region | Mohs Hardness | Colors | Market Status |
 |-------|---------|--------|---------------|--------|---------------|
-| Hé tián yù | nephrite (tremolite-actinolite) | Xinjiang, Kunlun, Yurungkash & Karakash rivers | 6.0–6.5 | white (yáng zhī bái yù), green, yellow, black, sugar | top material, $1000–10000+/g |
+| Hé tián yù | nephrite (tremolite-actinolite) | Xinjiang, Kunlun, Yurungkash & Karakash rivers; also mountain deposits across Kunlun & Altyn-Tagh: Qiemo/Cherchen, Yecheng/Kargilik, Ruoqiang. River seed jade zǐliào now extremely scarce and hand-prospected. | 6.0–6.5 | white (yáng zhī bái yù), green, yellow, black, sugar | top material, $1000–10000+/g for seed jade; shānliào more affordable |
 | Dú shān yù | anorthosite rock | Nanyang, Henan | 6.0–6.5 | polychrome (green, white, purple, yellow, red) | affordable carving |
 | Xiù yù | serpentine | Xiuyan, Liaoning | 2.5–5.5 | green tones | cheapest, <$1/g |
 | Lán tián yù | marble with silicates | Lantian, Shaanxi | 3–4 | pale yellow-green | souvenirs |
@@ -126,3 +128,6 @@ A shǒu chuàn bead bracelet or a shǒu bǎ jiàn handheld carving. They are wea
 
 **Why does turquoise darken?**
 It is porous — it absorbs skin oils and darkens over time. This is normal and part of the wénwán aesthetic: a patina as a record of contact with the owner.
+
+**Is Hetian jade still mined at the classic river deposits?**
+The classic river deposits near Hotan — pebble "seed jade" (籽料 zǐliào) from the Yurungkash and Karakash rivers — are essentially worked out. There is no industrial prospecting or mining there today; prospectors search the riverbeds by hand. Finds are rare and expensive. The vast majority of Hetian jade now comes from mountain deposits (山料 shānliào) mined across the Kunlun and Altyn-Tagh ranges, especially Qiemo county.
