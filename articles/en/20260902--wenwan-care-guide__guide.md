@@ -13,6 +13,8 @@ The process is called **pánwán (盘玩)** — literally "to roll and play." Si
 
 This guide is assembled from Chinese sources — collector forums, dealers, specialist sites like 崖柏之家. We have tried to keep what is evidenced separate from what is passed along as lore. There is a difference, and it matters.
 
+Why do this at all — the culture of wenwan, slowness, and the object you finish yourself — is covered separately: [The thing you cannot buy ready-made](/blog/en/wenwan-culture-grow-your-own).
+
 **TL;DR:** it comes down to two questions. Does the material supply its own oil, or does the oil come off your hands? And do you want it to darken? Answer both and the method follows.
 
 ## What this covers
@@ -474,6 +476,7 @@ Worth keeping separate.
 
 ## Related articles
 
+- [The thing you cannot buy ready-made](/blog/en/wenwan-culture-grow-your-own) — the culture of wenwan: why an object is worked by hand for months
 - [Taihang yabai (太行崖柏)](/wiki/taihang-cliff-cypress) — cliff cypress: scent, figure, oil content
 - [Huanghuali (黄花梨)](/wiki/huanghuali) — the king of Ming furniture and its figure
 - [Xiao ye zitan (小叶紫檀)](/wiki/xiao-ye-zitan) — the densest wood in wenwan
