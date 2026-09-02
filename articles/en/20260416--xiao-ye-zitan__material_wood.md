@@ -56,9 +56,17 @@ Additional test: sniff the shavings. Genuine xiǎo yè has a faint earthy-woody 
 
 - **Wear daily** — skin contact develops patina; infrequent wear slows the process
 - **Avoid prolonged water immersion** — the wood is dense but not waterproof; sustained soaking can cause micro-cracking
-- **No oils or polishes** — the wood has sufficient natural oils; adding external product disrupts natural patina development. Exception: in extremely dry climates (below 30% humidity), a single drop of pure linseed oil may be applied once every 3–4 months
+- **No oils or polishes** — the wood has sufficient natural oils; adding external product disrupts natural patina development. An exception is sometimes suggested for extremely dry climates (below 30% humidity): a single drop of pure linseed oil every 3–4 months. Worth knowing that Chinese guides to the oily woods do not offer this and converge on "do not oil it" — oil attracts dust and sits on top of the film you are building
 - **Avoid sudden temperature changes** — zǐtán's high density makes it somewhat susceptible to checking if moved between extreme environments (e.g. from cold outdoors directly to a radiator). Optimal storage humidity: 50–60%
 - **Cleaning**: dry soft cloth (cotton or microfiber). No alcohol wipes — alcohol dissolves natural resin
+
+### Why zǐtán forgives what the others do not
+
+Among the oily woods zǐtán is the most forgiving, for a simple reason: **the one thing that could go wrong is the thing you want.** Darkening is the goal, not a loss. On [huánghuālí](/wiki/huanghuali) sebum buries the figure; on [yabai](/wiki/taihang-cliff-cypress) it costs you the fragrance. On zǐtán it merely accelerates what the bracelet was bought for.
+
+So it is **bare hands from the start**, with no preliminary glove phase. Many people still begin with a few days of gloves to strip the factory wax and even out the surface — but that is hygiene, not protection against darkening.
+
+What survives from the general rules: light rest between sessions (the film has to oxidise, not just accumulate), dry hands, and covering the whole bead including around the holes. The full mechanism is in the [pánwán care guide](/wiki/wenwan-care-guide).
 
 ## Related
 
