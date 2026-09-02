@@ -4,6 +4,7 @@
 :article/category :material
 :article/type :wood
 :article/product-filter {:product/category :wearable :product/type :wood}
+:article/description "Сяо е цзытань (小叶紫檀) — самое плотное дерево вэньвань: императорская история, золотые звёзды и кровяные линии, как отличить настоящий от подделок и почему из маслянистых пород он самый снисходительный в работе."
 :page/body
 
 # Сяо Е Цзытань (小叶紫檀) — Красный Сандал

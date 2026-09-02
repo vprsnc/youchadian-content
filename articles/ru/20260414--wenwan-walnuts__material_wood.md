@@ -5,6 +5,7 @@
 :article/type :wood
 :article/product-filter {:product/category :wearable :product/type :wood}
 :article/hero-image "https://images.unsplash.com/photo-nBnl9sXFft0?w=1280&fit=crop"
+:article/description "Вэньвань хэтао (文玩核桃) — грецкие орехи для ладоней: сорта, парность, как их катают, как формируется баоцзян и почему здесь обязательны голые руки, а щётка и перчатка делают разную работу."
 :page/body
 
 # Вэньвань хэтао (文玩核桃) — орехи для ладоней

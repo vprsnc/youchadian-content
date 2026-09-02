@@ -4,6 +4,7 @@
 :article/category :material
 :article/type :wood
 :article/product-filter {:product/category :wearable :product/type :wood}
+:article/description "Тайхан я бай (太行崖柏) — утёсный кипарис с гор Тайхан: шесть типов текстуры, аромат из шести оттенков, содержание масла как главный критерий качества, и почему патина здесь строится из смол дерева, а не из кожного жира."
 :page/body
 
 # Тайхан Я Бай (太行崖柏) — Утёсный Кипарис Тайхан
