@@ -100,6 +100,34 @@ In Chinese wénwán culture, objects made of stone or wood are not simply adornm
 
 These formats parallel those in wood wénwán: [wénwán walnuts](/wiki/wenwan-walnuts), [huánghuālí](/wiki/huanghuali) — bracelets, handheld items.
 
+## Care and pánwán
+
+Jade is the pleasant exception among wenwan materials: **you essentially cannot get it wrong by handling.** No over-playing, no blackening, no exhausting it, no rest schedule to keep. Wear it or don't.
+
+The reason is mechanical. The stone has no oil of its own — it is a mineral, with nothing inside to draw out. Its patina is built from your sweat and sebum, filling the surface micro-topography and oxidising in air into a thin film whose brightness produces that soft diffuse glow. And because the film is thin and largely optical, it has nothing to cure — **there is no rest phase**, unlike the oily woods such as [yabai](/wiki/taihang-cliff-cypress).
+
+### Two inversions from the wood
+
+**Water is fine, and required.** New Hetian nephrite should be soaked in warm — never hot — water for about twenty minutes, wiped with a clean white cloth, drained, then brushed gently with a soft brush. This removes the industrial paraffin wax applied at the factory for shelf appeal: it sits in the pores and mutes the stone's real character. A two-to-three-hour soak is also given.
+
+**A brush is permitted and useful on carved pieces.** Occasional light brushing clears dust that would otherwise settle into crevices. The exact opposite of the advice for wood. On plain round beads it is largely optional.
+
+**No gloves at all:** bare skin is the supply.
+
+### Method
+
+**文盘** ("civil play") is what you want: clean hands, one to two hours a day, body oils doing the work, first changes visible in three to six months. Colour can also even out over time, particularly in 青白玉 and 糖玉.
+
+**武盘** ("martial play"), where beads are made to knock and rub against each other with the accompanying sound, is specifically not recommended — it damages the strand.
+
+**Jadeite** is much denser and glassier than nephrite and responds far less: with it the goal is preservation rather than transformation. **A separate warning about B货 翡翠** — acid-bleached and resin-impregnated — it must never be oiled or heavily handled, as the resin yellows and crazes. Without a certificate it is sensible to treat any jadeite as unknown.
+
+### The real risk
+
+Unlike wood, the danger here is not colour but fracture. The stone is tough, but a sharp knock can start an internal flaw that surfaces months later. Remove it before anything physical. No ultrasonic cleaners, no boiling, no sudden temperature changes; keep it away from perfume, alcohol, cleaners and bleach.
+
+How jade sits against the other materials is covered in the [pánwán care guide](/wiki/wenwan-care-guide).
+
 ## Related Articles
 
 - [Huánghuālí — The Scholar's Wood](/wiki/huanghuali)
