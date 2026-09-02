@@ -88,6 +88,23 @@ All *Aquilaria* and *Gyrinops* species have been listed in CITES Appendix II sin
 - **Knife test:** Genuine sinking chénxiāng is hard (Mohs hardness ~2.5) and brittle; shavings curl and fragment. Qínán specifically is soft and waxy — it will dent rather than fragment, and shavings smear.
 - **Chemical test (mass spectrometry or GC-MS):** Expensive but definitive — looks for characteristic sesquiterpenes (agarofuran, dihydroagarofuran). Used in laboratories, e.g., the Hǎinán Institute of Medicine.
 
+## Caring for beads and strands
+
+If your chénxiāng is a bracelet or a strand, the main rule is an unexpected one: **you do not play it.**
+
+Agarwood is generally unsuited to 盘玩. A patina layer closes the surface pores, and those pores are exactly how the fragrance escapes — so by diligently working a bead you remove the one thing you bought it for. Only rare high-oil pieces keep their scent while forming a patina.
+
+- **Wear it intermittently.** Continuous wear burns through the oils faster
+- **No rubbing, no brushing, no gloved sessions**
+- **Wipe with a slightly damp cotton cloth**, then shade-dry. The point is lifting grime, not polishing
+- **Store it sealed** when not worn
+- **Off in the shower:** shampoo, body wash and detergent corrode agarwood and thin its scent
+- **Do not oil it**
+
+**On the common claim that agarwood's scent is "resin, not volatile oil":** this is wrong. Oud oil is steam-distilled, and distillation only works on volatiles. The real difference from [yabai](/wiki/taihang-cliff-cypress) is molecular weight — agarwood is dominated by heavy sesquiterpenes and chromones that evaporate slowly, while yabai leans on lighter monoterpenes plus cedrol that move fast. It is a difference of rate, not of category, and the practical consequence is that yabai loses its scent markedly faster under the same handling.
+
+How this sits against the other wenwan materials is covered in the [pánwán care guide](/wiki/wenwan-care-guide).
+
 ## Related
 
 - [Chinese Incense (香) — History and Culture](/wiki/chinese-incense)
