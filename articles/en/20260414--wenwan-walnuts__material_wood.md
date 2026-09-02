@@ -116,10 +116,14 @@ The same logic applies to 养壶 (yǎng hú — teapot conditioning): a tea brus
 ## Care
 
 - **Handle daily**: The practice is the care
+- **Give new walnuts a brush-only phase first**: clear the grooves so the colour comes up evenly rather than blotching around trapped grime
+- **Alternate work and rest**: 七盘七放, "seven times played, seven times set down." Rubbing only delivers oil to the surface; oxidation turns it into a film, and that needs time without friction. Continuous rolling does not speed the process up
 - **No water contact**: Walnuts crack with moisture fluctuations; remove before washing hands
 - **No oil or wax**: Let patina develop naturally
 - **Storage**: Fabric-lined box, away from direct sunlight (UV fades natural patina)
 - **Climate**: Avoid humidity and temperature extremes — large fluctuations cause cracking
+
+Walnuts belong to the group of materials with **no oil of their own**: the shell is lignified endocarp, and there is nothing inside to draw out. Bare hands are therefore mandatory here and a glove is only ever a supporting tool — the reverse of [yabai](/wiki/taihang-cliff-cypress) and [huanghuali](/wiki/huanghuali), where it is the primary one. How this works across the other materials is set out in the [pánwán care guide](/wiki/wenwan-care-guide); the seeds that share the walnut's logic are covered in [Wenwan seeds](/wiki/wenwan-seeds).
 
 ## The shared language of patina
 

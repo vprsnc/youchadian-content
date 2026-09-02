@@ -152,7 +152,7 @@ Major museums with significant Yíxīng collections:
 - [Dà Hóng Páo](/wiki/da-hong-pao) — classically brewed in zǐní yíxīng
 - [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide)
 - [Cháozhōu Clay](/wiki/chaozhou-clay) — southern Chinese analogue to zhūní
-- [Bāojiāng](/wiki/baojiang) — patina as a cultural phenomenon
+- [Pánwán (盘玩)](/wiki/wenwan-care-guide) — bāojiāng in wenwan: the same idea of patina, by a different mechanism — hands rather than tea
 
 ## FAQ
 

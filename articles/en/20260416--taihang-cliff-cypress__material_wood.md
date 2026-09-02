@@ -48,7 +48,28 @@ Tàiháng yá bǎi beads and bracelets are a major category in the wénwán (文
 | Weight | Noticeably dense for the size — heavy beads indicate old, compressed growth |
 | Absence of cracks | Micro-cracks are acceptable in deadwood (sign of natural ageing), but large defects reduce value |
 
-Bāojiāng (包浆) develops readily in cliff cypress: skin oils interact with the wood's natural resin, deepening the colour toward amber-brown and intensifying grain contrast. With sustained wear, the patina achieves rùn (润) — a warm, jade-like inner luminosity visible in raking light. The fragrance evolves as skin chemistry blends with the wood's oils — it first becomes sweeter, then gradually fades. On average, a full patina takes 3–6 months of regular wear (at least 2–3 hours per day) to develop.
+Bāojiāng (包浆) develops readily on cliff cypress, but not in the way people usually assume: the feedstock is **the wood's own resin**, not your skin oil. Friction makes heat, heat drives the internal oil to the surface, air oxidises it into a film. The colour deepens toward amber-brown, grain contrast rises, and with sustained work it reaches rùn (润) — a warm, jade-like inner luminosity in raking light.
+
+The direct evidence that internal oil is what matters: **low-oil yabai does not patina at all.** White sapwood and damp material will not develop 包浆 however much you work them. If sebum were the feedstock, poor material would patina as readily as good.
+
+Which leads to an awkward tradeoff worth knowing before you buy: **fragrance and patina compete for the same oil.** The more you work a bead, the faster the scent goes, and it does not come back. A full patina means two to three months to the glassy 玻璃底 and three to six months to a stable state.
+
+## Care and pánwán
+
+Yabai is not a material you simply wear until it darkens. Before a patina exists, wearing is **specifically contraindicated**: hand oil and moisture carry dirt into the open pores, where it will not come out. This is the first of the Chinese "ten prohibitions" for yabai.
+
+- **Start in cotton gloves, not bare hands.** Bare hands too early produce 盘黑 (sweat-driven blackening) or 盘花 (blotchiness) — neither reversible. Move to bare hands after roughly a month of glove cycles, once the film exists
+- **Both hands, the whole strand between the palms.** Not one-handed on one section, which lays the patina unevenly. Pay particular attention around the bead holes (孔口); a miss shows later as a lighter ring
+- **Seal it in a bag between sessions** (闷油), which brings the oil to the surface. This is the opposite of [huanghuali](/wiki/huanghuali), which rests in open air; confusing the two regimes is the most common mistake
+- **At about one month, open the bag** and give it air for 15–30 days. Not sooner: the oil hardens unevenly and the patina comes out patchy in thickness
+- **When a slight drag or tackiness appears, stop and wait.** That is the thin patina, and rubbing during this phase interferes with oxidation — it slows the process rather than speeding it
+- **Do not rub hard, fast, or for long stretches** — the oil surfaces faster than it can oxidise, and the glove absorbs it
+- **No water.** If dirty, a barely damp cotton cloth, then let it sit. Off for hand-washing and showers
+- **Do not oil it.** Do not wear it for long stretches in heat while the patina is still thin
+
+If what you actually value in a piece is the fragrance rather than the surface, there is a legitimate alternative: Chinese sellers treat 闻香手串 — "scent bracelets" — as a separate category that is never played at all, kept in a jar and picked up to smell.
+
+The full account — phases, timings, tools, the genuine disagreement about session frequency, and the white frost 白霜 — is in the [pánwán care guide](/wiki/wenwan-care-guide).
 
 ## Relationship to Incense
 

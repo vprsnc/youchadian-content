@@ -138,6 +138,8 @@ As a result, furniture timber, incense resin, and cliff shrub ended up on the sa
 
 ## Related articles
 
+- [Pánwán (盘玩)](/wiki/wenwan-care-guide) — how to work these woods: gloves, rest cycles, failure modes
+
 - [Four famous jades of China](/wiki/four-famous-jades) — series
 - [Four famous potteries of China](/wiki/four-famous-potteries) — series
 - [Hainan huanghuali](/wiki/huanghuali) — detailed article on the species
