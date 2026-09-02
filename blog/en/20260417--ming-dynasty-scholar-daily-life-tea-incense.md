@@ -60,4 +60,4 @@ Chinese has a word for this state: 闲情 (xiánqíng), "leisured feeling." Not 
 
 In his old age, after the fall of the Ming dynasty and the loss of everything he owned, Zhang Dai wrote his memoirs from a mountain hiding place. Those days — the orchid tea, the smoke of agarwood, the quiet evening with a friend — appeared to him then as a dream. "The life of a man is eighty years," he begins one of his essays, "and half of it is sleep."
 
-Perhaps it was a dream. But some things begin small: a modest teapot, a few grams of good tea, five minutes without a screen. At 又一家茶店 there is somewhere to start — [browse our teas](/shop/en).
+Perhaps it was a dream. But some things begin small: a modest teapot, a few grams of good tea, five minutes without a screen. At 又一家茶店 there is somewhere to start — [browse our teas](/shop/en/products).
