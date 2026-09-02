@@ -65,10 +65,17 @@ This aging through wear is considered the point of huánghuālí beads — not d
 
 ## Care
 
-- **Wear regularly**: Skin oils and body warmth develop the patina. Avoid contact with sweat — wipe dry with a cloth after heavy activity
-- **Avoid prolonged water contact**: Remove before swimming or bathing; huánghuālí dislikes extended dampness
-- **Clean with dry or barely damp soft cloth**: No chemicals, no polishes, no oils; chamois cloth is acceptable
-- **Store in fabric pouches or wooden boxes**, away from direct sunlight, heat sources (radiators, air conditioning), and large temperature swings
+The key point about huánghuālí: **darkening here is a loss, not a goal.** Sebum and sweat turn the wood blackish-brown and bury the very figure you paid for. This separates it from [zǐtán](/wiki/xiao-ye-zitan), where darkening is the whole point of the work — and it is why huánghuālí demands considerably more patience.
+
+- **Work it in cotton gloves**, not bare hands, at least for the first weeks. Bare hands come later, and only on clean, completely dry palms with no lotion residue. Anyone with sweaty hands is better off not switching to them at all and letting natural oxidation do the work
+- **Rest it in open air, not in a bag.** Oxygen contact is what forms the film. Unlike [yabai](/wiki/taihang-cliff-cypress), huánghuālí is never sealed — the most common mistake among people moving between the two woods. Between sessions use a cotton bag, ideally towel-lined: soft, breathable, and protective against knocks
+- **少盘多放 — play less, rest more.** When a slight drag appears during handling, that is the thin patina: a signal to rest for a week, not to push harder
+- **Avoid water**: remove it before washing or bathing. If it does get wet, dry it immediately and work it with cotton gloves for a few days — never in sun, never with a hairdryer
+- **Clean with a dry or barely damp soft cloth**: no chemicals, no polishes; chamois is acceptable
+- **Do not oil it**
+- **Store in a fabric pouch**, away from perfume, alcohol, cleaners, direct sunlight, damp, heat sources, and knocks against hard objects
+
+A stable patina takes roughly half a year. The full phase-by-phase sequence — acclimatisation, stripping the factory wax, the two-week 挂放 hang, and the milestones along the way — is set out in the [pánwán care guide](/wiki/wenwan-care-guide).
 
 ## Related
 
