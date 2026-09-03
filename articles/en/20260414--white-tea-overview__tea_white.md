@@ -48,8 +48,6 @@ Critically distinguished by cultivar: made from **群体种** (qúntǐ zhǒng, "
 **寿眉 Shòuméi — Longevity Eyebrow**
 Leaf-dominant, lower-bud ratio, later harvests (early May onward) or autumn. Most affordable. Mellow, less refined, more robust. Popular in large quantities for pressing into cakes for long-term aging investment — good body for transformation, low cost.
 
-**TL;DR:** Four grades by harvest material: Yínzhēn (single buds only, most delicate, slowest aging) → Bái Mǔdān (bud + 1–2 leaves, everyday premium, ages actively) → Gòngméi (from qúntǐ zhǒng landrace càichá cultivar — definitionally distinct, not merely a lower-grade Bái Mǔdān; nectar-cinnamon character) → Shòuméi (leaf-dominant, affordable, best suited for long-term aging). If you want to press cakes for aging → Shòuméi; for daily drinking → Bái Mǔdān.
-
 ## Aging White Tea
 
 Fujian has a documented tradition of aging white tea in paper-wrapped bricks and compressed cakes. Unlike pǔ'ěr, there is no deliberate microbial inoculation — transformation is purely slow aerobic oxidation combined with time. The commonly cited saying:
@@ -74,8 +72,6 @@ Detailed chemical changes during aging:
 - EPSFs: ↑ proportionally with storage time
 
 **Storage for aging:** dry, dark, no strong odours, sealed. Humidity 60–65%. No refrigeration (moisture absorption risk on removal). Room temperature is correct — unlike fresh white tea, aged white is not refrigerated.
-
-**TL;DR:** Aging saying: 一年茶三年药七年宝 ("one year tea, three year medicine, seven year treasure"). At 3+ years: EPSFs (N-ethyl-2-pyrrolidinone-substituted flavan-3-ols) accumulate — now used as a scientific marker for authentic long-aged white tea; measurable activity on blood-sugar metabolism enzymes. At 7+ years: theabrownins peak, profile shifts to dried fruit and woody-herbal. Storage: dry, sealed, 60–65% RH, room temperature — no refrigeration.
 
 ## New Craft White Tea (新工艺白茶 Xīn Gōngyì Báichá)
 

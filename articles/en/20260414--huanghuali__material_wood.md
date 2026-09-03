@@ -22,8 +22,6 @@ Huánghuālí (黄花梨, *Dalbergia odorifera*, also called Hǎinán huáng hu�
 
 According to the *Míng Shǐ* (明史, Official History of the Míng Dynasty), imperial furniture workshops in Beijing preferred huánghuālí above all other materials for royal residence furnishings from the Xuāndé period (1426–1435) onward, citing its grain beauty, fragrance, and structural stability.
 
-**TL;DR:** Critically endangered tropical hardwood, Hǎinán Island only, CITES Appendix II since 2017. Defined by ghost-face grain, lasting fragrance (jiàng xiāng), and Janka hardness ~1825 lbf. Imperial furniture standard since the Míng dynasty. Two colour types: yóu lí (oily, dark) and kāng lí (light yellow with contrast). Contains up to 10% oils by weight.
-
 ## Grain Patterns
 
 Huánghuālí's figuring is classified into several named types by collectors and dealers according to Chinese classification systems. A single plank may display multiple patterns simultaneously:
@@ -36,8 +34,6 @@ Huánghuālí's figuring is classified into several named types by collectors an
 | Mountain and water | 山水纹 shānshuǐ wén | Irregular bands and undulations that suggest a landscape — distant hills, layered mist, shoreline — in the grain's contrasting tones |
 | Wheat spike | 麦穗纹 màisuì wén | Fine, regular herringbone or feather-like lines radiating from a central axis — found in straight-grained sections with pronounced ray figure |
 
-**TL;DR:** Ghost face (鬼脸纹) is the most famous single feature. Flowing water (行云流水纹) creates the golden sea-like shimmer across large surfaces. Most collectors rank in ascending rarity: wheat spike → phoenix eye → flowing water → mountain water → ghost face. Exceptional pieces combine multiple patterns in one board.
-
 ## Scarcity and value
 
 Wild Hǎinán huánghuālí is commercially extinct. Peak logging occurred in the 1930s–1940s under Japanese occupation authorities, who conducted large-scale harvesting. By the early 21st century, near-total deforestation of mature specimens occurred — botanists estimate fewer than 5,000 wild trunks older than 50 years remain. Current market material is one of three types:
@@ -46,8 +42,6 @@ Wild Hǎinán huánghuālí is commercially extinct. Peak logging occurred in th
 - Antique reclaimed wood from demolished Míng or Qīng furniture — the most valued provenance
 
 If-then authenticity test: Rub vigorously between palms for 30 seconds → the fragrance should intensify noticeably, revealing the characteristic jiàng xiāng note. Vietnamese rosewood smells different: sharper, less sweet, with grassy notes. Artificial scented imitations (dyed other species) show uniform colour without natural grain depth. Under UV light (365 nm blacklight), fresh huánghuālí gives a faint bluish glow; most fakes do not fluoresce or glow an even white.
-
-**TL;DR:** Wild population almost gone (peak logging 1930s–1940s, fewer than 5,000 old trees remain). Plantations started in 1980s but need 40+ years to mature. Authenticate by 30‑second rub test (jiàng xiāng scent) and UV fluorescence.
 
 ## Beads and wearables
 
@@ -60,8 +54,6 @@ This aging through wear is considered the point of huánghuālí beads — not d
 - Grain pattern is deep and irregular, not monotonous; under a loupe, natural density variations are visible
 - Feels dense and weighty; thin shavings sink in water
 - Under UV light (365 nm), fresh huánghuālí shows a faint bluish glow; most fakes do not fluoresce or glow white
-
-**TL;DR:** Bāo jiāng (patina) develops over years of wear: surface darkens, grain deepens, fragrance evolves with skin oils. Mature bāo jiāng achieves rùn (润) — a warm, jade-like inner glow that appears moist yet feels dry. UV test (365 nm): faint blue glow. This transformation is the purpose of wearing huánghuālí — not static decoration.
 
 ## Care
 

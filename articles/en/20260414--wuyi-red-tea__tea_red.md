@@ -32,8 +32,6 @@ A critical distinction that creates significant confusion in the market:
 
 The unsmoked version is considered by many specialists to show the actual terroir and cultivar character of Tōngmù more clearly, especially its sweetness and purity. The smoked version is what created the European tradition and persists as an export product.
 
-**TL;DR:** Two distinct Zhèngshān Xiǎozhǒng products: smoked (pine/cypress fires in 青楼 qīng lóu smoke room → pine resin, campfire, dried longan — the Western "Lapsang Souchong" tradition) vs unsmoked (无烟 wú yān → honey, mountain-forest, dried longan without smoke — specialist and domestic preference). If a product labelled "Lapsang Souchong" doesn't originate from the Tōngmù / Xīngcūn zone of Wǔyí Nature Reserve → likely uses artificial smoke flavouring.
-
 ### Processing
 
 The traditional smoked process (according to Chinese standards GB/T 13738.3-2019):
@@ -73,8 +71,6 @@ The oxidation temperature is lower than that of Zhèngshān Xiǎozhǒng, yieldin
 Jīn Jùn Méi brews a clear, golden-amber liquor (colour from yellow to light orange). Aroma: honey, mountain wildflowers (especially orchid and osmanthus), dried fruits (apricot, peach), a distinctive high clean note that changes across infusions. Taste: exceptional sweetness (gān, 甘), light body (bud-only teas are thinner than leaf teas), long floral finish (yùn, 韵) with minimal astringency. Professionals note an "oily" texture and "silky" mouthfeel.
 
 Price: among the most expensive teas produced in China per gram. The 2005 original batch sparked years of imitation and counterfeiting — authentic Tōngmù Jīn Jùn Méi is distinguished from copies by its specific mountain-forest aromatic character.
-
-**TL;DR:** Jīn Jùn Méi created 2005 by Jiāng Yuánxūn (江元勛) in Tōngmù — all spring buds from the small-leaf cultivar, 50–60 thousand hand-picked buds per kilogram. Profile: honey, mountain wildflower, dried fruit, exceptional sweetness, light body (bud-only = thinner than leaf). Sparked China's domestic premium red tea market. If price seems low for all-bud spring material → likely not authentic Tōngmù origin.
 
 ### Jīn Jùn Méi and its Derivatives
 

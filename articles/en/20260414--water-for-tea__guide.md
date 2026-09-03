@@ -31,8 +31,6 @@ TDS (Total Dissolved Solids) measures mineral content in mg/L. The sweet spot fo
 
 Historically, Huì Quán (惠泉) spring water from Wúxī, Jiāngsū — with a TDS of approximately 120 mg/L — was considered the ideal water for tiě guānyīn. The 8th-century classification by Lǔ Yǔ placed it in the top tier of Chinese spring waters.
 
-**TL;DR:** TDS 80–150 mg/L is the target. Filter out chlorine. Avoid distilled (too low) and hard water (too high). A variable-temperature kettle + filtered tap water at the right TDS = practical optimum for home brewing.
-
 ## Temperature by tea type
 
 Water temperature controls which compounds are extracted and at what rate. Lower temperatures suppress bitter catechins and preserve volatile aromatics; higher temperatures extract everything more rapidly.

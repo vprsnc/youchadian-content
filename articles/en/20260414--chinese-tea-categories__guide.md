@@ -103,8 +103,6 @@ Other dark teas:
 
 Dark tea ages almost indefinitely under correct conditions (60–70% humidity, 20–25 °C, no foreign odours) and is treated as an investment by serious collectors. Some cakes from the 1990s sell for tens of thousands of dollars.
 
-**TL;DR:** Six categories, one plant (*Camellia sinensis*), differentiated entirely by processing: green (0%, immediate fixation) → white (5–15%, long withering) → yellow (10–20%, mènhuáng) → oolong (15–85%, zuòqīng) → red (80–100%) → dark (post-fermentation). If stored properly, green tea keeps fresh for up to 18 months in the fridge; at room temperature it deteriorates within 3–6 months.
-
 ## Related
 
 - [Gōngfū Brewing Guide](/wiki/gongfu-brewing-guide)

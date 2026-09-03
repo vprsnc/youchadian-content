@@ -45,8 +45,6 @@ In gōngfū chá, water is poured over the exterior of the Yixing pot during bre
 
 The key is even coverage. Uneven pouring without brushing produces **花斑 (huā bān)** — patchy, mottled luster where some areas receive more conditioning than others. The brush ensures every surface develops uniformly with each session.
 
-**TL;DR:** Pour tea over pot exterior (lín hú) → brush evenly across all surfaces → repeat each steep → drain and dry after session. Consistent brush coverage prevents uneven 花斑 patching.
-
 ## Building 包浆 (Bāojiāng) — The Patina
 
 **包浆 (bāojiāng)** is the luminous surface layer that develops on zǐshā clay through extended use. The term originates from a Daoist idea of "nurturing" an object: 包 (bāo, to wrap) and 浆 (jiāng, sap/essence) together mean "wrapped in essence." It forms through the convergence of three processes: oxidation from air contact, absorption of tea essence into the clay, and gradual hand contact during use. These do not build separate layers — they merge into a single unified patina.

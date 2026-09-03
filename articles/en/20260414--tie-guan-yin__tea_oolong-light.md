@@ -24,8 +24,6 @@ Modern tiě guānyīn comes in two main styles reflecting a significant producti
 
 If-then storage rule: If the style is qīngxiāng → store refrigerated and consume within 6–12 months. If nóngxiāng → ambient sealed storage, up to 3 years.
 
-**TL;DR:** Qīngxiāng = 15–25% oxidation, no roast, vivid green pellets, orchid scent – refrigerate 6–12 months. Nóngxiāng = ~40% oxidation + charcoal roast, caramel and dried fruit – longer room-temperature storage. If buying qīngxiāng → refrigerate immediately: it loses aroma within months at room temperature.
-
 ## How is Tiě Guānyīn processed?
 
 1. **Harvest** (采摘 cǎizhāi) – three flushes per year: spring (around 1 May), summer (July), and autumn (October); spring (春茶 chūn chá) is the most aromatic, autumn (秋茶 qiū chá) is denser and sweeter.
@@ -36,8 +34,6 @@ If-then storage rule: If the style is qīngxiāng → store refrigerated and con
 6. **Rolling** (揉捻 róuniǎn) – shapes leaf into tight pellets, by hand or machine.
 7. **Drying** – initial bake to stabilise.
 8. **Roasting** (for nóngxiāng) – charcoal bèihuǒ (焙火) for 8–12 hours, possibly repeated 2–3 times.
-
-**TL;DR:** The defining step is zuòqīng – repeated bruising cycles over 6–10 hours determine oxidation level and aromatic character. Qīngxiāng stops after drying; nóngxiāng adds charcoal roasting.
 
 ## Flavour Profile
 

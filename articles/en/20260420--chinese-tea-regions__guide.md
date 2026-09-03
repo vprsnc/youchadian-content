@@ -10,8 +10,6 @@
 
 China produces tea across more than twenty provinces and autonomous regions, but production is concentrated in eight or nine regions whose geography, climate, and craft tradition define the character of the teas they make. This guide maps the major regions and their most celebrated teas.
 
-**TL;DR:** Six provinces dominate: Fujian (white tea, oolongs, rock teas), Yunnan (puerh, red tea), Guangdong (dancong oolongs, Chaozhou tradition), Anhui (Keemun red, Huangshan greens), Zhejiang (Longjing), Jiangsu (Bì Luó Chūn). Hunan and Guangxi lead in dark teas. Each region reflects distinct terroir — altitude, soil, rainfall, and local cultivar.
-
 ## Why geography matters
 
 Tea is deeply shaped by where it grows. Altitude determines temperature range and UV exposure — slower-growing high-altitude leaves accumulate more aromatic compounds, especially amino acids. Soil chemistry affects mineral character. Humidity and rainfall influence withering conditions and the ease of fermentation. The same cultivar planted in different provinces produces measurably different tea — this is not a marketing gimmick but an empirical fact.

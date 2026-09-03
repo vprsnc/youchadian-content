@@ -26,8 +26,6 @@ The most terroir-expressive Wǔyí cultivar and the most planted: as of 2020, r�
 
 **Roast**: Usually medium-to-heavy roast, which emphasises the spice and depth while taming the sharper aromatic edges.
 
-**TL;DR:** Ròuguì = most planted and most terroir-sensitive Wǔyí cultivar. Signature: cinnamon warmth + stone fruit + orchid. If ròuguì is from Niúlán Kēng gorge (Sānkēng Liǎngjiàn core zone) → among the most expensive teas in China. Same cultivar from outside the core zone = competent but far less distinctive. Medium-to-heavy roast standard.
-
 ### 水仙 Shuǐxiān — Narcissus/Water Sprite Rock Oolong
 
 The other major cultivar, often paired with ròuguì in blends (called 武夷双雄 Wǔyí Shuāng Xióng, "the two heroes of Wǔyí"). Shuǐxiān is a large-leaf variety from small tree-form plants — older shuǐxiān trees (老枞 lǎo cōng) produce the most complex leaf. Botanically, shuǐxiān belongs to the cultivar 水仙种 (shuǐxiān zhǒng), first discovered in Jiànyáng County (建阳), Fújiàn, in the 18th century and introduced to Wǔyí in the 19th.
@@ -37,8 +35,6 @@ The other major cultivar, often paired with ròuguì in blends (called 武夷双
 **Old-tree designation**: Lǎo cōng shuǐxiān (老枞水仙) refers to shuǐxiān from bushes over 50–100 years old. The qualification is informal and unregulated — ask for evidence of the bush age. Genuine lǎo cōng shuǐxiān from Wǔyí is rare; most tea sold under this name actually comes from neighbouring counties (Jiànyáng, Jiàn'ōu).
 
 **Roast**: Wide range possible. Light roast emphasises the floral and fruity; heavy roast deepens the wood and mineral notes.
-
-**TL;DR:** Shuǐxiān = large-leaf, small-tree-form variety — deeper and more meditative than ròuguì. Lǎo cōng (老枞) designation means bushes 50–100+ years old; develops 枞味 (cōng wèi) — a mossy-woody note from decades of the tree's stored character. Warning: lǎo cōng is unregulated — ask for evidence of bush age before paying a premium. True Wǔyí lǎo cōng is rare.
 
 ### 大红袍 Dà Hóng Páo — Big Red Robe
 
@@ -110,8 +106,6 @@ The total roasting time for high-grade yánchá can exceed 60 hours across all s
 - 高火 (gāo huǒ, high roast): intense, requires "rest" time to settle after roasting; temperature 110–120°C, time 48–60+ hours
 
 After heavy roasting, a tea requires resting time (退火 tuì huǒ, "withdrawal of fire") — 1–3 months — for harsh volatile compounds (phenols, aldehydes) to dissipate and the tea to integrate. During this period the tea is stored in airtight containers at 15–20°C.
-
-**TL;DR:** Charcoal roasting in multiple sessions — total 60+ hours for high-grade zhèng yán. Four levels: qīng huǒ (light, fruity-floral) → zhōng huǒ (balanced, most common commercially) → zú huǒ (deep mineral, ages well) → gāo huǒ (intense, requires longest tuì huǒ). If you buy a freshly roasted yánchá → store 1–3 months before drinking for the fire notes to dissipate.
 
 ## 岩韵 Yányùn — Rock Rhyme
 

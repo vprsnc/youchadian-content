@@ -19,8 +19,6 @@ All tea undergoes some enzyme activity during processing. Hēichá's distinction
 
 The result is a category of tea where staleness is impossible — time is the ingredient. Bitterness, chlorophyll-driven grassiness, and sharp astringency are converted through microbial metabolism into earthy depth, smooth mouthfeel, and a characteristic aged sweetness. Polyphenols are broken down into theabrownins (茶褐素 chá hèsù), the dark polymers responsible for hēichá's typically deep, garnet-to-black liquor colour and mellow flavour.
 
-**TL;DR:** Hēichá is defined by post-fermentation via microorganisms after kill-green — a process distinct from enzymatic oxidation. Six types: pǔ'ěr (Yunnan), Fu brick (Hunan), Liu Bao (Guangxi), Liu'an (Anhui), Tibetan tea (Sichuan), Qingzhuan (Hubei). All share the theabrownin transformation; all improve with time.
-
 ## The Six Regional Types
 
 ### 普洱茶 (pǔ'ěr chá) Pǔ'ěr Chá — Yunnan
@@ -64,8 +62,6 @@ The theabrownin hypothesis received its strongest scientific support in a 2019 *
 *Eurotium cristatum* in Fu brick specifically: 2023 metabolomics work identified enhanced antioxidant capacity from EGCG (epigallocatechin gallate) derivatives and documented effects on *Lactobacillus* proportions in animal studies (a 2022 study in *Food Chemistry*).
 
 Lovastatin — a natural statin — is detected in pǔ'ěr at 61.8 mg/kg (2003 study, *Journal of Agricultural and Food Chemistry*), and content increases with ageing: in 5-year-old shú pǔ'ěr, levels reach 98.2 mg/kg. However, pharmaceutical statin doses require milligrams of potent synthetic compounds; tea delivers trace amounts insufficient for clinical lipid-lowering. The presence is real; the therapeutic equivalence is not.
-
-**TL;DR:** Theabrownin study (Nature Communications, 2019, PMC6823360) is the most rigorous hēichá science to date: documented gut microbiome effects in mice and humans. Fu brick Eurotium research is ongoing (2022–2023). Lovastatin detected at 61.8 mg/kg in pǔ'ěr (up to 98.2 mg/kg aged) — real but not therapeutically equivalent to pharmaceutical statins.
 
 ## Related
 

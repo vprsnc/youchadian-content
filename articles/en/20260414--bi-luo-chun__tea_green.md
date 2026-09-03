@@ -27,8 +27,6 @@ Everything is completed on the day of harvest; the total cycle takes 35–40 min
 
 The result: tight short spirals (2–3 cm) of dark-jade colour with a matte silvery white down.
 
-**TL;DR:** Four steps in 35–40 minutes: fixation in a wok up to 200°C → rolling at 70–80°C → palm-shaping into clusters (12–15 min, needs skill) → drying to 5–6% moisture. 60,000–70,000 shoots per kilogram. Harvest only before Qīngmíng. Bitterness indicates summer-harvest material or water above 80°C.
-
 ## Flavour Profile
 
 Genuine Dōngtíng bì luó chūn yields a pale golden-green liquor. The front palate brings osmanthus and apricot, the mid-palate features bayberry and plum, finishing with a long, clean sweetness and no bitterness. If bitterness appears in properly brewed spring-harvest tea, it is a sign of summer-harvest material or water temperature above 80°C.

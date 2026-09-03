@@ -18,8 +18,6 @@ The term "rock oolong" is not marketing — the geology is the point. The Wǔyí
 
 Teas processed identically in other regions can taste similar in the cup but cannot replicate the mineral persistence. This is the core claim of the zhèng yán (正岩, "true rock") designation.
 
-**TL;DR:** Yán yùn = volcanic mineral soils (weathered acid purple shale, pH 4.5–5.5, rich in K, Mg, Ca, Fe) + gorge microclimate (85% humidity, 400–700 m elevation) + centuries-old cultivars + charcoal roasting. It requires all four. It cannot be simulated by processing alone.
-
 ## Geography: Zhèng Yán vs Bàn Yán
 
 | Grade | Chinese | Zone | Character |
@@ -50,8 +48,6 @@ If-then grade rule: If a vendor claims zhèng yán → ask for the specific gorg
 4. **Fixation** (杀青 shāqīng): High-heat wok-frying (200–280°C) for 2–3 minutes stops oxidation. Before the wok, the leaf is briefly steamed in a closed drum (蒸 zhēng) to prevent scorching on contact with hot metal.
 5. **Rolling** (揉捻): Strip form, not ball form. Lasts 10–20 minutes at gentler pressure than Ānxī oolongs, to avoid crushing the central vein sap.
 6. **Charcoal roasting** (焙火 bèihuǒ): 80–120°C, 8–10 hours per batch; high-grade teas roasted 2–4 times over months with resting periods between. Classic pits use charcoal from hardwoods (most often oak or lychee); the temperature is controlled by varying the ash layer thickness. After each roast the tea rests 3–7 days — a process called tuì huǒ (退火, "fire withdrawal").
-
-**TL;DR:** Zuòqīng (8–12 hr rocking cycles) controls oxidation. Multi-cycle charcoal roasting (months of work for top grades) drives mineral depth and removes astringency. No other oolong category involves this level of roasting investment.
 
 ## Yán Yùn — Rock Rhyme
 

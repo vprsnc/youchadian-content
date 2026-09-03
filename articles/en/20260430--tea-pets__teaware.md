@@ -10,8 +10,6 @@
 
 Tea pets — 茶宠 cháchǒng, literally "tea darlings" — are small figurines that live on the tea tray during a [gōngfū chá](/wiki/gongfu-cha-traditions) session. They are fed the first rinse, leftover tea from the [gàiwǎn](/wiki/gaiwan), or the overflow from warming the teapot. Over months and years, this ritual transforms them: their clay darkens, a gloss deepens, and the figurine acquires a presence it did not have when new. That slow transformation is the point.
 
-**TL;DR:** Tea pets are tray companions fed with hot tea during gōngfū sessions. Zǐshā clay pets develop a unique patina over years; porcelain pets stay bright; color-changing pets use thermochromic polymer coatings (not real zǐshā). Most are auspicious symbols — the three-legged toad is the most popular. Buy zǐshā for the long game; color-changing for novelty.
-
 ---
 
 ## History

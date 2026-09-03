@@ -33,8 +33,6 @@ The Lǎo Bānzhāng flavour sequence is the primary reason for its reputation:
 
 **Conversion:** The bitterness dissolves rapidly — within 10–20 seconds of swallowing — into intense 回甘 (huígān, returning sweetness) that rises from the throat upward, stimulating salivation and a spreading sweetness.
 
-**TL;DR:** The flavour sequence is the defining characteristic: powerful immediate bitterness → converts in 10–20 seconds to explosive upward-rising sweetness (huígān) → thick oily body → deep throat resonance (hóuyùn) → strong physiological chá qì. No other pǔ'ěr delivers this at the same intensity.
-
 **Body:** Thick, oily, coating — the liquor is viscous in a way that plantation-grown pǔ'ěr rarely achieves; pectin content from old trees contributes to this quality. Orchid and forest resin aromatics; camphor coolness (凉感 liáng gǎn) rising from the throat.
 
 **Throat feel:** Deep 喉韵 (hóuyùn, throat resonance) — the sensation felt in the throat, not just the mouth. Lingering, moist, vibrant.
@@ -79,8 +77,6 @@ The village's stated annual output is approximately 40 metric tonnes of ancient-
 - Geographic isotope analysis discussed by the Chinese Institute of Geochemistry (中国科学院地球化学研究所) since 2020; no standardised method for tea exists.
 
 None of these are reliably forgery-proof; certificates themselves are routinely forged. Practically: any "Lǎo Bānzhāng" priced under ¥2,000–3,000 per 100g leaf equivalent is extremely unlikely to be authentic ancient-tree material. On platforms like Taobao or Pinduoduo, prices of ¥300–500 for "gǔshù Lǎo Bānzhāng" are guaranteed counterfeits, often using material from neighbouring mountains (e.g., Nánnuò or Hékāi).
-
-**TL;DR:** ~50 metric tonnes/year of fraudulent "Lǎo Bānzhāng" circulates against official village output of ~40 tonnes total. Certificates are forged. Price floor for plausible authentic ancient-tree: ¥2,000–3,000 per 100g. Xīn Bānzhāng at 20–40% of the price is the closest legitimate alternative.
 
 ## Xīn Bānzhāng (新班章) — The Sibling Village
 

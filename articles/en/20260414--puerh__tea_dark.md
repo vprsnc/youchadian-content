@@ -16,8 +16,6 @@ Pǔ'ěr is a post-fermented tea from Yunnan province, China — the only tea in 
 
 Under national standard **GB/T 22111-2008**, pǔ'ěr tea must be produced from leaf grown in **639 townships across 11 prefectures** of Yunnan province. Tea grown or processed outside Yunnan cannot legally carry the pǔ'ěr designation.
 
-**TL;DR:** Legal definition under GB/T 22111-2008: Yunnan province only, 639 designated townships, large-leaf cultivar (*Camellia sinensis* var. *assamica*), sun-dried máochá base material. Any one requirement missing = not genuine pǔ'ěr.
-
 The four core production regions:
 
 **西双版纳 Xīshuāngbǎnnà** — the oldest named pǔ'ěr mountain country; home to Yìwǔ, Bùlǎng Shān, Nánnuò Shān, Jǐngmài, and Bānzhāng. Includes Menghai (勐海县) and Mengla (勐腊县) counties. The climate is tropical monsoon with ferrallitic soils — ideal for the large-leaf cultivar.
@@ -41,8 +39,6 @@ Two requirements must both be met:
 **生茶 shēng chá (raw):** Máochá compressed or stored loose with no additional fermentation. Transforms slowly over years and decades through natural enzymatic activity, microbial succession, and oxidation. Young shēng is brisk, bitter, and aromatic; well-aged shēng develops camphor, dried fruit, deep sweetness, and a thick, coating mouthfeel. The primary collector's format; a 30-year shēng cake from good storage is a fundamentally different tea than the same cake opened at three years.
 
 **熟茶 shú chá (ripe):** Máochá undergoes **渥堆 wòduī** (wet-piling) — pile fermentation invented in 1973 at Kunming Tea Factory (昆明茶厂), commercially implemented by Menghai Tea Factory (勐海茶厂) by 1975. The process compresses decades of natural aging into 45–60 days. Ripe pǔ'ěr is immediately smooth and earthy; it lacks shēng's bitterness, astringency, and long aging arc, but it offers accessible depth without the commitment of waiting. In China, shú is called "ripe" rather than "fermented" — emphasizing that it is an accelerated achievement of the same maturity as old shēng.
-
-**TL;DR:** Shēng = compressed and aged naturally, starts bitter, transforms over decades. Shú = 45–60 day wòduī pile fermentation (invented 1973), smooth and earthy immediately. Two teas with the same raw material, entirely different drinking timelines.
 
 ## Pressed Forms
 
@@ -90,8 +86,6 @@ Compression also serves aging: pressed leaf creates a semi-anaerobic micro-envir
 Pǔ'ěr prices rose roughly 10× from 1999 to mid-2007, driven by speculation from Hong Kong and Taiwan traders, mainland media promotion, and "drinkable antique" marketing framing. The bubble burst in mid-2007: Xiaguan Téjī tuo fell from ~400 RMB/kg to ~60 RMB/kg in weeks; some speculators lost 80% of portfolio value within days.
 
 Contributing factors: flood of non-Yunnan leaf fraudulently labelled as pǔ'ěr; warehouse glut with no real consumer base; purely speculative demand evaporated. Roughly one-third of 3,000 tea manufacturers and merchants closed within months. The aftermath produced GB/T 22111-2008 (legal definition), industry consolidation, and the eventual rise of gǔshù ancient-tree premiums as a new — and more defensible — vector of value. According to Chinese surveys from 2008–2010, after the crash no more than 400–500 active producers remained in Xīshuāngbǎnnà; many small factories went bankrupt.
-
-**TL;DR:** 2007 crash: prices up ~10× (1999–2007) then Xiaguan Téjī fell from ~400 RMB/kg to ~60 RMB/kg in weeks. Result: GB/T 22111-2008 national standard, industry consolidation, and the shift from regional-name to gǔshù-age as the primary value axis.
 
 ## Related
 

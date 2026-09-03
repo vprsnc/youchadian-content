@@ -13,8 +13,6 @@ Tài Píng Hóu Kuí (太平猴魁, "Tàipíng Monkey King") is one of China's t
 
 The name: 太平 (Tàipíng) = the county of origin; 猴 (hóu) = monkey; 魁 (kuí) = first, finest, leader. The "monkey king" name refers to the Hóu Kēng (猴坑) village — the core origin — whose name includes the character 猴, and to the tea's status as the finest production of the area.
 
-**TL;DR:** Large flat-pressed green (6–8 cm), cross-hatch pattern, from Hóu Kēng village, Tàipíng county, Ānhuī. One of China's ten famous teas. Full-bodied for a green, orchid fragrance, lingering sweet finish. Brew 80–85°C, 4–5 g per 100 ml (the large leaf needs slightly more), 30–40 s. Long steeping vessel recommended.
-
 ## Origin and terroir
 
 Hóu Kuí comes from Hóu Kēng (猴坑) village and surrounding Hóu Gǎng (猴岗) and Yán Jiā (颜家) areas in the Xīn Míng (新明乡) township of what was formerly Tàipíng county (now part of Huángshān City, Huángshān District). The villages sit at around 700–900 m elevation in the Qīngshān (青山) valley — a deeply shaded area with high humidity, acidic peat-influenced soils, and very limited direct sunlight.

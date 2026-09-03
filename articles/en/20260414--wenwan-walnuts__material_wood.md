@@ -22,8 +22,6 @@ The walnuts used are specific decorative cultivars, not culinary walnuts (Juglan
 
 All genuine wénwán walnuts come from the mountains of Héběi province — primarily **Láishuǐ (涞水)** and **Yìxiàn (易县)** counties west of Beijing. Thin, rocky mountain soils and high diurnal temperature variation slow growth, producing denser, harder shells than valley-grown material.
 
-**TL;DR:** Decorative cultivars (not culinary), Láishuǐ/Yìxiàn counties (Héběi) only. Mountain growing conditions → denser shell → better patina development. The origin is traceable and price reflects it.
-
 ## Major cultivar types
 
 Chinese classification counts dozens of cultivars, but four basic types define the market. All names are shape metaphors rooted in the Qīng era.
@@ -51,8 +49,6 @@ Advanced technique: Both hands simultaneously, one pair per hand — promotes bi
 - **3–10+ years**: Deep mahogany or near-black; the surface achieves **rùn (润)** — a jade-like inner luminosity, deep and glassy with warmth from within. The finest specimens reach **玉化 yùhuà ("jade transformation")** — the surface becomes translucent and smooth like nephrite jade
 
 Daily practice of 30–60 minutes over 3–6 months produces first visible patina. Full deep bāojiāng takes 2–5 years of consistent daily handling.
-
-**TL;DR:** Pán wán = daily 30–60 min rotation. First visible patina at 3–6 months. Deep bāojiāng takes 2–5 years. No shortcuts — artificial oils or heat treatment is collector fraud; value is in accumulated time.
 
 ## Bāojiāng — the aging patina
 
@@ -106,8 +102,6 @@ When to use gloves vs. bare hands:
 | Humid climate, oily hands | Gloves — prevent over-conditioning |
 | Final polish at session end | Gloves — buff surface to even sheen |
 | Deep cleaning and maintenance | Stiff brush first, then either |
-
-**TL;DR:** Stiff zōng shuā → clean furrows before rolling. Soft brush → smooth oils after rolling. Cotton gloves → control oil volume and polish at session end. The sequence matters: brush clean, condition bare, finish gloved.
 
 ### The parallel with Yixing teapots
 

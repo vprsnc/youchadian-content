@@ -11,8 +11,6 @@
 
 Green tea (绿茶 lǜchá) is the oldest and most consumed tea category in China — accounting for roughly 60–70% of domestic production by volume. It is the most direct expression of the tea leaf: minimally processed, with no oxidation, the goal is to preserve the fresh, living character of the spring harvest as faithfully as possible.
 
-**TL;DR:** Green tea = no oxidation. Two kill-green methods: pan-firing (锅炒 guōchǎo, most common, produces toasty notes) and steaming (蒸青 zhēngqīng, older method, produces brighter, more vegetal character). Major origins: Zhèjiāng (Lóngjǐng), Ānhuī (Máofēng, Hóu Kuí, Guā Piàn), Jiāngsū (Bì Luó Chūn), Sìchuān (Gān Lù). Brew at 75–85°C — never boiling.
-
 ## How green tea is made
 
 The defining step is shā qīng (杀青, "kill-green") — applying heat immediately after harvest to halt the enzymatic oxidation that would otherwise turn the leaf brown and begin oxidation (in Chinese tea terminology, 氧化 yǎnghuà "oxidation" is distinguished from 发酵 fājiào "true fermentation" typical of pu-erh; for green teas, the process halted is oxidation). Everything that follows (rolling, shaping, drying) builds on this moment.

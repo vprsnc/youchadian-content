@@ -51,8 +51,6 @@ The name is deliberate misdirection: a farmer named his exceptional tea "duck dr
 
 Not an aroma type but an age designation. Lǎo cōng dāncōng comes from bushes over 50–100 years old. Old bushes develop a distinctive additional note: a mossy, woody, mineral depth (丛味 cōng wèi) layered beneath the primary aromatic character. Similar in concept to lǎo cōng shuǐxiān in Wǔyí. Production is small; genuine lǎo cōng commands significant price premium.
 
-**TL;DR:** Ten aroma types (十大香型): most widely available = mì lán xiāng (蜜兰香, honey orchid — reliable entry point). Most fashionable = yā shǐ xiāng (鸭屎香, "duck droppings" — deliberate decoy name; actually high jasmine + buttery smoothness). Premium age designation = lǎo cōng (老丛, 50–100+ year bushes) → adds 丛味 (cōng wèi, mossy-woody note). If a vendor cannot confirm bush age → question the lǎo cōng premium.
-
 ## Fènghuáng Mountain
 
 Phoenix Mountain rises to 1,498 m in Cháozhōu county. Tea has been cultivated here for centuries — records of tribute tea from the mountain date to the Song dynasty (960–1279). The altitude, soil composition (granitic weathered shale with rich humus), and the persistent mountain fog produce conditions similar to the high-altitude oolong environments of Táiwān and Wǔyí, but with Guǎngdōng's distinctive climate.
@@ -68,8 +66,6 @@ Dāncōng processing closely follows the yánchá model: solar withering (晒青
 - **Aromatic focus**: The processing is explicitly designed to develop and concentrate the characteristic aroma of each cultivar type. Zuòqīng timing is adjusted per cultivar to maximise the specific aromatic precursors present in that plant
 
 The aromatic compounds that produce the honey orchid, jasmine, or gardenia notes are not added — they are enzymatic and thermal transformation products of precursors present in the living leaf. This is scientifically confirmed: over 200 volatile compounds have been identified in dāncōng. The skill is in coaxing them out without overoxidising or over-roasting them away.
-
-**TL;DR:** Processing follows the yánchá model: solar withering → zuòqīng → fixation → rolling → charcoal roasting. Key difference: roast is deliberately lighter than heavy yánchá, to preserve the volatile cultivar-specific aromatics. The natural jasmine/orchid/gardenia notes are enzymatic transformation products — not added flavouring. If roasting is too heavy → cultivar character is erased.
 
 ## Brewing
 

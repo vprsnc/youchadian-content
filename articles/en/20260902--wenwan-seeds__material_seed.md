@@ -17,8 +17,6 @@ The name stuck by Buddhist logic rather than botanical: 菩提 is *bodhi*, "awak
 
 Below are the four types that actually carry the market.
 
-**TL;DR:** seeds have no oil of their own. Everything that darkens and reddens them comes off your hands — so bare hands are mandatory, and gloves defeat the purpose. The mechanics are covered in the [pánwán care guide](/wiki/wenwan-care-guide).
-
 ## Xingyue 星月菩提 — "moon and stars"
 
 **What it actually is:** the fruit of 黄藤 (huáng téng), a climbing rattan palm. Botanists long placed it in *Daemonorops* (*D. jenkinsiana*); it is now assigned to *Calamus*. Production centres on Hainan.

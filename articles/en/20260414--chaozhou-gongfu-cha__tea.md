@@ -38,8 +38,6 @@ A small **zhūní** (朱泥, red clay) or **zǐshā** (紫砂, purple clay) teap
 
 Cháozhōu **zhūní** pots are distinct from Yíxīng **zǐshā** ware: the clay composition and firing temperatures differ — *zhūní* is fired at 1100–1180 °C, producing a smoother surface with an orange-red hue, while *zǐshā* is fired at 1150–1200 °C and is structurally more porous. See [Yíxīng Zǐshā](/wiki/yixing-zisha) for comparison.
 
-**TL;DR — Four Treasures:** Yùshū Wēi (玉书煨) water kettle (flat clay, lid audibly signals boil) + Cháoshān Lú (潮汕炉) charcoal stove (**榄炭** lǎntàn olive-pit charcoal preferred, **活火** huóhuǒ "living fire") + Měngchén Guàn (孟臣罐) small zhūní pot 50–100 ml + Ruòchén Ōu (若琛瓯) white porcelain cups 20–30 ml arranged in **品** triangle. Quality test for the pot: three-points-in-line (三点一线) — spout, mouth, and handle must align when inverted.
-
 ### 4. 若琛瓯 (Ruòchén Ōu) — the Cups
 
 Tiny, thin-walled white porcelain cups, capacity 20–30 ml, named after the Qīng-dynasty master craftsman Ruòchén (若琛). 19th-century records mention that a master from Jǐngdézhèn (景德镇) made cups 4 cm in diameter and 2 cm high — these became canonical. Three cups are used, arranged in a **品** (pǐn) triangle — the character meaning "to taste," composed of three **口** (mouth) radicals. The small size and thin walls are deliberate: the cup warms quickly, cools quickly, and forces the drinker to sip attentively rather than drink casually.
@@ -81,8 +79,6 @@ These two steps are the most iconic of Cháozhōu tea service.
 **关公巡城** (Guān Gōng Xún Chéng): The practitioner pours from the pot in a continuous circular motion over all three cups simultaneously, moving back and forth in rotation. Named after Guān Yǔ (关羽), the Three Kingdoms general (220–280), whose constant vigilant patrols protected his army. The circular pour distributes the brew evenly so no cup receives a stronger or weaker infusion than another. The motion must be smooth and unbroken — this symbolises "unceasing care" (不断的关怀).
 
 **韩信点兵** (Hán Xìn Diǎn Bīng): When the pot is nearly empty, the final drops — the most concentrated — are distributed one by one to each cup. Named after Hán Xìn (韩信), the Hàn dynasty general (3rd century BCE) known for meticulous accounting of every soldier. The drops must be equalised; wasting even a drop is considered poor form — a sign of "unequal treatment of guests" (客不等).
-
-**TL;DR — Ritual Sequence:** 17 named steps, codified in the 1930s and adopted into Cháozhōu tea arts curricula, inscribed in UNESCO ICH 2022. The two most iconic: 关公巡城 (Guān Gōng Xún Chéng) — continuous circular pour over all three cups simultaneously to equalise concentration; 韩信点兵 (Hán Xìn Diǎn Bīng) — final concentrated drops distributed one by one. Leaf ratio ~1 g per 15 ml; pot filled 60–70% with dry leaf; 8–12+ infusions at 95–100°C.
 
 ## The Tea Pond and Loofah — 茶洗 and 丝瓜络 (Chá Xǐ and Sīguā Luò)
 

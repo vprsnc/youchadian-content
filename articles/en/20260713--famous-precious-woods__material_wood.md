@@ -150,10 +150,6 @@ As a result, furniture timber, incense resin, and cliff shrub ended up on the sa
 - [Chinese incense](/wiki/chinese-incense) — cultural context
 - [Wenwan walnuts](/wiki/wenwan-walnuts) — collecting culture
 
-## TL;DR
-
-The expression "four famous woods of China" is a modern market construct, not a classical canon. This list equally includes: classical furniture timber (huanghuali, zitan), architectural wood (jinsi nan), incense resin (chenxiang), and a 2010s phenomenon (Taihang cypress). All are today united by hand bracelet culture 手串. The true "four" is defined by the seller: there are at least three competing versions. Be cautious: chenxiang is the most counterfeited material in the world, and "Taihang cliff cypress" turns out to be 99% plains arborvitae.
-
 ## FAQ
 
 **What is 四大名木 (sì dà míng mù)?**

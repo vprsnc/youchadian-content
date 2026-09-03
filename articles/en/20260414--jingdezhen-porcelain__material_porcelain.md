@@ -22,8 +22,6 @@ Two factors: geology and fuel.
 
 As Père d'Entrecolles, a Jesuit missionary who documented Jǐngdézhèn kilns in 1712, wrote: "I have seen a town of kilns and workshops, of porcelain in every stage, and of fire that never goes out — it is a city that exists only for this one purpose."
 
-**TL;DR:** Unique geology (kaolinite + císhí, firing to 1,280–1,350°C) + historical fuel access = 1,000 years of continuous world-class porcelain production. Kaolin is named after Gāolǐng village near Jǐngdézhèn. The production involved 72 stages, and rejects were buried.
-
 ## Imperial Kilns
 
 From the Sòng through Qīng dynasties, Jǐngdézhèn supplied the imperial court. In 1369, at the beginning of the Míng dynasty, Emperor Hóngwǔ (Zhū Yuánzhāng) established the Imperial Kiln Factory (御窑厂, yùyáo chǎng) directly in the city centre on the banks of the Chāngjiāng. At its peak during the Yǒnglè and Xuāndé reigns (1403–1435), it employed tens of thousands of workers. The factory was organized into a rigid division of labour across 72 production stages, from quarrying to packing — "one piece passes through seventy-two hands" (一坯工力, 过手七十二, yī pī gōng lì, guò shǒu qīshí'èr). This produced unprecedented consistency and scale. Quality control was absolute: more than one hundred court-appointed inspectors (督陶官, dūtáo guān) oversaw every phase.

@@ -39,8 +39,6 @@ Australia now grows *Santalum album* in sustainable plantations in Western Austr
 
 - **Note:** In Zhènyuán Prefecture (镇沅), *Santalum yunnanense* — a closely related species — grows and produces oil with a note of orange peel; it is sometimes called "Yunnan sandalwood" but is not *S. album*.
 
-**TL;DR:** Three tiers: Lǎo Shān (Mysore) = rarest, richest, highest oil content; Australian plantation = primary commercial alternative, close profile; Yunnan Chinese = domestic production, lighter, with a lively lemon top note. Oil content and milky-sweet depth distinguish quality — "harsh" or dry notes indicate lower-grade material.
-
 ## Why is tánxiāng important in Buddhist ritual?
 
 Sandalwood entered China primarily through Buddhism, which began spreading during the Eastern Hàn dynasty (1st–2nd centuries CE). The Sanskrit term *chandana* (चन्दन) — source of the Chinese transliteration 旃檀 (zhāntán) — denoted sandalwood as a sacred offering material in Indian Buddhist practice. According to the *Saddharmapuṇḍarīka Sūtra* (法华经, Lotus Sutra), sandalwood smoke carries prayers upward and purifies the environment for practice. In the Chinese Buddhist tradition, tánxiāng is used alongside zhāntán for carving Buddha statues — for example, the famous sandalwood Buddha statue at Shānchéng Temple (檀香山寺).

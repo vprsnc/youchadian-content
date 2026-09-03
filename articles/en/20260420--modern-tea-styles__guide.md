@@ -111,16 +111,6 @@ For a deeper look at what this movement means for Chinese tea culture — and ho
 
 ---
 
-## TL;DR — Three Modern Styles
-
-**Cold brew (冷泡茶)**: Chemistry-driven technique. Low temperature = less caffeine, less bitterness, more sweetness. Best teas: light oolong, green tea, white tea, aromatic red. Ratio 1:100, 4°C, 6–8 hours.
-
-**Bubble tea (珍珠奶茶)**: Taiwanese invention, 1986. Tea + milk + chewy tapioca pearls + ice. The pearls are the point — QQ texture contrast. Now global; formats range from simple milk tea to high-grade single-origin iced tea.
-
-**New-style tea (新式茶饮)**: 2012– Chinese mainland movement. Real ingredients, fresh fruit, named-origin tea bases, cheese foam. Bridged the gap between gōngfū tea culture and a generation that grew up with specialty coffee.
-
----
-
 ## Related
 
 - [Tea Mixology](/wiki/tea-mixology) — cold brew in mixology context; pu-erh cold brew technique

@@ -24,8 +24,6 @@ The 辰时 Chénshí period is the peak of the stomach meridian 足阳明胃经.
 - Young shēng pǔ'ěr 生普 (shēngpǔ, 'raw pu'er') — too harsh for an empty stomach.
 - Green tea on an empty stomach — cooling 性凉 (xìngliáng, 'cool'), douses the digestive fire.
 
-**TL;DR:** Morning is stomach time. Drink tea after breakfast, choose a light oolong or aged white. No green tea or shēng on an empty stomach.
-
 ## Second Time: 未时 Wèishí (13:00–15:00) — Separating the Pure and the Turbid
 
 From 13:00 to 15:00 is 未时 Wèishí, the peak of the small intestine meridian 手太阳小肠经. At this moment, the body engages in 分清泌浊 (fēn qīng mì zhuó, 'separating the pure and the turbid'): nutrients are sent to the blood, waste to the large intestine. Lunch is already partially digested by this time, and tea helps avoid 食积 (shí jī, 'food stagnation').
@@ -35,8 +33,6 @@ From 13:00 to 15:00 is 未时 Wèishí, the peak of the small intestine meridian
 - Green tea: 龙井 (Lóng Jǐng) — cooling 性凉 (xìngliáng, 'cool'), relieves heat if lunch was heavy.
 
 **Why this window is convenient:** The aromas of dāncōng and tiě guānyīn don't interfere with work; rather, they focus the mind — a decent aid for the second half of the workday.
-
-**TL;DR:** After lunch is small intestine time. Aromatic oolongs and lóng jǐng help digestion, prevent food from stagnating. Drink no sooner than 15–20 minutes after eating.
 
 ## Third Time: 申时 Shénshí (15:00–17:00) — Water Drainage and Clarity
 
@@ -49,8 +45,6 @@ The most powerful period is 申时 Shénshí, the peak of the bladder meridian �
 **What to avoid:**
 - Young shēng pǔ'ěr — too harsh for the evening.
 - Strong green tea — can overstimulate and disrupt sleep.
-
-**TL;DR:** 15:00–17:00 is the best time for pǔ'ěr. Shú and aged shēng flush the body, provide energy without a caffeine jolt. The ideal window for long tea sessions.
 
 ## When Tea Is Harmful
 

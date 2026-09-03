@@ -19,8 +19,6 @@ Most tea degrades with improper storage. A few teas improve with it. The rules d
 
 **Foreign odours**: Tea absorbs surrounding aromas readily (historically exploited by storing green tea with jasmine flowers for intentional scenting — a process called 窨制 yìnzhì). Keep away from coffee, spices, perfume, and cleaning products. Do not share a cabinet with strongly scented items.
 
-**TL;DR:** Four enemies: light, oxygen, moisture, odour. If-then: all four sealed away → most teas last years. Exception: aging pǔ'ěr shēng needs airflow, not a sealed container.
-
 ## Storage rules by category
 
 ### Green tea

@@ -48,8 +48,6 @@ Key differences from Cháozhōu:
 
 Both traditions share the same fundamental brewing parameters: high leaf ratio, short steeps, multiple infusions, small vessels.
 
-**TL;DR — Three Traditions:** Cháozhōu (oldest written record, most codified): small clay pot, 3 shared cups in 品 triangle, Fènghuáng dāncōng tea, 17-step formal ritual. Mǐnnán (possibly older in practice): white porcelain gàiwǎn, individual cups per guest, Tiěguānyīn, casual-hospitable atmosphere. Táiwān (1970s refinement): added gōngdào bēi (fairness pitcher) + wénxiāng bēi (aroma cup) + meditative framing → became the dominant global model.
-
 ## Táiwān: Refinement and Global Spread
 
 Until the mid-20th century, gōngfū chá remained largely a south Chinese regional practice. Its transformation into a globally recognised form came through Táiwān in the 1970s. A key figure was tea master **吴振铎 (Wú Zhènduó)**, who popularised the method through his books and schools during the 1970s.

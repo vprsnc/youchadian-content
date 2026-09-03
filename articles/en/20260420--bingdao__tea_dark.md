@@ -13,8 +13,6 @@ Bīngdǎo (冰岛, "Ice Island") is one of the most celebrated single-origin pue
 
 If Lǎobānzhāng is defined by power — intensity, bitterness, aggressive qì — Bīngdǎo is defined by sweetness and clarity. The two names are frequently invoked together as the north and south poles of Yúnnán puerh: strength vs. elegance, Bùlǎng vs. Líncāng.
 
-**TL;DR:** Five-village puerh origin in Líncāng, Yúnnán. Famous for sweet, clean shēng puerh from ancient trees — contrasted with Lǎobānzhāng's powerful intensity. Heavily counterfeited; genuine material is expensive and scarce. Brew 90–95°C, 5–7 g per 100 ml.
-
 ## The five villages
 
 The Bīngdǎo origin comprises five named villages, all under the administrative Bīngdǎo Village (冰岛行政村) of Měngkù township, with quality decreasing from the core outward:

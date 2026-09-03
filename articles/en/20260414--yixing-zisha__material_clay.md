@@ -50,8 +50,6 @@ Zhūní (朱泥) and hóngní (红泥) both fire red and are frequently confused
 
 **If-then:** If a pot is described as zhūní and is large (over 200 ml) → nearly always hóngní or a blend. The 25–30% shrinkage rate makes large zhūní pots technically and economically impractical.
 
-**TL;DR:** Three primary clays (zǐní, zhūní, duàní), with zǐní alone having five named sub-types from rare tiānqīng to common qīngshuǐ. Fired colour varies enormously by temperature and sub-type — do not judge clay type by colour alone. Zhūní's extreme 25–30% shrinkage makes it genuinely rare in large sizes.
-
 ## How does zǐshā improve the brew?
 
 The defining property of zǐshā is its **double-porosity structure**: interlocking clay particles create a network of micro-pores that allow air exchange while the vessel remains water-tight. Two practical brewing effects:
@@ -69,8 +67,6 @@ Yíxīng zǐshā is an illitic clay (伊利石, yīlìshí) with admixtures of k
 - **Capillaries (2–10 µm diameter)**: Absorb tea oils and polyphenols.
 
 According to Chinese research (Chinese Journal of Ceramics, 2015), the average porosity of zǐshā is 8–12%, roughly double that of porcelain (3–5%). Porosity varies by clay type: zhūní has lower porosity at 5–8%, making it less "breathable" but better at heat retention; duàní has the highest at 10–15%.
-
-**TL;DR:** Double porosity → heat retention + flavour seasoning over time. Dedicate one pot to one tea type. Seasoning takes years; it cannot be accelerated meaningfully.
 
 ## Traditional shapes
 

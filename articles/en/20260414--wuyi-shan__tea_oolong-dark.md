@@ -40,8 +40,6 @@ Tea from this zone = **zhèng yán chá (正岩茶)** — "true rock tea." Accor
 
 If-then grade rule: If a vendor claims zhèng yán origin → ask for the specific kēng or jiàn location. Authentic zhèng yán comes from one of the five named sites above. "Wǔyí" alone on a label does not establish zhèng yán origin.
 
-**TL;DR:** Zhèng yán = one of five named gorges/streams + nine cliffs, ~70 km² total (standard DB35/T 1639-2017). Niúlán Kēng ròuguì commands the highest premium. Bàn yán = outer scenic area. Zhōu chá = alluvial valley plains. Wài shān = outside Wǔyí entirely.
-
 ## Cultivars and Classification
 
 Beyond Dà Hóng Páo, yánchá has three key cultivars:

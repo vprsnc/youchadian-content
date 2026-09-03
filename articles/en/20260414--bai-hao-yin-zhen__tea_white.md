@@ -21,8 +21,6 @@ Bái háo yín zhēn originates from Fúdīng (福鼎) and Zhènghé (政和) co
 
 The tea has been produced since at least 1796 (Qīng dynasty). The current product form was standardised in the Republican era. Fúdīng city produces approximately 20,000 tonnes of white tea annually, accounting for roughly 50% of China's total white tea output (Fúdīng Tea Industry Association, 2023). Zhènghé production is smaller by volume but highly prized for its different character.
 
-**TL;DR:** Two origins, two cultivars, two styles. Fúdīng = lighter and floral, early harvest. Zhènghé = deeper and honeyed, later harvest. Both are genuine bái háo yín zhēn; origin distinction matters for flavour expectation.
-
 ## What makes the harvest so demanding?
 
 Picking season is March–April, starting 10–15 days before Qīngmíng (清明节) and continuing until the spring rains (gǔyǔ, 谷雨). Only the terminal bud is taken — no leaf, no stem. One skilled picker harvests approximately 2,000–2,500 buds per day. Rules:
@@ -31,8 +29,6 @@ Picking season is March–April, starting 10–15 days before Qīngmíng (清明
 - The bud must be plump and fully closed (饱满, bǎomǎn); buds beginning to open become a lower grade
 
 If the bud has begun to open or the first leaf appears → it grades down to báimǔdān (白牡丹) or shòuméi (寿眉). The entire harvest window is approximately 2–3 weeks per year, though exact dates depend on weather and location: in Fúdīng, picking starts earlier due to the maritime climate; in Zhènghé, it begins 10–14 days later.
-
-**TL;DR:** 2,000–2,500 buds per picker per day, sunny mornings only, 2–3 week total window. The grade boundary is the moment the bud begins to crack — any opening or leaf = lower grade.
 
 ## How is Bái Háo Yín Zhēn processed?
 
@@ -43,8 +39,6 @@ White tea has the least-interventionist processing of any Chinese tea category �
 2. **Bèigān** (焙干 — drying): Buds dried at 40–50°C until moisture drops below 6%. In Fúdīng, sun-drying (日晒, rìshài) is common — 4–6 hours in light wind, then finishing in a drying oven. In Zhènghé, oven-drying (文火烘焙, wénhuǒ hōngbèi) is almost exclusively used. No rolling, no fixation wok (炒青, chǎoqīng). Final moisture: strictly ≤ 6% per GB/T 22291-2017 standard. Intact cellular structure is preserved.
 
 The result: an untouched bud with maximum down cover, silvery, with a light fresh-green aroma.
-
-**TL;DR:** Two steps only — withering (36–72 h, slow 5–15% oxidation) → drying (40–50°C, sun or oven). No rolling, no fixation wok. 2,000–2,500 buds per picker per day; 2–3 week total harvest window. Minimal processing does not mean "no processing": the long withering is the production.
 
 ## Flavour Profile
 

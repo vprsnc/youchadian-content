@@ -40,8 +40,6 @@ The scholar tree (槐树 huái shù) is more deeply embedded in Chinese scholarl
 
 The combination of density, insect resistance, and lasting surface lustre explains why huái mù was a practical choice for furniture intended to outlast its maker. Pieces from the Míng and early Qīng dynasties in huái mù are documented in major collections.
 
-**TL;DR:** Density 0.79–0.86 g/cm³, harder than northern elm (0.65–0.72 g/cm³). Difficult to work but lustrous surface when finished. Naturally moisture- and insect-resistant — no chemical treatment needed. Risk: large drying cracks if not properly seasoned.
-
 ## Appearance and Patina
 
 Freshly cut sapwood of huái mù is pale to mid golden-yellow, sometimes with a greenish or olive cast, measuring L* 70–78, a* 2–5, b* 15–22 on the Lab colour scale (per *Atlas of Chinese Woods*, 2005). The heartwood is darker — golden-brown to dark brown (L* 55–65, a* 8–12, b* 18–25). The boundary between sapwood and heartwood is distinct, spanning 10–15 growth rings. With age and exposure to light and air, the colour deepens toward warm amber-brown. The grain is relatively straight but unevenly textured — the contrast between dense late-wood bands and the open-pored early wood creates a visual rhythm that becomes more defined with wear and time.

@@ -52,8 +52,6 @@ If temperature is too high for a given tea → bitter, harsh, aromatic compounds
 6. **Subsequent steeps**: Add 5–15 seconds per steep; monitor liquor colour in pitcher and adjust. Good oolongs and pǔ'ěr last 6–10+ steeps; quality cliff oolongs often peak on the third or fourth. For shú pǔ'ěr (熟普洱, shú pǔ'ěr), the count can reach 20–30 steeps, with the fifth and sixth being richest and sweetest.
 7. **End of session**: Rinse vessel and cups with hot water; air-dry with lid open
 
-**TL;DR:** Warm → load → rinse → steep → pour completely → repeat. The key rules: pour completely (no residual liquid), use correct temperature, add time with each successive steep.
-
 ## Reading the spent leaf
 
 Open the gàiwǎn after the final steep and examine the spent leaf (叶底, yèdǐ). Quality indicators:

@@ -28,8 +28,6 @@ Six named grain types are recognised in the collector community. All develop mor
 | Cloud | 云纹 yún wén | Swirling, layered figures resembling cumulus clouds — found only in high-oil aged material, especially root sections; rarer and more expensive than wave grain |
 | Bodhisattva | 菩萨纹 púsà wén | Concentric spiral rings that resemble a seated figure in meditation; the rarest pattern, associated with exceptional auspiciousness, found in only a handful of specimens |
 
-**TL;DR:** Six grain types from most common (sparrow eye, water wave) to rarest (bodhisattva, cloud). All become more vivid as oil migrates to the surface with age and handling. Grain type, oil content, and age of deadwood are the three primary quality factors.
-
 ## Fragrance
 
 Tàiháng yá bǎi carries a distinctive fragrance — woody and resinous with soft cedar warmth, light herbal undertones, and a clean, slightly cooling finish. Unlike aggressive commercial cypress, the scent from high-oil aged material is rounded and persistent without sharpness. Chinese connoisseurs describe it as "六味" — six notes: cedar (杉木), mint (薄荷), citrus (柑橘), grass (青草), resin (树脂), and sweet (甜).

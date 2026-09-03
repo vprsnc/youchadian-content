@@ -48,8 +48,6 @@ Matched sets are sold as pairs, usually three or five pairs per set with a tray.
 
 Some practitioners use the aroma cup for every steep; others only for the first infusion (when aromatics are highest) and then switch to standard small cups for subsequent steeps.
 
-**TL;DR — How to Use:** 6 steps: brew → pour into tall wénxiāng bēi → invert pǐnmíng bēi on top → flip both → lift wénxiāng bēi → inhale from warm empty aroma cup. Three aroma phases as the cup cools: rè xiāng (热香, hot — top notes, immediate) → wēn xiāng (温香, warm — mid notes, 20–40s, most complex) → lěng xiāng (冷香, cool — base notes). Sip the tea from the tasting cup in 2–3 sips, not one gulp. Assess the colour (汤色 tāngsè) by holding the cup to the light — it should be clear, without cloudiness.
-
 ## When to Use
 
 The aroma/tasting cup pair suits oolongs with high volatile aromatic character:

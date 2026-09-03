@@ -13,8 +13,6 @@ Jǐngmài (景迈, Jǐngmài) is a high plateau in Láncāng Lahu Autonomous Cou
 
 The Jǐngmài ancient tea gardens differ from most Yúnnán puerh origins in scale and structure: rather than isolated village plots, they form a continuous forest-tea ecosystem across approximately 2,800 hectares — a working landscape where tea trees grow beneath shade trees, alongside wild plants and forest undergrowth, managed by the Blang and Dǎi ethnic communities who have cultivated them for roughly 1,000 years.
 
-**TL;DR:** Large ancient tea garden plateau, UNESCO World Heritage 2023, Láncāng county, Yúnnán. Continuous forest-tea ecosystem managed by Blang and Dǎi communities. Distinctive honey-orchid fragrance (蜜兰香, mìlán xiāng); more accessible price point than Bīngdǎo or Lǎobānzhāng. Brew 90–95°C, 5–7 g per 100 ml.
-
 ## The landscape
 
 Unlike most famous puerh origins (single villages with a few dozen old trees), Jǐngmài is an entire plateau covered in continuous ancient gardens. The main designated heritage areas include:

@@ -68,10 +68,6 @@ If you are brewing dancong, reach for Chaozhou. If you are mixing oolongs and pu
 - [Puer](/wiki/puerh)
 - [Chinese Teaware](/wiki/chinese-teaware)
 
-## TL;DR
-
-The "four famous ceramics" is a 1953 list: Yixing, Jianshui, Qinzhou, Rongchang. Chaozhou is not on it, but in terms of tea significance, it is an undeniable fifth. Yixing is the all-rounder, Jianshui for sheng puer, Qinzhou for shou puer, Chaozhou for aromatic dancongs. Rongchang is not used for gongfu tea.
-
 ## FAQ
 
 **What are the "Four Famous Ceramics of China"?**

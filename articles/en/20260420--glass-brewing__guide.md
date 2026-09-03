@@ -8,8 +8,6 @@
 
 Bēi pào fǎ (杯泡法) is the Chinese method of brewing tender green, white, and yellow teas in a single transparent glass — one vessel per person, without a separate steeping pot, fairness pitcher, or small cups. The method is built on two values: simplicity and 观茶 (guān chá, "watching the tea") — the visual appreciation of leaves unfolding in hot water, considered an inseparable part of the experience. Chinese tea classification tradition names appearance (形 xíng) and colour (色 sè) alongside fragrance and taste as the four dimensions of quality assessment; glass is the only vessel that makes all four available simultaneously.
 
-**TL;DR:** Brew Lóngjǐng, Bìluóchūn, Silver Needle, or yellow teas in a clear glass at 75–90°C. Choose from three pouring sequences based on leaf fragility: water-first (上投法 shàng tóu fǎ), sandwich (中投法 zhōng tóu fǎ), or tea-first (下投法 xià tóu fǎ). Standard ratio: 3 g per 150–200 ml. Leave ⅓ liquid before refilling; expect 2–3 steeps. Do not use for oolongs or pǔ'ěr — they require near-boiling water and heat-retaining vessels.
-
 ## Why is glass used for green tea in China?
 
 Traditional Chinese teaware evolved through clay, porcelain, and lacquerware across the Táng (618–907), Sòng (960–1279), Míng (1368–1644), and Qīng (1644–1912) dynasties. Glass teaware became widely available only with China's industrialisation in the early-to-mid 20th century. The first industrial production of borosilicate glass tea cups (耐热玻璃 nài rè bōlí) in China began in the 1950s at the Jīnghuá factory in Beijing. Glass quickly found its own niche: fine, tender green teas whose visual appearance is part of the experience — something ceramics conceal.
@@ -74,8 +72,6 @@ Place dry leaves in the glass. Pour water using the 凤凰三点头 (fènghuáng
 - [Tàipíng Hóukuí (太平猴魁)](/wiki/tai-ping-hou-kui) — very large flat leaves (up to 6 cm), too large for top-loading
 - Lower-grade greens; everyday green teas
 
-**TL;DR:** Use 上投法 for downy single-bud teas (Bìluóchūn, Silver Needle). Use 中投法 for flat or rolled greens (Lóngjǐng, Huángshān Máofēng). Use 下投法 for larger, coarser leaves (Tàipíng Hóukuí) or when simplicity is the priority. The mnemonic: fragility of leaf determines order of addition.
-
 ## Which teas are best brewed in a glass?
 
 **Green teas** are the core category. Virtually all fine Chinese green teas were developed with 杯泡法 in mind.
@@ -126,8 +122,6 @@ See [Water for Tea](/wiki/water-for-tea) for source water quality guidance.
 **3 g per 150–200 ml** (approximately 1:50 by weight) is the standard ratio, lighter than gōngfū brewing ratios (typically 1:15–1:20), because 杯泡法 keeps leaves in continuous contact with the water rather than cycling through rapid short infusions.
 
 Wait 2–3 minutes before drinking. Drink down to ⅓ remaining liquid before refilling — this maintains roughly consistent concentration. Most fine green teas yield 2–3 enjoyable steeps. Premium grades (Lóngjǐng, Bìluóchūn) hold up better across three steeps than lower-grade material.
-
-**TL;DR:** 3 g per 150–200 ml, 75–85°C, 2–3 min first steep. Refill when ⅓ liquid remains. Expect 2–3 steeps total. If result is bitter → water too hot or steeped too long. If result is flat → water too cool or too little leaf.
 
 ## Why can't oolongs and pǔ'ěr be brewed in a glass?
 

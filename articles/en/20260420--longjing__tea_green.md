@@ -11,8 +11,6 @@
 
 Lóngjǐng (龙井, "Dragon Well") is China's most famous green tea and one of its ten officially recognised famous teas. It is grown in the West Lake (西湖 Xīhú) district of Hángzhōu city, Zhèjiāng province — a narrow valley of mist-covered hills where tea cultivation has been documented since the Táng dynasty (618–907 CE). The first written references to Lóngjǐng as a tea date to the Sòng dynasty (960–1279). The tea takes its name from a natural spring in the Lóngjǐng village area: legend holds that the well connects to the sea, and that stirring the water reveals a dragon beneath. Emperor Qiánlóng (Qīng dynasty) visited the region in 1751 and personally praised the tea, after which Lóngjǐng was awarded the status of "imperial tea."
 
-**TL;DR:** Flat-pressed, pan-fired green from Hángzhōu's West Lake hills. Five historic villages define the Xīhú GI zone. Míng qián (before April 5) harvest is prized highest. Taste: fresh, vegetal, toasted chestnut with lingering sweet finish. Brew 75–80°C, 3–4 g per 100 ml, 20–30 s. Widely counterfeited — origin matters.
-
 ## Origin and geography
 
 Genuine Xīhú Lóngjǐng (西湖龙井) is produced within a small protected GI zone (地理标志保护) covering approximately 168 km² in the West Lake Scenic Area. The soils are acidic, rich in organic matter, with high humus and mineral content, which gives the tea its characteristic sweetness and smoothness. Five sub-villages define the core terroir, each with a slightly different character:

@@ -40,8 +40,6 @@ Traditional style, lower oxidation (around 40%) plus charcoal roasting. The char
 
 Nóngxiāng is the older style and what tiěguānyīn tasted like before the qīngxiāng revolution. It is experiencing a revival among specialists who find the modern fresh style too simple.
 
-**TL;DR — Two Styles:** Qīngxiāng (清香, modern, since 1990s): 15–25% oxidation, no roast, refrigerated, jade-green leaf, high fresh orchid notes — 6–12 month shelf life, needs refrigeration. Nóngxiāng (浓香, traditional): ~40% oxidation + charcoal roast, ripe fruit and honey, longer shelf life. If you buy qīngxiāng → refrigerate immediately; at room temperature it degrades within months.
-
 ### 陈香型 Chénxiāng — Aged Style
 
 Aged tiěguānyīn: traditionally stored for multiple years, often with periodic re-roasting. Profile: dried fruits, wood, sweetness reminiscent of aged white tea or light pǔ'ěr. The floral notes transform into dried flower and resin. Not widely available; a collector's item. The Chinese national standard (GB/T 30357.2-2013) officially recognised chénxiāng as a distinct type in 2016.
@@ -89,8 +87,6 @@ All standard Mǐnnán oolongs share the ball-rolling process that distinguishes 
 7. **Roasting (焙火 bèihuǒ)**: None for qīngxiāng; charcoal roast (炭焙 tànbèi) at 60–100°C for nóngxiāng, for 2–4 hours.
 
 The pellet form releases slowly across multiple steeps — tightly-rolled balls gradually unfurl, delivering progressively different extraction with each infusion.
-
-**TL;DR — Ball-Rolling Process:** 6-step production: solar withering → zuòqīng (lighter than yánchá for lighter oxidation) → fixation → preliminary rolling → bāo róu ball-rolling cycles (leaf wrapped in cloth, compressed, unwrapped; repeated 10–20 times) → drying + optional roasting. The progressive tightening creates dense pellets that unfurl slowly across steeps. No roasting = qīngxiāng; charcoal roasting = nóngxiāng.
 
 ## Brewing
 

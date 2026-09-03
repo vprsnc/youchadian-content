@@ -11,8 +11,6 @@
 
 Lù'ān Guā Piàn (六安瓜片, "Lù'ān Melon Seed") is one of China's ten officially recognised famous teas and botanically unique among Chinese greens: it is the only tea made from single leaves with both the stem and the bud deliberately removed. Every other high-grade Chinese green uses either buds alone or bud-and-leaf sets; Guā Piàn uses only the mature leaf, stripped of its bud tip and stem section. The raw material comes from the local **dà huǒ piàn** (大瓜片) cultivar, grown exclusively in this region. The resulting tea has a fuller body, lower fragrance volatility, and more structural character than bud-heavy greens — closer in some ways to a very light oolong than to a typical delicate spring green.
 
-**TL;DR:** Single-leaf (no bud, no stem) green tea from Lù'ān county, Ānhuī. Flat, melon-seed shaped. Character: roasted-vegetal, full-bodied, nutty, lower fragrance than bud-heavy greens but greater depth. Brew 80–85°C (slightly higher than most greens), 4–5 g per 100 ml. More forgiving of temperature than delicate bud teas.
-
 ## Why no bud?
 
 This is the defining paradox of Guā Piàn: every other premium Chinese tea prizes the bud above all else. Guā Piàn discards it intentionally. The reasoning is practical and flavour-based:

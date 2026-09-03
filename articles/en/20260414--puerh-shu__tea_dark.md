@@ -32,8 +32,6 @@ Shú chá begins from the same base as shēng: **shài qīng máochá** (晒青�
 
 **6. Spreading and drying:** The finished pile is spread in a thin layer (10–15 cm) to halt fermentation and stabilise moisture content to around 10–12%. Sometimes warm air drying (30–40°C) is used, avoiding direct sunlight. The tea is then rested in a dry room for 1–3 months (陈化, chénhuà, aging) to dissipate residual volatile compounds, softening the flavour.
 
-**TL;DR:** Pile depth 70–100 cm, 30–50% water added, 35–45% leaf moisture, covered, 50–65°C inside. Turned every 7–14 days to prevent "pile burn." Dominated by *Aspergillus niger* + *Bacillus subtilis* + *Bacillus licheniformis* + yeast. 45–60 (up to 70) days total. Result: catechins → theabrownins; bitterness eliminated. Post-drying rest 1–3 months.
-
 ## Leaf Grades
 
 After wòduī, the loose máochá is sorted by grade (级别, jíbié):

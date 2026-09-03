@@ -37,8 +37,6 @@ Four grades under national standard (GB/T 22291–2017), determined primarily by
 
 **头采 Tóu Cǎi (first-pick):** Not a formal grade — refers to the very first picking of the season, before Qīngmíng (清明, ~April 5). Marketed as a premium by Fuding producers; overlaps with Mǔdān Wáng material. Extreme báiháo density; maximum amino acid content (cold spring temperatures slow metabolic conversion, allowing amino acid accumulation); intensely sweet and light.
 
-**TL;DR:** Bái Mǔdān (白牡丹) = one bud + 1–2 leaves, three-whites (三白 Sān Bái) standard, withering 52–72 hours with no fix. Four grades: Mǔdān Wáng (before Qīngmíng) → First → Second → Third; tóu cǎi is an unofficial first-pick. Fuding: sun-withered, floral, light; Zhenghe: indoor-withered 48+ h, dark honey, ages better. Aging arc: fresh → 3 yr (dried fruit) → 5–7 yr (jujube, honey) → 10+ yr (camphor, date). 85–90°C fresh; 95–100°C aged.
-
 ## Fuding vs Zhenghe
 
 The same two origins that define the white tea category produce distinctly different Bái Mǔdān:
@@ -83,8 +81,6 @@ Bái Mǔdān is the most commonly aged grade of white tea — more so than Silve
 - **10+ years:** deeply transformed; brewed cup resembles aged shēng pǔ'ěr in smoothness though the profile remains distinctly white tea — date, camphor, aged sweetness
 
 **Storage for aging:** dry, dark, no strong odours, sealed container. Room temperature (~20–25°C), 60–65% humidity. No refrigeration.
-
-**TL;DR:** Bái Mǔdān ages more actively than Silver Needle — the leaf fraction transforms faster than the dense báiháo-coated bud. Arc: fresh (floral, hay, melon) → 3yr (dried fruit, rounded sweetness) → 5–7yr (dried jujube, apricot, warm honey, near-zero astringency) → 10yr+ (deep date, camphor — approaching aged shēng pǔ'ěr in smoothness). Storage: dry, sealed, 60–65% RH, room temperature, no refrigeration.
 
 ## Harvest Timing: Spring vs Autumn
 

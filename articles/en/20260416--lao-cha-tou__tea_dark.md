@@ -24,8 +24,6 @@ The density of the final nugget reflects its position in the pile: core leaves, 
 
 After separation, the nuggets are aired on bamboo trays for 2–3 days, then stored in dry warehouses (干燥仓库 gānzào cāngkù) at 20–25°C and 60–70% humidity. New *cha tou* carry strong wòduī wèi and are unpleasant to drink. After 3 or more years of dry storage, this dissipates and is replaced by chénxiāng (陳香, aged aroma) — a combination of aged wood, dried fruit, and light camphor notes.
 
-**TL;DR:** Wòduī pile (invented 1973 at Kunming Factory) → large-leaf pile-core leaves rupture and release pectin → clumps too tight to separate are set aside → aired, dry-stored 3+ years → lǎo chá tóu. Yield: 0.8–1.5% of pile weight.
-
 ## What Does Lǎo Chá Tóu Taste Like?
 
 The high pectin content is the defining quality of lǎo chá tóu. It produces a noticeably thicker, more viscous liquor than equivalent loose-leaf shú pǔ'ěr — the soup clings slightly to the cup, pours with weight, and coats the mouth. Colour: deep ruby-red to garnet, clear and bright (CSS colour scale 6–7; in professional tea language, "ripe red bright" — 红浓明亮 hóng nóng míng liàng). 
@@ -39,8 +37,6 @@ Flavour develops across the steep arc:
 | Late (16–30+) | Lighter body, delicate honey sweetness and a clean "Guanyin sweetness" (观音甜 guānyīn tián), reminiscent of chrysanthemum. |
 
 Aged examples (5+ years post-separation) lose pile character entirely and develop yào xiāng (藥香, light medicinal depth reminiscent of liquorice root or turmeric) and dried fruit complexity (梅子香 méizi xiāng, umé-flavour).
-
-**TL;DR:** Thick, viscous, date-sweet liquor from steep 1. No bitterness or astringency at any stage. Aged 5+ years → medicinal-fruit complexity replaces earthiness. Sustains 20–30+ steeps without flavour collapse.
 
 ## How Do You Brew Lǎo Chá Tóu?
 

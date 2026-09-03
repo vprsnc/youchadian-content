@@ -133,10 +133,6 @@ How jade sits against the other materials is covered in the [pánwán care guide
 - [Huánghuālí — The Scholar's Wood](/wiki/huanghuali)
 - [Wénwán: Walnuts and Study Objects](/wiki/wenwan-walnuts)
 
-## TL;DR
-
-"The Four Famous Jades of China" is a modern list (post-1949): hé tián yù (nephrite from Xinjiang), dú shān yù (anorthosite from Henan), xiù yù (soft serpentine from Liaoning), lán tián yù (marble from Shaanxi). Burmese jadeite 翡翠 is not part of the quartet but is regarded as "the king of jades." Turquoise is a popular wénwán stone, sometimes substituted for lán tián yù in reference works. The most popular stone items on the market are bead bracelets, handheld carvings, and pendants.
-
 ## FAQ
 
 **Why is "sì dà míng yù" not an ancient concept?**

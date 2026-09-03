@@ -28,8 +28,6 @@ The term *pǐn xiāng* itself comes from this Sòng literati tradition, where in
 
 **Qīng dynasty (1644–1912 CE).** Stick incense (线香 xiànxiāng) became the dominant consumer form. The Xuāndé censer tradition was refined and emulated across the empire, but under the Qīng court (especially Emperor Qiánlóng) there was a decline: the focus shifted to temple offerings, and the literati culture of *pǐn xiāng* gave way to more formalised Buddhist and Daoist rituals.
 
-**TL;DR:** Song dynasty peak: pǐn xiāng one of four elegant pastimes. Míng dynasty codification: *Xiāng Shèng* 28 volumes, still authoritative. Tang-era maritime trade brought all key foreign resins. Incense stick form matured in the Míng, not the Qīng.
-
 ## What is pǐn xiāng (品香)?
 
 Pǐn xiāng (品香, “appreciating incense”) is the practice of burning and evaluating aromatic materials with deliberate attention — analogous to 品茶 pǐn chá (appreciating tea). The practitioner attends to the fragrance’s opening notes, middle development, and tail as the material heats; different materials, different heating methods, and different vessels produce distinct experiences. The term *pǐn xiāng* originates from the Sòng literati tradition, where incense was likened to music: each formula has a “passage” (曲) — an opening, middle, and closing note — as recorded in treatises of the era.
@@ -53,8 +51,6 @@ The closely related term **xiāng dào** (香道, “the way of incense”) refe
 | Cāngzhú | 苍术 | Chinese atractylodes (Atractylodes lancea) | Bitter-earthy; often in domestic incense for “air purification” |
 
 Chinese incense formulas are compound — single-material burning (独香 dú xiāng) is the minority practice. Classical formulas — such as *Shēngxiāng* (生香) — blend six to twelve ingredients, each contributing to the fragrance arc as well as to a therapeutic effect described in the *Běncǎo Gāngmù* (本草纲目, *Great Herbal* of Lǐ Shízhēn, 1596).
-
-**TL;DR:** Chénxiāng and tánxiāng are the two foundation aromatics of Chinese incense. Foreign resins (frankincense, myrrh, storax) entered via Silk Road trade. Animal-derived materials (musk, ambergris) were imperial-tier; musk from wild sources is now internationally regulated. Chinese herbs (cinnamon, clove, angelica) form an equally important group of ingredients for everyday incense.
 
 ## What is Xiāng Shèng (香乘)?
 

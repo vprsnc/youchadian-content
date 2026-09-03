@@ -19,8 +19,6 @@ By the Qīng dynasty (1644–1911), Manchurian court culture had made the tall g
 
 In Sìchuān (四川) teahouses this tradition remained unbroken. Servers pour boiling water from long-spouted kettles directly into gaiwans at the table; drinkers sip through the gap created by the tilted lid throughout a long, unhurried session. The gōngdào bēi never appears. The folk rhythm of the Sìchuān style captures it precisely: **"sip, refill; refill, sip"** — the gàiwǎn is never empty and never overfull. Roaming vendors weave between tables selling sunflower seeds (瓜子 guāzi) and peanuts (花生 huāshēng) — slow cracking of seeds and slow sipping of tea share the same unhurried rhythm, and both are considered part of the teahouse experience.
 
-**TL;DR:** The gàiwǎn was designed as a drinking vessel first. Its bowl-and-saucer form dates to the 7th–9th century Táng dynasty; powdered tea was whisked in it. The Qīng court made it standard for loose-leaf tea. Sìchuān teahouses retain the original solo-drinking tradition today.
-
 ## The long-spouted copper kettle (长嘴壶 cháng zuǐ hú)
 
 The defining image of the Sìchuān teahouse is not the gàiwǎn itself but the vessel used to fill it: a copper kettle with a spout 60–100 cm long, sometimes longer. These kettles — 长嘴壶 (cháng zuǐ hú, "long-mouth pot"), sometimes called 龙嘴大铜壶 (lóng zuǐ dà tóng hú, "dragon-mouth large copper pot") for their dragon-head spout tips — are the standard service tool in Chéngdū teahouses and have been since at least the Qīng dynasty.
@@ -45,8 +43,6 @@ Named techniques documented in the repertoire:
 | Reverse Pipa Play | 反弹琵琶 | Fǎntán pípá | Pour over the shoulder — kettle swung from behind the back |
 
 Regional styles vary: Éméi school (峨眉派), Dragon 18 Style from Méngdǐng, and a Táijí-influenced Hángzhōu school all trace back to the Sìchuān copper kettle. Zēng Xiǎolóng himself has publicly stated he wants the art to "return to its essence" as tea service — the acrobatic spectacle having in some venues overtaken the tea entirely.
-
-**TL;DR:** The long-spout copper kettle (长嘴壶) originated in Qīng-dynasty Sìchuān teahouses as a practical solution for pouring over seated guests in narrow rooms. The theatrical performance art (长嘴壶茶艺) was formalised by Zēng Xiǎolóng in 1999 and is now a recognised form of intangible cultural heritage. The two are related but distinct: one is teahouse service, the other is performance.
 
 ## Why drink from a gàiwǎn without a pitcher?
 
@@ -86,8 +82,6 @@ A 100–120 ml gàiwǎn brewed at standard gōngfū ratios (7–8 g per 100 ml f
 ### Signalling a refill (teahouse context)
 
 In Sìchuān teahouses: lid resting half-open across the rim = refill needed. Lid fully closed = session ongoing. Lid removed = session ended. **Important:** a lid left tilted on the saucer (with a gap) can also mean "still drinking, just stepped away." This gesture is part of the unwritten etiquette of local teahouses, passed down orally by Chéngdū tea masters.
-
-**TL;DR:** Hold saucer + lid knob only. Tilt lid toward the lip to form a gap; brush leaves aside; sip through the gap. For direct drinking, reduce leaf to 5–6 g per 100 ml — standard gōngfū ratio overfills the bowl.
 
 ## Leaf ratio and water
 

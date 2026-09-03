@@ -20,8 +20,6 @@ Red tea (full-oxidation black tea) was invented in Fújiàn, in Tōngmù village
 
 Red tea was the primary Chinese export tea for two centuries, driving the global tea trade. However, domestically in China, it was considered an export product — oolong and green tea dominated Chinese consumption. The domestic rise of hongcha as a valued category in China came much later, primarily after 2005, when premium domestic red teas began commanding high prices in the Chinese market.
 
-**TL;DR:** Red tea invented at Tōngmù village, Wǔyí, Fújiàn, 17th century — over-oxidised leaf, salvaged by pine-smoke drying, became Zhèngshān Xiǎozhǒng (Lapsang Souchong), the foundation of the Western "black tea" trade. Domestic Chinese interest in premium hóngchá only emerged post-2005, with Jīn Jùn Méi (2005) as the immediate catalyst.
-
 ## Processing
 
 Full oxidation (全发酵, quán fājiào, full fermentation) defines red tea. The general sequence:
@@ -35,8 +33,6 @@ Full oxidation (全发酵, quán fājiào, full fermentation) defines red tea. T
 4. **干燥 Gānzào — Drying**: Heat application to halt oxidation and reduce moisture to 4–6% for stability. A brief initial blast at 120–140 °C (fixation) is followed by drying at 80–90 °C until ready.
 
 Optional: **烟熏 Yānxūn — Smoking** (only for Zhèngshān Xiǎozhǒng — leaves are dried and smoked over pine smoke from 马尾松 mǎwěi sōng, Masson's pine); **晒红 Shài Hóng — Sun-drying** (some Yúnnán styles — shài hóng).
-
-**TL;DR:** Four steps: withering (16–24 hr, 30–40% moisture loss) → rolling (breaks cell walls, starts oxidation) → enzymatic oxidation (2–6 hr, catechins → theaflavins + thearubigins → red-amber liquor, malty-fruity aroma) → drying (halts oxidation, moisture to 4–6%). Optional: pine smoking (Zhèngshān Xiǎozhǒng only) or sun-drying (some Yúnnán styles). If oxidation is cut short → green, grassy notes remain.
 
 ## Major Producing Regions
 

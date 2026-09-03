@@ -51,8 +51,6 @@ Diān Hóng grades are primarily distinguished by the proportion of golden bud t
 
 The golden tips are composed of young bud tissue with high aromatic compound and theanine content; they produce a sweeter, more aromatic brew. The darker leaf pieces contribute body and malt.
 
-**TL;DR:** Four grades by golden-tip (金毫 jīn háo) content: Pure Gold / Jīn Yá (100% bud tips — sweetest, most aromatic, lightest body) → Golden Yunnan (high bud content, balanced malt+honey) → Gōngfū grade (twisted strip-form leaf, full-bodied malt, tolerates milk) → Broken (blends). More golden tips = more labour-intensive harvest = higher price. Ancient tree diān hóng (古树) shows mineral-forward profiles distinct from plantation material.
-
 ## Shài Hóng — Sun-Dried Red Tea (晒红)
 
 A traditional Yúnnán processing variant that has gained significant attention among specialists: after rolling and oxidation, the leaf is sun-dried (晒青 shài qīng style) rather than oven-dried. The result:
@@ -62,8 +60,6 @@ A traditional Yúnnán processing variant that has gained significant attention 
 - Flavour: fruity, complex, sometimes slightly mineral or camphor-like; less "cooked" than oven-dried
 
 Shài hóng is sometimes pressed into cakes, mirroring the pǔ'ěr tradition. A relatively small category (under 5% of total diān hóng production) but growing in collector interest.
-
-**TL;DR:** Shài hóng (晒红) = sun-dried diān hóng. Key difference from oven-dried: slower drying at lower temperature → retains more volatile aromatics, slightly greener character initially, and — unlike oven-dried red tea — develops complexity with aging (months to years). If you want red tea that ages like a pǔ'ěr → shài hóng pressed into cakes is the format.
 
 ## Flavor Profile
 

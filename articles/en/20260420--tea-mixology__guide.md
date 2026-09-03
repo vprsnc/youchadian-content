@@ -26,8 +26,6 @@ The scenting process is labour-intensive and technically precise. Fresh jasmine 
 
 **Brewing**: 85°C, 2–3 minutes. Rinse optional. Do not overbrew — jasmine floral notes are volatile and bitter after extended steeping.
 
-**TL;DR — Jasmine:** Live flowers scented nightly, removed at dawn. Top grades: 7–9 sessions over two weeks. Aroma is inside the leaf, not applied. Brew at 85°C max — volatile compounds degrade above that temperature.
-
 ### Osmanthus — 桂花茶 Guìhuā Chá
 
 Osmanthus flowers (桂花 guìhuā) have been used in Chinese tea for over a thousand years. Unlike jasmine, osmanthus is almost always dried and blended directly with the leaf rather than used for live scenting — the dried flowers retain their apricot, honey, and peach fragrance very well. Main harvest areas: Guǎngxī, Guìzhōu, Húnán.
@@ -91,8 +89,6 @@ A simple everyday liángchá: chrysanthemum + honeysuckle + rock sugar, 90°C, 5
 
 Liángchá formulas are usually drunk warm (not hot, not cold) and without any base tea. They are herbal infusions, not tea-plus-herbs.
 
-**TL;DR — Liángchá:** Cantonese therapeutic herbal tradition, not a tea category. Cold ingredients (chrysanthemum, honeysuckle) clear heat; warm ones (goji, longan) balance. Simplest formula: chrysanthemum + honeysuckle + rock sugar, 90°C, 5 minutes. No base tea required.
-
 ---
 
 ## Seasonal and Practical Logic
@@ -155,8 +151,6 @@ Jasmine's volatile oils demand 85°C maximum; higher temperatures destroy fragra
 
 **Rule 5 — Start with less.**
 Dried flowers, peel, and herbs are concentrated. A standard starting point: 1–2g additive per 5g tea. Taste before adding more. Most blending errors are over-addition, not under-addition. The additive should support the tea, not replace it.
-
-**TL;DR:** Three axes — flavour (complement or contrast), thermal quality (balance or reinforce), functional intent (digestive, calming, energising). Easiest entry: osmanthus + any roasted oolong, 1–2g flowers, 90–95°C. Deepest tradition: chénpí + ripe pu-erh. Full system: liángchá.
 
 ---
 

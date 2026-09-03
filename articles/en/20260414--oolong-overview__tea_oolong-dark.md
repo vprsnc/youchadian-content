@@ -71,8 +71,6 @@ Two variables simultaneously define an oolong's character:
 
 Roasting adds its own dimension — a skilled roaster can "fix" an over-oxidised tea, emphasise depth, or reduce harsh green notes. The interplay between oxidation level and roast level is what makes oolong the most complex category to understand and the most rewarding to explore.
 
-**TL;DR:** Oolong = partial oxidation (15–85%) via zuòqīng (做青, alternating shake and rest, 6–12 h) + optional roasting (焙火 bèihuǒ). Four regions: Mǐnběi (yánchá from Wǔyí Shān, 60–80%, heavy roast, mineral, strip-form, 岩韵); Mǐnnán (Ānxī tiěguānyīn, 15–35%, pellet-form, floral, 球型); Guǎngdōng (dāncōng from Fènghuáng Shān, single-bush, 200+ aromatic types, strip-form); Táiwān (gāoshān, 1000+ m, honey-sweet, often semi-spherical). Brewing: 90°C light → 100°C yánchá; 5–8 g/100 ml; 6–12 steeps.
-
 ## Brewing
 
 Oolongs are among the teas most suited to gōngfū brewing — multiple short steeps reveal the trajectory of the tea across infusions.

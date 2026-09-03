@@ -49,8 +49,6 @@ Forms of Xuāndé censers mirror ancient bronze vessel types: the lì (鬲) form
 
 **Fact:** In 2018, at a China Guardian auction (中国嘉德), a Xuāndé censer with provenanced origin from the imperial court of the Qīng dynasty sold for 48 million RMB.
 
-**TL;DR:** Xuāndé lú defined by weight, smooth surface, warm reddish patina, and archaic vessel proportions. Genuine reign-mark pieces are museum objects. Quality Míng-Qīng period imitations are legitimate collectables. Modern cast reproductions vary widely in quality.
-
 ## What materials are xiānglú made from?
 
 | Material | Character | Best use |

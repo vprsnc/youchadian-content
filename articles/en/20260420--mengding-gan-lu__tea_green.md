@@ -13,8 +13,6 @@ Měngdǐng Gān Lù (蒙顶甘露, "Měngdǐng Sweet Dew") is one of China's ten
 
 The Měngdǐng (蒙顶山) mountain area near Yǎ'ān city, Sìchuān province, appears in Chinese tea records stretching back to the Hàn dynasty (206 BCE–220 CE). The first written reference to tea from Měngdǐng appears in Lù Yǔ's (陆羽, 733–804) "Chá Jīng" (茶经, The Classic of Tea), where the mountain is named one of the finest tea terroirs under heaven. The Tang dynasty poet Bái Jūyì (白居易, 772–846 CE) referenced Měngdǐng tea in his poem "Qín Chá" (琴茶): "琴里知闻唯渌水，茶中故旧是蒙山" — "In music I know only the Green Waters; in tea, my old friend is Měng Mountain." Měngdǐng Gān Lù was produced as imperial tribute tea (贡茶, gòngchá) from the Táng dynasty (618–907) onward, a tradition that continued until the late Qīng dynasty (19th century). The famous phrase "Tiān Xià Míng Shān (天下名山)" — "Famous Mountain of All Under Heaven" — refers in part to Měngdǐng.
 
-**TL;DR:** Tightly rolled needle-shaped green from Měngdǐng Mountain, Yǎ'ān, Sìchuān. One of China's oldest tea origins (Hàn dynasty documentation) and ten famous teas. Character: mellow sweetness, light floral (orchid-adjacent), delicate body, very low bitterness. Brew 75–80°C, 3–4 g per 100 ml, 20–30 s.
-
 ## Origin and history
 
 Měngdǐng Mountain sits at around 1,000–1,450 m elevation in the Qiónglái (邛崃山) mountain range. The mountain's high humidity (annual average 80–85%), cloud cover (up to 300 days per year), and acidic soils (pH 4.5–5.5) create growing conditions that have supported tea cultivation for over two thousand years. Yǎ'ān (雅安) is the rainiest city in China (annual precipitation up to 1,800 mm), contributing to the unique terroir.

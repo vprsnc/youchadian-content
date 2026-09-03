@@ -20,15 +20,11 @@ The most popular origin legend: a Míng dynasty scholar named Dīng Xiǎn (丁�
 
 The age of the original trees is debated: in 2008, Chinese botanists from Zhejiang University estimated 340–370 years, but temple records mention these bushes as early as the Southern Sòng dynasty (12th–13th centuries). Six surviving mother trees grow at approximately 600 m elevation in a sheltered cliff crevice above the "Heaven's Heart" terrace (九龙窠). In 2006, the People's Republic of China listed them as key national cultural relics.
 
-**TL;DR:** The name comes from a Míng dynasty legend involving a scholar named Dīng Xiǎn. Six surviving mother trees on a Wǔyí cliff are state-protected cultural relics; no commercial harvest has occurred since 2005.
-
 ## The Mother Trees
 
 The last commercial harvest from the six mother trees took place in 2005. The final crop was auctioned in Beijing: 20 grams sold for 208,000 RMB (approximately USD 25,000 at the time). The trees are no longer harvested commercially — all material is retained by the state for reserves and museums. In 2022, a tiny batch (50 g) was given to Tiān Xīn Temple for ritual brewing; none is sold to outsiders.
 
 Since the 1980s, cuttings have been propagated at the Wǔyí Academy of Tea Science (武夷山市茶叶科学研究所). This clonal material (无性繁殖) underwent molecular verification in 2002 — genetic analysis confirmed identity with the original trees. Authenticated single-clone descendants are sold as "纯种大红袍" (chúnzhǒng dà hóng páo, pure-strain big red robe). Annual production is no more than 500–800 kg, with all quantities sold through auctions and closed private sales.
-
-**TL;DR:** Six mother trees → state property since 2006. Clonal propagation since the 1980s produces authentic chúnzhǒng material in tiny quantities (≤ 1 ton/year). Genetic verification completed in 2002.
 
 ## What is commercial Dà Hóng Páo?
 
@@ -40,8 +36,6 @@ The categories in practice:
 - **Chúnzhǒng dà hóng páo (纯种大红袍)**: Certified single-clone from verified mother-tree descendants; rarest grade — from 800 RMB per 50 g and above.
 
 If-then quality rule: If the label says "大红袍" without specifying zhèng yán origin or chúnzhǒng cultivar → it is almost certainly a blend, which is not a defect — judge it on its own merits.
-
-**TL;DR:** Most commercial dà hóng páo is a ròuguì–shuǐxiān blend. Zhèng yán origin = core-zone material (Sānkēng Liǎngjiàn). Chúnzhǒng = verified mother-tree clone (< 1 ton/year). Both are legitimate; grade by origin and roast quality.
 
 ## Flavour Profile
 
@@ -72,8 +66,6 @@ Processing follows the classic yánchá sequence:
 7. **Charcoal roasting** (焙火): In bamboo baskets over red-hot charcoal — 2–4 cycles of 12–24 hours each, with 3–6 month resting periods between cycles. High-grade dà hóng páo may undergo up to 4 cycles before final sale.
 
 High-grade dà hóng páo may undergo 2–4 roasting cycles over months before final sale.
-
-**TL;DR:** 40–70% oxidation + multi-cycle charcoal roasting distinguishes yánchá from other oolongs. Lychee charcoal (荔枝炭) is preferred for its clean, even heat. For dà hóng páo, oxidation is pushed to 60–70%.
 
 ## How to brew Dà Hóng Páo
 

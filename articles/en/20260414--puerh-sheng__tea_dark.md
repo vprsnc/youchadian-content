@@ -22,8 +22,6 @@ The aging potential of shēng pǔ'ěr depends entirely on the base material bein
 
 **Sun-drying (shài qīng):** Temperature stays below 60°C — far below the heat that would kill residual enzymes and microorganisms. This is the critical difference from oven-dried (烘干 hōng gān) green tea. Oven-dried tea cannot age; the enzymes are dead. Sun-dried pǔ'ěr carries the biological potential for decades of transformation in every cell.
 
-**TL;DR:** Shēng ages because sun-drying (< 60°C) preserves residual enzymes and microorganisms. Oven-drying kills them. This single processing decision is the difference between a tea that ages for 30 years and one that goes stale in 18 months.
-
 ## Compression and Aging Mechanics
 
 Pressing serves multiple functions. The traditional rationale — portability for the Tea Horse Road trade — was practical. But compression also creates a micro-environment inside the cake:
@@ -60,8 +58,6 @@ Four mechanisms operate simultaneously, with different relative weights across t
 **4. Maillard reactions (美拉德反应):** Sugars + amino acids → brown pigments and complex aroma compounds including earthy, nutty, and roasted notes. Accelerates with temperature and age. Drives the "aged" aromatic profile in 15+ year cakes.
 
 **Net result over time:** catechins ↓, bitterness ↓, astringency ↓ → theabrownins ↑, simple sugars ↑ → body ↑, sweetness ↑, huígān ↑, complexity ↑.
-
-**TL;DR:** Four mechanisms: enzymatic oxidation (dominant 0–10 yr), microbial succession (*Aspergillus niger* early, bacterial succession later), non-enzymatic oxidation (polyphenols → theabrownins), and Maillard reactions (accelerate with age). All four operate simultaneously; their relative weights shift across the 25+ year arc.
 
 ## Dry Storage vs Wet Storage
 

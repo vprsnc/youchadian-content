@@ -32,8 +32,6 @@ Xiǎo yè zǐtán is graded primarily by grain fineness and the presence and den
 | Gold star | 金星纹 jīnxīng wén | Tree resin fills the vessels and oxidises over time, forming golden-yellow spots that appear as stars scattered across the surface. The resin sits flush with the wood's exterior — not sunken. High grade |
 | Full sky stars | 满天星 mǎntiānxīng | Maximum gold star density covering the entire surface. The rarest and most prized grain type; the stars are distributed evenly with no plain areas |
 
-**TL;DR:** Four grades from open-pore (棕眼) to all-over gold-star (满天星). Gold stars form from oxidised tree resin in the vessels — they are a natural feature of old-growth high-density material, not a defect or addition. Cow hair grain (牛毛纹) requires very slow growth with densely compressed vessels — fine S-curved lines visible to the naked eye. Pore size in quality xiǎo yè measures 0.1–0.3 mm, compared to up to 0.8 mm in dà yè.
-
 ## Colour and Patina
 
 Fresh xiǎo yè zǐtán heartwood is a deep reddish-purple. It darkens significantly with handling: skin oils are absorbed into the dense wood, accelerating oxidation and deepening the colour toward purple-black. A well-worn bracelet develops a near-black surface with a rich inner glow (润 rùn) visible under light — the grain becomes more vivid, and the gold stars intensify in contrast against the darkened ground.

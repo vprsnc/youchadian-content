@@ -41,8 +41,6 @@ Recommended volumes:
 - **100–120 ml** — for solo sessions (yánchá, dān cōng, and pǔ'ěr are typically brewed in these volumes)
 - **150–200 ml** — for two to three people; suitable for lighter green and white teas
 
-**TL;DR:** Three pieces: bowl + lid + saucer. Porcelain is non-porous — neutral for all tea types. Pre-warm before brewing. Lid-gap angle controls flow and filters leaves. Pour completely between steeps — over-extraction starts instantly. A chipped rim means replace: the pour angle is compromised.
-
 ## Why porcelain rather than yíxīng?
 
 Porcelain is non-porous and adds no flavour from previous sessions. The same gàiwǎn can brew silver needle (yín zhēn 银针) in the morning and a heavy roasted oolong (bèi huǒ wūlóng 焙火乌龙) in the afternoon without cross-contamination. A yíxīng teapot (zǐ shā hú 紫砂壶), made from zǐshā clay, "remembers" the tea — it is dedicated to one specific tea, and using it for another would blend flavours. The choice depends on intent: a gàiwǎn delivers purity, while yíxīng clay adds depth and smoothing.

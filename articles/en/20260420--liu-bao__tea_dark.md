@@ -13,8 +13,6 @@ Liù Bǎo (六堡, "Six Forts") is a post-fermented dark tea (黑茶 hēichá) f
 
 Unlike the compressed bricks of Yúnnán puerh or the heavy fermented styles of Húnán, Liù Bǎo is typically loose or basket-stored — kept in large bamboo baskets lined with bamboo leaves, where it continues to age slowly in the humid Guǎngxī climate. The result is a smooth, woody, slightly earthy tea with a character distinct from both puerh and Húnán dark teas.
 
-**TL;DR:** Post-fermented dark tea from Wúzhōu, Guǎngxī. Stored loose in bamboo baskets, improves with age. Smooth, woody, mildly earthy character — distinct from puerh and Húnán hēichá. Strong connection to overseas Chinese communities in Southeast Asia. Brew 90–95°C, 5–7 g per 100 ml.
-
 ## History and the overseas connection
 
 Liù Bǎo's history is inseparable from the Chinese diaspora in Southeast Asia. From the 19th century through the mid-20th century, Hakka (客家 Kèjiā) labourers from Guǎngxī and Guǎngdōng emigrated in large numbers to work in Malaysian tin mines and Singaporean trading houses. They brought Liù Bǎo with them — partly for the taste of home, and partly because the tea was believed to help with the physical demands of mine work and to counteract the effects of tropical heat and humidity.

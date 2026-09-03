@@ -98,5 +98,3 @@ Look for tightly twisted dark strips, few broken pieces, and the Qímén bouquet
 
 **What should Keemun cost?**
 Everyday Gōngfū grade: ¥200–500/500g. Good Máo Fēng or 1st-grade: ¥500–1,000/500g. Premium Háo Yá A/B: ¥1,000–2,500/500g. Keemun below ¥80–100/500g is almost certainly blended with non-Qímén material. The labour-intensive gōngfū processing and protected-origin production area mean genuine Keemun has a real price floor.
-
-**TL;DR:** Qímén hóngchá (祁门红茶, Keemun) — a red tea from Qímén county, Huángshān, Ānhuī. Produced since 1875 (Yú Gànchén / Hú Yuánlóng). Cultivar zhūyè zhǒng (槠叶种, oak-leaf variety) — the main source of Qímén aroma (祁门香): orchid + dried stone fruit + slight smokiness + cocoa undertone. Oxidation: carefully controlled 3–5 hours. Grades: Háo Yá (bud, premium) → Máo Fēng → Gōngfū → Suì Chá. Victorian-era British buyers called it "the burgundy of teas." Brew at 90–95°C, without milk.

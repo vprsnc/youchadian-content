@@ -62,8 +62,6 @@ One of the most refined classical forms. Aromatic powder is pressed into pattern
 
 Zhuànxiāng was a central practice of Sòng-dynasty literati incense culture (10th–13th centuries). According to the *Xiāng Chéng* 《香乘》 (Zhōu Jiāzhòu, 1641), seal-burning patterns were designed to track time — elaborate patterns burned for precisely an hour, two hours, or a full day, and functioned as incense clocks (香钟 xiāng zhōng) in studies and monasteries. During the Táng dynasty (7th–9th centuries) simple powder patterns already existed, but the stamped form with metal moulds spread only in the Sòng period.
 
-**TL;DR:** Seal incense (篆香) = aromatic powder pressed into trail pattern on ash bed, lit at one end. Patterns can be characters, flowers, or geometric. Used in Song dynasty as incense clocks. Requires fine quality powder — sandalwood or agarwood base — for clean trail burning.
-
 ## Indirect heat burning (隔火熏香 gé huǒ xūn xiāng)
 
 The classical method for high-grade aromatic materials — chénxiāng and tánxiāng chips especially — that produces the finest fragrance experience. No direct flame.

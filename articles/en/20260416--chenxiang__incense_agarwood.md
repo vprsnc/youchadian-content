@@ -17,8 +17,6 @@ Chénxiāng (沉香, "sinking fragrance") is the resin-saturated heartwood produ
 
 Formation can take decades. Some pieces derive from trees that fell naturally and were resin-saturated over a century or more in forest soil (熟结 shú jié, "mature formation"). Other pieces are cut from living trees (生结 shēng jié, "living formation"). In contemporary plantation cultivation, growers artificially wound trees — by drilling or cutting — to trigger resin production. This accelerates formation but typically produces lower density and less complex fragrance than wild material. Another type is "虫漏" (chóng lòu, "insect-hole"), where the wound is caused by insects.
 
-**TL;DR:** Resin only forms after wounding; no wound = no agarwood. Wild formation takes decades to centuries. Plantation-induced formation typically yields lower grades. *Aquilaria sinensis* (Hǎinán/Guangdong) and *A. crassna* (Vietnam) are the most prized species for the Chinese market.
-
 ## What are the grades of chénxiāng?
 
 ### Water-sinking grades
@@ -51,8 +49,6 @@ Qínán (奇楠, also written 琪楠; Japanese: kyara 伽羅) is not a grade of 
 | Price premium | — | 10–100× regular sinking grade; at auction, up to $300,000/kg |
 
 Classical Chinese sources note qínán must form in a living tree — it is not found in fallen timber. Hǎinán (Jiànfēnglǐng village, Lèdōng county) and central Vietnam (Khánh Hòa province, Nha Trang coast) are the historically recognised sources. Genuine wild qínán is now vanishingly rare; most market "qínán" is premium chénxiāng misrepresented.
-
-**TL;DR:** Sinking grade = baseline quality. Qínán = entirely separate category above regular grades — soft, waxy, multi-toned fragrance. Genuine wild qínán is museum-rarity material; most market "qínán" is premium chénxiāng misrepresented.
 
 ## Where does the best chénxiāng come from?
 

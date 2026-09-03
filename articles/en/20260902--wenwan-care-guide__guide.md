@@ -15,8 +15,6 @@ This guide is assembled from Chinese sources — collector forums, dealers, spec
 
 Why do this at all — the culture of wenwan, slowness, and the object you finish yourself — is covered separately: [The thing you cannot buy ready-made](/blog/en/wenwan-culture-grow-your-own).
 
-**TL;DR:** it comes down to two questions. Does the material supply its own oil, or does the oil come off your hands? And do you want it to darken? Answer both and the method follows.
-
 ## What this covers
 
 **Wenwan (文玩, wénwán)** in its modern sense means objects worn on the body or held in the hand and deliberately worked with over time. The term used to be broader — the scholar's playthings: brush pots, inkstones, seals, the 文房四宝 of the writing desk. Today, when someone says 文玩 they almost certainly mean 文玩手串 (wénwán shǒuchuàn): strands, single beads, something carried in a pocket and 盘'd.

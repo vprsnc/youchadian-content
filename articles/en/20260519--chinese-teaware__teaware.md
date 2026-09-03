@@ -39,8 +39,6 @@ The gaiwan (盖碗 gàiwǎn) is three pieces in one: a saucer (托 tuō), a bowl
 
 It appeared in the Ming dynasty. The lid controls the degree of pressing: press it tighter for a stronger infusion. The neutral material (usually porcelain or glass) means a gaiwan suits any tea. The only drawback: you need to learn how to hold it without burning your fingers.
 
-TL;DR: Gaiwan is a universal tool for the adventurous. Yixing is for those ready to dedicate a pot to a single tea.
-
 ## Fairness Pitcher (公道杯 gōngdào bēi / 茶海 cháhǎi)
 
 The fairness pitcher (公道杯 gōngdào bēi) is a vessel into which you pour the tea from the teapot or gaiwan after each infusion. It equalises concentration: the first infusion is always weaker, the last one stronger. Poured into the gongdaobei, everyone gets the same brew.
@@ -105,8 +103,6 @@ In the past, tea water was heated on a charcoal stove (风炉 fēnglú). Today, 
 - **Chajin (茶巾 chájīn)** — tea cloth. Made of cotton or linen. Wipe drips off the tray, set under cups. Important: do not wring it out over the tray — droplets will land on the tea.
 - **Chalü (茶滤 chálǜ)** — strainer. Placed on the fairness pitcher to catch dust and small leaf fragments so they do not end up in the cup. Purists skip it: they believe the mesh strips out tea oils — and with them, aroma.
 - **Chachong (茶宠 cháchǒng)** — tea pet: a clay figurine (toad, lion, piglet). Poured over with leftover tea — over time it develops a patina (a noble sheen). Popular in Guangdong and Taiwan. See [Tea Pets](/wiki/tea-pets) for more.
-
-TL;DR: Yixing is not for beginners. Gaiwan is neutral. A fairness pitcher is essential. Cup shape affects temperature and aroma. The six gentlemen are the minimum.
 
 ## Regional Sets
 
