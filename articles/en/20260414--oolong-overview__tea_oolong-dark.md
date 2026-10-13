@@ -22,8 +22,6 @@ What unifies oolongs across their enormous range is the processing method — sp
 
 After zuòqīng, the leaf is heat-fixed (杀青 shāqīng) to halt oxidation, then rolled and dried. Many oolongs undergo charcoal or electric roasting (焙火 bèihuǒ) as a final step — a major flavour variable that can transform a lighter tea into a roasted, complex one. In Wǔyí Shān, traditional roasting is 炭焙 (tànbèi), charcoal roasting over a slow fire, which can last from several hours to several days with breaks.
 
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/oolong-overview.html" width="100%" height="520" style="border:none;border-radius:12px;" loading="lazy" title="How Oolong Tea Is Made"></iframe>
-
 ## The Four Major Regions
 
 ### 闽北 Mǐnběi — Northern Fújiàn

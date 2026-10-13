@@ -66,12 +66,6 @@ A brief overview of key shapes:
 - **Mati bei (马蹄杯 mǎtí bēi)** — horse-hoof shape. A classic.
 - **Gaozu bei (高足杯 gāozú bēi)** — pedestal cup. Ceremonial, for white and green tea.
 
-## Visual Reference — 35 Chinese Tea Cup Shapes
-
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0;">
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups.html" width="1100" height="820" style="border:none;border-radius:12px;display:block;" title="35 Chinese Tea Cup Shapes" loading="lazy"></iframe>
-</div>
-
 ## Tea Tray (茶盘 chápán) and Tea Boat (茶船 cháchuan)
 
 The tea tray (茶盘 chápán) is the working surface of the ceremony. Made from bamboo, stone, or wood. Its key property: it collects spilled water. In the 20th century, Taiwan added a drainage channel — water flows into a catch basin or a hose.

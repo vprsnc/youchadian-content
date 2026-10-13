@@ -66,12 +66,6 @@
 - **马蹄杯 (mǎtí bēi)** — форма лошадиного копыта. Классика.
 - **高足杯 (gāozú bēi)** — на ножке. Парадная, для белого и зелёного.
 
-## Визуальный справочник — 35 форм китайских чашек
-
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0;">
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups-ru.html" width="1100" height="820" style="border:none;border-radius:12px;display:block;" title="35 форм китайских чайных чашек" loading="lazy"></iframe>
-</div>
-
 ## Чайный поднос (茶盘 chápán) и подставка (茶船 cháchuan)
 
 Чайный поднос (茶盘 chápán) — рабочая поверхность церемонии. Делают из бамбука, камня, дерева. Главное свойство — собирает пролитую воду. Тайвань в XX веке добавил слив: вода уходит в поддон или шланг.
