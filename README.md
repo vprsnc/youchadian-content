@@ -2,8 +2,7 @@
 
 Wiki articles and blog posts for 又一家茶店. Pushing to `master` triggers the
 main repo's `sync-content.yml`, which copies `articles/` and `blog/` into the app
-and runs the importers. Nothing else in this repo reaches the site, except
-`infographics/`, which is uploaded separately.
+and runs the importers. Nothing else in this repo reaches the site.
 
 ## Layout
 
