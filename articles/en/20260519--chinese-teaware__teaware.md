@@ -2,7 +2,7 @@
 :article/title "Teaware for Gongfu Cha (功夫茶具) — A Complete Overview"
 :article/tags ["teaware" "gongfu-cha" "yixing" "gaiwan" "fairness-pitcher" "tea-cups"]
 :article/category :teaware
-:article/description "A thorough breakdown of gongfu cha teaware: Yixing teapot, gaiwan, fairness pitcher, 35 cup shapes, tea tray, electric kettle, the six gentlemen of tea. Differences between Chaozhou, Minnan, and modern sets."
+:article/description "A thorough breakdown of gongfu cha teaware: Yixing teapot, gaiwan, fairness pitcher, key cup shapes, tea tray, electric kettle, the six gentlemen of tea. Differences between Chaozhou, Minnan, and modern sets."
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gongfu_cha_tea_set.jpg/1280px-Gongfu_cha_tea_set.jpg"
 :page/body
 
