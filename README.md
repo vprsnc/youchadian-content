@@ -1,20 +1,22 @@
 # youchadian-content
 
-Wiki articles and blog posts for 又一家茶店. Nothing is hosted: the main
-repo imports `articles/` and `blog/` into a local app with
-`CONTENT_DIR=../youchadian-content clj -M:wiki-import` (or `:blog-import`). Nothing else in this repo reaches the site, except
-`infographics/`, which is uploaded separately.
+Wiki articles, blog posts and photos for 又一家茶店. Nothing is hosted: the
+app in `../youchadian-next` reads this directory at runtime (`CONTENT_DIR`,
+default `../youchadian-content`). There is no import step: a saved file shows
+on the next page load.
 
 ## Layout
 
 ```
 articles/{locale}/{YYYYMMDD}--{slug}__{category}_{type}.md   ← wiki
 blog/{locale}/{YYYYMMDD}--{slug}.md                          ← blog
+images/{wiki,blog,products}/<slug>/<file>                    ← photos
 ```
 
 Locales: `en/` `ru/` `bg/`, one file per locale. RU is written first and EN/BG
 are derived from it. The date in the filename is the publication date, and the
-slug is the URL slug (untoned pinyin, e.g. `rougui`).
+slug is the URL slug (untoned pinyin, e.g. `rougui`). A blog post's RU file
+uses the EN slug.
 
 ## Frontmatter
 
@@ -27,7 +29,7 @@ EDN pairs, then `:page/body` on its own line, then markdown.
 :article/category :tea
 :article/type :oolong-dark
 :article/description "SEO one-liner"
-:article/hero-image "img:01-hero"
+:article/hero-image "01-hero.jpg"
 :page/body
 
 # Ròuguì (肉桂) — Cinnamon Rock Oolong
@@ -36,52 +38,43 @@ EDN pairs, then `:page/body` on its own line, then markdown.
 Blog: `:blogpost/title`, `:blogpost/tags`, optional `:blogpost/hero-image`,
 then `:page/body`.
 
-## Images: `img:` names, never URLs
+## Images: relative file names, never URLs
 
-Photos live on Yandex Disk, one folder per slug:
-
-```
-disk:/content-images/<slug>/01-hero.jpg
-disk:/content-images/<slug>/02-leaves.heic
-```
-
-Markdown refers to them by file name without the extension:
+Photos are files, one folder per slug:
 
 ```
-:article/hero-image "img:01-hero"
-
-![Dry ròuguì leaves, long dark twisted strips](img:02-leaves)
+images/wiki/rougui/01-hero.jpg
+images/wiki/rougui/02-leaves.jpg
 ```
 
-- **Same `img:` name in every locale.** Only the alt text is translated, so one
+Markdown refers to them by file name, relative to that folder, so editor
+previews show the real photo:
+
+```
+:article/hero-image "01-hero.jpg"
+
+![Dry ròuguì leaves, long dark twisted strips](02-leaves.jpg)
+```
+
+- **Same file name in every locale.** Only the alt text is translated, so one
   photo serves RU, EN and BG.
-- **Hero:** if `:article/hero-image` / `:blogpost/hero-image` is left out, the
-  first file by name is used. Number files `01-…`, `02-…` to control that.
+- **Order:** file name order is display order. If `:article/hero-image` /
+  `:blogpost/hero-image` is left out, the first file is the hero. Number files
+  `01-…`, `02-…` to control that.
 - **Alt text** describes what the photo shows, in the file's language.
-- **Formats:** jpg, png, webp, heic, tif, avif. The server converts to WebP at
-  400/800/1600 and serves the right size per screen.
+- **Formats:** jpg, jpeg, png, webp — other files in the folder (heic, tif…)
+  are ignored; convert them first. The app converts to
+  WebP at 400/800/1600 on request, caches the result, and serves the right size
+  per screen.
+- **Product photos** go in `images/products/<slug>/`, normally via the upload on
+  the admin product page.
+- **`images/` is gitignored** — photos are not in this repo's history.
 
-### Publishing photos
-
-1. New slug? On `/admin/content-images`, click **Create missing folders**. The
-   slug must already be imported, so push the article first.
-2. Drop photos into the folder from the Disk app or web.
-3. On `/admin/content-images`, click **Sync now** (all slugs or one).
-
-Photos show up on the next page load, with no content push needed: refs are
-resolved when the page renders. Re-shooting a photo under the same file name
-updates it in every locale at once. Re-syncing an unchanged photo costs
-nothing, and an empty folder never removes photos that were already published.
-
-### What happens when a photo is missing
-
-- The import still succeeds but prints
-  `WARN <slug>: not synced — img:02-leaves`. This is fine for drafts.
-- On the live site the image is left out. In local dev it shows a dashed
-  "missing image" box.
+A file name that isn't in the folder logs a warning; in dev the page shows a
+dashed "missing image" box, which is fine for drafts.
 
 ### Older content
 
-Plain `https://…` image URLs still work unchanged, so there is no need to
-migrate them. New content should use `img:`. The local `bb push-images` /
-`bb sync-images` tasks (which wrote S3 URLs into the markdown) are superseded.
+`img:<stem>` refs (from the retired Yandex Disk sync) still resolve, matched by
+file stem, and plain `https://…` URLs pass through unchanged — no need to
+migrate them. New content uses plain file names.
