@@ -2,7 +2,7 @@
 :article/title "Teaware for Gongfu Cha (功夫茶具) — A Complete Overview"
 :article/tags ["teaware" "gongfu-cha" "yixing" "gaiwan" "fairness-pitcher" "tea-cups"]
 :article/category :teaware
-:article/description "A thorough breakdown of gongfu cha teaware: Yixing teapot, gaiwan, fairness pitcher, 35 cup shapes, tea tray, electric kettle, the six gentlemen of tea. Differences between Chaozhou, Minnan, and modern sets."
+:article/description "A thorough breakdown of gongfu cha teaware: Yixing teapot, gaiwan, fairness pitcher, key cup shapes, tea tray, electric kettle, the six gentlemen of tea. Differences between Chaozhou, Minnan, and modern sets."
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gongfu_cha_tea_set.jpg/1280px-Gongfu_cha_tea_set.jpg"
 :page/body
 
@@ -65,12 +65,6 @@ A brief overview of key shapes:
 - **Yashou bei (压手杯 yāshǒu bēi)** — heavy base, straight walls. Holds heat well — for shou puer.
 - **Mati bei (马蹄杯 mǎtí bēi)** — horse-hoof shape. A classic.
 - **Gaozu bei (高足杯 gāozú bēi)** — pedestal cup. Ceremonial, for white and green tea.
-
-## Visual Reference — 35 Chinese Tea Cup Shapes
-
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0;">
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups.html" width="1100" height="820" style="border:none;border-radius:12px;display:block;" title="35 Chinese Tea Cup Shapes" loading="lazy"></iframe>
-</div>
 
 ## Tea Tray (茶盘 chápán) and Tea Boat (茶船 cháchuan)
 

@@ -2,7 +2,7 @@
 :article/title "Чайная посуда для гунфу ча (功夫茶具) — полный обзор"
 :article/tags ["чайная-посуда" "гунфу-ча" "исин" "гайвань" "чаша-справедливости" "чашки"]
 :article/category :teaware
-:article/description "Полный разбор посуды для гунфу ча: исинский чайник, гайвань, чаша справедливости, чашки 35 форм, поднос, электрочайник, шесть благородных мужей. Различия чаочжоуского, миньнаньского и современного наборов."
+:article/description "Полный разбор посуды для гунфу ча: исинский чайник, гайвань, чаша справедливости, основные формы чашек, поднос, электрочайник, шесть благородных мужей. Различия чаочжоуского, миньнаньского и современного наборов."
 :article/hero-image "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gongfu_cha_tea_set.jpg/1280px-Gongfu_cha_tea_set.jpg"
 :page/body
 
@@ -65,12 +65,6 @@
 - **压手杯 (yāshǒu bēi)** — тяжёлое дно, прямые стенки. Хорошо держит тепло — для шу пуэра.
 - **马蹄杯 (mǎtí bēi)** — форма лошадиного копыта. Классика.
 - **高足杯 (gāozú bēi)** — на ножке. Парадная, для белого и зелёного.
-
-## Визуальный справочник — 35 форм китайских чашек
-
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0;">
-<iframe src="https://storage.yandexcloud.net/youchadian-ru/infographics/tea-cups-ru.html" width="1100" height="820" style="border:none;border-radius:12px;display:block;" title="35 форм китайских чайных чашек" loading="lazy"></iframe>
-</div>
 
 ## Чайный поднос (茶盘 chápán) и подставка (茶船 cháchuan)
 
